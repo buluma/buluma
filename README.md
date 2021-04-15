@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/buluma) [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/) [![GitHub version](https://badge.fury.io/gh/buluma%2FStrapDown.js.svg)](https://github.com/buluma/StrapDown.js)
+![Profile views](https://gpvc.arturio.dev/buluma) [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/) [![GitHub version](https://badge.fury.io/gh/buluma%2FStrapDown.js.svg)](https://github.com/buluma/StrapDown.js) 
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=buluma&row=1)](https://github.com/buluma/buluma)
 
 <!--
 **buluma/buluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
