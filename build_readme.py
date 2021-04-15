@@ -25,7 +25,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 organization_graphql = """
-  organization(login: "dogsheep") {
+  organization(login: "buluma") {
     repositories(first: 100, privacy: PUBLIC) {
       pageInfo {
         hasNextPage
