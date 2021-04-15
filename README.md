@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://github.com/buluma) [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
+![Profile views](https://gpvc.arturio.dev/buluma) [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
 
 <!--
 **buluma/buluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
