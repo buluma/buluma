@@ -6,11 +6,9 @@
 
 ##Github Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=blue-green)](https://github.com/buluma/buluma)
+[![Buluma's github stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=blue-green)](https://github.com/buluma/buluma) [![Buluma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buluma&theme=blue-green)](https://github.com/buluma/buluma) [![Buluma's github streak](https://github-readme-streak-stats.herokuapp.com/?user=buluma&theme=blue-green)](https://github.com/buluma/buluma)
 
-[![Buluma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buluma&theme=blue-green)](https://github.com/buluma/buluma)
-
-[![Buluma's github streak](https://github-readme-streak-stats.herokuapp.com/?user=buluma&theme=blue-green)](https://github.com/buluma/buluma)
+[![Sparkline](https://stars.medv.io/buluma/badges.svg)](https://stars.medv.io/buluma/badges)
 
 <!--
 **buluma/buluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
