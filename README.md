@@ -8,6 +8,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=blue-green)](https://github.com/buluma/buluma)
 
+[![Buluma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buluma&theme=blue-green)](https://github.com/buluma/buluma)
+
 <!--
 **buluma/buluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
