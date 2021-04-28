@@ -2,20 +2,12 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+I'm Michael! I'm a **DevOps**, looking to solve **real-world problems**:earth_africa:. I'm passionate about making **open-source** more accessible, creating software and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 
 <!-- Your badges -->
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Behance](https://img.shields.io/badge/-joykishan_sharma-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/JoykishanSharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
-[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma/pens/public)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 
 <!-- Profile View Count and GitStats -->
+![Profile views](https://gpvc.arturio.dev/buluma)
 [![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/buluma)
 [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
 
@@ -41,9 +33,9 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/JoykishanSharma">
     <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api?username=buluma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Buluma's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
