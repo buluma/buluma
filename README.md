@@ -31,8 +31,8 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
+  <a href="https://gitstats.me/buluma">
+    <img width="460" height="auto" align="right" alt="buluma's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=buluma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Buluma's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluma&layout=compact" />
