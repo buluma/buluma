@@ -2,8 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/buluma) [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/) [![GitHub version](https://badge.fury.io/gh/buluma%2FStrapDown.js.svg)](https://github.com/buluma/StrapDown.js) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/buluma/badges)
 
-#Github Status
-
 [![Buluma's github streak](https://github-readme-streak-stats.herokuapp.com/?user=buluma&theme=blue-green)](https://github.com/buluma/buluma)
 
 <a href="https://github.com/buluma/github-readme-stats">
