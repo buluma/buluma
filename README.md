@@ -9,4 +9,4 @@ I like nerding-out, specifically around [Ansible](https://github.com/ansible/ans
 
 Always willing to help, love to learn new things.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma)](https://github.com/buluma/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma)](https://gitstats.me/buluma)
