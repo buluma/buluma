@@ -10,3 +10,7 @@ I like nerding-out, specifically around [Ansible](https://github.com/ansible/ans
 Always willing to learn new things.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma)](https://gitstats.me/buluma)
+
+<!-- ![Metrics](/github-metrics.svg) -->
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
