@@ -11,8 +11,8 @@ Always willing to learn new things.
 
 ### I Am
 
-![Metrics](/github-metrics.svg)
-<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
+<!-- ![Metrics](/github-metrics.svg) -->
+<img src="/github-metrics.svg" alt="Metrics" width="80%">
  
  ## Preview
 ![Buluma's GitHub stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true)
