@@ -1,4 +1,4 @@
-### Just another creative nerd
+## Just another creative nerd
 
 <!-- Profile View Count and GitStats -->
 ![Profile views](https://gpvc.arturio.dev/buluma)
@@ -9,8 +9,13 @@ I like nerding-out, specifically around [Ansible](https://github.com/ansible/ans
 
 Always willing to learn new things.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=buluma)](https://gitstats.me/buluma)
+### I Am
 
-<!-- ![Metrics](/github-metrics.svg) -->
+![Metrics](/github-metrics.svg)
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
+ 
+ ## Preview
+![Buluma's GitHub stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+## Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buluma&repo=ansible-role-bootstrap&theme=gotham)](https://github.com/buluma/ansible-role-bootstrap)
