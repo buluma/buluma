@@ -2,7 +2,7 @@
 
 <!-- Profile View Count and GitStats -->
 ![Profile views](https://gpvc.arturio.dev/buluma) <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 </a>
 [![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white&include_all_commits=true&count_private=true)](https://gitstats.me/buluma)
 [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
@@ -16,11 +16,8 @@ Always willing to learn new things.
 
 <!-- ![Metrics](/github-metrics.svg) -->
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
- 
- ## Preview
-![Buluma's GitHub stats](https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true)
 
-## Currently Working On
+## Favorites/Active Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buluma&repo=ansible-role-bootstrap&theme=gotham" />
 </a>
