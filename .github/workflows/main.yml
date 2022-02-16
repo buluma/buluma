@@ -89,5 +89,5 @@ jobs:
           repositories_batch: 150
           repositories_forks: yes
 
-      - name: slack - GitHub Actions Slack outro integration
-        uses: act10ns/slack@v1.5.0
+#       - name: slack - GitHub Actions Slack outro integration
+#         uses: act10ns/slack@v1.5.0
