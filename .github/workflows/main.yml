@@ -14,7 +14,7 @@ jobs:
       - uses: act10ns/slack@v1
         with:
           status: starting
-          channel: "#ansible"
+          channel: "#github"
           message: Starting Buluma Github pages build...
         if: always()
       - uses: lowlighter/metrics@latest
@@ -92,14 +92,11 @@ jobs:
           repositories: 150
           repositories_batch: 150
           repositories_forks: yes
-
-      - name: slack - GitHub Actions Slack outro integration
-        uses: act10ns/slack@v1.5.0
       
       - name: Slack Notification
         uses: act10ns/slack@v1
         with:
           status: "${{ job.status }}"
           steps: "${{ toJson(steps) }}"
-          channel: "#ansible"
+          channel: "#github"
         if: always()
