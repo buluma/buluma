@@ -714,13 +714,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 62.58899676375404%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">78%</span>
+                            <div class="bar" style="width: 62.893481717011134%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">79%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 17.411003236245953%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">22%</span>
+                            <div class="bar" style="width: 17.106518282988873%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">21%</span>
                         </div>
                     </div>
                 </section>
@@ -2271,7 +2271,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2022, 10:14:37 (timezone Africa/Nairobi) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 11:18:22 (timezone Africa/Nairobi) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
