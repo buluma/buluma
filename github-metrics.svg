@@ -2041,7 +2041,7 @@ Testing</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 5.57k out of 85m users</span>
+                                    <span class="gh">ranked 5.57k out of 86m users</span>
                                 </div>
                                 <div class="text">Published 529 public repositories</div>
                             </div>
@@ -2089,7 +2089,7 @@ Testing</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.42436687200549805 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2263,7 +2263,7 @@ Testing</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2022, 09:18:32 (timezone Africa/Nairobi) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 10:14:16 (timezone Africa/Nairobi) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
