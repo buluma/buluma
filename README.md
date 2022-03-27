@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system.
 - [buluma/crazy-max](https://github.com/buluma/crazy-max)
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [buluma/docker-buildx](https://github.com/buluma/docker-buildx) - Docker Setup Buildx Test
 - [buluma/k8s-wordsmith-demo](https://github.com/buluma/k8s-wordsmith-demo) - Wordsmith is the demo project shown at DockerCon EU 2017 and 2018.
-- [buluma/example-voting-app](https://github.com/buluma/example-voting-app) - A simple distributed application running across multiple Docker containers.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v0.1.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v0.1.1), today) - Install VictoriaMetrics on your system.
 - [buluma/docker-buildx](https://github.com/buluma/docker-buildx) ([0.1.0-alpha](https://github.com/buluma/docker-buildx/releases/tag/0.1.0-alpha), 1 day ago) - Docker Setup Buildx Test
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.4](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.4), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/docker-github-action-graphviz](https://github.com/buluma/docker-github-action-graphviz) ([0.1.0](https://github.com/buluma/docker-github-action-graphviz/releases/tag/0.1.0), 1 day ago) - The container to use in a GitHub action to create a png out of an Ansible requirements.yml.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.3](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.3), 2 days ago) - GitHub Action to set up Docker Buildx
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.6), 2 days ago) - Install and configure zabbix_web on your system.
 
 
