@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) ([1.0.12](https://github.com/buluma/ansible-role-gitlab/releases/tag/1.0.12), today) - Install and configure GitLab on your system.
 - [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) ([v0.1.2](https://github.com/buluma/ansible-role-victoriametrics_cluster/releases/tag/v0.1.2), today) - Ansible role for installing and configuring victoriametrics cluster
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.1), today) - Install VictoriaMetrics on your system.
 - [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([0.1.2](https://github.com/buluma/ansible-role-ca/releases/tag/0.1.2), today) - Install and configure a certificate authority on your system.
 - [buluma/docker-buildx](https://github.com/buluma/docker-buildx) ([0.1.0-alpha](https://github.com/buluma/docker-buildx/releases/tag/0.1.0-alpha), 1 day ago) - Docker Setup Buildx Test
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.4](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.4), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
