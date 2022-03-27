@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster
 - [buluma/auto-assign](https://github.com/buluma/auto-assign) - Automatically add reviewers/assignees to issues/PRs when issues/PRs are opened
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system.
 - [buluma/crazy-max](https://github.com/buluma/crazy-max)
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) - GitHub Action to set up Docker Buildx
-- [buluma/docker-buildx](https://github.com/buluma/docker-buildx) - Docker Setup Buildx Test
 
 #### 🚀 Latest releases I've contributed to
 
