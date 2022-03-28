@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
+- [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) - The purpose of this role is to restore objects to your system. (today)
 - [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
 - [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([1.0.6](https://github.com/buluma/ansible-role-vagrant/releases/tag/1.0.6), today) - Install vagrant on your system.
 - [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), today) - Install and configure a (co) turn server on your system.
 - [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), today) - Install and configure tomcat on your system.
-- [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.5](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.5), today) - The purpose of this role is to restore objects to your system.
 - [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), today) - Install and enable remi yum repositories on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.8](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.8), today) - Make openssl certificates.
+- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([1.0.7](https://github.com/buluma/ansible-role-openssh/releases/tag/1.0.7), today) - Install and configure openssh on your system.
 
 
