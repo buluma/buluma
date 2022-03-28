@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (1 day ago)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 day ago)
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (1 day ago)
-- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (2 days ago)
-- [buluma/docker-buildx](https://github.com/buluma/docker-buildx) - Docker Setup Buildx Test (2 days ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
+- [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) ([1.0.12](https://github.com/buluma/ansible-role-gitlab/releases/tag/1.0.12), 1 day ago) - Install and configure GitLab on your system.
-- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) ([v0.1.2](https://github.com/buluma/ansible-role-victoriametrics_cluster/releases/tag/v0.1.2), 1 day ago) - Ansible role for installing and configuring victoriametrics cluster
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.1), 1 day ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([0.1.2](https://github.com/buluma/ansible-role-ca/releases/tag/0.1.2), 1 day ago) - Install and configure a certificate authority on your system.
-- [buluma/docker-buildx](https://github.com/buluma/docker-buildx) ([0.1.0-alpha](https://github.com/buluma/docker-buildx/releases/tag/0.1.0-alpha), 2 days ago) - Docker Setup Buildx Test
+- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([1.0.6](https://github.com/buluma/ansible-role-vagrant/releases/tag/1.0.6), today) - Install vagrant on your system.
+- [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), today) - Install and configure a (co) turn server on your system.
+- [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), today) - Install and configure tomcat on your system.
+- [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.5](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.5), today) - The purpose of this role is to restore objects to your system.
+- [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), today) - Install and enable remi yum repositories on your system.
 
 
