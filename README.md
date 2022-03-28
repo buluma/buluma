@@ -30,9 +30,9 @@ Always willing to learn new things.
 #### 🚀 Latest releases I've contributed to
 
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v2.0.7](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v2.0.7), today) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-cve_2022-23307](https://github.com/buluma/ansible-role-cve_2022-23307) ([v0.1.0](https://github.com/buluma/ansible-role-cve_2022-23307/releases/tag/v0.1.0), today) - Check and report for cve_2022_23307 (log4shell) on your system.
 - [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), today) - Install and configure a (co) turn server on your system.
 - [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), today) - Install and configure tomcat on your system.
 - [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), today) - Install and enable remi yum repositories on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.8](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.8), today) - Make openssl certificates.
 
 
