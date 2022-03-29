@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/shadownet](https://github.com/buluma/shadownet) - ShadowNet
 - [buluma/issue-action](https://github.com/buluma/issue-action) - Github action for automatically adding label or setting assignee when a new Issue or PR is opened.
 - [buluma/ansible-role-grafana](https://github.com/buluma/ansible-role-grafana) - Install and configure grafana on your system
 - [buluma/ansible-role-cve_2022-23307](https://github.com/buluma/ansible-role-cve_2022-23307) - Check and report for cve_2022_23307 (log4shell) on your system.
 - [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster
-- [buluma/auto-assign](https://github.com/buluma/auto-assign) - Automatically add reviewers/assignees to issues/PRs when issues/PRs are opened
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.2](https://github.com/buluma/pre-commit/releases/tag/v1.0.2), today) - Pre commit hooks for easier development.
 - [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), 1 day ago) - Install and configure a (co) turn server on your system.
 - [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), 1 day ago) - Install and configure tomcat on your system.
 - [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), 1 day ago) - Install and enable remi yum repositories on your system.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.8](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.8), 1 day ago) - Make openssl certificates.
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([1.0.7](https://github.com/buluma/ansible-role-openssh/releases/tag/1.0.7), 1 day ago) - Install and configure openssh on your system.
 
 
