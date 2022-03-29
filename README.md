@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/docker-github-action-galaxy](https://github.com/buluma/docker-github-action-galaxy) - A container that is used for GitHub actions galaxy (today)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
-- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (today)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
