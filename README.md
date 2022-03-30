@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v2.0.8](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v2.0.8), today) - Prepare your system to be managed by Ansible.
 - [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) ([v0.1.3](https://github.com/buluma/ansible-role-victoriametrics_cluster/releases/tag/v0.1.3), 1 day ago) - Ansible role for installing and configuring victoriametrics cluster
 - [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.2](https://github.com/buluma/pre-commit/releases/tag/v1.0.2), 1 day ago) - Pre commit hooks for easier development.
 - [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), 2 days ago) - Install and configure a (co) turn server on your system.
 - [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), 2 days ago) - Install and configure tomcat on your system.
-- [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), 2 days ago) - Install and enable remi yum repositories on your system.
 
 
