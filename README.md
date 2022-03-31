@@ -14,8 +14,8 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
+- [buluma/docker-github-action-galaxy](https://github.com/buluma/docker-github-action-galaxy) - A container that is used for GitHub actions galaxy (today)
 - [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
 - [buluma/ansible-role-apache-php-fpm](https://github.com/buluma/ansible-role-apache-php-fpm) - Configure Apache 2.4&#43; PHP-FPM support for Linux (today)
 
