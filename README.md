@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-influxdb](https://github.com/buluma/ansible-role-influxdb) - Install and configure influxdb on your system.
 - [buluma/shadownet](https://github.com/buluma/shadownet) - ShadowNet
 - [buluma/issue-action](https://github.com/buluma/issue-action) - Github action for automatically adding label or setting assignee when a new Issue or PR is opened.
 - [buluma/ansible-role-grafana](https://github.com/buluma/ansible-role-grafana) - Install and configure grafana on your system
 - [buluma/ansible-role-cve_2022-23307](https://github.com/buluma/ansible-role-cve_2022-23307) - Check and report for cve_2022_23307 (log4shell) on your system.
-- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster
 
 #### 🚀 Latest releases I've contributed to
 
