@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
-- [buluma/cordova-builder-master](https://github.com/buluma/cordova-builder-master) -  (1 day ago)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (2 days ago)
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (2 days ago)
-- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu. (2 days ago)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
+- [buluma/ansible-role-apache-php-fpm](https://github.com/buluma/ansible-role-apache-php-fpm) - Configure Apache 2.4&#43; PHP-FPM support for Linux (today)
 
 #### 👨‍💻 Repositories I created recently
 
