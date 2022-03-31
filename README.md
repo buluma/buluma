@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v1.0.3](https://github.com/buluma/galaxy-action/releases/tag/v1.0.3), 1 day ago) - Publish Ansible roles to Galaxy
-- [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.2](https://github.com/buluma/pre-commit/releases/tag/v1.0.2), 2 days ago) - Pre commit hooks for easier development.
-- [buluma/ansible-role-turn](https://github.com/buluma/ansible-role-turn) ([1.0.6](https://github.com/buluma/ansible-role-turn/releases/tag/1.0.6), 3 days ago) - Install and configure a (co) turn server on your system.
-- [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) ([1.0.8](https://github.com/buluma/ansible-role-tomcat/releases/tag/1.0.8), 3 days ago) - Install and configure tomcat on your system.
-- [buluma/ansible-role-remi](https://github.com/buluma/ansible-role-remi) ([1.0.7](https://github.com/buluma/ansible-role-remi/releases/tag/1.0.7), 3 days ago) - Install and enable remi yum repositories on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.6), today) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/1.0.5), today) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.6), today) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.6](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.6), today) - Upgrade a package only if it is installed otherwise do nothing.
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) ([1.0.9](https://github.com/buluma/ansible-role-update_pip_packages/releases/tag/1.0.9), today) - Find and update pip packages.
 
 
