@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible.
 - [buluma/ansible-role-influxdb](https://github.com/buluma/ansible-role-influxdb) - Install and configure influxdb on your system.
 - [buluma/shadownet](https://github.com/buluma/shadownet) - ShadowNet
 - [buluma/issue-action](https://github.com/buluma/issue-action) - Github action for automatically adding label or setting assignee when a new Issue or PR is opened.
 - [buluma/ansible-role-grafana](https://github.com/buluma/ansible-role-grafana) - Install and configure grafana on your system
-- [buluma/ansible-role-cve_2022-23307](https://github.com/buluma/ansible-role-cve_2022-23307) - Check and report for cve_2022_23307 (log4shell) on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) ([v0.1.0](https://github.com/buluma/ansible-role-influxdb2/releases/tag/v0.1.0), today) - Install and configure InfluxDB 2.0 using Ansible.
 - [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) ([1.0.2](https://github.com/buluma/ansible-role-rundeck/releases/tag/1.0.2), 1 day ago) - Install and configure rundeck on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.6), 1 day ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/1.0.5), 1 day ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.6), 1 day ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.6](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.6), 1 day ago) - Upgrade a package only if it is installed otherwise do nothing.
 
 
