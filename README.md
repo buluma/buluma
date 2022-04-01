@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible.
 - [buluma/ansible-role-influxdb](https://github.com/buluma/ansible-role-influxdb) - Install and configure influxdb on your system.
 - [buluma/shadownet](https://github.com/buluma/shadownet) - ShadowNet
 - [buluma/issue-action](https://github.com/buluma/issue-action) - Github action for automatically adding label or setting assignee when a new Issue or PR is opened.
-- [buluma/ansible-role-grafana](https://github.com/buluma/ansible-role-grafana) - Install and configure grafana on your system
 
 #### 🚀 Latest releases I've contributed to
 
