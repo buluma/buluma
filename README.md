@@ -13,19 +13,19 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (today)
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
 - [buluma/ansible-role-apache-php-fpm](https://github.com/buluma/ansible-role-apache-php-fpm) - Configure Apache 2.4&#43; PHP-FPM support for Linux (today)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-icingaweb2](https://github.com/buluma/ansible-role-icingaweb2) - Install and configure Icinga Web 2
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible.
-- [buluma/ansible-role-influxdb](https://github.com/buluma/ansible-role-influxdb) - Install and configure influxdb on your system.
 
 #### 🚀 Latest releases I've contributed to
 
