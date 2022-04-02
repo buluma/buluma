@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-icingaweb2](https://github.com/buluma/ansible-role-icingaweb2) ([v0.1.1](https://github.com/buluma/ansible-role-icingaweb2/releases/tag/v0.1.1), today) - Install and configure Icinga Web 2
 - [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.1](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.1), today) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) ([1.0.2](https://github.com/buluma/ansible-role-rundeck/releases/tag/1.0.2), 2 days ago) - Install and configure rundeck on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.6), 2 days ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/1.0.5), 2 days ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.6), 2 days ago) - Install and configure zabbix_server on your system.
 
 
