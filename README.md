@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-homebrew](https://github.com/buluma/ansible-role-homebrew) - Install and configure homebrew on maOS
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache
 - [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-icingaweb2](https://github.com/buluma/ansible-role-icingaweb2) - Install and configure Icinga Web 2
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system.
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system.
 
 #### 🚀 Latest releases I've contributed to
 
