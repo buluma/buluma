@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) - Install and configure packer on your system.
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security
 - [buluma/ansible-role-homebrew](https://github.com/buluma/ansible-role-homebrew) - Install and configure homebrew on maOS
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) - Change package manager configuration to install docs and manpages.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), today) - Install and configure packer on your system.
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) ([1.0.15](https://github.com/buluma/ansible-role-gitlab/releases/tag/1.0.15), today) - Install and configure GitLab on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.6](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.6), 1 day ago) - Install and configure nginx on your system.
 - [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.5](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.5), 1 day ago) - Install and configure Docker (non-CE) on your system.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.2](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.2), 1 day ago) - Install and configure Telegraf on your system.
-- [buluma/ansible-role-icingaweb2](https://github.com/buluma/ansible-role-icingaweb2) ([v0.1.1](https://github.com/buluma/ansible-role-icingaweb2/releases/tag/v0.1.1), 1 day ago) - Install and configure Icinga Web 2
 
 
