@@ -14,25 +14,25 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
-- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu. (today)
 - [buluma/docker-rockylinux8-ansible](https://github.com/buluma/docker-rockylinux8-ansible) - Rocky Linux 8 Docker container for Ansible playbook and role testing. (today)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) - Install and configure xinetd on your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) - Install and configure roundcubemail on your system.
 - [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) - Install and configure packer on your system.
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security
-- [buluma/ansible-role-homebrew](https://github.com/buluma/ansible-role-homebrew) - Install and configure homebrew on maOS
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v0.1.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v0.1.0), today) - Install and configure xinetd on your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), today) - Install and configure roundcubemail on your system.
 - [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([1.0.9](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/1.0.9), today) - Install dependecies to support the Ansible core modules.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 1 day ago) - Install and configure packer on your system.
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) ([1.0.15](https://github.com/buluma/ansible-role-gitlab/releases/tag/1.0.15), 1 day ago) - Install and configure GitLab on your system.
-- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.6](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.6), 2 days ago) - Install and configure nginx on your system.
 
 
