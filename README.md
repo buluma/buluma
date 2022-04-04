@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) ([0.1.0](https://github.com/buluma/ansible-role-spamassassin/releases/tag/0.1.0), today) - Install and configure spamassassin on your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), today) - Install and configure roundcubemail on your system.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 1 day ago) - Install and configure packer on your system.
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) ([1.0.15](https://github.com/buluma/ansible-role-gitlab/releases/tag/1.0.15), 1 day ago) - Install and configure GitLab on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.6](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.6), 2 days ago) - Install and configure nginx on your system.
+- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.5](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.5), 2 days ago) - Install and configure Docker (non-CE) on your system.
 
 
