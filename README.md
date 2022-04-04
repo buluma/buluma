@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/docker-rockylinux8-ansible](https://github.com/buluma/docker-rockylinux8-ansible) - Rocky Linux 8 Docker container for Ansible playbook and role testing. (today)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 day ago)
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (2 days ago)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
