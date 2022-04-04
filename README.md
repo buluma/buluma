@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
-- [buluma/docker-rockylinux8-ansible](https://github.com/buluma/docker-rockylinux8-ansible) - Rocky Linux 8 Docker container for Ansible playbook and role testing. (today)
 - [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 day ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu. (today)
+- [buluma/docker-rockylinux8-ansible](https://github.com/buluma/docker-rockylinux8-ansible) - Rocky Linux 8 Docker container for Ansible playbook and role testing. (today)
 
 #### 👨‍💻 Repositories I created recently
 
