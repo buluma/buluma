@@ -29,7 +29,7 @@ jobs:
         name: Update Report
         with:
           key: code-size
-          value: ${{ steps.projectmetrics.outputs.code_size }}
+          value: ${{ env.code_size }}
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: ./
         name: Update Report for Files Count
