@@ -1,8 +1,8 @@
 {
-  "name": "repo-monitor-action",
+  "name": "buluma",
   "version": "1.8.0",
-  "repository": "https://github.com/buluma/repo-monitor-action.git",
-  "author": "Florian Richter <floririchte@gmail.com>",
+  "repository": "https://github.com/buluma/buluma.git",
+  "author": "Michael Buluma <bulumaknight@gmail.com>",
   "license": "Apache-2.0",
   "scripts": {
     "build": "tsc --project tsconfig.prod.json",
