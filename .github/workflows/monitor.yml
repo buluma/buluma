@@ -1,0 +1,27 @@
+name: Monitor CI
+on:
+  pull_request:
+  push:
+  schedule:
+    - cron: '35 * * * *'
+  workflow_dispatch:
+jobs:
+  release:
+    name: Build and deploy gh-pages site
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.3
+      - name: Calculate project metrics
+        id: projectmetrics
+        run: |
+          yarn
+          yarn build
+          SIZE=($(du -s dist/))
+          echo "::set-output name=code_size::$SIZE"
+      - uses: buluma/repo-monitor-action@0.1.2
+        name: Update Report
+        with:
+          key: code-size
+          value: ${{ steps.projectmetrics.outputs.code_size }}
+          token: ${{ secrets.GITHUB_TOKEN }}
