@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), today) - GitHub Profile Repo
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), today)
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), 1 day ago) - Install and configure roundcubemail on your system.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 2 days ago) - Install and configure packer on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.6](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.6), 3 days ago) - Install and configure nginx on your system.
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.5](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.5), 3 days ago) - Install and configure Docker (non-CE) on your system.
 
 

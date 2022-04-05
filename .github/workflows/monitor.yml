@@ -13,14 +13,33 @@ jobs:
         uses: actions/checkout@v2.3.3
       - name: Calculate project metrics
         id: projectmetrics
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
         run: |
           yarn
           yarn build
-          SIZE=($(du -s dist/))
-          echo "::set-output name=code_size::$SIZE"
+          yarn test
+          SRC_SIZE=($(du -s src/))
+          SRC_FILES_COUNT=($(find src -type f | wc -l))
+          STATEMENT_COV=($(cat coverage/coverage-summary.json | jq ".total.statements.pct"))
+          echo "::set-env name=code_size::$SRC_SIZE"
+          echo "::set-env name=code_files_count::$SRC_FILES_COUNT"
+          echo "::set-env name=statement-coverage::$STATEMENT_COV"
       - uses: buluma/repo-monitor-action@0.1.2
         name: Update Report
         with:
           key: code-size
-          value: ${{ steps.projectmetrics.outputs.code_size }}
+          value: ${{ env.code_size }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: ./
+        name: Update Report for Files Count
+        with:
+          key: files-count
+          value: ${{ env.code_files_count }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: ./
+        name: Update Report for Statement Coverage
+        with:
+          key: statement-coverage
+          value: ${{ env.statement-coverage }}
           token: ${{ secrets.GITHUB_TOKEN }}
