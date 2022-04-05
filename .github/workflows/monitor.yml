@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v2.3.3
       - name: Calculate project metrics
         id: projectmetrics
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
         run: |
           yarn
           yarn build
