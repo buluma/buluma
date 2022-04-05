@@ -1,9 +1,8 @@
 name: Monitor CI
 on:
-  pull_request:
   push:
-  schedule:
-    - cron: '35 * * * *'
+    branches:
+      - master
   workflow_dispatch:
 jobs:
   release:
