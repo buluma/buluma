@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (today)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (today)
 - [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (1 day ago)
-- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu. (1 day ago)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (1 day ago)
+- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), today)
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), 1 day ago) - Install and configure roundcubemail on your system.
 - [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 2 days ago) - Install and configure packer on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.6](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.6), 3 days ago) - Install and configure nginx on your system.
 - [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.5](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.5), 3 days ago) - Install and configure Docker (non-CE) on your system.
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.2](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.2), 3 days ago) - Install and configure Telegraf on your system.
 
 
