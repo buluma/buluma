@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems.
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action)
 - [buluma/uptime](https://github.com/buluma/uptime) - This repo uses Github Pages and Actions to monitor the Up times of different pages.
 - [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system.
 - [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system.
-- [buluma/ansible-role-rpmfusion](https://github.com/buluma/ansible-role-rpmfusion) - Install rpmfusion repositories on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([0.1.0](https://github.com/buluma/ansible-role-vector/releases/tag/0.1.0), today) - Install and configure Vector for debian systems.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), today) - GitHub Action to set up Docker Buildx
 - [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 1 day ago) - GitHub Profile Repo
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), 1 day ago)
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), 2 days ago) - Install and configure roundcubemail on your system.
-- [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 3 days ago) - Install and configure packer on your system.
 
 
