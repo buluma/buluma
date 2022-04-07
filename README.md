@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
 - [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.3), today) - Prepare your system to be managed by Ansible.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), 1 day ago) - GitHub Action to set up Docker Buildx
 - [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 2 days ago) - GitHub Profile Repo
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), 2 days ago)
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), 3 days ago) - Install and configure roundcubemail on your system.
-- [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.1.1](https://github.com/buluma/ansible-role-packer/releases/tag/v0.1.1), 4 days ago) - Install and configure packer on your system.
 
 
