@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.2](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.2), today) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.3), 2 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), 3 days ago) - GitHub Action to set up Docker Buildx
 - [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 4 days ago) - GitHub Profile Repo
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), 4 days ago)
-- [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.1](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.1), 5 days ago) - Install and configure roundcubemail on your system.
 
 
