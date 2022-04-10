@@ -15,8 +15,8 @@ Always willing to learn new things.
 
 - [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (today)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) - My collection of roles commonly used (today)
 
 #### 👨‍💻 Repositories I created recently
