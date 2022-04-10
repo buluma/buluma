@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.2](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.2), 1 day ago) - Install and configure Vector for debian systems.
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.3](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.3), today) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.3), 3 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), 4 days ago) - GitHub Action to set up Docker Buildx
 - [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 5 days ago) - GitHub Profile Repo
