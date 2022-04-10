@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (today)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
 - [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
-- [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (today)
-- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 day ago)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) - My collection of roles commonly used (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v1.9.8](https://github.com/buluma/ansible-collection-roles/releases/tag/v1.9.8), today) - My collection of roles commonly used
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.3](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.3), today) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.3), 3 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), 4 days ago) - GitHub Action to set up Docker Buildx
 - [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 5 days ago) - GitHub Profile Repo
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) ([0.1.2](https://github.com/buluma/repo-monitor-action/releases/tag/0.1.2), 5 days ago)
 
 
