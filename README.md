@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-sentry](https://github.com/buluma/ansible-role-sentry) - Install and configure Sentry on your system.
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems.
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action)
+- [buluma/uptime](https://github.com/buluma/uptime) - This repo uses Github Pages and Actions to monitor the Up times of different pages.
 
 #### 🚀 Latest releases I've contributed to
 
