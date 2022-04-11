@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-sentry](https://github.com/buluma/ansible-role-sentry) - Install and configure Sentry on your system.
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems.
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action)
-- [buluma/uptime](https://github.com/buluma/uptime) - This repo uses Github Pages and Actions to monitor the Up times of different pages.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v0.1.1](https://github.com/buluma/ansible-role-nfs/releases/tag/v0.1.1), today) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v1.9.8](https://github.com/buluma/ansible-collection-roles/releases/tag/v1.9.8), 1 day ago) - My collection of roles commonly used
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.3](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.3), 1 day ago) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.3), 4 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.4](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.4), 5 days ago) - GitHub Action to set up Docker Buildx
-- [buluma/buluma](https://github.com/buluma/buluma) ([0.1.0](https://github.com/buluma/buluma/releases/tag/0.1.0), 6 days ago) - GitHub Profile Repo
 
 
