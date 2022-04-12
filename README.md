@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
-- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (1 day ago)
-- [buluma/crazy-max](https://github.com/buluma/crazy-max) -  (1 day ago)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
 
 #### 👨‍💻 Repositories I created recently
 
