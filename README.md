@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
-- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 - [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.0.1](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.0.1), today) - Install buildtools on your system.
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([2.0.1](https://github.com/buluma/ansible-role-anaconda/releases/tag/2.0.1), today) - Install anaconda on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.7), today) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.2](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.2), today) - tune ext3 and ext4 filesystems using tune2fs.
 - [buluma/ansible-role-tftpd](https://github.com/buluma/ansible-role-tftpd) ([0.1.4](https://github.com/buluma/ansible-role-tftpd/releases/tag/0.1.4), today) - Install tfpd on your system.
+- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) ([v0.1.1](https://github.com/buluma/ansible-role-sensu/releases/tag/v0.1.1), today) - Install and configure Sensu on your system.
+- [buluma/ansible-role-scl](https://github.com/buluma/ansible-role-scl) ([0.1.1](https://github.com/buluma/ansible-role-scl/releases/tag/0.1.1), today) - Install SCL on your system.
 
 
