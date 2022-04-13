@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.6](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.6), today) - Install and configure Prometheus.
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.7](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.7), today) - Install and configure Prometheus.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.3](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.3), today) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.4](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.4), 1 day ago) - Manage apt repositor(y|ies).
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.7), 1 day ago) - Install and configure zabbix_web on your system.
