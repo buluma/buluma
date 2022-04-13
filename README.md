@@ -33,6 +33,6 @@ Always willing to learn new things.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.7), 1 day ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.2](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.2), 1 day ago) - tune ext3 and ext4 filesystems using tune2fs.
 - [buluma/ansible-role-tftpd](https://github.com/buluma/ansible-role-tftpd) ([0.1.4](https://github.com/buluma/ansible-role-tftpd/releases/tag/0.1.4), 1 day ago) - Install tfpd on your system.
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) ([v0.1.1](https://github.com/buluma/ansible-role-sensu/releases/tag/v0.1.1), 1 day ago) - Install and configure Sensu on your system.
+- [buluma/ansible-role-scl](https://github.com/buluma/ansible-role-scl) ([0.1.1](https://github.com/buluma/ansible-role-scl/releases/tag/0.1.1), 1 day ago) - Install SCL on your system.
 
 
