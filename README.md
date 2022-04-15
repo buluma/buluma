@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-desktop](https://github.com/buluma/ansible-role-desktop) - Install one of the many desktop environments.
+- [buluma/git-manager](https://github.com/buluma/git-manager) - A way to release roles on GitHub and wait for depending builds to succeed.
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system.
+- [buluma/ansible-role-unowned_files](https://github.com/buluma/ansible-role-unowned_files) - Install and configure unowned_files on your system.
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system.
-- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-sentry](https://github.com/buluma/ansible-role-sentry) - Install and configure Sentry on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems.
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action)
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), today) - Install and configure mediawiki on your system.
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.1](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.1), today) - Installs travis on your system.
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.7](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.7), 2 days ago) - Install and configure Prometheus.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.3](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.3), 2 days ago) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.4](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.4), 3 days ago) - Manage apt repositor(y|ies).
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.7), 3 days ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.2](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.2), 3 days ago) - tune ext3 and ext4 filesystems using tune2fs.
 
 
