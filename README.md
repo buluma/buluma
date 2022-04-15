@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-image_builder](https://github.com/buluma/ansible-role-image_builder) - Allow your system to use Lorax, the image builder.
 - [buluma/ansible-role-desktop](https://github.com/buluma/ansible-role-desktop) - Install one of the many desktop environments.
 - [buluma/git-manager](https://github.com/buluma/git-manager) - A way to release roles on GitHub and wait for depending builds to succeed.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system.
 - [buluma/ansible-role-unowned_files](https://github.com/buluma/ansible-role-unowned_files) - Install and configure unowned_files on your system.
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system.
 
 #### 🚀 Latest releases I've contributed to
 
