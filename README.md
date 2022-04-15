@@ -21,7 +21,7 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/ansible-role-image_builder](https://github.com/buluma/ansible-role-image_builder) - Allow your system to use Lorax, the image builder.
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-desktop](https://github.com/buluma/ansible-role-desktop) - Install one of the many desktop environments.
 - [buluma/git-manager](https://github.com/buluma/git-manager) - A way to release roles on GitHub and wait for depending builds to succeed.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system.
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-desktop](https://github.com/buluma/ansible-role-desktop) ([0.1.0](https://github.com/buluma/ansible-role-desktop/releases/tag/0.1.0), today) - Install one of the many desktop environments.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), today) - Install and configure mediawiki on your system.
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.1](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.1), today) - Installs travis on your system.
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.7](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.7), 2 days ago) - Install and configure Prometheus.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.3](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.3), 2 days ago) - Install and configure Telegraf on your system.
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.4](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.4), 3 days ago) - Manage apt repositor(y|ies).
 
 
