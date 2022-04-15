@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
-- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) - My collection of roles commonly used (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (2 days ago)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
