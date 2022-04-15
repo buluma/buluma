@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) - Install MATE on your system.
+- [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) - Install and configure jitsi on your system.
+- [buluma/ansible-role-hostname](https://github.com/buluma/ansible-role-hostname) - Install dependencies and configure the hostname on your system.
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-desktop](https://github.com/buluma/ansible-role-desktop) - Install one of the many desktop environments.
-- [buluma/git-manager](https://github.com/buluma/git-manager) - A way to release roles on GitHub and wait for depending builds to succeed.
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system.
-- [buluma/ansible-role-unowned_files](https://github.com/buluma/ansible-role-unowned_files) - Install and configure unowned_files on your system.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.0](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.0), today) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), today) - Install and configure mediawiki on your system.
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.1](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.1), today) - Installs travis on your system.
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.7](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.7), 2 days ago) - Install and configure Prometheus.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.3](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.3), 2 days ago) - Install and configure Telegraf on your system.
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.4](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.4), 3 days ago) - Manage apt repositor(y|ies).
 
 
