@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system.
 - [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system.
 - [buluma/ara-collection](https://github.com/buluma/ara-collection) - Opinionated collection of Ansible Ara roles.
 - [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type.
 - [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) - Install and configure Node RED on your system.
-- [buluma/ansible-role-lynis](https://github.com/buluma/ansible-role-lynis) - Install and configure lynis on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.1](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.1), today) - Install setuptools on your system.
 - [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.1](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.1), 1 day ago) - Install MATE on your system.
 - [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.1.1](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.1.1), 1 day ago) - Install and configure jitsi on your system.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), 1 day ago) - Install and configure mediawiki on your system.
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.1](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.1), 1 day ago) - Installs travis on your system.
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.7](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.7), 3 days ago) - Install and configure Prometheus.
 
 
