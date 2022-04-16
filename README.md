@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system.
+- [buluma/ara-collection](https://github.com/buluma/ara-collection) - Opinionated collection of Ansible Ara roles.
 - [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type.
 - [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) - Install and configure Node RED on your system.
 - [buluma/ansible-role-lynis](https://github.com/buluma/ansible-role-lynis) - Install and configure lynis on your system.
-- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules.
-- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) - Install the Elastic repository on your system.
 
 #### 🚀 Latest releases I've contributed to
 
