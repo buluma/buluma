@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system.
 - [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system.
 - [buluma/ara-collection](https://github.com/buluma/ara-collection) - Opinionated collection of Ansible Ara roles.
 - [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type.
-- [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) - Install and configure Node RED on your system.
 
 #### 🚀 Latest releases I've contributed to
 
