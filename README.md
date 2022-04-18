@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system.
 - [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) - Install and configure snmpd on your system.
 - [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) - Load modules.
 - [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) - Install obsproject on your system.
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation.
-- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) ([v0.1.1](https://github.com/buluma/ansible-role-snmpd/releases/tag/v0.1.1), today) - Install and configure snmpd on your system.
 - [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) ([v0.1.1](https://github.com/buluma/ansible-role-modprobe/releases/tag/v0.1.1), today) - Load modules.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.1](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.1), 2 days ago) - Install setuptools on your system.
 - [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.1](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.1), 3 days ago) - Install MATE on your system.
 - [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.1.1](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.1.1), 3 days ago) - Install and configure jitsi on your system.
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), 3 days ago) - Install and configure mediawiki on your system.
 
 
