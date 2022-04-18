@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) ([v0.1.1](https://github.com/buluma/ansible-role-obsproject/releases/tag/v0.1.1), today) - Install obsproject on your system.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.1](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.1), 2 days ago) - Install setuptools on your system.
 - [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.1](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.1), 3 days ago) - Install MATE on your system.
 - [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.1.1](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.1.1), 3 days ago) - Install and configure jitsi on your system.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.1.1](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.1.1), 3 days ago) - Install and configure mediawiki on your system.
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.1](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.1), 3 days ago) - Installs travis on your system.
 
 
