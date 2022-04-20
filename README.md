@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) - Install and configure systemd on your system.
 - [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system.
 - [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) - Install and configure snmpd on your system.
 - [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) - Load modules.
 - [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) - Install obsproject on your system.
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) ([0.1.0](https://github.com/buluma/ansible-role-systemd/releases/tag/0.1.0), today) - Install and configure systemd on your system.
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.1](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.1), 1 day ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) ([v0.1.1](https://github.com/buluma/ansible-role-snmpd/releases/tag/v0.1.1), 2 days ago) - Install and configure snmpd on your system.
 - [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) ([v0.1.1](https://github.com/buluma/ansible-role-modprobe/releases/tag/v0.1.1), 2 days ago) - Load modules.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.1](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.1), 4 days ago) - Install setuptools on your system.
-- [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.1](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.1), 5 days ago) - Install MATE on your system.
 
 
