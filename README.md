@@ -14,7 +14,7 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-tester](https://github.com/buluma/ansible-tester) - Test Ansible playbooks on Vagrant machines for troubleshooting. (today)
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) - Deploy a Collection to Ansible Galaxy. (1 day ago)
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) - Deploy a Collection to Ansible Galaxy. (today)
 - [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (3 days ago)
 - [buluma/ansible-role-apache-php-fpm](https://github.com/buluma/ansible-role-apache-php-fpm) - Configure Apache 2.4&#43; PHP-FPM support for Linux (4 days ago)
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (4 days ago)
