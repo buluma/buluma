@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) - Install rclone on your system.
 - [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system.
 - [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication.
 - [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) - Install and configure systemd on your system.
 - [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system.
-- [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) - Install and configure snmpd on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) ([v0.1.0](https://github.com/buluma/ansible-role-rclone/releases/tag/v0.1.0), today) - Install rclone on your system.
 - [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), today) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), today) - Install ansible-lint on your system.
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.3), today) - Enable or disable automatic starting of services upon installation of packages.
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.13](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.13), today) - Install and configure aide on your system.
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.1](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.1), 2 days ago) - Deploy a Collection to Ansible Galaxy.
 
 
