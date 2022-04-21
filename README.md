@@ -14,9 +14,9 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 - [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) - Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
 - [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.1](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.1), 2 days ago) - Deploy a Collection to Ansible Galaxy.
-- [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) ([v0.1.1](https://github.com/buluma/ansible-role-snmpd/releases/tag/v0.1.1), 3 days ago) - Install and configure snmpd on your system.
-- [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) ([v0.1.1](https://github.com/buluma/ansible-role-modprobe/releases/tag/v0.1.1), 3 days ago) - Load modules.
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.1](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.1), 5 days ago) - Install setuptools on your system.
-- [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.1](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.1), 6 days ago) - Install MATE on your system.
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.1](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.1), today) - Installs the Varnish HTTP Cache
+- [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), today) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), today) - Install ansible-lint on your system.
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.3), today) - Enable or disable automatic starting of services upon installation of packages.
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.13](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.13), today) - Install and configure aide on your system.
 
 
