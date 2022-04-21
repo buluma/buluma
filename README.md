@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system.
 - [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication.
 - [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) - Install and configure systemd on your system.
 - [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system.
 - [buluma/ansible-role-snmpd](https://github.com/buluma/ansible-role-snmpd) - Install and configure snmpd on your system.
-- [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) - Load modules.
 
 #### 🚀 Latest releases I've contributed to
 
