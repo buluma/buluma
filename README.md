@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
-- [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) - Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
+- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
+- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
 
 #### 👨‍💻 Repositories I created recently
 
