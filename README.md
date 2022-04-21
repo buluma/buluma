@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) ([v0.1.0](https://github.com/buluma/ansible-role-rclone/releases/tag/v0.1.0), today) - Install rclone on your system.
+- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) ([v0.1.1](https://github.com/buluma/ansible-role-rclone/releases/tag/v0.1.1), today) - Install rclone on your system.
 - [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), today) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), today) - Install ansible-lint on your system.
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.3), today) - Enable or disable automatic starting of services upon installation of packages.
