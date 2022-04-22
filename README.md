@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/docker-ubuntu2104-ansible](https://github.com/buluma/docker-ubuntu2104-ansible) - Ubuntu 21.04 (Hirsute Hippo) Docker container for Ansible playbook and role testing (today)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
 - [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (1 day ago)
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (1 day ago)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
