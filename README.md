@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system.
 - [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) - Install qemu.
 - [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) - Install and configure f5 module with ansible.
 - [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) - Install rclone on your system.
 - [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system.
-- [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication.
 
 #### 🚀 Latest releases I've contributed to
 
