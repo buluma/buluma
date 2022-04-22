@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
-- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
+- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (1 day ago)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (1 day ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 day ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
+- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), today) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), today) - Install ansible-lint on your system.
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.3), today) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.13](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.13), today) - Install and configure aide on your system.
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.1](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.1), 2 days ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), 1 day ago) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), 1 day ago) - Install ansible-lint on your system.
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.3), 1 day ago) - Enable or disable automatic starting of services upon installation of packages.
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.13](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.13), 1 day ago) - Install and configure aide on your system.
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.1](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.1), 3 days ago) - Deploy a Collection to Ansible Galaxy.
 
 
