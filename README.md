@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) - Install and configure f5 module with ansible.
 - [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) - Install rclone on your system.
 - [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system.
 - [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication.
 - [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) - Install and configure systemd on your system.
-- [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system.
 
 #### 🚀 Latest releases I've contributed to
 
