@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation.
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation.
 - [buluma/ansible-role-teams](https://github.com/buluma/ansible-role-teams) - Ansible Role for Microsoft Teams Installation.
 - [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system.
-- [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) - Install qemu.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), today) - Ansible Role for GitLab CE Installation.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.1](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.1), today) - Install and configure confluence on your system.
 - [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) ([0.1.1](https://github.com/buluma/ansible-role-qemu/releases/tag/0.1.1), today) - Install qemu.
 - [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) ([0.1.1](https://github.com/buluma/ansible-role-openjdk/releases/tag/0.1.1), today) - Install and configure OpenJDK on your system.
 - [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), 2 days ago) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.5), 2 days ago) - Install ansible-lint on your system.
 
 
