@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation.
 - [buluma/ansible-role-teams](https://github.com/buluma/ansible-role-teams) - Ansible Role for Microsoft Teams Installation.
 - [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system.
 - [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) - Install qemu.
-- [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) - Install and configure f5 module with ansible.
 
 #### 🚀 Latest releases I've contributed to
 
