@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.1](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.1), today) - Install and configure revealmd on your system.
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.5](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.5), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), today) - Ansible Role for GitLab CE Installation.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.1](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.1), today) - Install and configure confluence on your system.
 - [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) ([0.1.1](https://github.com/buluma/ansible-role-qemu/releases/tag/0.1.1), today) - Install qemu.
-- [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), 2 days ago) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
 
 
