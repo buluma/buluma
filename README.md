@@ -16,16 +16,16 @@ Always willing to learn new things.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) - Install and configure Podman on your system.
+- [buluma/ansible-role-rabbitvcs](https://github.com/buluma/ansible-role-rabbitvcs) - Install and configure rabbitvcs on your system.
 - [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) - Install and configure timezone on your systems.
 - [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation.
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation.
-- [buluma/ansible-role-teams](https://github.com/buluma/ansible-role-teams) - Ansible Role for Microsoft Teams Installation.
-- [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system.
 
 #### 🚀 Latest releases I've contributed to
 
