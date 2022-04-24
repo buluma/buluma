@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
+- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (1 day ago)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.1](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.1), today) - Install and configure revealmd on your system.
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.5](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.5), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), today) - Ansible Role for GitLab CE Installation.
-- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.1](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.1), today) - Install and configure confluence on your system.
-- [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) ([0.1.1](https://github.com/buluma/ansible-role-qemu/releases/tag/0.1.1), today) - Install qemu.
+- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.1](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.1), 1 day ago) - Install and configure revealmd on your system.
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.5](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.5), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), 1 day ago) - Ansible Role for GitLab CE Installation.
+- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.1](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.1), 1 day ago) - Install and configure confluence on your system.
+- [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) ([0.1.1](https://github.com/buluma/ansible-role-qemu/releases/tag/0.1.1), 1 day ago) - Install qemu.
 
 
