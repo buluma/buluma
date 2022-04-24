@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
 - [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) - The purpose of this role is to make backups of your system. (today)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.0.2](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.0.2), today) - Install buildtools on your system.
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.2](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.2), today) - Install Apache 2.x for Linux.
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.4](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.4), today) - Enable or disable automatic starting of services upon installation of packages.
 - [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.1](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.1), 1 day ago) - Install and configure revealmd on your system.
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.5](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.5), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), 1 day ago) - Ansible Role for GitLab CE Installation.
-- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.1](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.1), 1 day ago) - Install and configure confluence on your system.
-- [buluma/ansible-role-qemu](https://github.com/buluma/ansible-role-qemu) ([0.1.1](https://github.com/buluma/ansible-role-qemu/releases/tag/0.1.1), 1 day ago) - Install qemu.
 
 
