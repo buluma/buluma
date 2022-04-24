@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([0.1.5](https://github.com/buluma/ansible-role-ca/releases/tag/0.1.5), today) - Install and configure a certificate authority on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.5](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.5), today) - Manage apt repositor(y|ies).
 - [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) ([3.0.9](https://github.com/buluma/ansible-role-certbot/releases/tag/3.0.9), today) - Ansible Role - Certbot (for Let&#39;s Encrypt)
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) ([v2.4.3](https://github.com/buluma/ansible-role-haproxy/releases/tag/v2.4.3), today) - Install and configure haproxy on your system.
 - [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) ([1.0.6](https://github.com/buluma/ansible-role-hashicorp/releases/tag/1.0.6), today) - Install HashiCorp products using packages.
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.0](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.0), today) - Install atom on your system.
 
 
