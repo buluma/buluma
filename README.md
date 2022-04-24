@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (today)
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (1 day ago)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
