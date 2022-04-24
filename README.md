@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
 - [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (today)
 
 #### 👨‍💻 Repositories I created recently
 
