@@ -14,7 +14,7 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) - Install and configure investigation tools on your system. (today)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
@@ -31,8 +31,8 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) ([1.0.6](https://github.com/buluma/ansible-role-hashicorp/releases/tag/1.0.6), 1 day ago) - Install HashiCorp products using packages.
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.2](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.2), 1 day ago) - Install Apache 2.x for Linux.
-- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.1](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.1), 2 days ago) - Install and configure revealmd on your system.
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.5](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.5), 2 days ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.1), 2 days ago) - Ansible Role for GitLab CE Installation.
+- [buluma/ansible-role-elasticsearch_curator](https://github.com/buluma/ansible-role-elasticsearch_curator) ([2.1.6](https://github.com/buluma/ansible-role-elasticsearch_curator/releases/tag/2.1.6), 4 days ago) - Installs Elasticsearch Curator on RedHat/CentOS or Debian/Ubuntu.
 
 
