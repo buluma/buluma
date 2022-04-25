@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (today)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) - Simple SSH chroot jail management.
+- [buluma/dotfiles](https://github.com/buluma/dotfiles) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
+- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) - Dotfile installation for UNIX/Linux.
 - [buluma/ansible-role-artifactory](https://github.com/buluma/ansible-role-artifactory) - Install and configure artifactory on your system.
 - [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) - Install and configure revealmd on your system.
-- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) - Install and configure Podman on your system.
-- [buluma/ansible-role-rabbitvcs](https://github.com/buluma/ansible-role-rabbitvcs) - Install and configure rabbitvcs on your system.
-- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) - Install and configure timezone on your systems.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) ([v1.0.5](https://github.com/buluma/ansible-role-backup/releases/tag/v1.0.5), today) - The purpose of this role is to make backups of your system.
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.4](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.4), today) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) ([2.1.12](https://github.com/buluma/ansible-role-ansible/releases/tag/2.1.12), today) - Install and configure ansible on your system.
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([2.0.3](https://github.com/buluma/ansible-role-anaconda/releases/tag/2.0.3), today) - Install anaconda on your system.
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.2](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.2), 1 day ago) - Install Apache 2.x for Linux.
+- [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), today) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
+- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.0](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.0), today) - Dotfile installation for UNIX/Linux.
+- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.3](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.3), today) - tune ext3 and ext4 filesystems using tune2fs.
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.2](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.2), today) - Installs travis on your system.
+- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) ([0.1.1](https://github.com/buluma/ansible-role-timezone/releases/tag/0.1.1), today) - Install and configure timezone on your systems.
 
 
