@@ -15,7 +15,7 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (today)
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) - Configure sysctl on your system. (1 day ago)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (1 day ago)
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (1 day ago)
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (1 day ago)
 
