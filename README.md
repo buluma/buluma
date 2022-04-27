@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (1 day ago)
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (1 day ago)
-- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (1 day ago)
+- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (1 day ago)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (2 days ago)
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (2 days ago)
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([0.1.9](https://github.com/buluma/ansible-role-virtualbox/releases/tag/0.1.9), today) - Install and configure virtualbox on your system.
-- [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), 1 day ago) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
-- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.3](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.3), 1 day ago) - tune ext3 and ext4 filesystems using tune2fs.
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.2](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.2), 1 day ago) - Installs travis on your system.
-- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) ([0.1.1](https://github.com/buluma/ansible-role-timezone/releases/tag/0.1.1), 1 day ago) - Install and configure timezone on your systems.
+- [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), 2 days ago) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
+- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.3](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.3), 2 days ago) - tune ext3 and ext4 filesystems using tune2fs.
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.2](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.2), 2 days ago) - Installs travis on your system.
+- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) ([0.1.1](https://github.com/buluma/ansible-role-timezone/releases/tag/0.1.1), 2 days ago) - Install and configure timezone on your systems.
+- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) ([1.0.7](https://github.com/buluma/ansible-role-test_connection/releases/tag/1.0.7), 2 days ago) - Test connection possibilities to your system.
 
 
