@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux.
 - [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish).
 - [buluma/ansible-role-github_users](https://github.com/buluma/ansible-role-github_users) - Create users based on GitHub accounts.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) - Install and configure daemonize on your systems.
 - [buluma/ansible-role-hosts](https://github.com/buluma/ansible-role-hosts) - Ansible role that dynamically creates the hosts file.
-- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins.
 
 #### 🚀 Latest releases I've contributed to
 
