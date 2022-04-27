@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-hosts](https://github.com/buluma/ansible-role-hosts) - Ansible role that dynamically creates the hosts file.
 - [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) - Install and configure virtualbox on your system.
 - [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) - Simple SSH chroot jail management.
 - [buluma/dotfiles](https://github.com/buluma/dotfiles) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
-- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) - Dotfile installation for UNIX/Linux.
 
 #### 🚀 Latest releases I've contributed to
 
