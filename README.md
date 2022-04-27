@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) ([0.1.0](https://github.com/buluma/ansible-role-supervisor/releases/tag/0.1.0), today) - Supervisor (process state manager) for Linux.
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) ([0.1.2](https://github.com/buluma/ansible-role-supervisor/releases/tag/0.1.2), today) - Supervisor (process state manager) for Linux.
 - [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) ([0.1.1](https://github.com/buluma/ansible-role-fish/releases/tag/0.1.1), today) - Install the Friendly Interactive Shell (fish).
 - [buluma/ansible-role-github_users](https://github.com/buluma/ansible-role-github_users) ([0.1.0](https://github.com/buluma/ansible-role-github_users/releases/tag/0.1.0), today) - Create users based on GitHub accounts.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.0), today) - Install and configure daemonize on your systems.
