@@ -14,9 +14,9 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
 - [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (2 days ago)
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (2 days ago)
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) ([0.1.0](https://github.com/buluma/ansible-role-supervisor/releases/tag/0.1.0), today) - Supervisor (process state manager) for Linux.
 - [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) ([0.1.1](https://github.com/buluma/ansible-role-fish/releases/tag/0.1.1), today) - Install the Friendly Interactive Shell (fish).
 - [buluma/ansible-role-github_users](https://github.com/buluma/ansible-role-github_users) ([0.1.0](https://github.com/buluma/ansible-role-github_users/releases/tag/0.1.0), today) - Create users based on GitHub accounts.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.0), today) - Install and configure daemonize on your systems.
 - [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), 2 days ago) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
-- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.3](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.3), 2 days ago) - tune ext3 and ext4 filesystems using tune2fs.
 
 
