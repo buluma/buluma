@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-github_users](https://github.com/buluma/ansible-role-github_users) ([0.1.0](https://github.com/buluma/ansible-role-github_users/releases/tag/0.1.0), today) - Create users based on GitHub accounts.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.0), today) - Install and configure daemonize on your systems.
 - [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), 2 days ago) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
 - [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v0.1.3](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v0.1.3), 2 days ago) - tune ext3 and ext4 filesystems using tune2fs.
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) ([v0.1.2](https://github.com/buluma/ansible-role-travis/releases/tag/v0.1.2), 2 days ago) - Installs travis on your system.
-- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) ([0.1.1](https://github.com/buluma/ansible-role-timezone/releases/tag/0.1.1), 2 days ago) - Install and configure timezone on your systems.
 
 
