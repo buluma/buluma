@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) ([0.1.0](https://github.com/buluma/ansible-role-fish/releases/tag/0.1.0), today) - Install the Friendly Interactive Shell (fish).
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) ([0.1.1](https://github.com/buluma/ansible-role-fish/releases/tag/0.1.1), today) - Install the Friendly Interactive Shell (fish).
 - [buluma/ansible-role-github_users](https://github.com/buluma/ansible-role-github_users) ([0.1.0](https://github.com/buluma/ansible-role-github_users/releases/tag/0.1.0), today) - Create users based on GitHub accounts.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.0), today) - Install and configure daemonize on your systems.
 - [buluma/dotfiles](https://github.com/buluma/dotfiles) ([0.1.0](https://github.com/buluma/dotfiles/releases/tag/0.1.0), 2 days ago) - Minimalist MacOS configuration, but helps save a few thousand keystrokes a day
