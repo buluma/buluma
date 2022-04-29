@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd.
 - [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) - Install Thunderbird on your system.
 - [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) - Firefox Installation.
 - [buluma/ansible-role-graylog](https://github.com/buluma/ansible-role-graylog) - Install and configure Graylog on your systems.
 - [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux.
-- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish).
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) ([0.1.0](https://github.com/buluma/ansible-role-crowd/releases/tag/0.1.0), today) - Install and configure Atlassian Crowd.
 - [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) ([0.1.0](https://github.com/buluma/ansible-role-thunderbird/releases/tag/0.1.0), today) - Install Thunderbird on your system.
 - [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) ([0.1.1](https://github.com/buluma/ansible-role-firefox/releases/tag/0.1.1), today) - Firefox Installation.
 - [buluma/ansible-role-graylog](https://github.com/buluma/ansible-role-graylog) ([0.1.0](https://github.com/buluma/ansible-role-graylog/releases/tag/0.1.0), 2 days ago) - Install and configure Graylog on your systems.
 - [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) ([0.1.2](https://github.com/buluma/ansible-role-supervisor/releases/tag/0.1.2), 2 days ago) - Supervisor (process state manager) for Linux.
-- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) ([0.1.1](https://github.com/buluma/ansible-role-fish/releases/tag/0.1.1), 2 days ago) - Install the Friendly Interactive Shell (fish).
 
 
