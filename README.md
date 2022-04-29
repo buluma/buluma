@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation.
 - [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd.
 - [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) - Install Thunderbird on your system.
 - [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) - Firefox Installation.
 - [buluma/ansible-role-graylog](https://github.com/buluma/ansible-role-graylog) - Install and configure Graylog on your systems.
-- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux.
 
 #### 🚀 Latest releases I've contributed to
 
