@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), today) - Generate documentation and continuous integration files for an Ansible Role.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 1 day ago) - Install Transmission on your system.
 - [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) ([0.1.0](https://github.com/buluma/ansible-role-crowd/releases/tag/0.1.0), 1 day ago) - Install and configure Atlassian Crowd.
 - [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) ([0.1.0](https://github.com/buluma/ansible-role-thunderbird/releases/tag/0.1.0), 1 day ago) - Install Thunderbird on your system.
 - [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) ([0.1.1](https://github.com/buluma/ansible-role-firefox/releases/tag/0.1.1), 1 day ago) - Firefox Installation.
-- [buluma/ansible-role-graylog](https://github.com/buluma/ansible-role-graylog) ([0.1.0](https://github.com/buluma/ansible-role-graylog/releases/tag/0.1.0), 3 days ago) - Install and configure Graylog on your systems.
 
 
