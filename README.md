@@ -14,18 +14,18 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 - [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (1 day ago)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (3 days ago)
 - [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) - Configure sysctl on your system. (5 days ago)
-- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-munin_node](https://github.com/buluma/ansible-role-munin_node) - Munin node monitoring endpoint for RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-munin](https://github.com/buluma/ansible-role-munin) - Munin monitoring server for RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) - Ansible role to tag github repos.
 - [buluma/ansible-role-handbrake](https://github.com/buluma/ansible-role-handbrake) - Install HandBrake on your system.
 - [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) - Install and configure SonarQube.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system.
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation.
 
 #### 🚀 Latest releases I've contributed to
 
