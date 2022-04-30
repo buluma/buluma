@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) - Ansible role to tag github repos.
 - [buluma/ansible-role-handbrake](https://github.com/buluma/ansible-role-handbrake) - Install HandBrake on your system.
 - [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) - Install and configure SonarQube.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system.
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation.
-- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), today) - Ansible role to tag github repos.
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), today) - Generate documentation and continuous integration files for an Ansible Role.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 1 day ago) - Install Transmission on your system.
 - [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) ([0.1.0](https://github.com/buluma/ansible-role-crowd/releases/tag/0.1.0), 1 day ago) - Install and configure Atlassian Crowd.
 - [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) ([0.1.0](https://github.com/buluma/ansible-role-thunderbird/releases/tag/0.1.0), 1 day ago) - Install Thunderbird on your system.
-- [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) ([0.1.1](https://github.com/buluma/ansible-role-firefox/releases/tag/0.1.1), 1 day ago) - Firefox Installation.
 
 
