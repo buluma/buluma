@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) - My collection of roles commonly used (today)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
-- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) - My collection of roles commonly used (1 day ago)
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
+- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (1 day ago)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), today) - My collection of roles commonly used
-- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 1 day ago) - Ansible role to tag github repos.
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 1 day ago) - Generate documentation and continuous integration files for an Ansible Role.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 2 days ago) - Install Transmission on your system.
-- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) ([0.1.0](https://github.com/buluma/ansible-role-crowd/releases/tag/0.1.0), 2 days ago) - Install and configure Atlassian Crowd.
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 1 day ago) - My collection of roles commonly used
+- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 2 days ago) - Ansible role to tag github repos.
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 2 days ago) - Generate documentation and continuous integration files for an Ansible Role.
+- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 3 days ago) - Install Transmission on your system.
+- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) ([0.1.0](https://github.com/buluma/ansible-role-crowd/releases/tag/0.1.0), 3 days ago) - Install and configure Atlassian Crowd.
 
 
