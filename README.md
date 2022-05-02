@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.1](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.1), today) - Install and configure Podman on your system.
 - [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.0](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.0), today) - Install gotop on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 1 day ago) - My collection of roles commonly used
 - [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 2 days ago) - Ansible role to tag github repos.
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 2 days ago) - Generate documentation and continuous integration files for an Ansible Role.
+- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 3 days ago) - Install Transmission on your system.
 
 
