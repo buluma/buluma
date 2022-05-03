@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (1 day ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (1 day ago)
+- [buluma/ansible-role-fathom](https://github.com/buluma/ansible-role-fathom) - Fathom web analytics. (1 day ago)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (1 day ago)
+- [buluma/centos](https://github.com/buluma/centos) - centos base images (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) ([0.1.1](https://github.com/buluma/ansible-role-gitlab_ee/releases/tag/0.1.1), today) - Ansible Role for GitLab EE Installation.
 - [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.0](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.0), 1 day ago) - Install gotop on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 2 days ago) - My collection of roles commonly used
 - [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 3 days ago) - Ansible role to tag github repos.
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 3 days ago) - Generate documentation and continuous integration files for an Ansible Role.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.0](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.0), 4 days ago) - Install Transmission on your system.
 
 
