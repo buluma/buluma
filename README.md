@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine.
 - [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) - Install gotop on your system.
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system.
 - [buluma/ansible-role-munin_node](https://github.com/buluma/ansible-role-munin_node) - Munin node monitoring endpoint for RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-munin](https://github.com/buluma/ansible-role-munin) - Munin monitoring server for RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) - Ansible role to tag github repos.
 
 #### 🚀 Latest releases I've contributed to
 
