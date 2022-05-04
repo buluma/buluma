@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (1 day ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
-- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (2 days ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (2 days ago)
+- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (1 day ago)
 - [buluma/centos](https://github.com/buluma/centos) - centos base images (2 days ago)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) ([1.0.8](https://github.com/buluma/ansible-role-prometheus/releases/tag/1.0.8), today) - Install and configure Prometheus.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), today) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), today) - Basic Ansible Role Security
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.2](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.2), today) - Ansible Role for GitLab CE Installation.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.7), today) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.5), today) - Install and configure zabbix_agent on your system.
 
 
