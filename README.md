@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
-- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (1 day ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (1 day ago)
+- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (2 days ago)
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (2 days ago)
+- [buluma/centos](https://github.com/buluma/centos) - centos base images (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) ([0.1.0](https://github.com/buluma/ansible-role-centos_base/releases/tag/0.1.0), today) - Basic CentOS Configuration.
-- [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.0](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.0), 1 day ago) - Install gotop on your system.
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 2 days ago) - My collection of roles commonly used
-- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 3 days ago) - Ansible role to tag github repos.
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 3 days ago) - Generate documentation and continuous integration files for an Ansible Role.
+- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) ([0.1.0](https://github.com/buluma/ansible-role-centos_base/releases/tag/0.1.0), 1 day ago) - Basic CentOS Configuration.
+- [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.0](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.0), 2 days ago) - Install gotop on your system.
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 3 days ago) - My collection of roles commonly used
+- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 4 days ago) - Ansible role to tag github repos.
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) ([v1.1.0](https://github.com/buluma/ansible-generator/releases/tag/v1.1.0), 4 days ago) - Generate documentation and continuous integration files for an Ansible Role.
 
 
