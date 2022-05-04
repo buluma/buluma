@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) ([2.0.0](https://github.com/buluma/ansible-role-swap/releases/tag/2.0.0), today) - Swap file and swap management for Linux.
 - [buluma/ansible-role-packer_rhel](https://github.com/buluma/ansible-role-packer_rhel) ([0.1.0](https://github.com/buluma/ansible-role-packer_rhel/releases/tag/0.1.0), today) - RedHat/CentOS configuration for Packer.
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) ([0.1.0](https://github.com/buluma/ansible-role-centos_base/releases/tag/0.1.0), 1 day ago) - Basic CentOS Configuration.
 - [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.0](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.0), 2 days ago) - Install gotop on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([v2.0.2](https://github.com/buluma/ansible-collection-roles/releases/tag/v2.0.2), 3 days ago) - My collection of roles commonly used
-- [buluma/ansible-role-git_tag](https://github.com/buluma/ansible-role-git_tag) ([0.1.0](https://github.com/buluma/ansible-role-git_tag/releases/tag/0.1.0), 4 days ago) - Ansible role to tag github repos.
 
 
