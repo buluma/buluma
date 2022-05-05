@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
-- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 days ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (2 days ago)
+- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine. (2 days ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), today) - Install and configure Telegraf on your system.
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), today) - Basic Ansible Role Security
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.2](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.2), today) - Ansible Role for GitLab CE Installation.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.7), today) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.5), today) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), 1 day ago) - Install and configure Telegraf on your system.
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), 1 day ago) - Basic Ansible Role Security
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.2](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.2), 1 day ago) - Ansible Role for GitLab CE Installation.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.7), 1 day ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.5), 1 day ago) - Install and configure zabbix_agent on your system.
 
 
