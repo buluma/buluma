@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.1](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.1), today) - Install Transmission on your system.
+- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.2](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.2), today) - Install Transmission on your system.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), 2 days ago) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), 2 days ago) - Basic Ansible Role Security
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.2](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.2), 2 days ago) - Ansible Role for GitLab CE Installation.
