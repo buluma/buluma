@@ -21,15 +21,15 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) - Swap file and swap management for Linux.
 - [buluma/ansible-role-packer_rhel](https://github.com/buluma/ansible-role-packer_rhel) - RedHat/CentOS configuration for Packer.
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration.
-- [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) ([0.1.1](https://github.com/buluma/ansible-role-ssh_chroot_jail/releases/tag/0.1.1), today) - Simple SSH chroot jail management.
+- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([1.0.0](https://github.com/buluma/ansible-collection-mac/releases/tag/1.0.0), today) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) ([0.1.1](https://github.com/buluma/ansible-role-perforce/releases/tag/0.1.1), today) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.2](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.2), today) - Install and configure confluence on your system.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.2](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.2), 1 day ago) - Install Transmission on your system.
