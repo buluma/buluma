@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) - Swap file and swap management for Linux.
 - [buluma/ansible-role-packer_rhel](https://github.com/buluma/ansible-role-packer_rhel) - RedHat/CentOS configuration for Packer.
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration.
 - [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine.
-- [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) - Install gotop on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) ([0.1.1](https://github.com/buluma/ansible-role-perforce/releases/tag/0.1.1), today) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.2](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.2), today) - Install and configure confluence on your system.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.2](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.2), 1 day ago) - Install Transmission on your system.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), 3 days ago) - Install and configure Telegraf on your system.
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), 3 days ago) - Basic Ansible Role Security
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.2](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.2), 3 days ago) - Ansible Role for GitLab CE Installation.
 
 
