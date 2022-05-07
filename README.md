@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (today)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
+- [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) ([0.1.1](https://github.com/buluma/ansible-role-ssh_chroot_jail/releases/tag/0.1.1), today) - Simple SSH chroot jail management.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) ([0.1.1](https://github.com/buluma/ansible-role-perforce/releases/tag/0.1.1), today) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.2](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.2), today) - Install and configure confluence on your system.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.2](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.2), 1 day ago) - Install Transmission on your system.
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), 3 days ago) - Install and configure Telegraf on your system.
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.1.3](https://github.com/buluma/ansible-role-security/releases/tag/v0.1.3), 3 days ago) - Basic Ansible Role Security
 
 
