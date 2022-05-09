@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.2](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.2), today) - Install setuptools on your system.
+- [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) ([2.0.1](https://github.com/buluma/ansible-role-swap/releases/tag/2.0.1), today) - Swap file and swap management for Linux.
 - [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.0.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.0.1), 1 day ago) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) ([0.1.1](https://github.com/buluma/ansible-role-perforce/releases/tag/0.1.1), 2 days ago) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) ([0.1.2](https://github.com/buluma/ansible-role-confluence/releases/tag/0.1.2), 2 days ago) - Install and configure confluence on your system.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.2](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.2), 3 days ago) - Install Transmission on your system.
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v0.1.4](https://github.com/buluma/ansible-role-telegraf/releases/tag/v0.1.4), 5 days ago) - Install and configure Telegraf on your system.
 
 
