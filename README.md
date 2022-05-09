@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems.
 - [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) - Swap file and swap management for Linux.
 - [buluma/ansible-role-packer_rhel](https://github.com/buluma/ansible-role-packer_rhel) - RedHat/CentOS configuration for Packer.
-- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration.
 
 #### 🚀 Latest releases I've contributed to
 
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.5](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.5), today) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) ([1.7.7](https://github.com/buluma/ansible-role-redis/releases/tag/1.7.7), today) - Install and configure redis on your system.
 - [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.6](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.6), today) - The purpose of this role is to restore objects to your system.
-- [buluma/ansible-role-rpmfusion](https://github.com/buluma/ansible-role-rpmfusion) ([0.1.1](https://github.com/buluma/ansible-role-rpmfusion/releases/tag/0.1.1), today) - Install rpmfusion repositories on your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.2](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.2), today) - Install and configure roundcubemail on your system.
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) ([2.0.2](https://github.com/buluma/ansible-role-consul/releases/tag/2.0.2), today) - Install and configure consul on your system.
+- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) ([0.1.1](https://github.com/buluma/ansible-role-centos_base/releases/tag/0.1.1), today) - Basic CentOS Configuration.
 
 
