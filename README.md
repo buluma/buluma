@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.0](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.0), 1 day ago) - Set up dnsmasq in Debian-like systems.
+- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.1](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.1), today) - Set up dnsmasq in Debian-like systems.
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.5](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.5), 1 day ago) - Installs the Varnish HTTP Cache
 - [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.6](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.6), 1 day ago) - The purpose of this role is to restore objects to your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.2](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.2), 1 day ago) - Install and configure roundcubemail on your system.
