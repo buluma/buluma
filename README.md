@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your systems.
 - [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems.
 - [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems.
 - [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) - Swap file and swap management for Linux.
-- [buluma/ansible-role-packer_rhel](https://github.com/buluma/ansible-role-packer_rhel) - RedHat/CentOS configuration for Packer.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) ([0.1.0](https://github.com/buluma/ansible-role-keepalived/releases/tag/0.1.0), today) - Install and configure Keepalived on your systems.
 - [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.1](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.1), today) - Set up dnsmasq in Debian-like systems.
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.5](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.5), 1 day ago) - Installs the Varnish HTTP Cache
 - [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.6](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.6), 1 day ago) - The purpose of this role is to restore objects to your system.
 - [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) ([v0.1.2](https://github.com/buluma/ansible-role-roundcubemail/releases/tag/v0.1.2), 1 day ago) - Install and configure roundcubemail on your system.
-- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) ([2.0.2](https://github.com/buluma/ansible-role-consul/releases/tag/2.0.2), 1 day ago) - Install and configure consul on your system.
 
 
