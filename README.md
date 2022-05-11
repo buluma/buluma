@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/git-terraform-demo](https://github.com/buluma/git-terraform-demo) - A demonstration environment to show how Git and Terraform can combine.
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system.
+- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system.
 - [buluma/ansible-role-mssql](https://github.com/buluma/ansible-role-mssql) - Install and configure mssql on your system.
 - [buluma/ansible-role-redmine](https://github.com/buluma/ansible-role-redmine) - Install and configure Redmine on your systems.
-- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems.
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems.
-- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-mssql](https://github.com/buluma/ansible-role-mssql) ([0.1.0](https://github.com/buluma/ansible-role-mssql/releases/tag/0.1.0), today) - Install and configure mssql on your system.
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) ([0.1.0](https://github.com/buluma/ansible-role-autofs/releases/tag/0.1.0), today) - Install and configure autofs on your system.
+- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) ([0.1.1](https://github.com/buluma/ansible-role-dsvpn/releases/tag/0.1.1), today) - Install and configure dsvpn on your system.
+- [buluma/ansible-role-mssql](https://github.com/buluma/ansible-role-mssql) ([0.1.1](https://github.com/buluma/ansible-role-mssql/releases/tag/0.1.1), today) - Install and configure mssql on your system.
 - [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) ([0.1.0](https://github.com/buluma/ansible-role-keepalived/releases/tag/0.1.0), 1 day ago) - Install and configure Keepalived on your Debian-like systems.
 - [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.1](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.1), 1 day ago) - Set up dnsmasq in Debian-like systems.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.5](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.5), 2 days ago) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) ([1.0.6](https://github.com/buluma/ansible-role-restore/releases/tag/1.0.6), 2 days ago) - The purpose of this role is to restore objects to your system.
 
 
