@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 days ago)
-- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (2 days ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
+- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
