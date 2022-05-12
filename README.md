@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-swap](https://github.com/buluma/ansible-role-swap) ([2.0.2](https://github.com/buluma/ansible-role-swap/releases/tag/2.0.2), today) - Swap file and swap management for Linux.
+- [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) ([0.1.1](https://github.com/buluma/ansible-role-sosreport/releases/tag/0.1.1), today) - Install, run and collect sosreports from your system.
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.7](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.7), today) - Install and configure terraform on your system.
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) ([1.0.9](https://github.com/buluma/ansible-role-update/releases/tag/1.0.9), today) - Install updates on your system.
 - [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) ([0.1.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/releases/tag/0.1.0), today) - Trust microsofts gpg keys.
-- [buluma/ansible-role-azure_cli](https://github.com/buluma/ansible-role-azure_cli) ([0.1.0](https://github.com/buluma/ansible-role-azure_cli/releases/tag/0.1.0), today) - Install and configure azure_cli on your system.
-- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.0](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.0), today) - Install digitalocean agent on your system.
 
 
