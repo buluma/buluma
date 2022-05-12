@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) ([1.0.9](https://github.com/buluma/ansible-role-update/releases/tag/1.0.9), today) - Install updates on your system.
 - [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) ([0.1.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/releases/tag/0.1.0), today) - Trust microsofts gpg keys.
 - [buluma/ansible-role-azure_cli](https://github.com/buluma/ansible-role-azure_cli) ([0.1.0](https://github.com/buluma/ansible-role-azure_cli/releases/tag/0.1.0), today) - Install and configure azure_cli on your system.
 - [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.0](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.0), today) - Install digitalocean agent on your system.
 - [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) ([0.1.0](https://github.com/buluma/ansible-role-go/releases/tag/0.1.0), today) - An Ansible Role that installs Go (the language) on Linux.
-- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) ([0.1.0](https://github.com/buluma/ansible-role-earlyoom/releases/tag/0.1.0), today) - Install and configure Early Out Of Memory Killer on your system.
 
 
