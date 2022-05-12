@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 - [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.7](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.7), today) - Install and configure terraform on your system.
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) ([1.0.9](https://github.com/buluma/ansible-role-update/releases/tag/1.0.9), today) - Install updates on your system.
 - [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) ([0.1.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/releases/tag/0.1.0), today) - Trust microsofts gpg keys.
 - [buluma/ansible-role-azure_cli](https://github.com/buluma/ansible-role-azure_cli) ([0.1.0](https://github.com/buluma/ansible-role-azure_cli/releases/tag/0.1.0), today) - Install and configure azure_cli on your system.
 - [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.0](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.0), today) - Install digitalocean agent on your system.
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) ([0.1.0](https://github.com/buluma/ansible-role-go/releases/tag/0.1.0), today) - An Ansible Role that installs Go (the language) on Linux.
 
 
