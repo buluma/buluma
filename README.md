@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) - Install digitalocean agent on your system.
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux.
 - [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system.
 - [buluma/ansible-role-kubectl](https://github.com/buluma/ansible-role-kubectl) - Install the latest stable version of kubectl on your system.
 - [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) - Install and configure irslackd on your system.
-- [buluma/git-terraform-demo](https://github.com/buluma/git-terraform-demo) - A demonstration environment to show how Git and Terraform can combine.
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) ([0.1.0](https://github.com/buluma/ansible-role-go/releases/tag/0.1.0), today) - An Ansible Role that installs Go (the language) on Linux.
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) ([0.1.0](https://github.com/buluma/ansible-role-earlyoom/releases/tag/0.1.0), today) - Install and configure Early Out Of Memory Killer on your system.
 - [buluma/ansible-role-kubectl](https://github.com/buluma/ansible-role-kubectl) ([0.1.0](https://github.com/buluma/ansible-role-kubectl/releases/tag/0.1.0), today) - Install the latest stable version of kubectl on your system.
 - [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.0](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.0), today) - Install and configure irslackd on your system.
 - [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) ([0.1.0](https://github.com/buluma/ansible-role-autofs/releases/tag/0.1.0), 1 day ago) - Install and configure autofs on your system.
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) ([0.1.1](https://github.com/buluma/ansible-role-dsvpn/releases/tag/0.1.1), 1 day ago) - Install and configure dsvpn on your system.
-- [buluma/ansible-role-mssql](https://github.com/buluma/ansible-role-mssql) ([0.1.1](https://github.com/buluma/ansible-role-mssql/releases/tag/0.1.1), 1 day ago) - Install and configure mssql on your system.
 
 
