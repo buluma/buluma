@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
-- [buluma/ansible-role-ara](https://github.com/buluma/ansible-role-ara) - Install and configure ara on your system. (today)
-- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (today)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (1 day ago)
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 day ago)
+- [buluma/ansible-role-ara](https://github.com/buluma/ansible-role-ara) - Install and configure ara on your system. (1 day ago)
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), today) - Install and configure SonarQube.
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) ([0.1.3](https://github.com/buluma/ansible-role-maven/releases/tag/0.1.3), today) - Install and configure Apache Maven on your systems.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.9](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.9), today) - Make openssl certificates.
-- [buluma/ansible-role-keyboard](https://github.com/buluma/ansible-role-keyboard) ([0.1.0](https://github.com/buluma/ansible-role-keyboard/releases/tag/0.1.0), 1 day ago) - Role for configuring keyboard layout.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v4.0.7](https://github.com/buluma/molecule-action/releases/tag/v4.0.7), 1 day ago) - Test Ansible roles using Molecule
+- [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), 1 day ago) - Install and configure SonarQube.
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) ([0.1.3](https://github.com/buluma/ansible-role-maven/releases/tag/0.1.3), 1 day ago) - Install and configure Apache Maven on your systems.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.9](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.9), 1 day ago) - Make openssl certificates.
+- [buluma/ansible-role-keyboard](https://github.com/buluma/ansible-role-keyboard) ([0.1.0](https://github.com/buluma/ansible-role-keyboard/releases/tag/0.1.0), 2 days ago) - Role for configuring keyboard layout.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v4.0.7](https://github.com/buluma/molecule-action/releases/tag/v4.0.7), 2 days ago) - Test Ansible roles using Molecule
 
 
