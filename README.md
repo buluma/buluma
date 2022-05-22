@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/jenkins](https://github.com/buluma/jenkins) - Jenkins Testing
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems.
 - [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems.
 - [buluma/ansible-role-keyboard](https://github.com/buluma/ansible-role-keyboard) - Role for configuring keyboard layout.
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems.
-- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys.
 
 #### 🚀 Latest releases I've contributed to
 
