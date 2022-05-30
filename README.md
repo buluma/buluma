@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (3 days ago)
-- [ShadowNet-KE/jenkins-test](https://github.com/ShadowNet-KE/jenkins-test) -  (5 days ago)
+- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (1 day ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (4 days ago)
+- [ShadowNet-KE/jenkins-test](https://github.com/ShadowNet-KE/jenkins-test) -  (6 days ago)
 - [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
