@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/curl-docker](https://github.com/buluma/curl-docker) - This repository defines an unofficial curl docker image.
 - [buluma/docker-radarr](https://github.com/buluma/docker-radarr) - Docker Radarr
 - [buluma/jenkins](https://github.com/buluma/jenkins) - Jenkins Docker with Ansible for Testing
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems.
 - [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems.
-- [buluma/ansible-role-keyboard](https://github.com/buluma/ansible-role-keyboard) - Role for configuring keyboard layout.
 
 #### 🚀 Latest releases I've contributed to
 
