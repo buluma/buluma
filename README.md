@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), today) - This repository defines an unofficial curl docker image.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.3](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.3), 2 weeks ago) - Install setuptools on your system.
 - [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) ([1.0.4](https://github.com/buluma/ansible-role-service/releases/tag/1.0.4), 2 weeks ago) - Add custom services to your Linux system.
 - [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), 3 weeks ago) - Install and configure SonarQube.
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) ([0.1.3](https://github.com/buluma/ansible-role-maven/releases/tag/0.1.3), 3 weeks ago) - Install and configure Apache Maven on your systems.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([1.0.9](https://github.com/buluma/ansible-role-openssl/releases/tag/1.0.9), 3 weeks ago) - Make openssl certificates.
 
 
