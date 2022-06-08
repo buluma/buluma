@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/docker-ubuntu2004-ansible](https://github.com/buluma/docker-ubuntu2004-ansible) - Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (today)
-- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (today)
-- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (today)
+- [buluma/docker-ubuntu2004-ansible](https://github.com/buluma/docker-ubuntu2004-ansible) - Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing. (1 day ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (1 day ago)
+- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (1 day ago)
+- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,9 +29,9 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), today) - This repository defines an unofficial curl docker image.
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.3](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.3), 2 weeks ago) - Install setuptools on your system.
-- [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) ([1.0.4](https://github.com/buluma/ansible-role-service/releases/tag/1.0.4), 2 weeks ago) - Add custom services to your Linux system.
+- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), 1 day ago) - This repository defines an unofficial curl docker image.
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.3](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.3), 3 weeks ago) - Install setuptools on your system.
+- [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) ([1.0.4](https://github.com/buluma/ansible-role-service/releases/tag/1.0.4), 3 weeks ago) - Add custom services to your Linux system.
 - [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), 3 weeks ago) - Install and configure SonarQube.
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) ([0.1.3](https://github.com/buluma/ansible-role-maven/releases/tag/0.1.3), 3 weeks ago) - Install and configure Apache Maven on your systems.
 
