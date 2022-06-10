@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/docker-ubuntu2004-ansible](https://github.com/buluma/docker-ubuntu2004-ansible) - Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing. (2 days ago)
-- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (2 days ago)
-- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (2 days ago)
-- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (2 days ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/docker-ubuntu2004-ansible](https://github.com/buluma/docker-ubuntu2004-ansible) - Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing. (3 days ago)
+- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (3 days ago)
+- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (3 days ago)
+- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), 2 days ago) - This repository defines an unofficial curl docker image.
+- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), 3 days ago) - This repository defines an unofficial curl docker image.
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.3](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.3), 3 weeks ago) - Install setuptools on your system.
 - [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) ([1.0.4](https://github.com/buluma/ansible-role-service/releases/tag/1.0.4), 3 weeks ago) - Add custom services to your Linux system.
 - [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), 3 weeks ago) - Install and configure SonarQube.
