@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/curl-docker](https://github.com/buluma/curl-docker) ([1.0.0](https://github.com/buluma/curl-docker/releases/tag/1.0.0), 4 days ago) - This repository defines an unofficial curl docker image.
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v0.1.3](https://github.com/buluma/ansible-role-setuptools/releases/tag/v0.1.3), 3 weeks ago) - Install setuptools on your system.
-- [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) ([1.0.4](https://github.com/buluma/ansible-role-service/releases/tag/1.0.4), 3 weeks ago) - Add custom services to your Linux system.
-- [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) ([0.1.0](https://github.com/buluma/ansible-role-sonarqube/releases/tag/0.1.0), 4 weeks ago) - Install and configure SonarQube.
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) ([0.1.3](https://github.com/buluma/ansible-role-maven/releases/tag/0.1.3), 4 weeks ago) - Install and configure Apache Maven on your systems.
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), today) - Configure locale on your system.
+- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), today) - Install and configure Metricbeat, manage Metricbeat modules.
+- [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) ([v0.1.2](https://github.com/buluma/ansible-role-node_red/releases/tag/v0.1.2), today) - Install and configure Node RED on your system.
+- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) ([1.0.3](https://github.com/buluma/ansible-role-elasticsearch/releases/tag/1.0.3), today) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-repo_epel](https://github.com/buluma/ansible-role-repo_epel) ([2.1.4](https://github.com/buluma/ansible-role-repo_epel/releases/tag/2.1.4), today) - Ansible Role - EPEL Repository for RHEL/CentOS
 
 
