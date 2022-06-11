@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-for-devops](https://github.com/buluma/ansible-for-devops) - Ansible for DevOps examples.  (today)
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/docker-ubuntu2004-ansible](https://github.com/buluma/docker-ubuntu2004-ansible) - Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing. (4 days ago)
-- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (4 days ago)
+- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (4 days ago)
 - [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (4 days ago)
-- [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
