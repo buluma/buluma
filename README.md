@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.0](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.0), today) - Configure Consul CA on your systems.
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), 1 day ago) - Configure locale on your system.
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 1 day ago) - Install and configure Metricbeat, manage Metricbeat modules.
 - [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) ([v0.1.2](https://github.com/buluma/ansible-role-node_red/releases/tag/v0.1.2), 1 day ago) - Install and configure Node RED on your system.
 - [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) ([1.0.3](https://github.com/buluma/ansible-role-elasticsearch/releases/tag/1.0.3), 1 day ago) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-repo_epel](https://github.com/buluma/ansible-role-repo_epel) ([2.1.4](https://github.com/buluma/ansible-role-repo_epel/releases/tag/2.1.4), 1 day ago) - Ansible Role - EPEL Repository for RHEL/CentOS
 
 
