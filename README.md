@@ -13,8 +13,8 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (6 days ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (1 week ago)
 - [buluma/ansible-for-devops](https://github.com/buluma/ansible-for-devops) - Ansible for DevOps examples.  (1 week ago)
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 week ago)
 - [buluma/debian](https://github.com/buluma/debian) - Debian is a Linux distribution that&#39;s composed entirely of free and open-source software. (1 week ago)
@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 6 days ago) - Configure Consul CA on your systems.
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 1 week ago) - Configure Consul CA on your systems.
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), 1 week ago) - Configure locale on your system.
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 1 week ago) - Install and configure Metricbeat, manage Metricbeat modules.
 - [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) ([v0.1.2](https://github.com/buluma/ansible-role-node_red/releases/tag/v0.1.2), 1 week ago) - Install and configure Node RED on your system.
