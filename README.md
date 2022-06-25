@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-stratis](https://github.com/buluma/ansible-role-stratis) ([0.6.26](https://github.com/buluma/ansible-role-stratis/releases/tag/0.6.26), today) - Install stratis and carves pools and filesystems.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), today) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 1 week ago) - Configure Consul CA on your systems.
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), 2 weeks ago) - Configure locale on your system.
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 2 weeks ago) - Install and configure Metricbeat, manage Metricbeat modules.
+- [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) ([v0.1.2](https://github.com/buluma/ansible-role-node_red/releases/tag/v0.1.2), 2 weeks ago) - Install and configure Node RED on your system.
 
 
