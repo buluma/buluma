@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-netiq-edirectory](https://github.com/buluma/ansible-role-netiq-edirectory) - Ansible role for setting up NetIQ eDirectory.
 - [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) - Ansible role for setting up NetIQ Identity Manager.
 - [buluma/ansible-role-stratis](https://github.com/buluma/ansible-role-stratis) - Install stratis and carves pools and filesystems.
 - [buluma/curl-docker](https://github.com/buluma/curl-docker) - This repository defines an unofficial curl docker image.
 - [buluma/docker-radarr](https://github.com/buluma/docker-radarr) - Docker Radarr
-- [buluma/jenkins](https://github.com/buluma/jenkins) - Jenkins Docker with Ansible for Testing
 
 #### 🚀 Latest releases I've contributed to
 
