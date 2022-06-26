@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/docker-freebsd](https://github.com/buluma/docker-freebsd) - FreeBSD Docker image from distribution archive.
 - [buluma/ansible-role-vmwaretools](https://github.com/buluma/ansible-role-vmwaretools) - Installation of vmware-tools package and repostory.
 - [buluma/ansible-role-erlang](https://github.com/buluma/ansible-role-erlang) - Install and configure Erlang on your systems.
 - [buluma/ansible-role-samba](https://github.com/buluma/ansible-role-samba) - Installs Samba client and server for RHEL/CentOS.
 - [buluma/ansible-role-cni](https://github.com/buluma/ansible-role-cni) - Ansible role to install CNI (Container Network Interface).
-- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 
 #### 🚀 Latest releases I've contributed to
 
