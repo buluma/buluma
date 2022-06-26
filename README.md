@@ -21,15 +21,15 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-erlang](https://github.com/buluma/ansible-role-erlang) - Install and configure Erlang on your systems.
+- [buluma/ansible-role-samba](https://github.com/buluma/ansible-role-samba) - Installs Samba client and server for RHEL/CentOS.
 - [buluma/ansible-role-cni](https://github.com/buluma/ansible-role-cni) - Ansible role to install CNI (Container Network Interface).
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 - [buluma/ansible-role-netiq-edirectory](https://github.com/buluma/ansible-role-netiq-edirectory) - Ansible role for setting up NetIQ eDirectory.
-- [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) - Ansible role for setting up NetIQ Identity Manager.
-- [buluma/ansible-role-stratis](https://github.com/buluma/ansible-role-stratis) - Install stratis and carves pools and filesystems.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) ([0.6.26](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source/releases/tag/0.6.26), today) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
+- [buluma/ansible-role-erlang](https://github.com/buluma/ansible-role-erlang) ([0.6.27](https://github.com/buluma/ansible-role-erlang/releases/tag/0.6.27), today) - Install and configure Erlang on your systems.
 - [buluma/ansible-role-netiq-edirectory](https://github.com/buluma/ansible-role-netiq-edirectory) ([0.6.26](https://github.com/buluma/ansible-role-netiq-edirectory/releases/tag/0.6.26), today) - Ansible role for setting up NetIQ eDirectory.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 1 day ago) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 2 weeks ago) - Configure Consul CA on your systems.
