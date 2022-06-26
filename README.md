@@ -13,19 +13,19 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (1 day ago)
 - [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (1 day ago)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-vmwaretools](https://github.com/buluma/ansible-role-vmwaretools) - Installation of vmware-tools package and repostory.
 - [buluma/ansible-role-erlang](https://github.com/buluma/ansible-role-erlang) - Install and configure Erlang on your systems.
 - [buluma/ansible-role-samba](https://github.com/buluma/ansible-role-samba) - Installs Samba client and server for RHEL/CentOS.
 - [buluma/ansible-role-cni](https://github.com/buluma/ansible-role-cni) - Ansible role to install CNI (Container Network Interface).
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
-- [buluma/ansible-role-netiq-edirectory](https://github.com/buluma/ansible-role-netiq-edirectory) - Ansible role for setting up NetIQ eDirectory.
 
 #### 🚀 Latest releases I've contributed to
 
