@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (1 day ago)
-- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) - Install Gnome on your system (3 days ago)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (5 days ago)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (5 days ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (2 days ago)
+- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) - Install Gnome on your system (4 days ago)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (6 days ago)
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,7 +30,7 @@ Always willing to learn new things.
 #### 🚀 Latest releases I've contributed to
 
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 1 week ago) - Publish Ansible roles to Galaxy
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 2 weeks ago) - Configure Consul CA on your systems.
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 3 weeks ago) - Configure Consul CA on your systems.
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), 3 weeks ago) - Configure locale on your system.
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 3 weeks ago) - Install and configure Metricbeat, manage Metricbeat modules.
 - [buluma/ansible-role-node_red](https://github.com/buluma/ansible-role-node_red) ([v0.1.2](https://github.com/buluma/ansible-role-node_red/releases/tag/v0.1.2), 3 weeks ago) - Install and configure Node RED on your system.
