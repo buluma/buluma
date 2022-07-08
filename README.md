@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.5](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.5), today) - Prepare your system to be managed by Ansible.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.1](https://github.com/buluma/molecule-action/releases/tag/v5.0.1), 3 days ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v4.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v4.0.9), 3 days ago) - A container that is used for GitHub molecule actions
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 1 week ago) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 3 weeks ago) - Configure Consul CA on your systems.
-- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 3 weeks ago) - Install and configure Metricbeat, manage Metricbeat modules.
 
 
