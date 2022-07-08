@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (today)
+- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/ansible-role-forensics](https://github.com/buluma/ansible-role-forensics) - Install and configure forensics on your system. (today)
-- [buluma/ansible-role-facts](https://github.com/buluma/ansible-role-facts) - Place custom facts for Ansible on a system. (today)
+- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,6 +33,6 @@ Always willing to learn new things.
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v4.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v4.0.9), 3 days ago) - A container that is used for GitHub molecule actions
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 1 week ago) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.1.1](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.1.1), 3 weeks ago) - Configure Consul CA on your systems.
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.0.6](https://github.com/buluma/ansible-role-locale/releases/tag/1.0.6), 3 weeks ago) - Configure locale on your system.
+- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) ([v0.1.2](https://github.com/buluma/ansible-role-metricbeat/releases/tag/v0.1.2), 3 weeks ago) - Install and configure Metricbeat, manage Metricbeat modules.
 
 
