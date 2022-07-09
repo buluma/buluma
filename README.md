@@ -14,18 +14,18 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (1 day ago)
-- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (1 day ago)
 - [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 day ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/swift-archive](https://github.com/buluma/swift-archive) - swift-archive docker container.
 - [buluma/ansible-role-brightbox_ruby](https://github.com/buluma/ansible-role-brightbox_ruby) - Install Brightbox ruby packages on your systems.
 - [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) - An ansible role for managing mail aliases.
 - [buluma/docker-freebsd](https://github.com/buluma/docker-freebsd) - FreeBSD Docker image from distribution archive.
-- [buluma/ansible-role-vmwaretools](https://github.com/buluma/ansible-role-vmwaretools) - Installation of vmware-tools package and repostory.
 
 #### 🚀 Latest releases I've contributed to
 
