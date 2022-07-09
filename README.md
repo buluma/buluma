@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (1 day ago)
-- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (1 day ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 day ago)
 - [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (1 day ago)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 day ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
