@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (today)
 - [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (2 days ago)
-- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (2 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
