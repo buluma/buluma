@@ -31,8 +31,8 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) ([0.1.1](https://github.com/buluma/ansible-role-gitea/releases/tag/0.1.1), 4 days ago) - Install and configure Gitea on your systems.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.0), 5 days ago) - An ansible role for managing mail aliases.
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.0.5](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.0.5), 6 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.1](https://github.com/buluma/molecule-action/releases/tag/v5.0.1), 1 week ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v4.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v4.0.9), 1 week ago) - A container that is used for GitHub molecule actions
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 2 weeks ago) - Publish Ansible roles to Galaxy
 
 
