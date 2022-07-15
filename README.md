@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems.
 - [buluma/docker-gitlab-action-molecule](https://github.com/buluma/docker-gitlab-action-molecule) - A container that is used for GitLab Runner.
 - [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) - Install and configure Gitea on your systems.
 - [buluma/swift-archive](https://github.com/buluma/swift-archive) - swift-archive docker container.
 - [buluma/ansible-role-brightbox_ruby](https://github.com/buluma/ansible-role-brightbox_ruby) - Install Brightbox ruby packages on your systems.
-- [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool.
 
 #### 🚀 Latest releases I've contributed to
 
