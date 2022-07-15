@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
+- [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (2 days ago)
-- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.6](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.6), today) - Enable or disable automatic starting of services upon installation of packages.
 - [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) ([0.1.1](https://github.com/buluma/ansible-role-gitea/releases/tag/0.1.1), 5 days ago) - Install and configure Gitea on your systems.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.0), 6 days ago) - An ansible role for managing mail aliases.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.1](https://github.com/buluma/molecule-action/releases/tag/v5.0.1), 1 week ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v4.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v4.0.9), 1 week ago) - A container that is used for GitHub molecule actions
-- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v6.25.22](https://github.com/buluma/galaxy-action/releases/tag/v6.25.22), 2 weeks ago) - Publish Ansible roles to Galaxy
 
 
