@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
+- [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push. (today)
+- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
