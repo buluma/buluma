@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (3 days ago)
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (3 days ago)
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (3 days ago)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (4 days ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (4 days ago)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (4 days ago)
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (4 days ago)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -31,7 +31,7 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) ([1.0.10](https://github.com/buluma/ansible-role-dns/releases/tag/1.0.10), 1 week ago) - Install and configure dns on your system.
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.6](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.6), 1 week ago) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) ([0.1.1](https://github.com/buluma/ansible-role-gitea/releases/tag/0.1.1), 1 week ago) - Install and configure Gitea on your systems.
+- [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) ([0.1.1](https://github.com/buluma/ansible-role-gitea/releases/tag/0.1.1), 2 weeks ago) - Install and configure Gitea on your systems.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.0), 2 weeks ago) - An ansible role for managing mail aliases.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.1](https://github.com/buluma/molecule-action/releases/tag/v5.0.1), 2 weeks ago) - Test Ansible roles using Molecule
 
