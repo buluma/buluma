@@ -13,19 +13,19 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 week ago)
 - [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (1 week ago)
 - [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (1 week ago)
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (1 week ago)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-gimp](https://github.com/buluma/ansible-role-gimp) - Install gimp on your systems.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory.
 - [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) - WordPress with webserver (Nginx or Apache2)
 - [buluma/ansible-role-mosquitto](https://github.com/buluma/ansible-role-mosquitto) - Install and configure Eclipse Mosquitto.
 - [buluma/ansible-role-firewall](https://github.com/buluma/ansible-role-firewall) - anage firewall ports on all (known) Linux operating systems.
-- [buluma/ansible-role-firewalld](https://github.com/buluma/ansible-role-firewalld) - Install and configure firewalld on your system.
 
 #### 🚀 Latest releases I've contributed to
 
