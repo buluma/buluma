@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata.
 - [buluma/ansible-role-gimp](https://github.com/buluma/ansible-role-gimp) - Install gimp on your systems.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory.
 - [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) - WordPress with webserver (Nginx or Apache2)
 - [buluma/ansible-role-mosquitto](https://github.com/buluma/ansible-role-mosquitto) - Install and configure Eclipse Mosquitto.
-- [buluma/ansible-role-firewall](https://github.com/buluma/ansible-role-firewall) - anage firewall ports on all (known) Linux operating systems.
 
 #### 🚀 Latest releases I've contributed to
 
