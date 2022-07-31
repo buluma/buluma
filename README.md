@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.2](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.2), today) - Bind system to Active Directory.
 - [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) ([0.1.0](https://github.com/buluma/ansible-role-wordpress/releases/tag/0.1.0), 5 days ago) - WordPress with webserver (Nginx or Apache2)
 - [buluma/ansible-role-mosquitto](https://github.com/buluma/ansible-role-mosquitto) ([0.1.0](https://github.com/buluma/ansible-role-mosquitto/releases/tag/0.1.0), 1 week ago) - Install and configure Eclipse Mosquitto.
 - [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) ([1.0.10](https://github.com/buluma/ansible-role-dns/releases/tag/1.0.10), 2 weeks ago) - Install and configure dns on your system.
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.6](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.6), 2 weeks ago) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) ([0.1.1](https://github.com/buluma/ansible-role-gitea/releases/tag/0.1.1), 3 weeks ago) - Install and configure Gitea on your systems.
 
 
