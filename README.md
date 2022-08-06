@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-sublime_text](https://github.com/buluma/ansible-role-sublime_text) - Install Sublime Text on your system.
 - [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system.
 - [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata.
 - [buluma/ansible-role-gimp](https://github.com/buluma/ansible-role-gimp) - Install gimp on your systems.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory.
-- [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) - WordPress with webserver (Nginx or Apache2)
 
 #### 🚀 Latest releases I've contributed to
 
