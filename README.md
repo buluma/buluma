@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/fedora](https://github.com/buluma/fedora) - Fedora Test Bases (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (1 week ago)
-- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.3](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.3), today) - Logstash for Linux.
+- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.2](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.2), today) - Install the Elastic repository on your system.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.2](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.2), 6 days ago) - Bind system to Active Directory.
 - [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) ([0.1.0](https://github.com/buluma/ansible-role-wordpress/releases/tag/0.1.0), 1 week ago) - WordPress with webserver (Nginx or Apache2)
 - [buluma/ansible-role-mosquitto](https://github.com/buluma/ansible-role-mosquitto) ([0.1.0](https://github.com/buluma/ansible-role-mosquitto/releases/tag/0.1.0), 1 week ago) - Install and configure Eclipse Mosquitto.
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) ([1.0.10](https://github.com/buluma/ansible-role-dns/releases/tag/1.0.10), 3 weeks ago) - Install and configure dns on your system.
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([0.1.6](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/0.1.6), 3 weeks ago) - Enable or disable automatic starting of services upon installation of packages.
 
 
