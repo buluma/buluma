@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.3](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.3), today) - Logstash for Linux.
-- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.2](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.2), today) - Install the Elastic repository on your system.
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.2](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.2), 6 days ago) - Bind system to Active Directory.
-- [buluma/ansible-role-wordpress](https://github.com/buluma/ansible-role-wordpress) ([0.1.0](https://github.com/buluma/ansible-role-wordpress/releases/tag/0.1.0), 1 week ago) - WordPress with webserver (Nginx or Apache2)
-- [buluma/ansible-role-mosquitto](https://github.com/buluma/ansible-role-mosquitto) ([0.1.0](https://github.com/buluma/ansible-role-mosquitto/releases/tag/0.1.0), 1 week ago) - Install and configure Eclipse Mosquitto.
+- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.7](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.7), today) - Install Gnome on your system
+- [buluma/ansible-role-glusterfs](https://github.com/buluma/ansible-role-glusterfs) ([1.0.3](https://github.com/buluma/ansible-role-glusterfs/releases/tag/1.0.3), today) - Install and configure glusterfs on your system.
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) ([1.0.10](https://github.com/buluma/ansible-role-update_pip_packages/releases/tag/1.0.10), today) - Find and update pip packages.
+- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) ([1.7.8](https://github.com/buluma/ansible-role-redis/releases/tag/1.7.8), today) - Install and configure redis on your system.
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.2](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.2), today) - Puppet for Linux.
 
 
