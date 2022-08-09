@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-ecr_container_build](https://github.com/buluma/ansible-role-ecr_container_build)
 - [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management.
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation
 - [buluma/ansible-role-sublime_text](https://github.com/buluma/ansible-role-sublime_text) - Install Sublime Text on your system.
 - [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system.
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata.
 
 #### 🚀 Latest releases I've contributed to
 
