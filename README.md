@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) ([0.1.0](https://github.com/buluma/ansible-role-adminer/releases/tag/0.1.0), today) - Install Adminer for Database management.
 - [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.7](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.7), 4 days ago) - Install Gnome on your system
 - [buluma/ansible-role-glusterfs](https://github.com/buluma/ansible-role-glusterfs) ([1.0.3](https://github.com/buluma/ansible-role-glusterfs/releases/tag/1.0.3), 4 days ago) - Install and configure glusterfs on your system.
 - [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) ([1.0.10](https://github.com/buluma/ansible-role-update_pip_packages/releases/tag/1.0.10), 4 days ago) - Find and update pip packages.
 - [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) ([1.7.8](https://github.com/buluma/ansible-role-redis/releases/tag/1.7.8), 4 days ago) - Install and configure redis on your system.
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([1.0.8](https://github.com/buluma/ansible-role-openssh/releases/tag/1.0.8), 4 days ago) - Install and configure openssh on your system.
 
 
