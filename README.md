@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
 - [buluma/docker-ubuntu2204-ansible](https://github.com/buluma/docker-ubuntu2204-ansible) - Ubuntu 22.04 [Jammy Jellyfish] (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) - Install and configure Gitea on your systems. (3 days ago)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (4 days ago)
 - [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
