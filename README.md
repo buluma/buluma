@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (1 day ago)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 day ago)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (1 day ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 day ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
