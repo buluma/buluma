@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.0](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.0), today) - This collection includes helpful Ansible roles and content to help with macOS automation.
+- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.1), today) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) ([0.1.0](https://github.com/buluma/ansible-role-adminer/releases/tag/0.1.0), 1 week ago) - Install Adminer for Database management.
 - [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.7](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.7), 1 week ago) - Install Gnome on your system
 - [buluma/ansible-role-glusterfs](https://github.com/buluma/ansible-role-glusterfs) ([1.0.3](https://github.com/buluma/ansible-role-glusterfs/releases/tag/1.0.3), 1 week ago) - Install and configure glusterfs on your system.
