@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) ([0.1.0](https://github.com/buluma/ansible-role-p10k/releases/tag/0.1.0), today) - Ansible role for installing powerlevel10k
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.0](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.0), today) - Prepare your system to be managed by Ansible.
 - [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 1 day ago) - Rocky Linux 9 Ansible Test Image
 - [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.1), 2 days ago) - This collection includes helpful Ansible roles and content to help with macOS automation.
 - [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) ([0.1.0](https://github.com/buluma/ansible-role-adminer/releases/tag/0.1.0), 1 week ago) - Install Adminer for Database management.
+- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.7](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.7), 2 weeks ago) - Install Gnome on your system
 
 
