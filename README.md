@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
+- [buluma/ansible-role-facts](https://github.com/buluma/ansible-role-facts) - Place custom facts for Ansible on a system. (today)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (1 day ago)
-- [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) - Well, reboot your system. (1 day ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
