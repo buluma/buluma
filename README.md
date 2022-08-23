@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.1](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.1), today) - Install and configure Datadog on your systems.
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) ([2.1.6](https://github.com/buluma/ansible-role-mailhog/releases/tag/2.1.6), today) - Ansible Role - MailHog for catching and viewing emails
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.3](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.3), today) - Bind system to Active Directory.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.0](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.0), 3 days ago) - Prepare your system to be managed by Ansible.
 - [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 4 days ago) - Rocky Linux 9 Ansible Test Image
-- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.1), 5 days ago) - This collection includes helpful Ansible roles and content to help with macOS automation.
-- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) ([0.1.0](https://github.com/buluma/ansible-role-adminer/releases/tag/0.1.0), 1 week ago) - Install Adminer for Database management.
-- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.7](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.7), 2 weeks ago) - Install Gnome on your system
 
 
