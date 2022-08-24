@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 days ago)
-- [buluma/ansible-role-facts](https://github.com/buluma/ansible-role-facts) - Place custom facts for Ansible on a system. (2 days ago)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (2 days ago)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (2 days ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (3 days ago)
+- [buluma/ansible-role-facts](https://github.com/buluma/ansible-role-facts) - Place custom facts for Ansible on a system. (3 days ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (3 days ago)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.1](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.1), today) - Install and configure Datadog on your systems.
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.3](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.3), today) - Bind system to Active Directory.
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.0](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.0), 3 days ago) - Prepare your system to be managed by Ansible.
-- [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 4 days ago) - Rocky Linux 9 Ansible Test Image
-- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.1), 5 days ago) - This collection includes helpful Ansible roles and content to help with macOS automation.
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.1](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.1), 1 day ago) - Install and configure Datadog on your systems.
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.3](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.3), 1 day ago) - Bind system to Active Directory.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.0](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.0), 4 days ago) - Prepare your system to be managed by Ansible.
+- [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 5 days ago) - Rocky Linux 9 Ansible Test Image
+- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) ([2.1.1](https://github.com/buluma/ansible-collection-mac/releases/tag/2.1.1), 6 days ago) - This collection includes helpful Ansible roles and content to help with macOS automation.
 
 
