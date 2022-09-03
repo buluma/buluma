@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) ([0.1.2](https://github.com/buluma/ansible-role-keepalived/releases/tag/0.1.2), today) - Install and configure Keepalived on your Debian-like systems.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.1](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.1), 1 week ago) - An ansible role for managing mail aliases.
 - [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.1](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.1), 1 week ago) - Install and configure Datadog on your systems.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.3](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.3), 1 week ago) - Bind system to Active Directory.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.0](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.0), 2 weeks ago) - Prepare your system to be managed by Ansible.
-- [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 2 weeks ago) - Rocky Linux 9 Ansible Test Image
 
 
