@@ -13,15 +13,15 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install proxychains (today)
+- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install Proxychains forcing TCP connection to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 week ago)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (2 weeks ago)
 - [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (2 weeks ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install proxychains
+- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install Proxychains forcing TCP connection to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k
 - [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) - Rocky Linux 9 Ansible Test Image
 - [buluma/macos-docker](https://github.com/buluma/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access.
