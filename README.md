@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install proxychains
 - [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k
 - [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) - Rocky Linux 9 Ansible Test Image
 - [buluma/macos-docker](https://github.com/buluma/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access.
 - [buluma/ansible-role-docker_env](https://github.com/buluma/ansible-role-docker_env) - Prepare My MacOS Docker Environment for local testing.
-- [buluma/ansible-role-ecr_container_build](https://github.com/buluma/ansible-role-ecr_container_build)
 
 #### 🚀 Latest releases I've contributed to
 
