@@ -16,8 +16,8 @@ Always willing to learn new things.
 - [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install proxychains (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 week ago)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (2 weeks ago)
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (2 weeks ago)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
