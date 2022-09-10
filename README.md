@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
-- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -31,8 +31,8 @@ Always willing to learn new things.
 
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.0](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.0), 1 day ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) ([0.1.2](https://github.com/buluma/ansible-role-keepalived/releases/tag/0.1.2), 1 week ago) - Install and configure Keepalived on your Debian-like systems.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.1](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.1), 2 weeks ago) - An ansible role for managing mail aliases.
 - [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.1](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.1), 2 weeks ago) - Install and configure Datadog on your systems.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.1.3](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.1.3), 2 weeks ago) - Bind system to Active Directory.
+- [buluma/docker-rockylinux9-ansible](https://github.com/buluma/docker-rockylinux9-ansible) ([0.1.0](https://github.com/buluma/docker-rockylinux9-ansible/releases/tag/0.1.0), 3 weeks ago) - Rocky Linux 9 Ansible Test Image
 
 
