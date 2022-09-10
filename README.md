@@ -16,7 +16,7 @@ Always willing to learn new things.
 - [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
