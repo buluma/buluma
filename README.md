@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (today)
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
+- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 
 #### 👨‍💻 Repositories I created recently
 
