@@ -13,9 +13,9 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (5 days ago)
-- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) - Ansible role for installing and configuring victoriametrics cluster (5 days ago)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (5 days ago)
 - [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (5 days ago)
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (5 days ago)
 
