@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (today)
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
-- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.0](https://github.com/buluma/ansible-role-code/releases/tag/0.1.0), today) - Install visual studio code on your system.
 - [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.7](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.7), today) - Create partitions, volume groups, volumes, filesystems and mounts.
 - [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), today) - AWS Inspector installation for Linux.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.9), today) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.9), today) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.4](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.4), today) - Install and configure Vector for debian systems.
 
 
