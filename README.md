@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), today) - AWS Inspector installation for Linux.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.9), today) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.9), today) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v0.1.4](https://github.com/buluma/ansible-role-vector/releases/tag/v0.1.4), today) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.0.5](https://github.com/buluma/ansible-role-vault/releases/tag/1.0.5), today) - Install, configure, initialize and unseal Hashicorp Vault.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.6](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.6), today) - Installs the Varnish HTTP Cache
 
 
