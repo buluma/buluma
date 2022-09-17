@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (today)
-- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
 
 #### 👨‍💻 Repositories I created recently
