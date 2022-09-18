@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) - Install Gnome on your system (1 day ago)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 day ago)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (1 day ago)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (1 day ago)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (today)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) ([1.0.9](https://github.com/buluma/ansible-role-mysql/releases/tag/1.0.9), today) - Install and configure mysql on your system.
 - [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.0](https://github.com/buluma/ansible-role-code/releases/tag/0.1.0), 1 day ago) - Install visual studio code on your system.
 - [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.7](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.7), 1 day ago) - Create partitions, volume groups, volumes, filesystems and mounts.
 - [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), 1 day ago) - AWS Inspector installation for Linux.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.9), 1 day ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.9), 1 day ago) - Install and configure zabbix_server on your system.
 
 
