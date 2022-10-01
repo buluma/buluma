@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 week ago)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (1 week ago)
 - [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 week ago)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.4](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.4), today) - Logstash for Linux.
+- [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.4](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.4), 1 day ago) - Logstash for Linux.
 - [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) ([1.0.9](https://github.com/buluma/ansible-role-mysql/releases/tag/1.0.9), 1 week ago) - Install and configure mysql on your system.
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.0](https://github.com/buluma/ansible-role-code/releases/tag/0.1.0), 1 week ago) - Install visual studio code on your system.
-- [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.7](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.7), 1 week ago) - Create partitions, volume groups, volumes, filesystems and mounts.
-- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), 1 week ago) - AWS Inspector installation for Linux.
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.0](https://github.com/buluma/ansible-role-code/releases/tag/0.1.0), 2 weeks ago) - Install visual studio code on your system.
+- [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.7](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.7), 2 weeks ago) - Create partitions, volume groups, volumes, filesystems and mounts.
+- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), 2 weeks ago) - AWS Inspector installation for Linux.
 
 
