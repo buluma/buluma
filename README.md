@@ -13,19 +13,19 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
+- [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) - Install common CA certificates on your system. (today)
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (today)
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (1 week ago)
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (1 week ago)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-zeppelin](https://github.com/buluma/ansible-role-zeppelin) - Ansible Role for zeppelin installation.
 - [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) - Deploys and configure Elastic beats.
 - [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) - AWS Inspector installation for Linux.
 - [buluma/ansible-role-memcached](https://github.com/buluma/ansible-role-memcached) - Install and configure Memcached for Linux.
 - [buluma/ansible-role-borgbackup](https://github.com/buluma/ansible-role-borgbackup) - Set up backup to remote machine using Borg and Borgmatic.
-- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) - Install Proxychains forcing TCP connection to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 
 #### 🚀 Latest releases I've contributed to
 
