@@ -13,9 +13,9 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
 - [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) - Install common CA certificates on your system. (today)
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (today)
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 week ago)
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.2](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.2), today) - Prepare your system to be managed by Ansible.
 - [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.4](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.4), 1 day ago) - Logstash for Linux.
 - [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) ([1.0.9](https://github.com/buluma/ansible-role-mysql/releases/tag/1.0.9), 1 week ago) - Install and configure mysql on your system.
 - [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.0](https://github.com/buluma/ansible-role-code/releases/tag/0.1.0), 2 weeks ago) - Install visual studio code on your system.
 - [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.7](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.7), 2 weeks ago) - Create partitions, volume groups, volumes, filesystems and mounts.
-- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.0](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.0), 2 weeks ago) - AWS Inspector installation for Linux.
 
 
