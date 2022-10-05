@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (1 day ago)
 - [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) - Install updates on your system. (4 days ago)
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (4 days ago)
-- [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) - Install common CA certificates on your system. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
