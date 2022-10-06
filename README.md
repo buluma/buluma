@@ -15,9 +15,9 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) - Well, reboot your system. (1 day ago)
-- [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) - Install and configure investigation tools on your system. (1 day ago)
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (today)
+- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) - Install Gnome on your system (today)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) ([0.1.2](https://github.com/buluma/ansible-role-autofs/releases/tag/0.1.2), today) - Install and configure autofs on your system.
 - [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.3](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.3), today) - Install buildtools on your system.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.1](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.1), today) - Install and configure daemonize on your systems.
 - [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.1](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.1), today) - Install digitalocean agent on your system.
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.2](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.2), today) - Install eclipse and plugins on your system.
-- [buluma/ansible-role-zeppelin](https://github.com/buluma/ansible-role-zeppelin) ([0.1.0](https://github.com/buluma/ansible-role-zeppelin/releases/tag/0.1.0), 2 days ago) - Ansible Role for zeppelin installation.
 
 
