@@ -13,8 +13,8 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
 - [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) - Install and configure confluence on your system. (today)
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (1 day ago)
 - [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) - Well, reboot your system. (1 day ago)
 - [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) - Install and configure investigation tools on your system. (1 day ago)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.3](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.3), today) - Install buildtools on your system.
+- [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.1.1](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.1.1), today) - Install and configure daemonize on your systems.
+- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.1](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.1), today) - Install digitalocean agent on your system.
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.2](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.2), today) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-zeppelin](https://github.com/buluma/ansible-role-zeppelin) ([0.1.0](https://github.com/buluma/ansible-role-zeppelin/releases/tag/0.1.0), 2 days ago) - Ansible Role for zeppelin installation.
-- [buluma/terraform-docker](https://github.com/buluma/terraform-docker) ([0.1.0](https://github.com/buluma/terraform-docker/releases/tag/0.1.0), 4 days ago) - A docker container to run `terraform`, including the `az` binary. (Azure CLI).
-- [buluma/terraform-github-action](https://github.com/buluma/terraform-github-action) ([0.1.1](https://github.com/buluma/terraform-github-action/releases/tag/0.1.1), 4 days ago) - GitHub action to run HashiCorp Terraform commands.
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.2](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.2), 5 days ago) - Prepare your system to be managed by Ansible.
 
 
