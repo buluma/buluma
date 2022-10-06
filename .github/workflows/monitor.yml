@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.3
+        uses: actions/checkout@v3.1.0
       - name: Calculate project metrics
         id: projectmetrics
         env:
