@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.0](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.0), today) - Make openssl certificates.
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.10](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.10), today) - Install and configure terraform on your system.
 - [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.3](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.3), today) - Puppet for Linux.
 - [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) ([0.1.3](https://github.com/buluma/ansible-role-powertools/releases/tag/0.1.3), today) - Enable powertools repository on your system.
 - [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) ([1.0.10](https://github.com/buluma/ansible-role-investigate/releases/tag/1.0.10), today) - Install and configure investigation tools on your system.
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) ([1.0.9](https://github.com/buluma/ansible-role-hashicorp/releases/tag/1.0.9), today) - Install HashiCorp products using packages.
 
 
