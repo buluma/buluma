@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (today)
+- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (today)
 - [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (today)
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 day ago)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (1 day ago)
+- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (today)
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (1 day ago)
 - [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
