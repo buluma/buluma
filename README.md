@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
-- [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) - Configure sysctl on your system. (today)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 day ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
+- [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) - Configure sysctl on your system. (1 day ago)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.0](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.0), today) - Make openssl certificates.
-- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.10](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.10), today) - Install and configure terraform on your system.
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.3](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.3), today) - Puppet for Linux.
-- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) ([0.1.3](https://github.com/buluma/ansible-role-powertools/releases/tag/0.1.3), today) - Enable powertools repository on your system.
-- [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) ([1.0.10](https://github.com/buluma/ansible-role-investigate/releases/tag/1.0.10), today) - Install and configure investigation tools on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.0](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.0), 1 day ago) - Make openssl certificates.
+- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.10](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.10), 1 day ago) - Install and configure terraform on your system.
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.3](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.3), 1 day ago) - Puppet for Linux.
+- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) ([0.1.3](https://github.com/buluma/ansible-role-powertools/releases/tag/0.1.3), 1 day ago) - Enable powertools repository on your system.
+- [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) ([1.0.10](https://github.com/buluma/ansible-role-investigate/releases/tag/1.0.10), 1 day ago) - Install and configure investigation tools on your system.
 
 
