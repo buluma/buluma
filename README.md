@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) - Install and configure tomcat on your system. (today)
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
+- [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) - Install and configure tomcat on your system. (today)
+- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (1 day ago)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 day ago)
-- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.4](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.4), today) - Install and configure Podman on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.8](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.8), today) - Install and configure nginx on your system.
 - [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) ([2.0.0](https://github.com/buluma/ansible-role-openvpn/releases/tag/2.0.0), today) - Install and configure openvpn server or client on your system.
 - [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([1.0.8](https://github.com/buluma/ansible-role-postgres/releases/tag/1.0.8), today) - Install and configure postgres on your system.
 - [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) ([1.0.9](https://github.com/buluma/ansible-role-reboot/releases/tag/1.0.9), today) - Well, reboot your system.
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([1.0.9](https://github.com/buluma/ansible-role-python_pip/releases/tag/1.0.9), today) - Install pythons pip on your system.
 
 
