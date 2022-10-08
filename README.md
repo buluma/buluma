@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) - Install and configure tomcat on your system. (today)
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
-- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (1 day ago)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
 - [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 day ago)
+- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
