@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (today)
-- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (today)
-- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (today)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (today)
-- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (1 day ago)
+- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (1 day ago)
+- [buluma/Dockerfiles](https://github.com/buluma/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
+- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 day ago)
+- [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) ([4.6.10](https://github.com/buluma/ansible-role-php/releases/tag/4.6.10), today) - Install and configure php on your system.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.0](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.0), 1 day ago) - Make openssl certificates.
-- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.10](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.10), 1 day ago) - Install and configure terraform on your system.
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.3](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.3), 1 day ago) - Puppet for Linux.
-- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) ([0.1.3](https://github.com/buluma/ansible-role-powertools/releases/tag/0.1.3), 1 day ago) - Enable powertools repository on your system.
+- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) ([4.6.10](https://github.com/buluma/ansible-role-php/releases/tag/4.6.10), 1 day ago) - Install and configure php on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.0](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.0), 2 days ago) - Make openssl certificates.
+- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([1.0.10](https://github.com/buluma/ansible-role-terraform/releases/tag/1.0.10), 2 days ago) - Install and configure terraform on your system.
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) ([v0.1.3](https://github.com/buluma/ansible-role-puppet/releases/tag/v0.1.3), 2 days ago) - Puppet for Linux.
+- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) ([0.1.3](https://github.com/buluma/ansible-role-powertools/releases/tag/0.1.3), 2 days ago) - Enable powertools repository on your system.
 
 
