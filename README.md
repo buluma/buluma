@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
 - [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) - Install and configure tomcat on your system. (today)
-- [buluma/ansible-role-redis](https://github.com/buluma/ansible-role-redis) - Install and configure redis on your system. (1 day ago)
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (today)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 day ago)
+- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [ShadowNet-KE/ansible-collection-nginx](https://github.com/ShadowNet-KE/ansible-collection-nginx) ([0.1.2](https://github.com/ShadowNet-KE/ansible-collection-nginx/releases/tag/0.1.2), today) - nstall and configure NGINX and NGINX App Protect using Ansible.
+- [ShadowNet-KE/ansible-collection-nginx](https://github.com/ShadowNet-KE/ansible-collection-nginx) ([0.1.2](https://github.com/ShadowNet-KE/ansible-collection-nginx/releases/tag/0.1.2), today) - Install and configure NGINX and NGINX App Protect using Ansible.
 - [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.4](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.4), today) - Install and configure Podman on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.8](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.8), today) - Install and configure nginx on your system.
 - [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) ([2.0.0](https://github.com/buluma/ansible-role-openvpn/releases/tag/2.0.0), today) - Install and configure openvpn server or client on your system.
