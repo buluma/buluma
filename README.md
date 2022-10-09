@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.3](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.3), today) - Install VictoriaMetrics on your system.
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.3](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.3), today) - Install Transmission on your system.
 - [ShadowNet-KE/ansible-collection-nginx](https://github.com/ShadowNet-KE/ansible-collection-nginx) ([0.1.2](https://github.com/ShadowNet-KE/ansible-collection-nginx/releases/tag/0.1.2), 1 day ago) - Install and configure NGINX and NGINX App Protect using Ansible.
 - [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.4](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.4), 1 day ago) - Install and configure Podman on your system.
 - [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.8](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.8), 1 day ago) - Install and configure nginx on your system.
-- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) ([2.0.0](https://github.com/buluma/ansible-role-openvpn/releases/tag/2.0.0), 1 day ago) - Install and configure openvpn server or client on your system.
 
 
