@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation.
 - [buluma/terraform-aws-instance](https://github.com/buluma/terraform-aws-instance) - A module to spin up an instance on AWS with the minimal amount of variable.
 - [buluma/terraform-docker](https://github.com/buluma/terraform-docker) - A docker container to run `terraform`, including the `az` binary. (Azure CLI).
 - [buluma/terraform-github-action](https://github.com/buluma/terraform-github-action) - GitHub action to run HashiCorp Terraform commands.
 - [buluma/ansible-role-zeppelin](https://github.com/buluma/ansible-role-zeppelin) - Ansible Role for zeppelin installation.
-- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) - Deploys and configure Elastic beats.
 
 #### 🚀 Latest releases I've contributed to
 
