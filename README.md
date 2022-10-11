@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (1 day ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 day ago)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.3](https://github.com/buluma/pre-commit/releases/tag/v1.0.3), today) - Pre commit hooks for easier development.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.3](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.3), 1 day ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.3](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.3), 1 day ago) - Install Transmission on your system.
-- [ShadowNet-KE/ansible-collection-nginx](https://github.com/ShadowNet-KE/ansible-collection-nginx) ([0.1.2](https://github.com/ShadowNet-KE/ansible-collection-nginx/releases/tag/0.1.2), 2 days ago) - Install and configure NGINX and NGINX App Protect using Ansible.
-- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.4](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.4), 2 days ago) - Install and configure Podman on your system.
+- [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.3](https://github.com/buluma/pre-commit/releases/tag/v1.0.3), 1 day ago) - Pre commit hooks for easier development.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.3](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.3), 2 days ago) - Install VictoriaMetrics on your system.
+- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.3](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.3), 2 days ago) - Install Transmission on your system.
+- [ShadowNet-KE/ansible-collection-nginx](https://github.com/ShadowNet-KE/ansible-collection-nginx) ([0.1.2](https://github.com/ShadowNet-KE/ansible-collection-nginx/releases/tag/0.1.2), 3 days ago) - Install and configure NGINX and NGINX App Protect using Ansible.
+- [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) ([0.1.4](https://github.com/buluma/ansible-role-podman/releases/tag/0.1.4), 3 days ago) - Install and configure Podman on your system.
 
 
