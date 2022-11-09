@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (today)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
-- [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) - Install common CA certificates on your system. (today)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
 - [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
-- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (1 day ago)
+- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (today)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (today)
+- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
 
 #### 👨‍💻 Repositories I created recently
 
