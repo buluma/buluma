@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 day ago)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (1 day ago)
 - [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 day ago)
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
