@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
-- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) - Install Gnome on your system (today)
 - [buluma/ansible-role-keepalived](https://github.com/buluma/ansible-role-keepalived) - Install and configure Keepalived on your Debian-like systems. (today)
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (today)
+- [buluma/ansible-role-restore](https://github.com/buluma/ansible-role-restore) - The purpose of this role is to restore objects to your system. (today)
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.2](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.2), 4 days ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-victoriametrics_cluster](https://github.com/buluma/ansible-role-victoriametrics_cluster) ([v0.1.6](https://github.com/buluma/ansible-role-victoriametrics_cluster/releases/tag/v0.1.6), 3 weeks ago) - Ansible role for installing and configuring victoriametrics cluster
-- [buluma/pre-commit](https://github.com/buluma/pre-commit) ([v1.0.3](https://github.com/buluma/pre-commit/releases/tag/v1.0.3), 1 month ago) - Pre commit hooks for easier development.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v2.0.3](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v2.0.3), 1 month ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) ([0.1.3](https://github.com/buluma/ansible-role-transmission/releases/tag/0.1.3), 1 month ago) - Install Transmission on your system.
+- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([2.0.0](https://github.com/buluma/ansible-role-terraform/releases/tag/2.0.0), today) - Install and configure terraform on your system.
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) ([1.0.10](https://github.com/buluma/ansible-role-fail2ban/releases/tag/1.0.10), today) - Install and configure fail2ban on your system.
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.0.1](https://github.com/buluma/ansible-role-cron/releases/tag/2.0.1), today) - Install cron and scedule jobs on your system.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.3), today) - Prepare your system to be managed by Ansible.
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.9](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.9), today) - Install and configure automatic package updates on your system.
 
 
