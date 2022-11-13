@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-envoy](https://github.com/buluma/ansible-role-envoy) - Install and configure Envoy on your linux system.
 - [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation.
 - [buluma/terraform-aws-instance](https://github.com/buluma/terraform-aws-instance) - A module to spin up an instance on AWS with the minimal amount of variable.
 - [buluma/terraform-docker](https://github.com/buluma/terraform-docker) - A docker container to run `terraform`, including the `az` binary. (Azure CLI).
 - [buluma/terraform-github-action](https://github.com/buluma/terraform-github-action) - GitHub action to run HashiCorp Terraform commands.
-- [buluma/ansible-role-zeppelin](https://github.com/buluma/ansible-role-zeppelin) - Ansible Role for zeppelin installation.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-envoy](https://github.com/buluma/ansible-role-envoy) ([0.0.1](https://github.com/buluma/ansible-role-envoy/releases/tag/0.0.1), today) - Install and configure Envoy on your linux system.
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([2.0.0](https://github.com/buluma/ansible-role-terraform/releases/tag/2.0.0), 1 day ago) - Install and configure terraform on your system.
 - [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) ([1.0.10](https://github.com/buluma/ansible-role-fail2ban/releases/tag/1.0.10), 1 day ago) - Install and configure fail2ban on your system.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.0.1](https://github.com/buluma/ansible-role-cron/releases/tag/2.0.1), 1 day ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.3](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.3), 1 day ago) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.9](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.9), 1 day ago) - Install and configure automatic package updates on your system.
 
 
