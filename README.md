@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
 - [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (4 days ago)
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (4 days ago)
-- [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) - Configure sysctl on your system. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
