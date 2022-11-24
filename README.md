@@ -13,9 +13,9 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/centos](https://github.com/buluma/centos) - centos base images (4 days ago)
-- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (6 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/centos](https://github.com/buluma/centos) - centos base images (5 days ago)
+- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (1 week ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 week ago)
 
