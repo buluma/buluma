@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/centos](https://github.com/buluma/centos) - centos base images (3 weeks ago)
 - [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (4 weeks ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 month ago)
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.3](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.3), today) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.4](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.4), 1 month ago) - Prepare your system to be managed by Ansible.
 - [buluma/ansible-role-envoy](https://github.com/buluma/ansible-role-envoy) ([0.0.1](https://github.com/buluma/ansible-role-envoy/releases/tag/0.0.1), 1 month ago) - Install and configure Envoy on your linux system.
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) ([2.0.0](https://github.com/buluma/ansible-role-terraform/releases/tag/2.0.0), 1 month ago) - Install and configure terraform on your system.
 - [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) ([1.0.10](https://github.com/buluma/ansible-role-fail2ban/releases/tag/1.0.10), 1 month ago) - Install and configure fail2ban on your system.
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.0.1](https://github.com/buluma/ansible-role-cron/releases/tag/2.0.1), 1 month ago) - Install cron and scedule jobs on your system.
 
 
