@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.3](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.3), today) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) ([1.0.10](https://github.com/buluma/ansible-role-ca_certificates/releases/tag/1.0.10), 6 days ago) - Install common CA certificates on your system.
 - [buluma/ansible-role-squid](https://github.com/buluma/ansible-role-squid) ([0.0.1](https://github.com/buluma/ansible-role-squid/releases/tag/0.0.1), 1 week ago) - Install and configure squid on your system.
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.3](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.3), 2 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.4](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.4), 1 month ago) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-envoy](https://github.com/buluma/ansible-role-envoy) ([0.0.1](https://github.com/buluma/ansible-role-envoy/releases/tag/0.0.1), 1 month ago) - Install and configure Envoy on your linux system.
 
 
