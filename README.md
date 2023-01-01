@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates.
 - [buluma/ansible-role-subversion](https://github.com/buluma/ansible-role-subversion) - Install subversion and create repositories on your system.
 - [buluma/ansible-role-squid](https://github.com/buluma/ansible-role-squid) - Install and configure squid on your system.
 - [buluma/gitlab-runner-images](https://github.com/buluma/gitlab-runner-images) - Docker Images for Gitlab Runner
 - [buluma/ansible-role-envoy](https://github.com/buluma/ansible-role-envoy) - Install and configure Envoy on your linux system.
-- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation.
 
 #### 🚀 Latest releases I've contributed to
 
