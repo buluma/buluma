@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-git_test](https://github.com/buluma/ansible-role-git_test) - Git test
 - [buluma/docker-molecule-shell](https://github.com/buluma/docker-molecule-shell) - Molecule shell container for Ansible role testing. 
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images
 - [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates.
 - [buluma/ansible-role-subversion](https://github.com/buluma/ansible-role-subversion) - Install subversion and create repositories on your system.
-- [buluma/ansible-role-squid](https://github.com/buluma/ansible-role-squid) - Install and configure squid on your system.
 
 #### 🚀 Latest releases I've contributed to
 
