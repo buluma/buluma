@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/docker-fedora37-ansible](https://github.com/buluma/docker-fedora37-ansible) - Fedora 37 Docker container for Ansible playbook and role testing. 
 - [buluma/ansible-role-proxmox_pbs](https://github.com/buluma/ansible-role-proxmox_pbs) - Ansible role to install aspects of a Proxmox Backup Server.
 - [buluma/ansible-role-git_test](https://github.com/buluma/ansible-role-git_test) - Git test
 - [buluma/docker-molecule-shell](https://github.com/buluma/docker-molecule-shell) - Molecule shell container for Ansible role testing. 
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates.
 
 #### 🚀 Latest releases I've contributed to
 
