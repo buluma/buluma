@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system.
 - [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System.
 - [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system.
 - [buluma/docker-fedora37-ansible](https://github.com/buluma/docker-fedora37-ansible) - Fedora 37 Docker container for Ansible playbook and role testing. 
 - [buluma/ansible-role-proxmox_pbs](https://github.com/buluma/ansible-role-proxmox_pbs) - Ansible role to install aspects of a Proxmox Backup Server.
-- [buluma/ansible-role-git_test](https://github.com/buluma/ansible-role-git_test) - Git test
 
 #### 🚀 Latest releases I've contributed to
 
