@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (6 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (6 days ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (1 week ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,7 +29,7 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/gitlab-mirror-ci-action](https://github.com/buluma/gitlab-mirror-ci-action) ([1.0.7](https://github.com/buluma/gitlab-mirror-ci-action/releases/tag/1.0.7), today) - Mirror to GitLab and trigger GitLab CI
+- [buluma/gitlab-mirror-ci-action](https://github.com/buluma/gitlab-mirror-ci-action) ([1.0.7](https://github.com/buluma/gitlab-mirror-ci-action/releases/tag/1.0.7), 1 day ago) - Mirror to GitLab and trigger GitLab CI
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.4](https://github.com/buluma/molecule-action/releases/tag/v5.0.4), 3 weeks ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.4](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.4), 3 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-subversion](https://github.com/buluma/ansible-role-subversion) ([0.0.1](https://github.com/buluma/ansible-role-subversion/releases/tag/0.0.1), 1 month ago) - Install subversion and create repositories on your system.
