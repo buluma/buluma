@@ -15,8 +15,8 @@ Always willing to learn new things.
 
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 weeks ago)
+- [buluma/gitlab-mirror-ci-action](https://github.com/buluma/gitlab-mirror-ci-action) - Mirror to GitLab and trigger GitLab CI (2 weeks ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 weeks ago)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (3 weeks ago)
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
