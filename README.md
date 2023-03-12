@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 
 #### 👨‍💻 Repositories I created recently
