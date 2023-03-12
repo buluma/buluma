@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.4](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.4), today) - Install dependecies to support the Ansible core modules.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.6](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.6), today) - Prepare your system to be managed by Ansible.
 - [buluma/gitlab-mirror-ci-action](https://github.com/buluma/gitlab-mirror-ci-action) ([1.0.7](https://github.com/buluma/gitlab-mirror-ci-action/releases/tag/1.0.7), 1 month ago) - Mirror to GitLab and trigger GitLab CI
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.4](https://github.com/buluma/molecule-action/releases/tag/v5.0.4), 2 months ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.4](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.4), 2 months ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-subversion](https://github.com/buluma/ansible-role-subversion) ([0.0.1](https://github.com/buluma/ansible-role-subversion/releases/tag/0.0.1), 2 months ago) - Install subversion and create repositories on your system.
 
 
