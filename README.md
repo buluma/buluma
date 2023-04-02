@@ -17,7 +17,7 @@ Always willing to learn new things.
 - [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (2 weeks ago)
 - [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (3 weeks ago)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (3 weeks ago)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (3 weeks ago)
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
