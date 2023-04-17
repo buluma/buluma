@@ -2,14 +2,18 @@ name: readme-scribe
 
 on:
   workflow_dispatch:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "5 * * * *"}]
   push:
     branches:
       - 'master'
 
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   readme-scribe:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       -
         name: Checkout
