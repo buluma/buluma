@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (today)
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (today)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 days ago)
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (2 days ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-rsyslog](https://github.com/buluma/ansible-role-rsyslog) ([1.0.2](https://github.com/buluma/ansible-role-rsyslog/releases/tag/1.0.2), today) - Install and configure rsyslog on your system.
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.6](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.6), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.1](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.1), today) - Enable backports on Debian
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.5](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.5), 2 days ago) - Install atom on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.7](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.7), 2 days ago) - Manage apt repositor(y|ies).
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.0](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.0), 2 days ago) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v0.1.8](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v0.1.8), 2 days ago) - Install ansible-lint on your system.
 
 
