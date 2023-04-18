@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
+- [buluma/ansible-role-update_pip_packages](https://github.com/buluma/ansible-role-update_pip_packages) - Find and update pip packages. (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (1 day ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.7](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.7), today) - Configure mounts.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.5](https://github.com/buluma/molecule-action/releases/tag/v5.0.5), today) - Test Ansible roles using Molecule
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.7](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.7), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
-- [buluma/ansible-role-rsyslog](https://github.com/buluma/ansible-role-rsyslog) ([1.0.2](https://github.com/buluma/ansible-role-rsyslog/releases/tag/1.0.2), today) - Install and configure rsyslog on your system.
-- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.1](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.1), today) - Enable backports on Debian
+- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.7](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.7), 1 day ago) - Configure mounts.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.5](https://github.com/buluma/molecule-action/releases/tag/v5.0.5), 1 day ago) - Test Ansible roles using Molecule
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.7](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.7), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/ansible-role-rsyslog](https://github.com/buluma/ansible-role-rsyslog) ([1.0.2](https://github.com/buluma/ansible-role-rsyslog/releases/tag/1.0.2), 1 day ago) - Install and configure rsyslog on your system.
+- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.1](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.1), 1 day ago) - Enable backports on Debian
 
 
