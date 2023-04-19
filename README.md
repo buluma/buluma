@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (1 day ago)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 day ago)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (1 day ago)
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (1 day ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (2 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.5](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.5), today) - Ansible Role for GitLab CE Installation.
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.7](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.7), 1 day ago) - Configure mounts.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.5](https://github.com/buluma/molecule-action/releases/tag/v5.0.5), 1 day ago) - Test Ansible roles using Molecule
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.7](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.7), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
-- [buluma/ansible-role-rsyslog](https://github.com/buluma/ansible-role-rsyslog) ([1.0.2](https://github.com/buluma/ansible-role-rsyslog/releases/tag/1.0.2), 1 day ago) - Install and configure rsyslog on your system.
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.5](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.5), 1 day ago) - Ansible Role for GitLab CE Installation.
+- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.7](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.7), 2 days ago) - Configure mounts.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.5](https://github.com/buluma/molecule-action/releases/tag/v5.0.5), 2 days ago) - Test Ansible roles using Molecule
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.7](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.7), 2 days ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/ansible-role-rsyslog](https://github.com/buluma/ansible-role-rsyslog) ([1.0.2](https://github.com/buluma/ansible-role-rsyslog/releases/tag/1.0.2), 2 days ago) - Install and configure rsyslog on your system.
 
 
