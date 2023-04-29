@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 - [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) - Install and configure auditd on your system. (today)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.5](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.5), today) - Install dependecies to support the Ansible core modules.
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), today) - Install and configure automatic package updates on your system.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), today) - Install and configure auditd on your system.
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.16](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.16), today) - Set Alternative
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.18](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.18), today) - Install and configure aide on your system.
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.5](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.5), 4 days ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) ([0.1.5](https://github.com/buluma/ansible-role-gitlab_ce/releases/tag/0.1.5), 1 week ago) - Ansible Role for GitLab CE Installation.
 
 
