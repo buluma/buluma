@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation. (today)
-- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
-- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) - Install and configure auditd on your system. (today)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 
 #### 👨‍💻 Repositories I created recently
 
