@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
-- [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation. (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (1 day ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 day ago)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (1 day ago)
+- [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation. (1 day ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.5](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.5), 1 day ago) - Install dependecies to support the Ansible core modules.
-- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), 1 day ago) - Install and configure automatic package updates on your system.
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), 1 day ago) - Install and configure auditd on your system.
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.16](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.16), 1 day ago) - Set Alternative
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.18](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.18), 1 day ago) - Install and configure aide on your system.
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.5](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.5), 2 days ago) - Install dependecies to support the Ansible core modules.
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), 2 days ago) - Install and configure automatic package updates on your system.
+- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), 2 days ago) - Install and configure auditd on your system.
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.16](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.16), 2 days ago) - Set Alternative
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.18](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.18), 2 days ago) - Install and configure aide on your system.
 
 
