@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/MozWall](https://github.com/buluma/MozWall) ([1.0.6](https://github.com/buluma/MozWall/releases/tag/1.0.6), today) - The Twitter Wall for Mozillians 
 - [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.5](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.5), 4 days ago) - Install dependecies to support the Ansible core modules.
 - [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), 4 days ago) - Install and configure automatic package updates on your system.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), 4 days ago) - Install and configure auditd on your system.
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.16](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.16), 4 days ago) - Set Alternative
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v1.0.18](https://github.com/buluma/ansible-role-aide/releases/tag/v1.0.18), 4 days ago) - Install and configure aide on your system.
 
 
