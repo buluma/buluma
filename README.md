@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (today)
-- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
+- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
