@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation. (today)
-- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) - Install and configure Docker CE on your system. (today)
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
+- [buluma/ansible-collection-mac](https://github.com/buluma/ansible-collection-mac) - This collection includes helpful Ansible roles and content to help with macOS automation. (1 day ago)
+- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) - Install and configure Docker CE on your system. (1 day ago)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.7](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.7), today) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.7](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.7), today) - Install and configure Docker (non-CE) on your system.
-- [buluma/MozWall](https://github.com/buluma/MozWall) ([1.0.6](https://github.com/buluma/MozWall/releases/tag/1.0.6), 1 day ago) - The Twitter Wall for Mozillians 
-- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), 5 days ago) - Install and configure automatic package updates on your system.
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), 5 days ago) - Install and configure auditd on your system.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.7](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.7), 1 day ago) - Prepare your system to be managed by Ansible.
+- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.7](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.7), 1 day ago) - Install and configure Docker (non-CE) on your system.
+- [buluma/MozWall](https://github.com/buluma/MozWall) ([1.0.6](https://github.com/buluma/MozWall/releases/tag/1.0.6), 2 days ago) - The Twitter Wall for Mozillians 
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) ([1.0.10](https://github.com/buluma/ansible-role-auto_update/releases/tag/1.0.10), 6 days ago) - Install and configure automatic package updates on your system.
+- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.9](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.9), 6 days ago) - Install and configure auditd on your system.
 
 
