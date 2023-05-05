@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) - The purpose of this role is to make backups of your system. (today)
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) - Install and configure auditd on your system. (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (today)
+- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.17](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.17), today) - Set Alternative
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.7](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.7), 1 day ago) - Install and configure Docker (non-CE) on your system.
-- [buluma/MozWall](https://github.com/buluma/MozWall) ([1.0.6](https://github.com/buluma/MozWall/releases/tag/1.0.6), 2 days ago) - The Twitter Wall for Mozillians 
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.5](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.5), 1 week ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.7](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.7), 2 weeks ago) - Configure mounts.
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.4](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.4), today) - Install buildtools on your system.
+- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.3](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.3), today) - Install cargo on your system.
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([0.1.9](https://github.com/buluma/ansible-role-ca/releases/tag/0.1.9), today) - Install and configure a certificate authority on your system.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.8](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.8), today) - Prepare your system to be managed by Ansible.
+- [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) ([v1.0.7](https://github.com/buluma/ansible-role-backup/releases/tag/v1.0.7), today) - The purpose of this role is to make backups of your system.
 
 
