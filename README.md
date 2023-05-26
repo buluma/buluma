@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (1 week ago)
-- [buluma/docker-kali-ansible](https://github.com/buluma/docker-kali-ansible) - Kali Linux (kali-rolling) Docker container for Ansible playbook and role testing.  (1 week ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 week ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) ([v0.1.6](https://github.com/buluma/ansible-role-influxdb2/releases/tag/v0.1.6), today) - Install and configure InfluxDB 2.0 using Ansible.
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.1](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.1), 2 weeks ago) - Enable or disable automatic starting of services upon installation of packages.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.6](https://github.com/buluma/molecule-action/releases/tag/v5.0.6), 2 weeks ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.6](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.6), 2 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) ([0.1.3](https://github.com/buluma/ansible-role-centos_base/releases/tag/0.1.3), 3 weeks ago) - Basic CentOS Configuration.
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) ([4.0.2](https://github.com/buluma/ansible-role-certbot/releases/tag/4.0.2), 3 weeks ago) - Ansible Role - Certbot (for Let&#39;s Encrypt)
 
 
