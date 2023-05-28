@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) - Install atom on your system. (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
-- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) - Install cargo on your system. (today)
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration. (today)
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (today)
+- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems. (today)
 
 #### 👨‍💻 Repositories I created recently
 
