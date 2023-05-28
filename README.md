@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (today)
 - [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (today)
+- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (today)
+- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
 
 #### 👨‍💻 Repositories I created recently
 
