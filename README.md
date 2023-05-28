@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration. (today)
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) - Install buildtools on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (today)
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems. (today)
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), today) - Dotfile installation for UNIX/Linux.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), today) - Install and configure auditd on your system.
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.7](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.7), today) - Install atom on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.9](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.9), today) - Manage apt repositor(y|ies).
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.2](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.2), today) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([0.2.0](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/0.2.0), today) - Install ansible-lint on your system.
 
 
