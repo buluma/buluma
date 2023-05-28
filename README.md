@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (2 days ago)
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
