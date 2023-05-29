@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (1 day ago)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 day ago)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (1 day ago)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), today) - Install and configure java on your system.
 - [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), 1 day ago) - Dotfile installation for UNIX/Linux.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), 1 day ago) - Install and configure auditd on your system.
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.7](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.7), 1 day ago) - Install atom on your system.
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.9](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.9), 1 day ago) - Manage apt repositor(y|ies).
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.2](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.2), 1 day ago) - Enable or disable automatic starting of services upon installation of packages.
 
 
