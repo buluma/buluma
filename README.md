@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (today)
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 
 #### 👨‍💻 Repositories I created recently
 
