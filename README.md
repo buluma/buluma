@@ -17,7 +17,7 @@ Always willing to learn new things.
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 day ago)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
