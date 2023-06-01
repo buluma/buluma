@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (today)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (2 days ago)
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) - Install and configure openssh on your system. (2 days ago)
-- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (2 days ago)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (2 days ago)
+- [buluma/ansible-role-mysql](https://github.com/buluma/ansible-role-mysql) - Install and configure mysql on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
