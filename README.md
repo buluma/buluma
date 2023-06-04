@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux. (today)
 - [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (today)
-- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (today)
-- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (today)
+- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system. (today)
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (today)
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
