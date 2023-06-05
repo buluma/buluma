@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (1 day ago)
+- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (1 day ago)
 - [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (1 day ago)
-- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system. (1 day ago)
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (1 day ago)
 - [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (1 day ago)
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (1 day ago)
+- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
