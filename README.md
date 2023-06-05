@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (today)
-- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
-- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system. (today)
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (1 day ago)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (1 day ago)
+- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system. (1 day ago)
+- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (1 day ago)
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,8 +29,8 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 5 days ago) - Make openssl certificates.
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), 6 days ago) - Install and configure java on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 6 days ago) - Make openssl certificates.
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), 1 week ago) - Install and configure java on your system.
 - [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), 1 week ago) - Dotfile installation for UNIX/Linux.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), 1 week ago) - Install and configure auditd on your system.
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.7](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.7), 1 week ago) - Install atom on your system.
