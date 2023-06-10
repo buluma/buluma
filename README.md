@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (today)
-- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (5 days ago)
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (5 days ago)
-- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (5 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 day ago)
+- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (6 days ago)
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (6 days ago)
+- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
