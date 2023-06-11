@@ -16,8 +16,8 @@ Always willing to learn new things.
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (2 days ago)
 - [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (1 week ago)
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (1 week ago)
-- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (1 week ago)
+- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (1 week ago)
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
