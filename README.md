@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 day ago)
-- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (6 days ago)
-- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (6 days ago)
-- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (6 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (2 days ago)
+- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (1 week ago)
+- [buluma/ansible-role-travis](https://github.com/buluma/ansible-role-travis) - Installs travis on your system. (1 week ago)
+- [buluma/ansible-role-skopeo](https://github.com/buluma/ansible-role-skopeo) - Install Skopeo on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -31,8 +31,8 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 1 week ago) - Make openssl certificates.
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), 1 week ago) - Install and configure java on your system.
-- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), 1 week ago) - Dotfile installation for UNIX/Linux.
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), 1 week ago) - Install and configure auditd on your system.
-- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.7](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.7), 1 week ago) - Install atom on your system.
+- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), 2 weeks ago) - Dotfile installation for UNIX/Linux.
+- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), 2 weeks ago) - Install and configure auditd on your system.
+- [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([2.0.7](https://github.com/buluma/ansible-role-atom/releases/tag/2.0.7), 2 weeks ago) - Install atom on your system.
 
 
