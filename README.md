@@ -13,8 +13,8 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (3 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (4 days ago)
 - [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (1 week ago)
 - [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (1 week ago)
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (1 week ago)
@@ -29,8 +29,8 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.3), 1 day ago) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 1 week ago) - Make openssl certificates.
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.3), 2 days ago) - Enable or disable automatic starting of services upon installation of packages.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), 2 weeks ago) - Install and configure java on your system.
 - [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) ([0.1.3](https://github.com/buluma/ansible-role-dotfiles/releases/tag/0.1.3), 2 weeks ago) - Dotfile installation for UNIX/Linux.
 - [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) ([v1.0.11](https://github.com/buluma/ansible-role-auditd/releases/tag/v1.0.11), 2 weeks ago) - Install and configure auditd on your system.
