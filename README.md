@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 week ago)
-- [buluma/ansible-role-ulimit](https://github.com/buluma/ansible-role-ulimit) - Configure ulimit on your system. (2 weeks ago)
-- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (2 weeks ago)
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) - Install and configure zabbix_web on your system. (2 weeks ago)
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
