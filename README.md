@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v2.0.2](https://github.com/buluma/ansible-role-aide/releases/tag/v2.0.2), today) - Install and configure aide on your system.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.8](https://github.com/buluma/molecule-action/releases/tag/v5.0.8), today) - Test Ansible roles using Molecule
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.19](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.19), today) - Set Alternative
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.8](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.8), today) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.3](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.3), 1 month ago) - Enable or disable automatic starting of services upon installation of packages.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.1](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.1), 1 month ago) - Make openssl certificates.
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.0.7](https://github.com/buluma/ansible-role-java/releases/tag/1.0.7), 1 month ago) - Install and configure java on your system.
 
 
