@@ -15,7 +15,7 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 - [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
