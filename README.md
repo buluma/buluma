@@ -17,7 +17,7 @@ Always willing to learn new things.
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/docker-github-action-galaxy](https://github.com/buluma/docker-github-action-galaxy) - A container that is used for GitHub actions galaxy (today)
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) - Test Ansible roles using Molecule (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
