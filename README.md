@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (today)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/docker-github-action-galaxy](https://github.com/buluma/docker-github-action-galaxy) - A container that is used for GitHub actions galaxy (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-generator](https://github.com/buluma/ansible-generator) - Generate documentation and continuous integration files for an Ansible Role. (1 day ago)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/docker-github-action-galaxy](https://github.com/buluma/docker-github-action-galaxy) - A container that is used for GitHub actions galaxy (1 day ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v2.0.4](https://github.com/buluma/ansible-role-aide/releases/tag/v2.0.4), today) - Install and configure aide on your system.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.9](https://github.com/buluma/molecule-action/releases/tag/v5.0.9), today) - Test Ansible roles using Molecule
-- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), today) - Install the Enpass password manager on your system.
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.9), today) - A container that is used for GitHub molecule actions
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v2.0.4](https://github.com/buluma/ansible-role-aide/releases/tag/v2.0.4), 1 day ago) - Install and configure aide on your system.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.9](https://github.com/buluma/molecule-action/releases/tag/v5.0.9), 1 day ago) - Test Ansible roles using Molecule
+- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), 1 day ago) - Install the Enpass password manager on your system.
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.9), 1 day ago) - A container that is used for GitHub molecule actions
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), 1 day ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
