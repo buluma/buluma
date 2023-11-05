@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) ([2.5.4](https://github.com/buluma/ansible-role-ansible/releases/tag/2.5.4), today) - Install and configure ansible on your system.
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v2.0.4](https://github.com/buluma/ansible-role-aide/releases/tag/v2.0.4), 6 days ago) - Install and configure aide on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.0.9](https://github.com/buluma/molecule-action/releases/tag/v5.0.9), 6 days ago) - Test Ansible roles using Molecule
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), 6 days ago) - Install the Enpass password manager on your system.
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v5.0.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v5.0.9), 6 days ago) - A container that is used for GitHub molecule actions
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), 6 days ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
