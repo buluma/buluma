@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
@@ -30,9 +30,9 @@ Always willing to learn new things.
 #### 🚀 Latest releases I've contributed to
 
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.3](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.3), today) - Install Apache 2.x for Linux.
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) ([1.0.10](https://github.com/buluma/ansible-role-epel/releases/tag/1.0.10), today) - Install epel on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.1.1](https://github.com/buluma/molecule-action/releases/tag/v5.1.1), today) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([5.1.1](https://github.com/buluma/docker-github-action-molecule/releases/tag/5.1.1), today) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.12](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.12), 1 week ago) - Prepare your system to be managed by Ansible.
+- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), 2 weeks ago) - Install the Enpass password manager on your system.
 
 
