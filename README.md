@@ -33,6 +33,6 @@ Always willing to learn new things.
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) ([1.0.10](https://github.com/buluma/ansible-role-epel/releases/tag/1.0.10), today) - Install epel on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.1.1](https://github.com/buluma/molecule-action/releases/tag/v5.1.1), today) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([5.1.1](https://github.com/buluma/docker-github-action-molecule/releases/tag/5.1.1), today) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) ([v1.0.1](https://github.com/buluma/ansible-role-ansible_lint/releases/tag/v1.0.1), 1 week ago) - Install ansible-lint on your system.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.12](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.12), 1 week ago) - Prepare your system to be managed by Ansible.
 
 
