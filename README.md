@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-php_versions](https://github.com/buluma/ansible-role-php_versions) - Install different PHP versions on your systems.  (today)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) - Configure mounts. (today)
 
 #### 👨‍💻 Repositories I created recently
 
