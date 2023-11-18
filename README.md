@@ -1,19 +1,23 @@
 ### Just another creative nerd 👋
 
+
+![Profile views](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
+</a>
 [![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white&include_all_commits=true&count_private=true)](https://gitstats.me/buluma)
 [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
 
-I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), [Python](https://python.org), automated tests and infrastucture.
+I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
 
 Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) - Test Ansible roles using Molecule (today)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -25,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.3](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.3), today) - Install Apache 2.x for Linux.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.1.1](https://github.com/buluma/molecule-action/releases/tag/v5.1.1), today) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([5.1.1](https://github.com/buluma/docker-github-action-molecule/releases/tag/5.1.1), today) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.12](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.12), 1 week ago) - Prepare your system to be managed by Ansible.
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), 2 weeks ago) - Install the Enpass password manager on your system.
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), 2 weeks ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
