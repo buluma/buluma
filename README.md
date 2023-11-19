@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
 - [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (today)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.0.2](https://github.com/buluma/ansible-role-cron/releases/tag/2.0.2), today) - Install cron and scedule jobs on your system.
+- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) ([4.0.3](https://github.com/buluma/ansible-role-certbot/releases/tag/4.0.3), today) - Ansible Role - Certbot (for Let&#39;s Encrypt)
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v5.1.1](https://github.com/buluma/molecule-action/releases/tag/v5.1.1), 1 day ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([5.1.1](https://github.com/buluma/docker-github-action-molecule/releases/tag/5.1.1), 1 day ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.12](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.12), 2 weeks ago) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.0.1](https://github.com/buluma/ansible-role-enpass/releases/tag/0.0.1), 2 weeks ago) - Install the Enpass password manager on your system.
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), 2 weeks ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
