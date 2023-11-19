@@ -15,9 +15,9 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
 - [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (today)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (today)
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (today)
-- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
 
 #### 👨‍💻 Repositories I created recently
 
