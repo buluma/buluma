@@ -15,9 +15,9 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (1 day ago)
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (today)
+- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
+- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
