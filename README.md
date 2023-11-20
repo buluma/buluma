@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) - Install and configure timezone on your systems. (today)
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) - Configure mounts. (today)
+- [buluma/ansible-role-ssh_keys](https://github.com/buluma/ansible-role-ssh_keys) - Install SSH Keys on your system. (today)
+- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
-- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
 
 #### 👨‍💻 Repositories I created recently
 
