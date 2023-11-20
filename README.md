@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) - Enable or disable automatic starting of services upon installation of packages. (today)
+- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) - Install and configure Docker CE on your system. (today)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
 - [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) - Manage apt repositor(y|ies). (today)
-- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
 - [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
