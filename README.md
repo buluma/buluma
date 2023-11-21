@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-proxmox_pbs](https://github.com/buluma/ansible-role-proxmox_pbs) - Ansible role to install aspects of a Proxmox Backup Server. (today)
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 - [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
