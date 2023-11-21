@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.2](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.2), today) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.9](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.9), 1 day ago) - Upgrade a package only if it is installed otherwise do nothing.
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.8](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.8), 1 day ago) - Installs the Varnish HTTP Cache
 - [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.8](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.8), 1 day ago) - Install Gnome on your system
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.0.2](https://github.com/buluma/ansible-role-cron/releases/tag/2.0.2), 2 days ago) - Install cron and scedule jobs on your system.
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) ([4.0.3](https://github.com/buluma/ansible-role-certbot/releases/tag/4.0.3), 2 days ago) - Ansible Role - Certbot (for Let&#39;s Encrypt)
 
 
