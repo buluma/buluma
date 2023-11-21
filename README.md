@@ -17,7 +17,7 @@ Always willing to learn new things.
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 - [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
+- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System. (today)
 
 #### 👨‍💻 Repositories I created recently
 
