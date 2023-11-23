@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) - The purpose of this role is to add users and groups on your system. (today)
+- [buluma/ansible-role-timezone](https://github.com/buluma/ansible-role-timezone) - Install and configure timezone on your systems. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-proxmox_pbs](https://github.com/buluma/ansible-role-proxmox_pbs) - Ansible role to install aspects of a Proxmox Backup Server. (2 days ago)
-- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System. (2 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
