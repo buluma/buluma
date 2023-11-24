@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (today)
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
 - [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
+- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
