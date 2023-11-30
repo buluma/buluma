@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images (1 day ago)
-- [buluma/ansible-role-repo_epel](https://github.com/buluma/ansible-role-repo_epel) - Ansible Role - EPEL Repository for RHEL/CentOS (3 days ago)
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (5 days ago)
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (5 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images (2 days ago)
+- [buluma/ansible-role-repo_epel](https://github.com/buluma/ansible-role-repo_epel) - Ansible Role - EPEL Repository for RHEL/CentOS (4 days ago)
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) - Install eclipse and plugins on your system. (6 days ago)
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,9 +29,9 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.5](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.5), 5 days ago) - Install buildtools on your system.
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.4](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.4), 6 days ago) - Install Apache 2.x for Linux.
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.1](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.1), 6 days ago) - Install pythons pip on your system.
+- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.5](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.5), 6 days ago) - Install buildtools on your system.
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.4](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.4), 1 week ago) - Install Apache 2.x for Linux.
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.1](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.1), 1 week ago) - Install pythons pip on your system.
 - [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.2](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.2), 1 week ago) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.9](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.9), 1 week ago) - Upgrade a package only if it is installed otherwise do nothing.
 
