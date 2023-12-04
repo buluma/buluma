@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (today)
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -31,8 +31,8 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.5](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.5), 1 week ago) - Install buildtools on your system.
 - [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.1](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.1), 1 week ago) - Install pythons pip on your system.
-- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.2](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.2), 1 week ago) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.9](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.9), 2 weeks ago) - Upgrade a package only if it is installed otherwise do nothing.
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.8](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.8), 2 weeks ago) - Installs the Varnish HTTP Cache
+- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.8](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.8), 2 weeks ago) - Install Gnome on your system
 
 
