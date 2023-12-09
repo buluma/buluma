@@ -13,19 +13,19 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
-- [buluma/ansible-role-molecule](https://github.com/buluma/ansible-role-molecule) - Install Molecule on your system. (today)
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) - Install and configure gitlab-runner on your system.
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system.
 - [buluma/docker-kali-ansible](https://github.com/buluma/docker-kali-ansible) - Kali Linux (kali-rolling) Docker container for Ansible playbook and role testing. 
 - [buluma/docker-fedora38-ansible](https://github.com/buluma/docker-fedora38-ansible) - Fedora 38 Docker container for Ansible playbook and role testing.
 - [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) - Enable backports on Debian
-- [buluma/docker-debian12-ansible](https://github.com/buluma/docker-debian12-ansible) - Debian 12 (Bookworm) Docker container for Ansible playbook and role testing.
 
 #### 🚀 Latest releases I've contributed to
 
