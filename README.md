@@ -13,8 +13,8 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-diskspace](https://github.com/buluma/ansible-role-diskspace) - Check diskspace (or inodes) available, fail if too low. (today)
-- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System. (today)
+- [buluma/ansible-role-gitlab_ce](https://github.com/buluma/ansible-role-gitlab_ce) - Ansible Role for GitLab CE Installation. (today)
+- [buluma/ansible-role-gitlab_ee](https://github.com/buluma/ansible-role-gitlab_ee) - Ansible Role for GitLab EE Installation. (today)
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
 - [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (today)
