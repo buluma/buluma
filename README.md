@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux. (today)
+- [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) - Simple SSH chroot jail management. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) - Configure mounts. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-libvirt](https://github.com/buluma/ansible-role-libvirt) ([1.0.2](https://github.com/buluma/ansible-role-libvirt/releases/tag/1.0.2), today) - Install and configure libvirt on your system.
-- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.4](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.4), today) - Install cargo on your system.
-- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.4](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.4), today) - Install eclipse and plugins on your system.
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([1.0.9](https://github.com/buluma/ansible-role-openssh/releases/tag/1.0.9), today) - Install and configure openssh on your system.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v6.0.0](https://github.com/buluma/molecule-action/releases/tag/v6.0.0), today) - Test Ansible roles using Molecule
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) ([0.1.7](https://github.com/buluma/ansible-role-influxdb2/releases/tag/0.1.7), today) - Install and configure InfluxDB 2.0 using Ansible.
+- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.9](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.9), today) - Install and configure nginx on your system.
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.0.6](https://github.com/buluma/ansible-role-vault/releases/tag/1.0.6), today) - Install, configure, initialize and unseal Hashicorp Vault.
+- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.2](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.2), today) - Enable backports on Debian
+- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) ([1.0.5](https://github.com/buluma/ansible-role-nodejs/releases/tag/1.0.5), today) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu.
 
 
