@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system. (1 week ago)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 week ago)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 week ago)
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) - Install and configure InfluxDB 2.0 using Ansible. (1 week ago)
+- [buluma/ansible-role-supervisor](https://github.com/buluma/ansible-role-supervisor) - Supervisor (process state manager) for Linux. (today)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) - Configure mounts. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools) ([2.1.5](https://github.com/buluma/ansible-role-buildtools/releases/tag/2.1.5), 3 weeks ago) - Install buildtools on your system.
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.1](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.1), 3 weeks ago) - Install pythons pip on your system.
-- [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([1.0.9](https://github.com/buluma/ansible-role-upgrade/releases/tag/1.0.9), 3 weeks ago) - Upgrade a package only if it is installed otherwise do nothing.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.8](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.8), 3 weeks ago) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-gnome](https://github.com/buluma/ansible-role-gnome) ([1.0.8](https://github.com/buluma/ansible-role-gnome/releases/tag/1.0.8), 3 weeks ago) - Install Gnome on your system
+- [buluma/ansible-role-libvirt](https://github.com/buluma/ansible-role-libvirt) ([1.0.2](https://github.com/buluma/ansible-role-libvirt/releases/tag/1.0.2), today) - Install and configure libvirt on your system.
+- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.4](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.4), today) - Install cargo on your system.
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.4](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.4), today) - Install eclipse and plugins on your system.
+- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([1.0.9](https://github.com/buluma/ansible-role-openssh/releases/tag/1.0.9), today) - Install and configure openssh on your system.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v6.0.0](https://github.com/buluma/molecule-action/releases/tag/v6.0.0), today) - Test Ansible roles using Molecule
 
 
