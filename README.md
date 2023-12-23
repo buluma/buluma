@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-ansible_lint](https://github.com/buluma/ansible-role-ansible_lint) - Install ansible-lint on your system. (today)
+- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) - Install and configure Docker CE on your system. (today)
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (1 day ago)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (5 days ago)
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) - Install and configure zabbix_agent on your system. (today)
+- [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) - Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) ([2.0.0](https://github.com/buluma/ansible-role-kibana/releases/tag/2.0.0), 1 day ago) - Ansible role to install Kibana for Linux.
-- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) ([0.1.7](https://github.com/buluma/ansible-role-influxdb2/releases/tag/0.1.7), 5 days ago) - Install and configure InfluxDB 2.0 using Ansible.
-- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.9](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.9), 5 days ago) - Install and configure nginx on your system.
-- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.0.6](https://github.com/buluma/ansible-role-vault/releases/tag/1.0.6), 5 days ago) - Install, configure, initialize and unseal Hashicorp Vault.
-- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.2](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.2), 5 days ago) - Enable backports on Debian
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) ([2.0.0](https://github.com/buluma/ansible-role-kibana/releases/tag/2.0.0), 2 days ago) - Ansible role to install Kibana for Linux.
+- [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) ([0.1.7](https://github.com/buluma/ansible-role-influxdb2/releases/tag/0.1.7), 6 days ago) - Install and configure InfluxDB 2.0 using Ansible.
+- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.9](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.9), 6 days ago) - Install and configure nginx on your system.
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.0.6](https://github.com/buluma/ansible-role-vault/releases/tag/1.0.6), 6 days ago) - Install, configure, initialize and unseal Hashicorp Vault.
+- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) ([0.0.2](https://github.com/buluma/ansible-role-backports/releases/tag/0.0.2), 6 days ago) - Enable backports on Debian
 
 
