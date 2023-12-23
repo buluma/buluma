@@ -21,11 +21,11 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director.
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories.
 - [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) - Install and configure gitlab-runner on your system.
-- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system.
-- [buluma/docker-kali-ansible](https://github.com/buluma/docker-kali-ansible) - Kali Linux (kali-rolling) Docker container for Ansible playbook and role testing. 
 
 #### 🚀 Latest releases I've contributed to
 
