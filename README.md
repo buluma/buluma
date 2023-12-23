@@ -1,7 +1,7 @@
 ### Just another creative nerd 👋
 
 
-![](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
+![Profile views](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 </a>
 [![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white&include_all_commits=true&count_private=true)](https://gitstats.me/buluma)
@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (today)
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) - Install VictoriaMetrics on your system. (today)
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) - Install and configure zabbix_agent on your system. (today)
+- [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) - Install Thunderbird on your system. (today)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-hosts](https://github.com/buluma/ansible-role-hosts) ([0.0.1](https://github.com/buluma/ansible-role-hosts/releases/tag/0.0.1), today) - Ansible role that dynamically creates the hosts file.
 - [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) ([0.0.1](https://github.com/buluma/ansible-role-bareos_console/releases/tag/0.0.1), today) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) ([0.0.1](https://github.com/buluma/ansible-role-bareos_webui/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.1](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) Director.
 - [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.0.1](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) ([0.0.1](https://github.com/buluma/ansible-role-bareos_repository/releases/tag/0.0.1), today) - Setup the [Bareos](https://www.bareos.com/) repositories.
 
 
