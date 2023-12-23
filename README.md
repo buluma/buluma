@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-collection-bareos](https://github.com/buluma/ansible-collection-bareos) - Roles to configure Bareos File Daemon, Storage Daemon and Director.
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
+- [buluma/ansible-role-bareos_fd](https://github.com/buluma/ansible-role-bareos_fd) - Install and configure [Bareos](https://www.bareos.com/) File Daemon.
 - [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director.
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories.
-- [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) - Install and configure gitlab-runner on your system.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) ([0.0.1](https://github.com/buluma/ansible-role-bareos_console/releases/tag/0.0.1), today) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) ([0.0.1](https://github.com/buluma/ansible-role-bareos_webui/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.1](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) Director.
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.0.1](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.0.1), today) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) ([0.0.1](https://github.com/buluma/ansible-role-bareos_repository/releases/tag/0.0.1), today) - Setup the [Bareos](https://www.bareos.com/) repositories.
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.6](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.6), today) - install sudo on your system.
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) ([v1.0.10](https://github.com/buluma/ansible-role-selinux/releases/tag/v1.0.10), today) - Install and configure selinux and its required libraries on your system.
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) ([v2.4.9](https://github.com/buluma/ansible-role-haproxy/releases/tag/v2.4.9), today) - Install and configure haproxy on your system.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.3](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.3), today) - Make openssl certificates.
 
 
