@@ -21,18 +21,18 @@ Always willing to learn new things.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director.
+- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories.
 - [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) - Install and configure gitlab-runner on your system.
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system.
 - [buluma/docker-kali-ansible](https://github.com/buluma/docker-kali-ansible) - Kali Linux (kali-rolling) Docker container for Ansible playbook and role testing. 
-- [buluma/docker-fedora38-ansible](https://github.com/buluma/docker-fedora38-ansible) - Fedora 38 Docker container for Ansible playbook and role testing.
-- [buluma/ansible-role-backports](https://github.com/buluma/ansible-role-backports) - Enable backports on Debian
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) ([0.0.1](https://github.com/buluma/ansible-role-bareos_repository/releases/tag/0.0.1), today) - Setup the [Bareos](https://www.bareos.com/) repositories.
 - [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.6](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.6), today) - install sudo on your system.
 - [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) ([v1.0.10](https://github.com/buluma/ansible-role-selinux/releases/tag/v1.0.10), today) - Install and configure selinux and its required libraries on your system.
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) ([v2.4.9](https://github.com/buluma/ansible-role-haproxy/releases/tag/v2.4.9), today) - Install and configure haproxy on your system.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.3](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.3), today) - Make openssl certificates.
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) ([2.0.0](https://github.com/buluma/ansible-role-kibana/releases/tag/2.0.0), 2 days ago) - Ansible role to install Kibana for Linux.
 
 
