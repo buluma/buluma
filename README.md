@@ -1,7 +1,7 @@
 ### Just another creative nerd 👋
 
 
-![Profile views](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
+![](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 </a>
 [![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white&include_all_commits=true&count_private=true)](https://gitstats.me/buluma)
