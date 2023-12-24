@@ -13,9 +13,9 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
+- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (today)
 - [buluma/ansible-role-rpmfusion](https://github.com/buluma/ansible-role-rpmfusion) - Install rpmfusion repositories on your system. (today)
-- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) ([0.1.1](https://github.com/buluma/ansible-role-at/releases/tag/0.1.1), today) - Install and configure at on your system.
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([3.0.1](https://github.com/buluma/ansible-role-anaconda/releases/tag/3.0.1), today) - Install anaconda on your system.
 - [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.4](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.4), today) - Install the Elastic repository on your system.
 - [buluma/ansible-role-hosts](https://github.com/buluma/ansible-role-hosts) ([0.0.1](https://github.com/buluma/ansible-role-hosts/releases/tag/0.0.1), 1 day ago) - Ansible role that dynamically creates the hosts file.
 - [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) ([0.0.1](https://github.com/buluma/ansible-role-bareos_console/releases/tag/0.0.1), 1 day ago) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) ([0.0.1](https://github.com/buluma/ansible-role-bareos_webui/releases/tag/0.0.1), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.1](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.1), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Director.
 
 
