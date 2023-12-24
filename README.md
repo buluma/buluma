@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) ([v0.1.0](https://github.com/buluma/ansible-role-netiq_idm/releases/tag/v0.1.0), today) - Ansible role for setting up NetIQ Identity Manager.
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) ([v0.1.0](https://github.com/buluma/ansible-role-nsswitch/releases/tag/v0.1.0), today) - Configure Name Server Switch on your systems.
+- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.0.2](https://github.com/buluma/ansible-role-nomad/releases/tag/1.0.2), today) - Install and configure Nomad.
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.1.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.1.0), today) - Install and configure netdata.
 - [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) ([v0.1.0](https://github.com/buluma/ansible-role-galen/releases/tag/v0.1.0), today) - Install Galen on your Linux System.
-- [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) ([v0.1.0](https://github.com/buluma/ansible-role-gitlab_runner/releases/tag/v0.1.0), today) - Install and configure gitlab-runner on your system.
-- [buluma/ansible-role-git_test](https://github.com/buluma/ansible-role-git_test) ([v0.1.0](https://github.com/buluma/ansible-role-git_test/releases/tag/v0.1.0), today) - Git test
-- [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) ([v0.1.1](https://github.com/buluma/ansible-role-f5ansible/releases/tag/v0.1.1), today) - Install and configure f5 module with ansible.
-- [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) ([0.1.2](https://github.com/buluma/ansible-role-clamav/releases/tag/0.1.2), today) - Install and configure clamav on your system.
 
 
