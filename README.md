@@ -14,7 +14,7 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
-- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
+- [buluma/ansible-role-rpmfusion](https://github.com/buluma/ansible-role-rpmfusion) - Install rpmfusion repositories on your system. (today)
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) - Install and configure Sensu on your system. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
