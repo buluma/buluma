@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (today)
 - [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-artifactory](https://github.com/buluma/ansible-role-artifactory) ([v0.1.0](https://github.com/buluma/ansible-role-artifactory/releases/tag/v0.1.0), today) - Install and configure artifactory on your system.
-- [buluma/ansible-role-apt_autostart](https://github.com/buluma/ansible-role-apt_autostart) ([1.0.4](https://github.com/buluma/ansible-role-apt_autostart/releases/tag/1.0.4), today) - Enable or disable automatic starting of services upon installation of packages.
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) ([0.1.5](https://github.com/buluma/ansible-role-apache/releases/tag/0.1.5), today) - Install Apache 2.x for Linux.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.2](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.2), today) - An ansible role for managing mail aliases.
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v2.0.5](https://github.com/buluma/ansible-role-aide/releases/tag/v2.0.5), today) - Install and configure aide on your system.
+- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) ([v0.1.0](https://github.com/buluma/ansible-role-galen/releases/tag/v0.1.0), today) - Install Galen on your Linux System.
+- [buluma/ansible-role-gitlab_runner](https://github.com/buluma/ansible-role-gitlab_runner) ([v0.1.0](https://github.com/buluma/ansible-role-gitlab_runner/releases/tag/v0.1.0), today) - Install and configure gitlab-runner on your system.
+- [buluma/ansible-role-git_test](https://github.com/buluma/ansible-role-git_test) ([v0.1.0](https://github.com/buluma/ansible-role-git_test/releases/tag/v0.1.0), today) - Git test
+- [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) ([v0.1.1](https://github.com/buluma/ansible-role-f5ansible/releases/tag/v0.1.1), today) - Install and configure f5 module with ansible.
+- [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) ([0.1.2](https://github.com/buluma/ansible-role-clamav/releases/tag/0.1.2), today) - Install and configure clamav on your system.
 
 
