@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (1 day ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
 - [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.4](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.4), today) - Install the Elastic repository on your system.
 - [buluma/ansible-role-hosts](https://github.com/buluma/ansible-role-hosts) ([0.0.1](https://github.com/buluma/ansible-role-hosts/releases/tag/0.0.1), 1 day ago) - Ansible role that dynamically creates the hosts file.
 - [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) ([0.0.1](https://github.com/buluma/ansible-role-bareos_console/releases/tag/0.0.1), 1 day ago) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) ([0.0.1](https://github.com/buluma/ansible-role-bareos_webui/releases/tag/0.0.1), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.1](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.1), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Director.
-- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.0.1](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.0.1), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
 
 
