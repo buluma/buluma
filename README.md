@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.10](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.10), today) - Manage apt repositor(y|ies).
 - [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) ([v0.1.0](https://github.com/buluma/ansible-role-netiq_idm/releases/tag/v0.1.0), 1 day ago) - Ansible role for setting up NetIQ Identity Manager.
 - [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) ([v0.1.0](https://github.com/buluma/ansible-role-nsswitch/releases/tag/v0.1.0), 1 day ago) - Configure Name Server Switch on your systems.
 - [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.0.2](https://github.com/buluma/ansible-role-nomad/releases/tag/1.0.2), 1 day ago) - Install and configure Nomad.
 - [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.1.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.1.0), 1 day ago) - Install and configure netdata.
-- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) ([v0.1.0](https://github.com/buluma/ansible-role-galen/releases/tag/v0.1.0), 1 day ago) - Install Galen on your Linux System.
 
 
