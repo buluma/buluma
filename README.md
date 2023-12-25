@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.1](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.1), today) - Install gotop on your system.
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) ([4.0.2](https://github.com/buluma/ansible-role-git/releases/tag/4.0.2), today) - Install Git on your system
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.2](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.2), today) - Install pythons pip on your system.
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) ([1.0.11](https://github.com/buluma/ansible-role-epel/releases/tag/1.0.11), today) - Install epel on your system.
-- [buluma/ansible-role-environment](https://github.com/buluma/ansible-role-environment) ([1.0.9](https://github.com/buluma/ansible-role-environment/releases/tag/1.0.9), today) - Set system-wide variables.
+- [buluma/ansible-role-mount](https://github.com/buluma/ansible-role-mount) ([1.0.8](https://github.com/buluma/ansible-role-mount/releases/tag/1.0.8), today) - Configure mounts.
+- [buluma/ansible-role-maintenance](https://github.com/buluma/ansible-role-maintenance) ([1.0.8](https://github.com/buluma/ansible-role-maintenance/releases/tag/1.0.8), today) - Maintain your system by cleaning up.
+- [buluma/ansible-role-modprobe](https://github.com/buluma/ansible-role-modprobe) ([v0.1.3](https://github.com/buluma/ansible-role-modprobe/releases/tag/v0.1.3), today) - Load modules.
+- [buluma/ansible-role-libvirt](https://github.com/buluma/ansible-role-libvirt) ([1.0.6](https://github.com/buluma/ansible-role-libvirt/releases/tag/1.0.6), today) - Install and configure libvirt on your system.
+- [buluma/ansible-role-hostname](https://github.com/buluma/ansible-role-hostname) ([0.1.3](https://github.com/buluma/ansible-role-hostname/releases/tag/0.1.3), today) - Install dependencies and configure the hostname on your system.
 
 
