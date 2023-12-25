@@ -13,7 +13,7 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (today)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
 - [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-filesystem](https://github.com/buluma/ansible-role-filesystem) ([1.0.8](https://github.com/buluma/ansible-role-filesystem/releases/tag/1.0.8), today) - Make filesystems.
-- [buluma/ansible-role-forensics](https://github.com/buluma/ansible-role-forensics) ([v2.0.0](https://github.com/buluma/ansible-role-forensics/releases/tag/v2.0.0), today) - Install and configure forensics on your system.
-- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) ([0.1.2](https://github.com/buluma/ansible-role-earlyoom/releases/tag/0.1.2), today) - Install and configure Early Out Of Memory Killer on your system.
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) ([1.0.10](https://github.com/buluma/ansible-role-etherpad/releases/tag/1.0.10), today) - Install and configure Etherpad on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.9), today) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.4](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.4), today) - Install MATE on your system.
+- [buluma/ansible-role-ruby](https://github.com/buluma/ansible-role-ruby) ([1.0.8](https://github.com/buluma/ansible-role-ruby/releases/tag/1.0.8), today) - Install ruby on your system.
+- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.2](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.2), today) - Install and configure revealmd on your system.
+- [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) ([1.0.7](https://github.com/buluma/ansible-role-npm/releases/tag/1.0.7), today) - Install npm on your system.
+- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) ([4.1.10](https://github.com/buluma/ansible-role-nginx/releases/tag/4.1.10), today) - Install and configure nginx on your system.
 
 
