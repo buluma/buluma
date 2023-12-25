@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) ([v0.1.0](https://github.com/buluma/ansible-role-netiq_idm/releases/tag/v0.1.0), today) - Ansible role for setting up NetIQ Identity Manager.
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) ([v0.1.0](https://github.com/buluma/ansible-role-nsswitch/releases/tag/v0.1.0), today) - Configure Name Server Switch on your systems.
-- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.0.2](https://github.com/buluma/ansible-role-nomad/releases/tag/1.0.2), today) - Install and configure Nomad.
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.1.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.1.0), today) - Install and configure netdata.
-- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) ([v0.1.0](https://github.com/buluma/ansible-role-galen/releases/tag/v0.1.0), today) - Install Galen on your Linux System.
+- [buluma/ansible-role-netiq_idm](https://github.com/buluma/ansible-role-netiq_idm) ([v0.1.0](https://github.com/buluma/ansible-role-netiq_idm/releases/tag/v0.1.0), 1 day ago) - Ansible role for setting up NetIQ Identity Manager.
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) ([v0.1.0](https://github.com/buluma/ansible-role-nsswitch/releases/tag/v0.1.0), 1 day ago) - Configure Name Server Switch on your systems.
+- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.0.2](https://github.com/buluma/ansible-role-nomad/releases/tag/1.0.2), 1 day ago) - Install and configure Nomad.
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.1.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.1.0), 1 day ago) - Install and configure netdata.
+- [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) ([v0.1.0](https://github.com/buluma/ansible-role-galen/releases/tag/v0.1.0), 1 day ago) - Install Galen on your Linux System.
 
 
