@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-samba](https://github.com/buluma/ansible-role-samba) ([v0.1.1](https://github.com/buluma/ansible-role-samba/releases/tag/v0.1.1), today) - Installs Samba client and server for RHEL/CentOS.
-- [buluma/ansible-role-scl](https://github.com/buluma/ansible-role-scl) ([0.1.4](https://github.com/buluma/ansible-role-scl/releases/tag/0.1.4), today) - Install SCL on your system.
-- [buluma/ansible-role-ruby](https://github.com/buluma/ansible-role-ruby) ([1.0.7](https://github.com/buluma/ansible-role-ruby/releases/tag/1.0.7), today) - Install ruby on your system.
-- [buluma/ansible-role-repo_epel](https://github.com/buluma/ansible-role-repo_epel) ([2.1.6](https://github.com/buluma/ansible-role-repo_epel/releases/tag/2.1.6), today) - Ansible Role - EPEL Repository for RHEL/CentOS
-- [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) ([2.0.0](https://github.com/buluma/ansible-role-reboot/releases/tag/2.0.0), today) - Well, reboot your system.
+- [buluma/ansible-role-filesystem](https://github.com/buluma/ansible-role-filesystem) ([1.0.8](https://github.com/buluma/ansible-role-filesystem/releases/tag/1.0.8), today) - Make filesystems.
+- [buluma/ansible-role-forensics](https://github.com/buluma/ansible-role-forensics) ([v2.0.0](https://github.com/buluma/ansible-role-forensics/releases/tag/v2.0.0), today) - Install and configure forensics on your system.
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) ([0.1.2](https://github.com/buluma/ansible-role-earlyoom/releases/tag/0.1.2), today) - Install and configure Early Out Of Memory Killer on your system.
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) ([1.0.10](https://github.com/buluma/ansible-role-etherpad/releases/tag/1.0.10), today) - Install and configure Etherpad on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.0.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.0.9), today) - Install and configure zabbix-proxy on your system.
 
 
