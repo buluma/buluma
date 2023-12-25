@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-common](https://github.com/buluma/ansible-role-common) - The purpose of this role is to configure common things on your system. (today)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (today)
-- [buluma/ansible-role-auto_update](https://github.com/buluma/ansible-role-auto_update) - Install and configure automatic package updates on your system. (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/ansible-role-update_package_cache](https://github.com/buluma/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (today)
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (today)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
+- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-docker_env](https://github.com/buluma/ansible-role-docker_env) ([0.1.1](https://github.com/buluma/ansible-role-docker_env/releases/tag/0.1.1), today) - Prepare My MacOS Docker Environment for local testing.
-- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) ([1.0.6](https://github.com/buluma/ansible-role-docker_ce/releases/tag/1.0.6), today) - Install and configure Docker CE on your system.
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) ([1.0.8](https://github.com/buluma/ansible-role-docker/releases/tag/1.0.8), today) - Install and configure Docker (non-CE) on your system.
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.3](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.3), today) - Set up dnsmasq in Debian-like systems.
-- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) ([0.1.2](https://github.com/buluma/ansible-role-digitalocean-agent/releases/tag/0.1.2), today) - Install digitalocean agent on your system.
+- [buluma/ansible-role-gotop](https://github.com/buluma/ansible-role-gotop) ([0.1.1](https://github.com/buluma/ansible-role-gotop/releases/tag/0.1.1), today) - Install gotop on your system.
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) ([4.0.2](https://github.com/buluma/ansible-role-git/releases/tag/4.0.2), today) - Install Git on your system
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([2.0.2](https://github.com/buluma/ansible-role-python_pip/releases/tag/2.0.2), today) - Install pythons pip on your system.
+- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) ([1.0.11](https://github.com/buluma/ansible-role-epel/releases/tag/1.0.11), today) - Install epel on your system.
+- [buluma/ansible-role-environment](https://github.com/buluma/ansible-role-environment) ([1.0.9](https://github.com/buluma/ansible-role-environment/releases/tag/1.0.9), today) - Set system-wide variables.
 
 
