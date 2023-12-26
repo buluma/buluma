@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-gimp](https://github.com/buluma/ansible-role-gimp) ([0.1.1](https://github.com/buluma/ansible-role-gimp/releases/tag/0.1.1), 1 day ago) - Install gimp on your systems.
-- [buluma/ansible-role-storage](https://github.com/buluma/ansible-role-storage) ([1.0.8](https://github.com/buluma/ansible-role-storage/releases/tag/1.0.8), 1 day ago) - Create partitions, volume groups, volumes, filesystems and mounts.
-- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([1.0.8](https://github.com/buluma/ansible-role-vagrant/releases/tag/1.0.8), 1 day ago) - Install vagrant on your system.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v0.1.9](https://github.com/buluma/ansible-role-varnish/releases/tag/v0.1.9), 1 day ago) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-mate](https://github.com/buluma/ansible-role-mate) ([v0.1.4](https://github.com/buluma/ansible-role-mate/releases/tag/v0.1.4), 1 day ago) - Install MATE on your system.
+- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), today) - Imstall Vim on your system
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v0.1.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v0.1.2), today) - Install and configure xinetd on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.7), today) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), today) - Install and configure irslackd on your system.
+- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.8](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.8), today) - Install cargo on your system.
 
 
