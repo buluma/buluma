@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.0](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.0), today) - Action that converts TODO comments to GitHub issues on push.
 - [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.1](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.1), 1 day ago) - AWS Inspector installation for Linux.
 - [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 1 day ago) - Imstall Vim on your system
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v0.1.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v0.1.2), 1 day ago) - Install and configure xinetd on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.7), 1 day ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), 1 day ago) - Install and configure irslackd on your system.
 
 
