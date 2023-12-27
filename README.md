@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (today)
-- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
+- [buluma/ansible-role-puppet](https://github.com/buluma/ansible-role-puppet) - Puppet for Linux. (1 day ago)
+- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.1](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.1), today) - AWS Inspector installation for Linux.
-- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), today) - Imstall Vim on your system
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v0.1.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v0.1.2), today) - Install and configure xinetd on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.7), today) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), today) - Install and configure irslackd on your system.
+- [buluma/ansible-role-aws_inspector](https://github.com/buluma/ansible-role-aws_inspector) ([0.1.1](https://github.com/buluma/ansible-role-aws_inspector/releases/tag/0.1.1), 1 day ago) - AWS Inspector installation for Linux.
+- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 1 day ago) - Imstall Vim on your system
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v0.1.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v0.1.2), 1 day ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([1.0.7](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/1.0.7), 1 day ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), 1 day ago) - Install and configure irslackd on your system.
 
 
