@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
+- [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.1](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.1), today) - Action that converts TODO comments to GitHub issues on push.
-- [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) ([0.1.1](https://github.com/buluma/ansible-role-capistrano_setup/releases/tag/0.1.1), today) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool.
-- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 1 day ago) - Imstall Vim on your system
-- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), 1 day ago) - Install and configure irslackd on your system.
-- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.8](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.8), 1 day ago) - Install cargo on your system.
+- [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.1](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.1), 1 day ago) - Action that converts TODO comments to GitHub issues on push.
+- [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) ([0.1.1](https://github.com/buluma/ansible-role-capistrano_setup/releases/tag/0.1.1), 1 day ago) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool.
+- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 2 days ago) - Imstall Vim on your system
+- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), 2 days ago) - Install and configure irslackd on your system.
+- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.1.8](https://github.com/buluma/ansible-role-cargo/releases/tag/0.1.8), 2 days ago) - Install cargo on your system.
 
 
