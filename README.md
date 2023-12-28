@@ -17,7 +17,7 @@ Always willing to learn new things.
 - [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
-- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
+- [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) - Install and configure postfix on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
