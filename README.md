@@ -14,10 +14,10 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system. (today)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
+- [buluma/ansible-role-sysstat](https://github.com/buluma/ansible-role-sysstat) - Install, start and enable sysstat on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-logstash](https://github.com/buluma/ansible-role-logstash) ([v0.1.5](https://github.com/buluma/ansible-role-logstash/releases/tag/v0.1.5), today) - Logstash for Linux.
-- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.0.2](https://github.com/buluma/ansible-role-beats/releases/tag/0.0.2), today) - Deploys and configure Elastic beats.
-- [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.1](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.1), 1 day ago) - Action that converts TODO comments to GitHub issues on push.
-- [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 2 days ago) - Imstall Vim on your system
-- [buluma/ansible-role-irslackd](https://github.com/buluma/ansible-role-irslackd) ([0.1.2](https://github.com/buluma/ansible-role-irslackd/releases/tag/0.1.2), 2 days ago) - Install and configure irslackd on your system.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.16](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.16), today) - Prepare your system to be managed by Ansible.
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([2.0.0](https://github.com/buluma/ansible-role-ca/releases/tag/2.0.0), today) - Install and configure a certificate authority on your system.
+- [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) ([0.1.3](https://github.com/buluma/ansible-role-clamav/releases/tag/0.1.3), today) - Install and configure clamav on your system.
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) ([0.1.2](https://github.com/buluma/ansible-role-code/releases/tag/0.1.2), today) - Install visual studio code on your system.
+- [buluma/ansible-role-f5ansible](https://github.com/buluma/ansible-role-f5ansible) ([v0.1.2](https://github.com/buluma/ansible-role-f5ansible/releases/tag/v0.1.2), today) - Install and configure f5 module with ansible.
 
 
