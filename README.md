@@ -29,8 +29,8 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) ([1.0.7](https://github.com/buluma/ansible-role-docker_ce/releases/tag/1.0.7), today) - Install and configure Docker CE on your system.
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) ([1.0.8](https://github.com/buluma/ansible-role-solr/releases/tag/1.0.8), 1 day ago) - Install and configure Apache Solr for Linux
-- [buluma/ansible-role-stratis](https://github.com/buluma/ansible-role-stratis) ([0.12.23](https://github.com/buluma/ansible-role-stratis/releases/tag/0.12.23), 1 day ago) - Install stratis and carves pools and filesystems.
 - [buluma/ansible-role-squid](https://github.com/buluma/ansible-role-squid) ([0.0.2](https://github.com/buluma/ansible-role-squid/releases/tag/0.0.2), 1 day ago) - Install and configure squid on your system.
 - [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) ([1.0.12](https://github.com/buluma/ansible-role-sysctl/releases/tag/1.0.12), 1 day ago) - Configure sysctl on your system.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.16](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.16), 1 day ago) - Prepare your system to be managed by Ansible.
