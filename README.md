@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) ([0.12.30](https://github.com/buluma/docker-debian-systemd/releases/tag/0.12.30), today) - Container to test Ansible roles in, including capabilities to use systemd facilities.
 - [buluma/ansible-role-docker_ce](https://github.com/buluma/ansible-role-docker_ce) ([1.0.7](https://github.com/buluma/ansible-role-docker_ce/releases/tag/1.0.7), 1 day ago) - Install and configure Docker CE on your system.
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) ([1.0.8](https://github.com/buluma/ansible-role-solr/releases/tag/1.0.8), 2 days ago) - Install and configure Apache Solr for Linux
 - [buluma/ansible-role-sysctl](https://github.com/buluma/ansible-role-sysctl) ([1.0.12](https://github.com/buluma/ansible-role-sysctl/releases/tag/1.0.12), 2 days ago) - Configure sysctl on your system.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v3.1.16](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v3.1.16), 2 days ago) - Prepare your system to be managed by Ansible.
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) ([2.0.0](https://github.com/buluma/ansible-role-ca/releases/tag/2.0.0), 2 days ago) - Install and configure a certificate authority on your system.
 
 
