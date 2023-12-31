@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.4](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.4), today) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.11](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.11), today) - Manage apt repositor(y|ies).
 - [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.4](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.4), 1 day ago) - Set up dnsmasq in Debian-like systems.
 - [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.3](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.3), 1 day ago) - Install and configure Datadog on your systems.
 - [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.0.2](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.0.2), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
-- [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) ([0.0.2](https://github.com/buluma/ansible-role-bareos_console/releases/tag/0.0.2), 1 day ago) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([2.0.4](https://github.com/buluma/ansible-role-openssl/releases/tag/2.0.4), 1 day ago) - Make openssl certificates.
 
 
