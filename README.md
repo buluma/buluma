@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.1.4](https://github.com/buluma/ansible-role-aliases/releases/tag/0.1.4), today) - An ansible role for managing mail aliases.
-- [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) ([1.0.11](https://github.com/buluma/ansible-role-apt_repository/releases/tag/1.0.11), today) - Manage apt repositor(y|ies).
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.4](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.4), 1 day ago) - Set up dnsmasq in Debian-like systems.
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) ([0.1.3](https://github.com/buluma/ansible-role-datadog/releases/tag/0.1.3), 1 day ago) - Install and configure Datadog on your systems.
-- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.0.2](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.0.2), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
+- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) ([1.0.6](https://github.com/buluma/ansible-role-elasticsearch/releases/tag/1.0.6), today) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.5](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.5), today) - Install the Elastic repository on your system.
+- [buluma/ansible-role-dhcpd](https://github.com/buluma/ansible-role-dhcpd) ([0.1.2](https://github.com/buluma/ansible-role-dhcpd/releases/tag/0.1.2), today) - Install and configure dhcpd on your system.
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.8](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.8), today) - Install dependecies to support the Ansible core modules.
+- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.4](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.4), today) - Change package manager configuration to install docs and manpages.
 
 
