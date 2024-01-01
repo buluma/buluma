@@ -30,9 +30,9 @@ Always willing to learn new things.
 #### 🚀 Latest releases I've contributed to
 
 - [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.7](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.7), today) - install sudo on your system.
-- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.4](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.4), 1 day ago) - Change package manager configuration to install docs and manpages.
 - [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.0.3](https://github.com/buluma/ansible-role-beats/releases/tag/0.0.3), 1 day ago) - Deploys and configure Elastic beats.
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) ([0.0.3](https://github.com/buluma/ansible-role-bareos_repository/releases/tag/0.0.3), 1 day ago) - Setup the [Bareos](https://www.bareos.com/) repositories.
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.3](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.3), 1 day ago) - Install and configure [Bareos](https://www.bareos.com/) Director.
+- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.4](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.4), 2 days ago) - Set up dnsmasq in Debian-like systems.
 
 
