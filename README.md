@@ -13,26 +13,26 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) - Set up dnsmasq in Debian-like systems. (2 days ago)
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (2 days ago)
-- [buluma/ansible-role-openvpn](https://github.com/buluma/ansible-role-openvpn) - Install and configure openvpn server or client on your system. (4 days ago)
-- [buluma/ansible-role-dhcpd](https://github.com/buluma/ansible-role-dhcpd) - Install and configure dhcpd on your system. (4 days ago)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
+- [buluma/ansible-role-update_package_cache](https://github.com/buluma/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/github-readme-statistics](https://github.com/buluma/github-readme-statistics)
 - [buluma/ansible-collection-bareos](https://github.com/buluma/ansible-collection-bareos) - Roles to configure Bareos File Daemon, Storage Daemon and Director.
 - [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
 - [buluma/ansible-role-bareos_fd](https://github.com/buluma/ansible-role-bareos_fd) - Install and configure [Bareos](https://www.bareos.com/) File Daemon.
 - [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) - Install and configure [BareOS](https://www.bareos.com/) Console (bconsole) on your system.
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-elasticsearch](https://github.com/buluma/ansible-role-elasticsearch) ([1.0.6](https://github.com/buluma/ansible-role-elasticsearch/releases/tag/1.0.6), 1 day ago) - An Ansible Role that installs Elasticsearch on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-elastic_repo](https://github.com/buluma/ansible-role-elastic_repo) ([v0.1.5](https://github.com/buluma/ansible-role-elastic_repo/releases/tag/v0.1.5), 1 day ago) - Install the Elastic repository on your system.
-- [buluma/ansible-role-dhcpd](https://github.com/buluma/ansible-role-dhcpd) ([0.1.2](https://github.com/buluma/ansible-role-dhcpd/releases/tag/0.1.2), 1 day ago) - Install and configure dhcpd on your system.
+- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.7](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.7), today) - install sudo on your system.
 - [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.0.8](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.0.8), 1 day ago) - Install dependecies to support the Ansible core modules.
 - [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.1.4](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.1.4), 1 day ago) - Change package manager configuration to install docs and manpages.
+- [buluma/ansible-role-ca_certificates](https://github.com/buluma/ansible-role-ca_certificates) ([2.0.2](https://github.com/buluma/ansible-role-ca_certificates/releases/tag/2.0.2), 1 day ago) - Install common CA certificates on your system.
+- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.0.3](https://github.com/buluma/ansible-role-beats/releases/tag/0.0.3), 1 day ago) - Deploys and configure Elastic beats.
 
 
