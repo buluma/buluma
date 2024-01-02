@@ -14,7 +14,7 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-logrotate](https://github.com/buluma/ansible-role-logrotate) -  (today)
+- [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
