@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
-- [buluma/ansible-role-logrotate](https://github.com/buluma/ansible-role-logrotate) -  (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (today)
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) - Install and configure zabbix-proxy on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
 
 #### 👨‍💻 Repositories I created recently
