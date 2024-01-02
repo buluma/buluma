@@ -33,6 +33,6 @@ Always willing to learn new things.
 - [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.3](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.3), today) - Install and configure revealmd on your system.
 - [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.21](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.21), today) - Set Alternative
 - [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.7](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.7), 1 day ago) - install sudo on your system.
-- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.0.3](https://github.com/buluma/ansible-role-beats/releases/tag/0.0.3), 2 days ago) - Deploys and configure Elastic beats.
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.3](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.3), 2 days ago) - Install and configure [Bareos](https://www.bareos.com/) Director.
 
 
