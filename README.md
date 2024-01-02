@@ -13,9 +13,9 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) - Set Alternative (today)
+- [buluma/ansible-role-dhcpd](https://github.com/buluma/ansible-role-dhcpd) - Install and configure dhcpd on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) - Install and configure postfix on your system. (1 day ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.3](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.3), today) - Install and configure revealmd on your system.
+- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.21](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.21), today) - Set Alternative
 - [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.7](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.7), 1 day ago) - install sudo on your system.
 - [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.0.3](https://github.com/buluma/ansible-role-beats/releases/tag/0.0.3), 2 days ago) - Deploys and configure Elastic beats.
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) ([0.0.3](https://github.com/buluma/ansible-role-bareos_repository/releases/tag/0.0.3), 2 days ago) - Setup the [Bareos](https://www.bareos.com/) repositories.
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.0.3](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.0.3), 2 days ago) - Install and configure [Bareos](https://www.bareos.com/) Director.
-- [buluma/ansible-role-dnsmasq](https://github.com/buluma/ansible-role-dnsmasq) ([0.1.4](https://github.com/buluma/ansible-role-dnsmasq/releases/tag/0.1.4), 3 days ago) - Set up dnsmasq in Debian-like systems.
 
 
