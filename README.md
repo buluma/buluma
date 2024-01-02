@@ -13,10 +13,10 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (today)
-- [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) - Install and configure nginx on your system. (today)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-testing](https://github.com/buluma/ansible-role-testing) - Roles Testing [ DO NOT USE ] (today)
+- [buluma/ansible-role-logrotate](https://github.com/buluma/ansible-role-logrotate) -  (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v0.1.1](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v0.1.1), today) - Ansible Role for Atlassian Bitbucket Installation.
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.2.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.2.0), today) - An ansible role for managing mail aliases.
 - [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.2](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.2), today) - Action that converts TODO comments to GitHub issues on push.
-- [buluma/ansible-role-revealmd](https://github.com/buluma/ansible-role-revealmd) ([0.1.3](https://github.com/buluma/ansible-role-revealmd/releases/tag/0.1.3), today) - Install and configure revealmd on your system.
-- [buluma/ansible-role-alternatives](https://github.com/buluma/ansible-role-alternatives) ([1.0.21](https://github.com/buluma/ansible-role-alternatives/releases/tag/1.0.21), today) - Set Alternative
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v0.1.7](https://github.com/buluma/ansible-role-sudo/releases/tag/v0.1.7), 1 day ago) - install sudo on your system.
+- [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) ([0.12.30](https://github.com/buluma/docker-debian-systemd/releases/tag/0.12.30), 3 days ago) - Container to test Ansible roles in, including capabilities to use systemd facilities.
+- [buluma/ansible-role-kubectl](https://github.com/buluma/ansible-role-kubectl) ([0.1.2](https://github.com/buluma/ansible-role-kubectl/releases/tag/0.1.2), 1 week ago) - Install the latest stable version of kubectl on your system.
+- [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.1.7](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.1.7), 1 week ago) - Install eclipse and plugins on your system.
 
 
