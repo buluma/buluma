@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v0.2.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v0.2.0), today) - Ansible Role for Atlassian Bitbucket Installation.
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.4.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.4.0), today) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.3.0](https://github.com/buluma/ansible-role-cargo/releases/tag/0.3.0), today) - Install cargo on your system.
 - [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.2.0](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.2.0), today) - Install and configure jitsi on your system.
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) ([v0.2.0](https://github.com/buluma/ansible-role-jira/releases/tag/v0.2.0), today) - Ansible Role for Atlassian Jira Installation.
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) ([4.4.0](https://github.com/buluma/ansible-role-jenkins/releases/tag/4.4.0), today) - Install and configure jenkins on your system.
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.1.0](https://github.com/buluma/ansible-role-java/releases/tag/1.1.0), today) - Install and configure java on your system.
-- [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) ([2.1.0](https://github.com/buluma/ansible-role-investigate/releases/tag/2.1.0), today) - Install and configure investigation tools on your system.
 
 
