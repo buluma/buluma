@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.1.0](https://github.com/buluma/ansible-role-beats/releases/tag/0.1.0), today) - Deploys and configure Elastic beats.
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.1.0](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.1.0), today) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.1.0](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.1.0), today) - Install and configure [Bareos](https://www.bareos.com/) Director.
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) ([0.2.0](https://github.com/buluma/ansible-role-crun/releases/tag/0.2.0), today) - Ansible Role for Crun Installation.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.1.0](https://github.com/buluma/ansible-role-cron/releases/tag/2.1.0), today) - Install cron and scedule jobs on your system.
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) ([2.1.0](https://github.com/buluma/ansible-role-core_dependencies/releases/tag/2.1.0), today) - Install dependecies to support the Ansible core modules.
-- [buluma/ansible-role-container_docs](https://github.com/buluma/ansible-role-container_docs) ([v0.2.0](https://github.com/buluma/ansible-role-container_docs/releases/tag/v0.2.0), today) - Change package manager configuration to install docs and manpages.
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) ([0.2.0](https://github.com/buluma/ansible-role-consul_ca/releases/tag/0.2.0), today) - Configure Consul CA on your systems.
-- [buluma/ansible-role-common](https://github.com/buluma/ansible-role-common) ([2.1.0](https://github.com/buluma/ansible-role-common/releases/tag/2.1.0), today) - The purpose of this role is to configure common things on your system.
 
 
