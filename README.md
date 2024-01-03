@@ -15,8 +15,8 @@ Always willing to learn new things.
 
 - [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
+- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) ([0.1.0](https://github.com/buluma/ansible-role-beats/releases/tag/0.1.0), today) - Deploys and configure Elastic beats.
-- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) ([0.1.0](https://github.com/buluma/ansible-role-bareos_sd/releases/tag/0.1.0), today) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) ([0.1.0](https://github.com/buluma/ansible-role-bareos_dir/releases/tag/0.1.0), today) - Install and configure [Bareos](https://www.bareos.com/) Director.
-- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) ([0.2.0](https://github.com/buluma/ansible-role-crun/releases/tag/0.2.0), today) - Ansible Role for Crun Installation.
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.1.0](https://github.com/buluma/ansible-role-cron/releases/tag/2.1.0), today) - Install cron and scedule jobs on your system.
+- [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.2.0](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.2.0), today) - Install and configure jitsi on your system.
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) ([v0.2.0](https://github.com/buluma/ansible-role-jira/releases/tag/v0.2.0), today) - Ansible Role for Atlassian Jira Installation.
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) ([4.4.0](https://github.com/buluma/ansible-role-jenkins/releases/tag/4.4.0), today) - Install and configure jenkins on your system.
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.1.0](https://github.com/buluma/ansible-role-java/releases/tag/1.1.0), today) - Install and configure java on your system.
+- [buluma/ansible-role-investigate](https://github.com/buluma/ansible-role-investigate) ([2.1.0](https://github.com/buluma/ansible-role-investigate/releases/tag/2.1.0), today) - Install and configure investigation tools on your system.
 
 
