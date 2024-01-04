@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system. (today)
 - [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
 - [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (1 day ago)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) ([0.1.0](https://github.com/buluma/ansible-role-enpass/releases/tag/0.1.0), today) - Install the Enpass password manager on your system.
 - [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.2.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.2.0), today) - Install and configure daemonize on your systems.
 - [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) ([0.3.0](https://github.com/buluma/ansible-role-crun/releases/tag/0.3.0), today) - Ansible Role for Crun Installation.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.2.0](https://github.com/buluma/ansible-role-cron/releases/tag/2.2.0), today) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.3.0](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.3.0), today) - Install eclipse and plugins on your system.
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v0.2.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v0.2.0), 1 day ago) - Ansible Role for Atlassian Bitbucket Installation.
 
 
