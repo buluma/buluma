@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
 - [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (1 day ago)
 - [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-daemonize](https://github.com/buluma/ansible-role-daemonize) ([0.2.0](https://github.com/buluma/ansible-role-daemonize/releases/tag/0.2.0), today) - Install and configure daemonize on your systems.
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) ([0.3.0](https://github.com/buluma/ansible-role-crun/releases/tag/0.3.0), today) - Ansible Role for Crun Installation.
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([2.2.0](https://github.com/buluma/ansible-role-cron/releases/tag/2.2.0), today) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-eclipse](https://github.com/buluma/ansible-role-eclipse) ([0.3.0](https://github.com/buluma/ansible-role-eclipse/releases/tag/0.3.0), today) - Install eclipse and plugins on your system.
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v0.2.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v0.2.0), 1 day ago) - Ansible Role for Atlassian Bitbucket Installation.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([0.4.0](https://github.com/buluma/ansible-role-aliases/releases/tag/0.4.0), 1 day ago) - An ansible role for managing mail aliases.
-- [buluma/ansible-role-cargo](https://github.com/buluma/ansible-role-cargo) ([0.3.0](https://github.com/buluma/ansible-role-cargo/releases/tag/0.3.0), 1 day ago) - Install cargo on your system.
-- [buluma/ansible-role-jitsi](https://github.com/buluma/ansible-role-jitsi) ([0.2.0](https://github.com/buluma/ansible-role-jitsi/releases/tag/0.2.0), 1 day ago) - Install and configure jitsi on your system.
 
 
