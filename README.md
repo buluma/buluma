@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (today)
+- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
+- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (today)
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
 - [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (today)
-- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
