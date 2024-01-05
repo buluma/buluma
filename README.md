@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
 - [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (1 day ago)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (1 day ago)
 - [buluma/ansible-role-enpass](https://github.com/buluma/ansible-role-enpass) - Install the Enpass password manager on your system. (1 day ago)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-galen](https://github.com/buluma/ansible-role-galen) - Install Galen on your Linux System. (1 day ago)
+- [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) - Install and configure consul on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
