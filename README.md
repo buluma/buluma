@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) ([v0.2.0](https://github.com/buluma/ansible-role-obsproject/releases/tag/v0.2.0), today) - Install obsproject on your system.
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.2.0](https://github.com/buluma/ansible-role-java/releases/tag/1.2.0), today) - Install and configure java on your system.
 - [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) ([v2.0.0](https://github.com/buluma/ansible-role-nodejs/releases/tag/v2.0.0), today) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) ([1.1.0](https://github.com/buluma/ansible-role-ntp/releases/tag/1.1.0), today) - Install and configure ntp on your system.
 - [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.1.0](https://github.com/buluma/ansible-role-nomad/releases/tag/1.1.0), today) - Install and configure Nomad.
-- [buluma/ansible-role-erlang](https://github.com/buluma/ansible-role-erlang) ([0.8.0](https://github.com/buluma/ansible-role-erlang/releases/tag/0.8.0), today) - Install and configure Erlang on your systems.
 
 
