@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-php_versions](https://github.com/buluma/ansible-role-php_versions) - Install different PHP versions on your systems.  (today)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (today)
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
+- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
+- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) ([0.2.0](https://github.com/buluma/ansible-role-proxychains/releases/tag/0.2.0), today) - Install Proxychains forcing TCP connection to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) ([2.1.0](https://github.com/buluma/ansible-role-pip/releases/tag/2.1.0), today) - Ansible Role - Pip (for Python)
 - [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) ([v0.1.0](https://github.com/buluma/ansible-role-os_updates/releases/tag/v0.1.0), today) - Ansible role to install OS updates.
 - [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) ([2.2.0](https://github.com/buluma/ansible-role-mailhog/releases/tag/2.2.0), today) - Ansible Role - MailHog for catching and viewing emails
 - [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) ([0.2.0](https://github.com/buluma/ansible-role-microsoft_repository_keys/releases/tag/0.2.0), today) - Trust microsofts gpg keys.
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) ([1.1.0](https://github.com/buluma/ansible-role-locale/releases/tag/1.1.0), today) - Configure locale on your system.
 
 
