@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (today)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
-- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (today)
-- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (today)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
+- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) - Install and configure ntp on your system. (1 day ago)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (1 day ago)
+- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (1 day ago)
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (1 day ago)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) ([v0.2.0](https://github.com/buluma/ansible-role-obsproject/releases/tag/v0.2.0), today) - Install obsproject on your system.
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.2.0](https://github.com/buluma/ansible-role-java/releases/tag/1.2.0), today) - Install and configure java on your system.
-- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) ([v2.0.0](https://github.com/buluma/ansible-role-nodejs/releases/tag/v2.0.0), today) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) ([1.1.0](https://github.com/buluma/ansible-role-ntp/releases/tag/1.1.0), today) - Install and configure ntp on your system.
-- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.1.0](https://github.com/buluma/ansible-role-nomad/releases/tag/1.1.0), today) - Install and configure Nomad.
+- [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) ([v0.2.0](https://github.com/buluma/ansible-role-obsproject/releases/tag/v0.2.0), 1 day ago) - Install obsproject on your system.
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) ([1.2.0](https://github.com/buluma/ansible-role-java/releases/tag/1.2.0), 1 day ago) - Install and configure java on your system.
+- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) ([v2.0.0](https://github.com/buluma/ansible-role-nodejs/releases/tag/v2.0.0), 1 day ago) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) ([1.1.0](https://github.com/buluma/ansible-role-ntp/releases/tag/1.1.0), 1 day ago) - Install and configure ntp on your system.
+- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) ([1.1.0](https://github.com/buluma/ansible-role-nomad/releases/tag/1.1.0), 1 day ago) - Install and configure Nomad.
 
 
