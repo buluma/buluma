@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (today)
+- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (today)
 - [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) - Ansible Role - Pip (for Python) (today)
-- [buluma/ansible-role-rabbitmq](https://github.com/buluma/ansible-role-rabbitmq) - Installs RabbitMQ on Linux. (today)
 - [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (today)
+- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (today)
+- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (today)
 
 #### 👨‍💻 Repositories I created recently
 
