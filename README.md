@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.2.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.2.0), today) - Install and configure netdata.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([1.1.0](https://github.com/buluma/ansible-role-httpd/releases/tag/1.1.0), today) - Install and configure httpd on your system.
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) ([v0.2.0](https://github.com/buluma/ansible-role-sensu/releases/tag/v0.2.0), today) - Install and configure Sensu on your system.
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v0.2.0](https://github.com/buluma/ansible-role-nfs/releases/tag/v0.2.0), today) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.2.0](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.2.0), today) - Install and configure mediawiki on your system.
-- [buluma/ansible-role-memcached](https://github.com/buluma/ansible-role-memcached) ([3.1.0](https://github.com/buluma/ansible-role-memcached/releases/tag/3.1.0), today) - Install and configure Memcached for Linux.
 
 
