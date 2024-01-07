@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (1 day ago)
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
-- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys. (1 day ago)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (1 day ago)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 - [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (1 day ago)
+- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) - The purpose of this role is to add users and groups on your system. (1 day ago)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.1.0](https://github.com/buluma/ansible-role-vault/releases/tag/1.1.0), today) - Install, configure, initialize and unseal Hashicorp Vault.
-- [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) ([0.2.0](https://github.com/buluma/ansible-role-systemd/releases/tag/0.2.0), today) - Install and configure systemd on your system.
-- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.2.0](https://github.com/buluma/ansible-role-security/releases/tag/v0.2.0), today) - Basic Ansible Role Security
-- [buluma/ansible-role-fathom](https://github.com/buluma/ansible-role-fathom) ([0.3.0](https://github.com/buluma/ansible-role-fathom/releases/tag/0.3.0), today) - Fathom web analytics.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.1.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.1.0), today) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([1.1.0](https://github.com/buluma/ansible-role-httpd/releases/tag/1.1.0), today) - Install and configure httpd on your system.
+- [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) ([v0.2.0](https://github.com/buluma/ansible-role-sensu/releases/tag/v0.2.0), today) - Install and configure Sensu on your system.
+- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v0.2.0](https://github.com/buluma/ansible-role-nfs/releases/tag/v0.2.0), today) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.2.0](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.2.0), today) - Install and configure mediawiki on your system.
+- [buluma/ansible-role-memcached](https://github.com/buluma/ansible-role-memcached) ([3.1.0](https://github.com/buluma/ansible-role-memcached/releases/tag/3.1.0), today) - Install and configure Memcached for Linux.
 
 
