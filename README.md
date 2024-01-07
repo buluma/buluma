@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([1.1.0](https://github.com/buluma/ansible-role-users/releases/tag/1.1.0), 1 day ago) - The purpose of this role is to add users and groups on your system.
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) ([0.2.0](https://github.com/buluma/ansible-role-p10k/releases/tag/0.2.0), 1 day ago) - Ansible role for installing powerlevel10k
-- [buluma/ansible-role-proxychains](https://github.com/buluma/ansible-role-proxychains) ([0.2.0](https://github.com/buluma/ansible-role-proxychains/releases/tag/0.2.0), 1 day ago) - Install Proxychains forcing TCP connection to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
-- [buluma/ansible-role-pip](https://github.com/buluma/ansible-role-pip) ([2.1.0](https://github.com/buluma/ansible-role-pip/releases/tag/2.1.0), 1 day ago) - Ansible Role - Pip (for Python)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) ([v0.1.0](https://github.com/buluma/ansible-role-os_updates/releases/tag/v0.1.0), 1 day ago) - Ansible role to install OS updates.
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([1.1.0](https://github.com/buluma/ansible-role-vault/releases/tag/1.1.0), today) - Install, configure, initialize and unseal Hashicorp Vault.
+- [buluma/ansible-role-systemd](https://github.com/buluma/ansible-role-systemd) ([0.2.0](https://github.com/buluma/ansible-role-systemd/releases/tag/0.2.0), today) - Install and configure systemd on your system.
+- [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) ([v0.2.0](https://github.com/buluma/ansible-role-security/releases/tag/v0.2.0), today) - Basic Ansible Role Security
+- [buluma/ansible-role-fathom](https://github.com/buluma/ansible-role-fathom) ([0.3.0](https://github.com/buluma/ansible-role-fathom/releases/tag/0.3.0), today) - Fathom web analytics.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([1.1.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/1.1.0), today) - Install and configure zabbix-proxy on your system.
 
 
