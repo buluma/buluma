@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (1 day ago)
 - [buluma/ansible-role-security](https://github.com/buluma/ansible-role-security) - Basic Ansible Role Security (1 day ago)
-- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (1 day ago)
-- [buluma/ansible-role-nodejs](https://github.com/buluma/ansible-role-nodejs) - Installs Node.js on RHEL/CentOS or Debian/Ubuntu. (1 day ago)
+- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys. (1 day ago)
 - [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (1 day ago)
+- [buluma/ansible-role-prometheus](https://github.com/buluma/ansible-role-prometheus) - Install and configure Prometheus. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
