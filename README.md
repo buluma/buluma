@@ -13,11 +13,11 @@ Always willing to learn new things.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (1 day ago)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (1 day ago)
-- [buluma/ansible-role-microsoft_repository_keys](https://github.com/buluma/ansible-role-microsoft_repository_keys) - Trust microsofts gpg keys. (2 days ago)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (2 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (1 day ago)
+- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (2 days ago)
+- [buluma/ansible-role-php_versions](https://github.com/buluma/ansible-role-php_versions) - Install different PHP versions on your systems.  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,10 +29,10 @@ Always willing to learn new things.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-packer](https://github.com/buluma/ansible-role-packer) ([v0.2.0](https://github.com/buluma/ansible-role-packer/releases/tag/v0.2.0), today) - Install and configure packer on your system.
 - [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) ([v0.2.0](https://github.com/buluma/ansible-role-netdata/releases/tag/v0.2.0), 1 day ago) - Install and configure netdata.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([1.1.0](https://github.com/buluma/ansible-role-httpd/releases/tag/1.1.0), 1 day ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-sensu](https://github.com/buluma/ansible-role-sensu) ([v0.2.0](https://github.com/buluma/ansible-role-sensu/releases/tag/v0.2.0), 1 day ago) - Install and configure Sensu on your system.
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v0.2.0](https://github.com/buluma/ansible-role-nfs/releases/tag/v0.2.0), 1 day ago) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) ([0.2.0](https://github.com/buluma/ansible-role-mediawiki/releases/tag/0.2.0), 1 day ago) - Install and configure mediawiki on your system.
 
 
