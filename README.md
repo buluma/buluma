@@ -14,18 +14,18 @@ Always willing to learn new things.
 #### 👷 Check out what I'm currently working on
 
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (1 day ago)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
 - [buluma/ansible-role-apache](https://github.com/buluma/ansible-role-apache) - Install Apache 2.x for Linux. (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) - Dependabot Auto-Merge Action
 - [buluma/javascript-exercise-beginners](https://github.com/buluma/javascript-exercise-beginners) - Learn and understand different logical Javascript exercises and algorithms for beginners.
 - [buluma/github-readme-statistics](https://github.com/buluma/github-readme-statistics)
 - [buluma/ansible-collection-bareos](https://github.com/buluma/ansible-collection-bareos) - Roles to configure Bareos File Daemon, Storage Daemon and Director.
 - [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon.
-- [buluma/ansible-role-bareos_fd](https://github.com/buluma/ansible-role-bareos_fd) - Install and configure [Bareos](https://www.bareos.com/) File Daemon.
 
 #### 🚀 Latest releases I've contributed to
 
