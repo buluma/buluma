@@ -1,5 +1,7 @@
 ### Just another creative nerd 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://gitstats.me/buluma">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 </a>
@@ -33,5 +35,4 @@ Ansile, Python, Automation is what makes me happiest.
 - [buluma/todo-to-issue-action](https://github.com/buluma/todo-to-issue-action) ([v2.0.2](https://github.com/buluma/todo-to-issue-action/releases/tag/v2.0.2), 1 week ago) - Action that converts TODO comments to GitHub issues on push.
 - [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) ([0.12.30](https://github.com/buluma/docker-debian-systemd/releases/tag/0.12.30), 1 week ago) - Container to test Ansible roles in, including capabilities to use systemd facilities.
 - [buluma/ansible-role-vim](https://github.com/buluma/ansible-role-vim) ([1.0.1](https://github.com/buluma/ansible-role-vim/releases/tag/1.0.1), 2 weeks ago) - Imstall Vim on your system
-
 
