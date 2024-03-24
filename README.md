@@ -1,6 +1,6 @@
 ### Just another creative nerd 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1=ryo-ma&rank=S,SS,SSS,AAA,AA,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://gitstats.me/buluma">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
