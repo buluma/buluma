@@ -8,7 +8,7 @@
 
 I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
 
-Always willing to learn new things.
+Always willing to learn new and interesting things.
 
 Ansile, Python, Automation is what makes me happiest.
 
