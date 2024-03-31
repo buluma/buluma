@@ -1,19 +1,14 @@
-name: readme-scribe
+name: Update README
 
 on:
-  workflow_dispatch:
-  schedule: [{cron: "5 * * * *"}]
   push:
-    branches:
-      - 'master'
-
-concurrency:
-  group: ${{ github.ref }}-${{ github.workflow }}
-  cancel-in-progress: true
+  schedule:
+    - cron: "0 */1 * * *"
 
 jobs:
-  readme-scribe:
+  markscribe:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@master
 
