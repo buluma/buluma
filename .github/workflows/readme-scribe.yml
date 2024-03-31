@@ -15,20 +15,21 @@ jobs:
   readme-scribe:
     runs-on: ubuntu-latest
     steps:
-      -
-        name: Checkout
-        uses: actions/checkout@v4
-      -
-        uses: muesli/readme-scribe@v0.1
-        with:
-          template: templates/README.md.tpl
-          writeTo: README.md
+      - uses: actions/checkout@master
+
+      - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-      -
-        uses: stefanzweifel/git-auto-commit-action@8756aa072ef5b4a080af5dc8fef36c5d586e521d
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          commit_message: 'Update generated README'
-          branch: master
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
