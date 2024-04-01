@@ -11,6 +11,10 @@ I like nerding-out, specifically around [Ansible](https://github.com/ansible/ans
 
 Always willing to learn new things.
 
+Welcome to my little world.
+
+A little preview
+
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system. (today)
