@@ -1,20 +1,14 @@
-name: readme-scribe
+name: Update README
 
 on:
   workflow_dispatch:
-  schedule: [{cron: "5 * * * *"}]
   push:
-    branches:
-      - 'master'
-
-concurrency:
-  group: ${{ github.ref }}-${{ github.workflow }}
-  cancel-in-progress: true
+  schedule:
+    - cron: "0 */1 * * *"
 
 jobs:
-  readme-scribe:
+  markscribe:
     runs-on: ubuntu-latest
-    permissions: read-all
     steps:
       - uses: actions/checkout@master
 
@@ -25,12 +19,17 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
-          branch: main
+          branch: master
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
