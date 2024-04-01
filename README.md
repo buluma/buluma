@@ -1,23 +1,27 @@
 ### Just another creative nerd 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 
-
-![Profile views](https://gpvc.arturio.dev/buluma) <a href="https://gitstats.me/buluma">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
-</a>
-[![Github](https://img.shields.io/badge/-buluma-black?style=flat&labelColor=black&logo=github&logoColor=white&include_all_commits=true&count_private=true)](https://gitstats.me/buluma)
+![GitHub followers](https://img.shields.io/github/followers/buluma)
+![GitHub Org's stars](https://img.shields.io/github/stars/buluma)
 [![GitHub contributors](https://img.shields.io/github/contributors/buluma/badges.svg)](https://GitHub.com/buluma/badges/graphs/contributors/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fbuluma.github.io)
 
 I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
 
 Always willing to learn new things.
 
+Welcome to my little world.
+
+A little summary
+[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1=ryo-ma&rank=S,SS,SSS,AAA,AA,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system. (today)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (today)
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (today)
 - [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
 - [buluma/ansible-role-ssh_chroot_jail](https://github.com/buluma/ansible-role-ssh_chroot_jail) - Simple SSH chroot jail management. (today)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (today)
+- [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
