@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (2 days ago)
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (5 days ago)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (5 days ago)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (5 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (3 days ago)
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (6 days ago)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (6 days ago)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/24.3.31), 6 days ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/24.3.31), 6 days ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/24.3.31), 6 days ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v24.3.31](https://github.com/buluma/ansible-role-xinetd/releases/tag/v24.3.31), 6 days ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v24.3.31](https://github.com/buluma/ansible-role-varnish/releases/tag/v24.3.31), 6 days ago) - Installs the Varnish HTTP Cache
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/24.3.31), 1 week ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/24.3.31), 1 week ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/24.3.31), 1 week ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v24.3.31](https://github.com/buluma/ansible-role-xinetd/releases/tag/v24.3.31), 1 week ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v24.3.31](https://github.com/buluma/ansible-role-varnish/releases/tag/v24.3.31), 1 week ago) - Installs the Varnish HTTP Cache
 
 
