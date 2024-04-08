@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (3 days ago)
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (6 days ago)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (6 days ago)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (6 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (4 days ago)
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (1 week ago)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (1 week ago)
+- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
