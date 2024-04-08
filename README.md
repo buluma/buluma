@@ -19,9 +19,9 @@ A little summary
 
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
 - [buluma/ansible-role-crun](https://github.com/buluma/ansible-role-crun) - Ansible Role for Crun Installation. (4 days ago)
+- [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) - Install and configure OpenJDK on your system. (1 week ago)
 - [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (1 week ago)
 - [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (1 week ago)
-- [buluma/ansible-role-gitlab](https://github.com/buluma/ansible-role-gitlab) - Install and configure GitLab on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
