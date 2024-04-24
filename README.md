@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), today) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) ([24.04.20](https://github.com/buluma/ansible-role-consul/releases/tag/24.04.20), 4 days ago) - Install and configure consul on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/24.3.31), 3 weeks ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/24.3.31), 3 weeks ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/24.3.31), 3 weeks ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v24.3.31](https://github.com/buluma/ansible-role-xinetd/releases/tag/v24.3.31), 3 weeks ago) - Install and configure xinetd on your system.
 
 
