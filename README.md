@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (today)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (4 days ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (4 days ago)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (4 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (1 day ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (5 days ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (5 days ago)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,7 +33,7 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 1 week ago) - A container that is used for GitHub molecule actions
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 2 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-consul](https://github.com/buluma/ansible-role-consul) ([24.04.20](https://github.com/buluma/ansible-role-consul/releases/tag/24.04.20), 2 weeks ago) - Install and configure consul on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/24.3.31), 1 month ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([24.3.31](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/24.3.31), 1 month ago) - Install and configure zabbix-proxy on your system.
