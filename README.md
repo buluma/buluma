@@ -33,7 +33,7 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.3](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.3), 2 days ago) - Dependabot Auto-Merge Action
+- [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), today) - Dependabot Auto-Merge Action
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 2 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([24.3.31](https://github.com/buluma/ansible-role-vagrant/releases/tag/24.3.31), 1 month ago) - Install vagrant on your system.
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v24.3.31](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v24.3.31), 1 month ago) - Install VictoriaMetrics on your system.
