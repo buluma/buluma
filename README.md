@@ -17,8 +17,8 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
-- [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
+- [buluma/ansible-role-dhcpd](https://github.com/buluma/ansible-role-dhcpd) - Install and configure dhcpd on your system. (today)
+- [buluma/ansible-role-sosreport](https://github.com/buluma/ansible-role-sosreport) - Install, run and collect sosreports from your system. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
