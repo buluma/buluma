@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (1 week ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 weeks ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 weeks ago)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (2 weeks ago)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
+- [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) - Install npm on your system. (today)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -36,7 +36,7 @@ A little summary
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 1 week ago) - Dependabot Auto-Merge Action
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 3 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([24.3.31](https://github.com/buluma/ansible-role-vagrant/releases/tag/24.3.31), 1 month ago) - Install vagrant on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v24.3.31](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v24.3.31), 1 month ago) - Install VictoriaMetrics on your system.
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v24.3.31](https://github.com/buluma/ansible-role-nfs/releases/tag/v24.3.31), 1 month ago) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
+- [buluma/ansible-role-umask](https://github.com/buluma/ansible-role-umask) ([24.3.31](https://github.com/buluma/ansible-role-umask/releases/tag/24.3.31), 1 month ago) - Install and configure umask on your system.
 
 
