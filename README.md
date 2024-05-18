@@ -17,9 +17,9 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
-- [buluma/ansible-role-service](https://github.com/buluma/ansible-role-service) - Add custom services to your Linux system. (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) - The purpose of this role is to make backups of your system. (today)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 
@@ -35,8 +35,8 @@ A little summary
 
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 1 week ago) - Dependabot Auto-Merge Action
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 3 weeks ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([24.3.31](https://github.com/buluma/ansible-role-vagrant/releases/tag/24.3.31), 1 month ago) - Install vagrant on your system.
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v24.3.31](https://github.com/buluma/ansible-role-nfs/releases/tag/v24.3.31), 1 month ago) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 - [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v24.3.31](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v24.3.31), 1 month ago) - tune ext3 and ext4 filesystems using tune2fs.
+- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v24.3.31](https://github.com/buluma/ansible-role-sudo/releases/tag/v24.3.31), 1 month ago) - install sudo on your system.
 
 
