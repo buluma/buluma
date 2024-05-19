@@ -35,8 +35,8 @@ A little summary
 
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 1 week ago) - Dependabot Auto-Merge Action
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 3 weeks ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) ([v24.3.31](https://github.com/buluma/ansible-role-nfs/releases/tag/v24.3.31), 1 month ago) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu.
-- [buluma/ansible-role-tune2fs](https://github.com/buluma/ansible-role-tune2fs) ([v24.3.31](https://github.com/buluma/ansible-role-tune2fs/releases/tag/v24.3.31), 1 month ago) - tune ext3 and ext4 filesystems using tune2fs.
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) ([v24.3.31](https://github.com/buluma/ansible-role-sudo/releases/tag/v24.3.31), 1 month ago) - install sudo on your system.
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) ([24.3.31](https://github.com/buluma/ansible-role-solr/releases/tag/24.3.31), 1 month ago) - Install and configure Apache Solr for Linux
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) ([24.3.31](https://github.com/buluma/ansible-role-go/releases/tag/24.3.31), 1 month ago) - An Ansible Role that installs Go (the language) on Linux.
+- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 1 month ago) - Install and configure tfe on your system.
 
 
