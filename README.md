@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) - Install and configure openssh on your system. (3 days ago)
-- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (3 days ago)
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (3 days ago)
-- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (4 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) - Install and configure openssh on your system. (4 days ago)
+- [buluma/ansible-role-p10k](https://github.com/buluma/ansible-role-p10k) - Ansible role for installing powerlevel10k (4 days ago)
+- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (4 days ago)
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -37,6 +37,6 @@ A little summary
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 4 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) ([24.3.31](https://github.com/buluma/ansible-role-solr/releases/tag/24.3.31), 1 month ago) - Install and configure Apache Solr for Linux
 - [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) ([24.3.31](https://github.com/buluma/ansible-role-go/releases/tag/24.3.31), 1 month ago) - An Ansible Role that installs Go (the language) on Linux.
-- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 1 month ago) - Install and configure tfe on your system.
+- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 2 months ago) - Install and configure tfe on your system.
 
 
