@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) - The purpose of this role is to add users and groups on your system. (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (1 day ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (1 day ago)
+- [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) - The purpose of this role is to make backups of your system. (today)
+- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) ([24.5.31](https://github.com/buluma/ansible-role-thunderbird/releases/tag/24.5.31), 1 day ago) - Install Thunderbird on your system.
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 2 weeks ago) - Dependabot Auto-Merge Action
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.4.24](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.4.24), 1 month ago) - A container that is used for GitHub molecule actions
 - [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 2 months ago) - Install and configure tfe on your system.
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) ([v24.03.24](https://github.com/buluma/ansible-role-docker_compose/releases/tag/v24.03.24), 2 months ago) - Install docker_compose on your system.
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.2](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.2), 2 months ago) - Deploy a Collection to Ansible Galaxy.
 
 
