@@ -17,8 +17,8 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-backup](https://github.com/buluma/ansible-role-backup) - The purpose of this role is to make backups of your system. (today)
-- [buluma/ansible-role-etherpad](https://github.com/buluma/ansible-role-etherpad) - Install and configure Etherpad on your system. (today)
+- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) - Install and configure Nomad. (today)
+- [buluma/ansible-role-forensics](https://github.com/buluma/ansible-role-forensics) - Install and configure forensics on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 - [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
 - [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
