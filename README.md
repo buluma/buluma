@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (today)
+- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd. (today)
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (3 weeks ago)
-- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (3 weeks ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-ansible](https://github.com/buluma/ansible-role-ansible) - Install and configure ansible on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), today) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), today) - A container that is used for GitHub molecule actions
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 1 month ago) - Dependabot Auto-Merge Action
 - [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 2 months ago) - Install and configure tfe on your system.
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) ([v24.03.24](https://github.com/buluma/ansible-role-docker_compose/releases/tag/v24.03.24), 2 months ago) - Install docker_compose on your system.
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.2](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.2), 3 months ago) - Deploy a Collection to Ansible Galaxy.
 
 
