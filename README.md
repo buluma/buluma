@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), today) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v24.7.12](https://github.com/buluma/ansible-role-aide/releases/tag/v24.7.12), today) - Install and configure aide on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 3 weeks ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 3 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 2 months ago) - Dependabot Auto-Merge Action
-- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 3 months ago) - Install and configure tfe on your system.
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) ([v24.03.24](https://github.com/buluma/ansible-role-docker_compose/releases/tag/v24.03.24), 3 months ago) - Install docker_compose on your system.
 
 
