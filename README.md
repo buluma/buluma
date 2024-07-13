@@ -18,10 +18,10 @@ A little summary
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (today)
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
 - [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system. (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
-- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
 
 #### 👨‍💻 Repositories I created recently
 
