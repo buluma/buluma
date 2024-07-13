@@ -18,10 +18,10 @@ A little summary
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (today)
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
+- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (today)
 - [buluma/ansible-role-capistrano_setup](https://github.com/buluma/ansible-role-capistrano_setup) - An ansible role for creating the default project structure when using Capistrano as your application deployment tool. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system. (today)
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.13](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.13), today) - Install pythons pip on your system.
 - [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 1 day ago) - Install anaconda on your system.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 1 day ago) - An ansible role for managing mail aliases.
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v24.7.12](https://github.com/buluma/ansible-role-aide/releases/tag/v24.7.12), 1 day ago) - Install and configure aide on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 3 weeks ago) - Test Ansible roles using Molecule
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 3 weeks ago) - A container that is used for GitHub molecule actions
 
 
