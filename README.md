@@ -18,10 +18,10 @@ A little summary
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-firewall](https://github.com/buluma/ansible-role-firewall) - anage firewall ports on all (known) Linux operating systems. (today)
-- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
-- [buluma/ansible-role-environment](https://github.com/buluma/ansible-role-environment) - Set system-wide variables. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-forensics](https://github.com/buluma/ansible-role-forensics) - Install and configure forensics on your system. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
+- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-environment](https://github.com/buluma/ansible-role-environment) - Set system-wide variables. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.13](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.13), today) - Install pythons pip on your system.
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 1 day ago) - Install anaconda on your system.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 1 day ago) - An ansible role for managing mail aliases.
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v24.7.12](https://github.com/buluma/ansible-role-aide/releases/tag/v24.7.12), 1 day ago) - Install and configure aide on your system.
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.13](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.13), 1 day ago) - Install pythons pip on your system.
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 2 days ago) - Install anaconda on your system.
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 2 days ago) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v24.7.12](https://github.com/buluma/ansible-role-aide/releases/tag/v24.7.12), 2 days ago) - Install and configure aide on your system.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 3 weeks ago) - Test Ansible roles using Molecule
 
 
