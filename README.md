@@ -19,9 +19,9 @@ A little summary
 
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) - Install and configure zabbix_agent on your system. (today)
 - [buluma/ansible-role-firewall](https://github.com/buluma/ansible-role-firewall) - anage firewall ports on all (known) Linux operating systems. (today)
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) - Make openssl certificates. (today)
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.13](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.13), 1 day ago) - Install pythons pip on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([24.7.14](https://github.com/buluma/ansible-role-openssl/releases/tag/24.7.14), today) - Make openssl certificates.
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.14](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.14), today) - Install pythons pip on your system.
 - [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 2 days ago) - Install anaconda on your system.
 - [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 2 days ago) - An ansible role for managing mail aliases.
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) ([v24.7.12](https://github.com/buluma/ansible-role-aide/releases/tag/v24.7.12), 2 days ago) - Install and configure aide on your system.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 3 weeks ago) - Test Ansible roles using Molecule
 
 
