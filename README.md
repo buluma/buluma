@@ -20,7 +20,7 @@ A little summary
 - [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) - Install, configure, initialize and unseal Hashicorp Vault. (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
-- [buluma/ansible-role-firewall](https://github.com/buluma/ansible-role-firewall) - anage firewall ports on all (known) Linux operating systems. (1 day ago)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
 - [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
