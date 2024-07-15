@@ -17,10 +17,10 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) - Install, configure, initialize and unseal Hashicorp Vault. (today)
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (today)
 - [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
-- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) - Install, configure, initialize and unseal Hashicorp Vault. (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
