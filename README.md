@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 day ago)
-- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (2 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (2 days ago)
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (2 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (2 days ago)
+- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (3 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (3 days ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v24.7.14](https://github.com/buluma/ansible-role-setuptools/releases/tag/v24.7.14), 3 days ago) - Install setuptools on your system.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([24.7.14](https://github.com/buluma/ansible-role-openssl/releases/tag/24.7.14), 3 days ago) - Make openssl certificates.
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.14](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.14), 3 days ago) - Install pythons pip on your system.
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 5 days ago) - Install anaconda on your system.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 5 days ago) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v24.7.14](https://github.com/buluma/ansible-role-setuptools/releases/tag/v24.7.14), 4 days ago) - Install setuptools on your system.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([24.7.14](https://github.com/buluma/ansible-role-openssl/releases/tag/24.7.14), 4 days ago) - Make openssl certificates.
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.14](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.14), 4 days ago) - Install pythons pip on your system.
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 6 days ago) - Install anaconda on your system.
+- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 6 days ago) - An ansible role for managing mail aliases.
 
 
