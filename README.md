@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (2 days ago)
-- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (3 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (3 days ago)
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (3 days ago)
+- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (today)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
+- [buluma/ansible-role-tftpd](https://github.com/buluma/ansible-role-tftpd) - Install tfpd on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) ([v24.7.14](https://github.com/buluma/ansible-role-setuptools/releases/tag/v24.7.14), 4 days ago) - Install setuptools on your system.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([24.7.14](https://github.com/buluma/ansible-role-openssl/releases/tag/24.7.14), 4 days ago) - Make openssl certificates.
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([24.7.14](https://github.com/buluma/ansible-role-python_pip/releases/tag/24.7.14), 4 days ago) - Install pythons pip on your system.
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) ([24.7.12](https://github.com/buluma/ansible-role-anaconda/releases/tag/24.7.12), 6 days ago) - Install anaconda on your system.
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) ([24.7.12](https://github.com/buluma/ansible-role-aliases/releases/tag/24.7.12), 6 days ago) - An ansible role for managing mail aliases.
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v24.7.19](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v24.7.19), 1 day ago) - Prepare your system to be managed by Ansible.
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 1 month ago) - Test Ansible roles using Molecule
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 1 month ago) - A container that is used for GitHub molecule actions
+- [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 2 months ago) - Dependabot Auto-Merge Action
+- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 3 months ago) - Install and configure tfe on your system.
 
 
