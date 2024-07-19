@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (today)
-- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) - Install and configure auditd on your system. (today)
-- [buluma/ansible-role-sudo](https://github.com/buluma/ansible-role-sudo) - install sudo on your system. (today)
+- [buluma/ansible-role-setuptools](https://github.com/buluma/ansible-role-setuptools) - Install setuptools on your system. (today)
+- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (today)
+- [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type. (today)
+- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (today)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-tftpd](https://github.com/buluma/ansible-role-tftpd) - Install tfpd on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
