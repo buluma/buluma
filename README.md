@@ -17,10 +17,10 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) - Dotfile installation for UNIX/Linux. (today)
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) - Install and configure httpd on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (2 days ago)
-- [buluma/ansible-role-fail2ban](https://github.com/buluma/ansible-role-fail2ban) - Install and configure fail2ban on your system. (2 days ago)
-- [buluma/ansible-role-selinux](https://github.com/buluma/ansible-role-selinux) - Install and configure selinux and its required libraries on your system. (2 days ago)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
