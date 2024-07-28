@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (6 days ago)
 - [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) - Install and configure postfix on your system. (6 days ago)
 - [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (1 week ago)
-- [buluma/ansible-role-dotfiles](https://github.com/buluma/ansible-role-dotfiles) - Dotfile installation for UNIX/Linux. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,10 +33,10 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([24.7.28](https://github.com/buluma/ansible-role-openssh/releases/tag/24.7.28), today) - Install and configure openssh on your system.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v24.7.19](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v24.7.19), 1 week ago) - Prepare your system to be managed by Ansible.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 1 month ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 1 month ago) - A container that is used for GitHub molecule actions
 - [buluma/dependabot-auto-merge-action](https://github.com/buluma/dependabot-auto-merge-action) ([v2.1.4](https://github.com/buluma/dependabot-auto-merge-action/releases/tag/v2.1.4), 2 months ago) - Dependabot Auto-Merge Action
-- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 4 months ago) - Install and configure tfe on your system.
 
 
