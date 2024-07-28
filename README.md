@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (today)
 - [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (today)
 - [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (6 days ago)
 - [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) - Install and configure postfix on your system. (6 days ago)
-- [buluma/ansible-role-transmission](https://github.com/buluma/ansible-role-transmission) - Install Transmission on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
