@@ -17,9 +17,9 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (6 days ago)
-- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (6 days ago)
+- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (1 day ago)
+- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (1 week ago)
+- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (1 week ago)
 - [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) - Install and configure postfix on your system. (1 week ago)
 - [buluma/ansible-role-terraform](https://github.com/buluma/ansible-role-terraform) - Install and configure terraform on your system. (1 week ago)
 
@@ -33,7 +33,7 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([24.7.28](https://github.com/buluma/ansible-role-openssh/releases/tag/24.7.28), 6 days ago) - Install and configure openssh on your system.
+- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([24.7.28](https://github.com/buluma/ansible-role-openssh/releases/tag/24.7.28), 1 week ago) - Install and configure openssh on your system.
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v24.7.19](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v24.7.19), 2 weeks ago) - Prepare your system to be managed by Ansible.
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 1 month ago) - Test Ansible roles using Molecule
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 1 month ago) - A container that is used for GitHub molecule actions
