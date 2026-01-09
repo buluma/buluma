@@ -12,31 +12,31 @@ Always willing to learn new things.
 
 Welcome to my little world.
 
-<!--A little summary
-[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1=ryo-ma&rank=S,SS,SSS,AAA,AA,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)-->
+A little summary
+[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1=ryo-ma&rank=S,SS,SSS,AAA,AA,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 👷 Check out what I'm currently working on
 
-- [ShadowNet-KE/Dockerfiles](https://github.com/ShadowNet-KE/Dockerfiles) -  (today)
-- [buluma/ansible-role-powertools](https://github.com/buluma/ansible-role-powertools) - Enable powertools repository on your system. (8 months ago)
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) - Install and configure openssh on your system. (8 months ago)
-- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (8 months ago)
-- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (8 months ago)
+- [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (today)
+- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/opsio](https://github.com/buluma/opsio)
 - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) - Check xz vulnerability (cve_2024_3094) on your system.
 - [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) - Configure HashiCorp Vault on your system.
 - [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) - Install and configure tfe on your system.
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/ansible-role-openssh](https://github.com/buluma/ansible-role-openssh) ([24.7.28](https://github.com/buluma/ansible-role-openssh/releases/tag/24.7.28), 8 months ago) - Install and configure openssh on your system.
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) ([v24.7.19](https://github.com/buluma/ansible-role-bootstrap/releases/tag/v24.7.19), 8 months ago) - Prepare your system to be managed by Ansible.
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v24.6.17](https://github.com/buluma/molecule-action/releases/tag/v24.6.17), 9 months ago) - Test Ansible roles using Molecule
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v24.6.17](https://github.com/buluma/docker-github-action-molecule/releases/tag/v24.6.17), 9 months ago) - A container that is used for GitHub molecule actions
-- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 1 year ago) - Install and configure tfe on your system.
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), today) - A container that is used for GitHub molecule actions
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 6 months ago) - Test Ansible roles using Molecule
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.2](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.2), 2 years ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/docker-debian-systemd](https://github.com/buluma/docker-debian-systemd) ([0.12.30](https://github.com/buluma/docker-debian-systemd/releases/tag/0.12.30), 2 years ago) - Container to test Ansible roles in, including capabilities to use systemd facilities.
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.8](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.8), 2 years ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 
 
