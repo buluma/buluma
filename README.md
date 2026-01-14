@@ -18,10 +18,10 @@ A little summary
 #### 👷 Check out what I'm currently working on
 
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (5 days ago)
-- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (5 days ago)
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) - A container that is used for GitHub molecule actions (5 days ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
