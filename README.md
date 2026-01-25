@@ -21,7 +21,7 @@ A little summary
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 week ago)
 - [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (1 week ago)
 - [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 week ago)
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security (1 week ago)
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,7 +33,7 @@ A little summary
 
 #### 🚀 Latest releases I've contributed to
 
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 2 days ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 days ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 2 weeks ago) - A container that is used for GitHub molecule actions
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 7 months ago) - Test Ansible roles using Molecule
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.2](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.2), 2 years ago) - Deploy a Collection to Ansible Galaxy.
