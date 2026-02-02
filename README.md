@@ -17,11 +17,11 @@ A little summary
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 weeks ago)
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 weeks ago)
-- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (2 weeks ago)
 - [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (2 weeks ago)
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security (3 weeks ago)
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (2 weeks ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
