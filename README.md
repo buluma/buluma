@@ -13,7 +13,7 @@ Always willing to learn new things.
 Welcome to my little world.
 
 A little summary
-[![trophy](https://github-profile-trophy.vercel.app/?username=buluma&no-frame=true&no-bg=true&margin-h=10&theme=onestar&column=-1=ryo-ma&rank=S,SS,SSS,AAA,AA,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github.com/buluma/readme-scribe/blob/master/test/trophy.svg" width="100%"/>
 
 #### 👷 Check out what I'm currently working on
 
