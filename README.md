@@ -14,19 +14,19 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (today)
-- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) - Publish Ansible roles to Galaxy (today)
-- [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (today)
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (today)
+- [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (today)
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) - Publish Ansible roles to Galaxy (today)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App
 - [buluma/opsio](https://github.com/buluma/opsio)
 - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) - Check xz vulnerability (cve_2024_3094) on your system.
 - [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) - Configure HashiCorp Vault on your system.
-- [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) - Install and configure tfe on your system.
 
 #### 🚀 Latest releases I've contributed to
 
@@ -38,9 +38,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Cordova server compatibility endpoints](https://github.com/buluma/eabl_working/pull/2) on [buluma/eabl_working](https://github.com/buluma/eabl_working) (today)
 - [2026](https://github.com/buluma/ansible-role-python_pip/pull/37) on [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) (today)
 - [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.4.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/252) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 week ago)
-- [Fix test dependency resolution for core imports](https://github.com/buluma/g-cli/pull/5) on [buluma/g-cli](https://github.com/buluma/g-cli) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
