@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (today)
-- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (today)
 - [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (today)
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) - Publish Ansible roles to Galaxy (today)
+- [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (today)
+- [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) - Install dependecies to support the Ansible core modules. (today)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,11 +30,11 @@ Welcome to my little world.
 
 #### 🚀 Latest releases I've contributed to
 
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), today) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([26.2.3](https://github.com/buluma/ansible-role-python_pip/releases/tag/26.2.3), today) - Install pythons pip on your system.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.2.0](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.2.0), today) - Bind system to Active Directory.
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 1 week ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 3 weeks ago) - A container that is used for GitHub molecule actions
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 7 months ago) - Test Ansible roles using Molecule
 
 #### 🔨 My recent Pull Requests
 
