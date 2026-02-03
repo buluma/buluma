@@ -1,5 +1,4 @@
 ### Just another creative nerd 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=buluma&theme=gotham&show_icons=true" width="50%"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/buluma)
 ![GitHub Org's stars](https://img.shields.io/github/stars/buluma)
@@ -8,11 +7,9 @@
 
 I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
 
-Always willing to learn new things.
+Always willing to learn new things. 
 
 Welcome to my little world.
-
-A little summary
 <img src="https://github.com/buluma/readme-scribe/blob/master/test/trophy.svg" width="100%"/>
 
 #### 👷 Check out what I'm currently working on
