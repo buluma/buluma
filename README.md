@@ -38,6 +38,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
 - [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (today)
 - [Seed default admin user on backend startup (configurable via env)](https://github.com/buluma/fieldReporter/pull/1) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (today)
 - [Fix Cordova server compatibility endpoints](https://github.com/buluma/eabl_working/pull/2) on [buluma/eabl_working](https://github.com/buluma/eabl_working) (1 day ago)
