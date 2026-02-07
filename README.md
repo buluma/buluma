@@ -38,12 +38,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (today)
+- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (today)
+- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (today)
 - [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (3 days ago)
 - [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (3 days ago)
 - [Seed default admin user on backend startup (configurable via env)](https://github.com/buluma/fieldReporter/pull/1) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (3 days ago)
 - [Fix Cordova server compatibility endpoints](https://github.com/buluma/eabl_working/pull/2) on [buluma/eabl_working](https://github.com/buluma/eabl_working) (4 days ago)
 - [2026](https://github.com/buluma/ansible-role-python_pip/pull/37) on [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) (4 days ago)
-- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.4.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/252) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 week ago)
 
 #### ⭐ Recent Stars
 
