@@ -47,6 +47,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (today)
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (1 day ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (4 days ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (6 days ago)
@@ -56,7 +57,6 @@ Welcome to my little world.
 - [T3-Content/skatebench](https://github.com/T3-Content/skatebench) -  (1 month ago)
 - [openai/build-hours](https://github.com/openai/build-hours) - Build hours code to share. (1 month ago)
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects (1 month ago)
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. (1 month ago)
 
 
 
