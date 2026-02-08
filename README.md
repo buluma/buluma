@@ -45,7 +45,6 @@ Welcome to my little world.
 - [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (4 days ago)
 - [Seed default admin user on backend startup (configurable via env)](https://github.com/buluma/fieldReporter/pull/1) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (4 days ago)
 - [Fix Cordova server compatibility endpoints](https://github.com/buluma/eabl_working/pull/2) on [buluma/eabl_working](https://github.com/buluma/eabl_working) (5 days ago)
-- [2026](https://github.com/buluma/ansible-role-python_pip/pull/37) on [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) (5 days ago)
 
 #### ⭐ Recent Stars
 
