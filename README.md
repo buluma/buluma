@@ -46,6 +46,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (today)
 - [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (2 days ago)
 - [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (3 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
@@ -55,7 +56,6 @@ Welcome to my little world.
 - [gclough/pihole_kids_lists](https://github.com/gclough/pihole_kids_lists) -  (1 month ago)
 - [T3-Content/skatebench](https://github.com/T3-Content/skatebench) -  (1 month ago)
 - [openai/build-hours](https://github.com/openai/build-hours) - Build hours code to share. (1 month ago)
-- [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects (1 month ago)
 
 
 
