@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 days ago)
-- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (4 days ago)
-- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (5 days ago)
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (5 days ago)
-- [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (5 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (3 days ago)
+- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (5 days ago)
+- [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (6 days ago)
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (6 days ago)
+- [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,28 +30,27 @@ Welcome to my little world.
 
 #### 🚀 Latest releases I've contributed to
 
-- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 5 days ago) - Publish Ansible roles to Galaxy
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([26.2.3](https://github.com/buluma/ansible-role-python_pip/releases/tag/26.2.3), 5 days ago) - Install pythons pip on your system.
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.2.0](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.2.0), 5 days ago) - Bind system to Active Directory.
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 6 days ago) - Publish Ansible roles to Galaxy
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([26.2.3](https://github.com/buluma/ansible-role-python_pip/releases/tag/26.2.3), 6 days ago) - Install pythons pip on your system.
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.2.0](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.2.0), 6 days ago) - Bind system to Active Directory.
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 2 weeks ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 1 month ago) - A container that is used for GitHub molecule actions
 
 #### 🔨 My recent Pull Requests
 
-- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 day ago)
-- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 day ago)
-- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 day ago)
-- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (4 days ago)
-- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (4 days ago)
-- [Seed default admin user on backend startup (configurable via env)](https://github.com/buluma/fieldReporter/pull/1) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (4 days ago)
+- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (2 days ago)
+- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (2 days ago)
+- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (2 days ago)
+- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (5 days ago)
+- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (1 day ago)
-- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (2 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (5 days ago)
+- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (2 days ago)
+- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (3 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
-- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (3 weeks ago)
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (4 weeks ago)
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal. (4 weeks ago)
 - [gclough/pihole_kids_lists](https://github.com/gclough/pihole_kids_lists) -  (1 month ago)
 - [T3-Content/skatebench](https://github.com/T3-Content/skatebench) -  (1 month ago)
