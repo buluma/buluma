@@ -46,6 +46,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (today)
 - [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (today)
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (today)
 - [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (1 day ago)
@@ -55,7 +56,6 @@ Welcome to my little world.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (4 weeks ago)
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal. (1 month ago)
 
 
 
