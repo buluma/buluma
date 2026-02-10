@@ -46,6 +46,8 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (today)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (today)
 - [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (1 day ago)
 - [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (1 day ago)
 - [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (3 days ago)
@@ -54,8 +56,6 @@ Welcome to my little world.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (4 weeks ago)
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal. (1 month ago)
-- [gclough/pihole_kids_lists](https://github.com/gclough/pihole_kids_lists) -  (1 month ago)
-- [T3-Content/skatebench](https://github.com/T3-Content/skatebench) -  (1 month ago)
 
 
 
