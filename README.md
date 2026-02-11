@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (4 days ago)
-- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (6 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (5 days ago)
+- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (1 week ago)
 - [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (1 week ago)
 - [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (1 week ago)
 - [buluma/enterpriselinux](https://github.com/buluma/enterpriselinux) - Docker builds of Enterprise Linux (1 week ago)
@@ -38,24 +38,24 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (3 days ago)
-- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (3 days ago)
-- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (3 days ago)
-- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (6 days ago)
-- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (6 days ago)
+- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
+- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
+- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
+- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 week ago)
+- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (today)
-- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (today)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (today)
-- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (1 day ago)
-- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (1 day ago)
-- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (3 days ago)
-- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (4 days ago)
+- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (1 day ago)
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (1 day ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (1 day ago)
+- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (2 days ago)
+- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (2 days ago)
+- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (4 days ago)
+- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (5 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
-- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (4 weeks ago)
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (1 month ago)
 
 
 
