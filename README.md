@@ -14,7 +14,7 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (5 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (6 days ago)
 - [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App (1 week ago)
 - [buluma/ansible-role-test_connection](https://github.com/buluma/ansible-role-test_connection) - Test connection possibilities to your system. (1 week ago)
 - [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (1 week ago)
@@ -33,26 +33,26 @@ Welcome to my little world.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 1 week ago) - Publish Ansible roles to Galaxy
 - [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) ([26.2.3](https://github.com/buluma/ansible-role-python_pip/releases/tag/26.2.3), 1 week ago) - Install pythons pip on your system.
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) ([0.2.0](https://github.com/buluma/ansible-role-ad_auth/releases/tag/0.2.0), 1 week ago) - Bind system to Active Directory.
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 2 weeks ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 weeks ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 1 month ago) - A container that is used for GitHub molecule actions
 
 #### 🔨 My recent Pull Requests
 
-- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
-- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
-- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (4 days ago)
+- [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (5 days ago)
+- [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (5 days ago)
+- [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (5 days ago)
 - [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 week ago)
 - [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (1 day ago)
-- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (1 day ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (1 day ago)
-- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (2 days ago)
-- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (2 days ago)
-- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (4 days ago)
-- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (5 days ago)
+- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (2 days ago)
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (2 days ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (2 days ago)
+- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (3 days ago)
+- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (3 days ago)
+- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (5 days ago)
+- [onurkanbakirci/awesome-codex-automations](https://github.com/onurkanbakirci/awesome-codex-automations) - A curated list of automations for codex (6 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (1 month ago)
