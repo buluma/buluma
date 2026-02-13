@@ -27,10 +27,10 @@ Welcome to my little world.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+<!-- #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+{{- end}} -->
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
