@@ -22,9 +22,9 @@ Welcome to my little world.
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+#### 🚀 Latest releases I've contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
@@ -42,4 +42,5 @@ Welcome to my little world.
 # working version of metric
 <a href="https://metrics.lecoq.io/about/buluma" target="_blank"><img src="/github-metrics.svg" alt="Metrics" width="100%"></a> -->
 
+## Contribution graph
 <img alt="github-snake" src="https://github.com/buluma/readme-scribe/blob/png/github-contribution-grid-snake.svg" width="100%"/>
