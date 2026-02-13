@@ -7,7 +7,7 @@
 
 I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
 
-Always willing to learn new things. 
+Always willing to learn new things.
 
 Welcome to my little world.
 <img src="https://github.com/buluma/readme-scribe/blob/master/test/trophy.svg" width="100%"/>
@@ -27,10 +27,10 @@ Welcome to my little world.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<!-- #### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}} -->
+{{- end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
