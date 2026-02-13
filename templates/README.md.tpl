@@ -22,11 +22,6 @@ Welcome to my little world.
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### 🚀 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
-
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
