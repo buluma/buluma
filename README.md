@@ -14,19 +14,19 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (today)
-- [buluma/ansible-role-local](https://github.com/buluma/ansible-role-local) - Roles unders testing [ DO NOT USE ] (today)
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
-- [buluma/ansible-role-clamav](https://github.com/buluma/ansible-role-clamav) - Install and configure clamav on your system. (1 day ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
+- [buluma/steroid-chat](https://github.com/buluma/steroid-chat) - Pick your poison, OpenAI, Grok, OpenRouter, etc. (today)
+- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (1 day ago)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
+- [buluma/ansible-role-local](https://github.com/buluma/ansible-role-local) - Roles unders testing [ DO NOT USE ] (1 day ago)
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/steroid-chat](https://github.com/buluma/steroid-chat) - Pick your poison, OpenAI, Grok, OpenRouter, etc.
 - [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App
 - [buluma/opsio](https://github.com/buluma/opsio)
 - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) - Check xz vulnerability (cve_2024_3094) on your system.
-- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) - Configure HashiCorp Vault on your system.
 
 #### 🔨 My recent Pull Requests
 
@@ -51,16 +51,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (1 day ago)
-- [josstei/maestro-gemini](https://github.com/josstei/maestro-gemini) - Multi-agent orchestration extension for Gemini CLI that assembles specialized dev teams and coordinates design, planning, and execution—plus built-in commands for code review, debugging, security audits, and performance analysis. (2 days ago)
-- [EstebanForge/gemini-cli-wakatime](https://github.com/EstebanForge/gemini-cli-wakatime) - Track your AI-assisted coding activity, time spent prompting AI, and lines of code generated using the WakaTime/Wakapi extension for Gemini CLI. (2 days ago)
-- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (4 days ago)
-- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (4 days ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (4 days ago)
-- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (5 days ago)
-- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (5 days ago)
-- [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs (1 week ago)
+- [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (today)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (2 days ago)
+- [josstei/maestro-gemini](https://github.com/josstei/maestro-gemini) - Multi-agent orchestration extension for Gemini CLI that assembles specialized dev teams and coordinates design, planning, and execution—plus built-in commands for code review, debugging, security audits, and performance analysis. (3 days ago)
+- [EstebanForge/gemini-cli-wakatime](https://github.com/EstebanForge/gemini-cli-wakatime) - Track your AI-assisted coding activity, time spent prompting AI, and lines of code generated using the WakaTime/Wakapi extension for Gemini CLI. (3 days ago)
+- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (5 days ago)
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (5 days ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (5 days ago)
+- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (6 days ago)
+- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (6 days ago)
 
 
 
