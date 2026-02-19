@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/steroid-chat](https://github.com/buluma/steroid-chat) - Pick your poison, OpenAI, Grok, OpenRouter, etc. (today)
-- [buluma/fedora](https://github.com/buluma/fedora) - Fedora Container to test Ansible roles in, including capabilities to use systemd facilities. (1 day ago)
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
-- [buluma/ansible-role-local](https://github.com/buluma/ansible-role-local) - Roles unders testing [ DO NOT USE ] (1 day ago)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (2 days ago)
+- [buluma/MozWall](https://github.com/buluma/MozWall) - The Twitter Wall for Mozillians  (today)
+- [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) - Well, reboot your system. (1 day ago)
+- [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) - Install and configure php on your system. (1 day ago)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (1 day ago)
+- [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) - Install and configure postgres on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,13 +33,13 @@ Welcome to my little world.
 - [Refine chat UI styling for darker, Grok-like layout](https://github.com/buluma/ollama-client/pull/3) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 week ago)
 - [Hide debug banner in main MaterialApp](https://github.com/buluma/ollama-client/pull/2) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 week ago)
 - [retry-ai-response](https://github.com/buluma/ollama-client/pull/1) on [buluma/ollama-client](https://github.com/buluma/ollama-client) (1 week ago)
-- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 week ago)
-- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (1 week ago)
+- [[Snyk] Security upgrade node from 25.2.1-trixie-slim to 25.6.0-trixie-slim](https://github.com/buluma/ansible_galaxy_collection/pull/255) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (2 weeks ago)
+- [Add simple PrismaDB admin UI](https://github.com/buluma/fieldReporter/pull/2) on [buluma/fieldReporter](https://github.com/buluma/fieldReporter) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 1 week ago) - Publish Ansible roles to Galaxy
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 weeks ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
+- [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 2 weeks ago) - Publish Ansible roles to Galaxy
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 4 weeks ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 1 month ago) - A container that is used for GitHub molecule actions
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 8 months ago) - Test Ansible roles using Molecule
 - [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 2 years ago) - Install and configure tfe on your system.
@@ -51,16 +51,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (today)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (2 days ago)
-- [josstei/maestro-gemini](https://github.com/josstei/maestro-gemini) - Multi-agent orchestration extension for Gemini CLI that assembles specialized dev teams and coordinates design, planning, and execution—plus built-in commands for code review, debugging, security audits, and performance analysis. (3 days ago)
-- [EstebanForge/gemini-cli-wakatime](https://github.com/EstebanForge/gemini-cli-wakatime) - Track your AI-assisted coding activity, time spent prompting AI, and lines of code generated using the WakaTime/Wakapi extension for Gemini CLI. (3 days ago)
-- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (5 days ago)
-- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (5 days ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (5 days ago)
-- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (6 days ago)
-- [buluma/ollama_chat_app](https://github.com/buluma/ollama_chat_app) - A sophisticated Flutter chat client that sends prompts to an Ollama-compatible API and displays responses in a chat-style UI with advanced features. (6 days ago)
+- [mootloots/Python-for-ArcGIS](https://github.com/mootloots/Python-for-ArcGIS) - Python scripts to clean, organize, or otherwise manage data, perform complex geoprocessing tasks, and automate with online services.  (2 days ago)
+- [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (4 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (6 days ago)
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (6 days ago)
+- [josstei/maestro-gemini](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance (1 week ago)
+- [EstebanForge/gemini-cli-wakatime](https://github.com/EstebanForge/gemini-cli-wakatime) - Track your AI-assisted coding activity, time spent prompting AI, and lines of code generated using the WakaTime/Wakapi extension for Gemini CLI. (1 week ago)
+- [victoroki/MPESAAnalyzer](https://github.com/victoroki/MPESAAnalyzer) -  (1 week ago)
+- [n0mi1k/apk2url](https://github.com/n0mi1k/apk2url) - An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling (1 week ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (1 week ago)
+- [reworkd/perplexity-style-streaming](https://github.com/reworkd/perplexity-style-streaming) - ⚡️ Perplexity.ai style LLM response streaming (1 week ago)
 
 
 
