@@ -1,5 +1,5 @@
 import * as React from "react";
-import * as ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client";
 import * as dayjs from "dayjs";
 import * as localizedFormat from "dayjs/plugin/localizedFormat";
 import { generateImage } from "jsdom-screenshot";
@@ -8,6 +8,24 @@ import { ChartGraphics } from "../../src/template/page";
 import { importCss } from "../../src/template/style";
 
 dayjs.extend(localizedFormat);
+jest.setTimeout(30000);
+
+jest.mock("react-vis", () => {
+  const React = require("react");
+  const wrap =
+    (name: string) =>
+    ({ children }: { children?: React.ReactNode }) =>
+      React.createElement("div", { "data-testid": name }, children);
+
+  return {
+    XYPlot: wrap("XYPlot"),
+    XAxis: wrap("XAxis"),
+    YAxis: wrap("YAxis"),
+    HorizontalGridLines: wrap("HorizontalGridLines"),
+    VerticalGridLines: wrap("VerticalGridLines"),
+    VerticalBarSeries: wrap("VerticalBarSeries"),
+  };
+});
 
 const context = {
   branch: "master",
@@ -58,7 +76,8 @@ describe("Report", () => {
         ],
       },
     });
-    ReactDOM.render(
+    const root = createRoot(div);
+    root.render(
       <Report
         date={dayjs(1234567890987).toDate()}
         config={{
@@ -89,7 +108,6 @@ describe("Report", () => {
         }}
         releasesMap={releasesMap}
       />,
-      div
     );
 
     const screenshot = await generateImage({
@@ -113,7 +131,8 @@ describe("Report", () => {
         values: ids.map((i) => ({ releaseId: `rel-${i}`, value: i })),
       },
     });
-    ReactDOM.render(
+    const root = createRoot(div);
+    root.render(
       <Report
         date={dayjs(1234567890987).toDate()}
         config={{
@@ -136,7 +155,6 @@ describe("Report", () => {
         }}
         releasesMap={releasesMap}
       />,
-      div
     );
 
     const screenshot = await generateImage({

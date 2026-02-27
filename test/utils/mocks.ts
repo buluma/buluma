@@ -12,6 +12,5 @@ export const prepareMocks = <X, Y>(
 };
 
 const mockModule = <T>(name: string, module: T) => {
-  jest.mock(name, () => module);
-  require(name);
+  jest.mock(name, () => module, { virtual: true });
 };
