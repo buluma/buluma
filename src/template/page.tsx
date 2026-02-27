@@ -16,7 +16,7 @@ import { getContent } from "../io/github";
 import { Report } from "./Report";
 import { importCss } from "./style";
 
-dayjs.extend((localizedFormat as any).default || localizedFormat);
+dayjs.extend((localizedFormat as unknown).default || localizedFormat);
 
 export type ChartGraphics = Map<
   string,
