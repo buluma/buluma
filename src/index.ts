@@ -1,3 +1,3 @@
 import { runAction } from "./logic";
 
-runAction();
+void runAction();
