@@ -1,6 +1,6 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom/server";
-import PurgeCSS from "purgecss";
+import { PurgeCSS } from "purgecss";
 import * as core from "@actions/core";
 import * as dayjs from "dayjs";
 import * as localizedFormat from "dayjs/plugin/localizedFormat";
@@ -16,7 +16,7 @@ import { getContent } from "../io/github";
 import { Report } from "./Report";
 import { importCss } from "./style";
 
-dayjs.extend(localizedFormat);
+dayjs.extend((localizedFormat as unknown).default || localizedFormat);
 
 export type ChartGraphics = Map<
   string,
@@ -35,10 +35,11 @@ export const generatePage = async (
     css: [{ raw: css }],
     defaultExtractor: (content) => {
       // Capture as liberally as possible, including things like `h-(screen-1.5)`
-      const broadMatches = content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || [];
+      const broadMatches: string[] = content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || [];
 
       // Capture classes within other delimiters like .block(class="w-1/2") in Pug
-      const innerMatches = content.match(/[^<>"'`\s.()]*[^<>"'`\s.():]/g) || [];
+      const innerMatches: string[] =
+        content.match(/[^<>"'`\s.()]*[^<>"'`\s.():]/g) || [];
 
       return broadMatches.concat(innerMatches);
     },

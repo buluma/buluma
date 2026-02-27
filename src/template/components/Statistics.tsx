@@ -7,7 +7,9 @@ import {
   calcPercentile,
 } from "../../util/math";
 
-const StatsTable: React.FC<{}> = ({ children }) => (
+type StatsTableProps = React.PropsWithChildren<object>;
+
+const StatsTable: React.FC<StatsTableProps> = ({ children }) => (
   <div>
     <table className="table-auto w-full text-left">
       <tbody>{children}</tbody>

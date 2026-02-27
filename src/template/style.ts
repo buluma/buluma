@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 
 export const importCss = () => `${readFileSync(
-  "node_modules/tailwindcss/dist/tailwind.min.css"
+  "node_modules/tailwindcss/index.css"
 ).toString()}
 ${readFileSync("node_modules/react-vis/dist/style.css").toString()}`;

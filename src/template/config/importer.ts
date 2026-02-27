@@ -1,4 +1,4 @@
-import { safeLoad } from "js-yaml";
+import { load } from "js-yaml";
 import * as github from "@actions/github";
 import { Config, MetricsContext } from "../../model";
 import { getContent } from "../../io/github";
@@ -17,7 +17,7 @@ export const importConfig = async (
     throw new Error(`No config provided at ${CONFIG_PATH} on ${branch}`);
   }
 
-  const res = await safeLoad(serializedData);
+  const res = await load(serializedData);
 
   if (
     !Object.keys(res).find((n) => n === "metrics") ||

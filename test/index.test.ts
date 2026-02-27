@@ -3,6 +3,23 @@ import * as core from "./utils/actions-core";
 import * as github from "./utils/actions-github";
 import { mockAnswer } from "./utils/actions-github";
 
+jest.mock("react-vis", () => {
+  const React = require("react");
+  const wrap =
+    (name: string) =>
+    ({ children }: { children?: React.ReactNode }) =>
+      React.createElement("div", { "data-testid": name }, children);
+
+  return {
+    XYPlot: wrap("XYPlot"),
+    XAxis: wrap("XAxis"),
+    YAxis: wrap("YAxis"),
+    HorizontalGridLines: wrap("HorizontalGridLines"),
+    VerticalGridLines: wrap("VerticalGridLines"),
+    VerticalBarSeries: wrap("VerticalBarSeries"),
+  };
+});
+
 describe("General", () => {
   beforeEach(() => {
     jest.resetModules();
