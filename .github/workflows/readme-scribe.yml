@@ -2,9 +2,6 @@ name: Update README
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */1 * * *"
-  workflow_dispatch:
 
 jobs:
   markscribe:
@@ -22,7 +19,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: master
