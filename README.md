@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Merge upstream](https://github.com/buluma/worldmonitor/pull/1) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 - [fix: resolve build and run errors](https://github.com/buluma/repo-monitor-action/pull/64) on [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) (1 week ago)
 - [Update galaxy.yml](https://github.com/buluma/ansible-role-cron/pull/41) on [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) (1 week ago)
 - [[codex] Fix Molecule root user](https://github.com/buluma/ansible-role-core_dependencies/pull/39) on [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) (1 week ago)
@@ -37,7 +38,6 @@ Welcome to my little world.
 - [Update issue templates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/pull/647) on [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) (2 weeks ago)
 - [Update release_drafter.yml](https://github.com/buluma/ansible-role-buildkit/pull/5) on [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) (2 weeks ago)
 - [Update converge.yml](https://github.com/buluma/ansible-role-buildkit/pull/4) on [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) (2 weeks ago)
-- [Upstream Sync](https://github.com/buluma/g-cli/pull/6) on [buluma/g-cli](https://github.com/buluma/g-cli) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
