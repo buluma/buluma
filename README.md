@@ -54,6 +54,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client (today)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. (today)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (today)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (3 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 days ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 days ago)
@@ -61,9 +64,6 @@ Welcome to my little world.
 - [mootloots/Python-for-ArcGIS](https://github.com/mootloots/Python-for-ArcGIS) - Python scripts to clean, organize, or otherwise manage data, perform complex geoprocessing tasks, and automate with online services.  (1 month ago)
 - [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 month ago)
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (1 month ago)
-- [josstei/maestro-gemini](https://github.com/josstei/maestro-gemini) - Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools (1 month ago)
-- [EstebanForge/gemini-cli-wakatime](https://github.com/EstebanForge/gemini-cli-wakatime) - Track your AI-assisted coding activity, time spent prompting AI, and lines of code generated using the WakaTime/Wakapi extension for Gemini CLI. (1 month ago)
 
 
 
