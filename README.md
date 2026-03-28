@@ -30,7 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Merge upstream](https://github.com/buluma/worldmonitor_og/pull/1) on [buluma/worldmonitor_og](https://github.com/buluma/worldmonitor_og) (6 days ago)
+- [Merge upstream](https://github.com/buluma/worldmonitor_og/pull/1) on [buluma/worldmonitor_og](https://github.com/buluma/worldmonitor_og) (1 week ago)
 - [fix: resolve build and run errors](https://github.com/buluma/repo-monitor-action/pull/64) on [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) (2 weeks ago)
 - [Update galaxy.yml](https://github.com/buluma/ansible-role-cron/pull/41) on [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) (2 weeks ago)
 - [[codex] Fix Molecule root user](https://github.com/buluma/ansible-role-core_dependencies/pull/39) on [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) (2 weeks ago)
@@ -54,9 +54,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (2 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 days ago)
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (3 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 days ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 days ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 weeks ago)
 - [mootloots/Python-for-ArcGIS](https://github.com/mootloots/Python-for-ArcGIS) - Python scripts to clean, organize, or otherwise manage data, perform complex geoprocessing tasks, and automate with online services.  (1 month ago)
 - [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (1 month ago)
