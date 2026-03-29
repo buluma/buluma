@@ -16,17 +16,17 @@ Welcome to my little world.
 
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 weeks ago)
 - [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 weeks ago)
-- [buluma/ansible-role-types](https://github.com/buluma/ansible-role-types) - Try variables for their type. (2 weeks ago)
-- [buluma/ansible-role-reboot](https://github.com/buluma/ansible-role-reboot) - Well, reboot your system. (2 weeks ago)
+- [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems. (2 weeks ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (2 weeks ago)
+- [buluma/ansible-role-auditd](https://github.com/buluma/ansible-role-auditd) - Install and configure auditd on your system. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/steroid-chat](https://github.com/buluma/steroid-chat) - Pick your poison, OpenAI, Grok, OpenRouter, etc.
-- [buluma/fieldReporter](https://github.com/buluma/fieldReporter) - Test fieldReporter App
 - [buluma/opsio](https://github.com/buluma/opsio)
 - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094) - Check xz vulnerability (cve_2024_3094) on your system.
+- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) - Configure HashiCorp Vault on your system.
 
 #### 🔨 My recent Pull Requests
 
@@ -54,6 +54,8 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. (today)
+- [vanvuongngo/ClaraN](https://github.com/vanvuongngo/ClaraN) - ClaraN — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. Backend in Rust. Just your stack, your machines. (today)
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client (1 day ago)
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. (1 day ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 day ago)
@@ -62,8 +64,6 @@ Welcome to my little world.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (4 days ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 weeks ago)
 - [mootloots/Python-for-ArcGIS](https://github.com/mootloots/Python-for-ArcGIS) - Python scripts to clean, organize, or otherwise manage data, perform complex geoprocessing tasks, and automate with online services.  (1 month ago)
-- [expo/orbit](https://github.com/expo/orbit) - Accelerate your development workflow with one-click build launches and simulator management from your menu bar (1 month ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 month ago)
 
 
 
