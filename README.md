@@ -14,9 +14,9 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 day ago)
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (1 day ago)
+- [buluma/ansible-role-nomad](https://github.com/buluma/ansible-role-nomad) - Install and configure Nomad. (1 day ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 day ago)
 - [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (1 day ago)
 
