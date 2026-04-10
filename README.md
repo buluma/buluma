@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (5 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
-- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (6 days ago)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (6 days ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (6 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (6 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
+- [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (1 week ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 week ago)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -41,8 +41,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([26.5.5](https://github.com/buluma/ansible-role-upgrade/releases/tag/26.5.5), 4 days ago) - Upgrade a package only if it is installed otherwise do nothing.
-- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) ([26.5.5](https://github.com/buluma/ansible-role-update/releases/tag/26.5.5), 4 days ago) - Install updates on your system.
+- [buluma/ansible-role-upgrade](https://github.com/buluma/ansible-role-upgrade) ([26.5.5](https://github.com/buluma/ansible-role-upgrade/releases/tag/26.5.5), 5 days ago) - Upgrade a package only if it is installed otherwise do nothing.
+- [buluma/ansible-role-update](https://github.com/buluma/ansible-role-update) ([26.5.5](https://github.com/buluma/ansible-role-update/releases/tag/26.5.5), 5 days ago) - Install updates on your system.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([26.3.10](https://github.com/buluma/ansible-role-cron/releases/tag/26.3.10), 1 month ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel) ([26.3.8](https://github.com/buluma/ansible-role-kernel/releases/tag/26.3.8), 1 month ago) - Build and install a kernel.
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.9](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.9), 1 month ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
@@ -50,20 +50,20 @@ Welcome to my little world.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 2 months ago) - Publish Ansible roles to Galaxy
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 2 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 3 months ago) - A container that is used for GitHub molecule actions
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 9 months ago) - Test Ansible roles using Molecule
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 10 months ago) - Test Ansible roles using Molecule
 
 #### ⭐ Recent Stars
 
-- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (today)
-- [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi: Kilo, OpenCode Zen, OpenRouter, NVIDIABuild (today)
-- [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (3 days ago)
+- [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (1 day ago)
+- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (1 day ago)
+- [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi: Kilo, OpenCode Zen, OpenRouter, NVIDIABuild (1 day ago)
+- [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (4 days ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
 - [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. (1 week ago)
 - [vanvuongngo/ClaraN](https://github.com/vanvuongngo/ClaraN) - ClaraN — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. Backend in Rust. Just your stack, your machines. (1 week ago)
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client (1 week ago)
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. (1 week ago)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 week ago)
 
 
 
