@@ -30,7 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Merge upstream](https://github.com/buluma/worldmonitor_og/pull/1) on [buluma/worldmonitor_og](https://github.com/buluma/worldmonitor_og) (4 weeks ago)
+- [Merge upstream](https://github.com/buluma/worldmonitor_og/pull/1) on [buluma/worldmonitor_og](https://github.com/buluma/worldmonitor_og) (1 month ago)
 - [fix: resolve build and run errors](https://github.com/buluma/repo-monitor-action/pull/64) on [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) (1 month ago)
 - [Update galaxy.yml](https://github.com/buluma/ansible-role-cron/pull/41) on [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) (1 month ago)
 - [[codex] Fix Molecule root user](https://github.com/buluma/ansible-role-core_dependencies/pull/39) on [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) (1 month ago)
@@ -54,14 +54,14 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (3 days ago)
+- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (4 days ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (1 week ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (1 week ago)
 - [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (1 week ago)
 - [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (1 week ago)
-- [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (1 week ago)
+- [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (2 weeks ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 weeks ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
 
