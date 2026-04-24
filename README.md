@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 week ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (1 week ago)
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (1 week ago)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 week ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (1 week ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 weeks ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 weeks ago)
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (2 weeks ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (2 weeks ago)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -44,9 +44,9 @@ Welcome to my little world.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([26.3.10](https://github.com/buluma/ansible-role-cron/releases/tag/26.3.10), 1 month ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel) ([26.3.8](https://github.com/buluma/ansible-role-kernel/releases/tag/26.3.8), 1 month ago) - Build and install a kernel.
 - [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.9](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.9), 1 month ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
-- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 1 month ago) - The purpose of this role is to add users and groups on your system.
+- [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 2 months ago) - The purpose of this role is to add users and groups on your system.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 2 months ago) - Publish Ansible roles to Galaxy
-- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 2 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
+- [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 3 months ago) - A container that is used for GitHub molecule actions
 - [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 10 months ago) - Test Ansible roles using Molecule
 - [buluma/ansible-role-tfe](https://github.com/buluma/ansible-role-tfe) ([v24.03.24](https://github.com/buluma/ansible-role-tfe/releases/tag/v24.03.24), 2 years ago) - Install and configure tfe on your system.
@@ -54,16 +54,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (4 days ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (1 week ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
-- [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (1 week ago)
-- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (1 week ago)
-- [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (1 week ago)
+- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 week ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (2 weeks ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
+- [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (2 weeks ago)
+- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (2 weeks ago)
+- [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (2 weeks ago)
 - [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (2 weeks ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 weeks ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 weeks ago)
 
 
 
