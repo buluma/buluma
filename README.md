@@ -37,7 +37,6 @@ Welcome to my little world.
 - [Update release_drafter.yml](https://github.com/buluma/ansible-role-postfix/pull/31) on [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) (1 month ago)
 - [Update issue templates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/pull/647) on [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) (1 month ago)
 - [Update release_drafter.yml](https://github.com/buluma/ansible-role-buildkit/pull/5) on [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) (1 month ago)
-- [Update converge.yml](https://github.com/buluma/ansible-role-buildkit/pull/4) on [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,6 +53,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (today)
 - [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
@@ -63,7 +63,6 @@ Welcome to my little world.
 - [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (2 weeks ago)
 - [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (2 weeks ago)
 - [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (2 weeks ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 weeks ago)
 
 
 
