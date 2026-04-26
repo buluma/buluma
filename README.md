@@ -53,8 +53,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (today)
-- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (today)
+- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 day ago)
+- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
 - [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (2 weeks ago)
@@ -62,7 +63,6 @@ Welcome to my little world.
 - [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (2 weeks ago)
 - [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (2 weeks ago)
 - [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (2 weeks ago)
-- [smirk-dev/Guide-to-levelling-up-on-Github](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github) - Master GitHub&#39;s two most popular ranking systems! Complete guide to GitHub Profile Stats &amp; Trophies with visual setup tutorials, trophy requirements, strategic tips, and stunning profile examples. Transform your GitHub presence today! ⭐🏆 (2 weeks ago)
 
 
 
