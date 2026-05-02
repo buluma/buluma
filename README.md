@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 weeks ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 weeks ago)
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (2 weeks ago)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (2 weeks ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (2 weeks ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 weeks ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (3 weeks ago)
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (3 weeks ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (3 weeks ago)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,19 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Merge upstream](https://github.com/buluma/worldmonitor_og/pull/1) on [buluma/worldmonitor_og](https://github.com/buluma/worldmonitor_og) (1 month ago)
-- [fix: resolve build and run errors](https://github.com/buluma/repo-monitor-action/pull/64) on [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) (1 month ago)
-- [Update galaxy.yml](https://github.com/buluma/ansible-role-cron/pull/41) on [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) (1 month ago)
-- [[codex] Fix Molecule root user](https://github.com/buluma/ansible-role-core_dependencies/pull/39) on [buluma/ansible-role-core_dependencies](https://github.com/buluma/ansible-role-core_dependencies) (1 month ago)
-- [Update release_drafter.yml](https://github.com/buluma/ansible-role-postfix/pull/31) on [buluma/ansible-role-postfix](https://github.com/buluma/ansible-role-postfix) (1 month ago)
-- [Update issue templates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/pull/647) on [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) (1 month ago)
-- [Update release_drafter.yml](https://github.com/buluma/ansible-role-buildkit/pull/5) on [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([26.3.10](https://github.com/buluma/ansible-role-cron/releases/tag/26.3.10), 1 month ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel) ([26.3.8](https://github.com/buluma/ansible-role-kernel/releases/tag/26.3.8), 1 month ago) - Build and install a kernel.
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.9](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.9), 1 month ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.9](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.9), 2 months ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 2 months ago) - The purpose of this role is to add users and groups on your system.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 2 months ago) - Publish Ansible roles to Galaxy
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
@@ -53,16 +46,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (today)
-- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 day ago)
-- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
-- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 week ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (2 weeks ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
-- [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (2 weeks ago)
-- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (2 weeks ago)
-- [apmantza/pi-free](https://github.com/apmantza/pi-free) - All-in-one free model providers for Pi (2 weeks ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (5 days ago)
+- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (6 days ago)
+- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 week ago)
+- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
+- [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (2 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 weeks ago)
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (3 weeks ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (3 weeks ago)
+- [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (3 weeks ago)
+- [apmantza/pi-lens](https://github.com/apmantza/pi-lens) - Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis (3 weeks ago)
 
 
 
