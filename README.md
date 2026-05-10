@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (4 days ago)
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (4 days ago)
-- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon. (4 weeks ago)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (4 weeks ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (4 weeks ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (5 days ago)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (5 days ago)
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon. (1 month ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 month ago)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,34 +30,33 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Potential fix for code scanning alert no. 81: Resource exhaustion](https://github.com/buluma/telegram-media-downloader/pull/2) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (2 days ago)
-- [Potential fix for code scanning alert no. 4: Server-side request forgery](https://github.com/buluma/telegram-media-downloader/pull/1) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (2 days ago)
-- [ci: add CI, Dependabot, Jest tests, and config loader](https://github.com/buluma/delete-github-forks/pull/35) on [buluma/delete-github-forks](https://github.com/buluma/delete-github-forks) (4 days ago)
+- [Potential fix for code scanning alert no. 81: Resource exhaustion](https://github.com/buluma/telegram-media-downloader/pull/2) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (3 days ago)
+- [Potential fix for code scanning alert no. 4: Server-side request forgery](https://github.com/buluma/telegram-media-downloader/pull/1) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/markscribe](https://github.com/buluma/markscribe) ([0.1.2](https://github.com/buluma/markscribe/releases/tag/0.1.2), 4 days ago) - 
-- [buluma/update-github-forks](https://github.com/buluma/update-github-forks) ([0.1.0](https://github.com/buluma/update-github-forks/releases/tag/0.1.0), 4 days ago) - 🍴 Bulk update your GitHub forks in two simple steps!
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.1.0](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.1.0), 4 days ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/markscribe](https://github.com/buluma/markscribe) ([0.1.2](https://github.com/buluma/markscribe/releases/tag/0.1.2), 5 days ago) - 
+- [buluma/update-github-forks](https://github.com/buluma/update-github-forks) ([0.1.0](https://github.com/buluma/update-github-forks/releases/tag/0.1.0), 5 days ago) - 🍴 Bulk update your GitHub forks in two simple steps!
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.1.0](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.1.0), 5 days ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([26.3.10](https://github.com/buluma/ansible-role-cron/releases/tag/26.3.10), 2 months ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel) ([26.3.8](https://github.com/buluma/ansible-role-kernel/releases/tag/26.3.8), 2 months ago) - Build and install a kernel.
 - [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 2 months ago) - The purpose of this role is to add users and groups on your system.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 3 months ago) - Publish Ansible roles to Galaxy
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 3 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
 - [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 4 months ago) - A container that is used for GitHub molecule actions
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 10 months ago) - Test Ansible roles using Molecule
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 11 months ago) - Test Ansible roles using Molecule
 
 #### ⭐ Recent Stars
 
-- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (4 days ago)
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (5 days ago)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 week ago)
-- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (1 week ago)
+- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (2 weeks ago)
 - [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (2 weeks ago)
 - [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (3 weeks ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 weeks ago)
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (4 weeks ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (4 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 month ago)
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) -  (1 month ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [ifiokjr/oh-pi](https://github.com/ifiokjr/oh-pi) - One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi. (1 month ago)
 
 
