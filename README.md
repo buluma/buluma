@@ -30,9 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Add OCR and object detection AI capabilities](https://github.com/botnick/telegram-media-downloader/pull/52) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (4 days ago)
-- [fix: add missing fs import in downloads.js bulk-delete endpoint](https://github.com/botnick/telegram-media-downloader/pull/51) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (4 days ago)
-- [Fix/comment groups display](https://github.com/botnick/telegram-media-downloader/pull/50) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (4 days ago)
+- [Add OCR and object detection AI capabilities](https://github.com/botnick/telegram-media-downloader/pull/52) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (5 days ago)
+- [fix: add missing fs import in downloads.js bulk-delete endpoint](https://github.com/botnick/telegram-media-downloader/pull/51) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (5 days ago)
+- [Fix/comment groups display](https://github.com/botnick/telegram-media-downloader/pull/50) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,10 +49,10 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (3 days ago)
+- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (4 days ago)
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (1 week ago)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (2 weeks ago)
-- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (2 weeks ago)
+- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (3 weeks ago)
 - [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (3 weeks ago)
 - [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 weeks ago)
 - [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 month ago)
