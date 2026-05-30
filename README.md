@@ -31,7 +31,6 @@ Welcome to my little world.
 #### 🔨 My recent Pull Requests
 
 - [Add OCR and object detection AI capabilities](https://github.com/botnick/telegram-media-downloader/pull/52) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (2 weeks ago)
-- [fix: add missing fs import in downloads.js bulk-delete endpoint](https://github.com/botnick/telegram-media-downloader/pull/51) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
