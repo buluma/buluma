@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (4 days ago)
-- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (2 weeks ago)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (1 month ago)
-- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (1 month ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (1 week ago)
+- [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (3 weeks ago)
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon. (1 month ago)
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (1 month ago)
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,14 +30,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Add OCR and object detection AI capabilities](https://github.com/botnick/telegram-media-downloader/pull/52) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (1 week ago)
-- [fix: add missing fs import in downloads.js bulk-delete endpoint](https://github.com/botnick/telegram-media-downloader/pull/51) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (1 week ago)
+- [Add OCR and object detection AI capabilities](https://github.com/botnick/telegram-media-downloader/pull/52) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (2 weeks ago)
+- [fix: add missing fs import in downloads.js bulk-delete endpoint](https://github.com/botnick/telegram-media-downloader/pull/51) on [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/markscribe](https://github.com/buluma/markscribe) ([0.1.2](https://github.com/buluma/markscribe/releases/tag/0.1.2), 2 weeks ago) - 
-- [buluma/update-github-forks](https://github.com/buluma/update-github-forks) ([0.1.0](https://github.com/buluma/update-github-forks/releases/tag/0.1.0), 2 weeks ago) - 🍴 Bulk update your GitHub forks in two simple steps!
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.1.0](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.1.0), 2 weeks ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/markscribe](https://github.com/buluma/markscribe) ([0.1.2](https://github.com/buluma/markscribe/releases/tag/0.1.2), 3 weeks ago) - 
+- [buluma/update-github-forks](https://github.com/buluma/update-github-forks) ([0.1.0](https://github.com/buluma/update-github-forks/releases/tag/0.1.0), 3 weeks ago) - 🍴 Bulk update your GitHub forks in two simple steps!
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.1.0](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.1.0), 3 weeks ago) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
 - [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) ([26.3.10](https://github.com/buluma/ansible-role-cron/releases/tag/26.3.10), 2 months ago) - Install cron and scedule jobs on your system.
 - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel) ([26.3.8](https://github.com/buluma/ansible-role-kernel/releases/tag/26.3.8), 2 months ago) - Build and install a kernel.
 - [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 3 months ago) - The purpose of this role is to add users and groups on your system.
@@ -48,14 +48,14 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
-- [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (6 days ago)
-- [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (6 days ago)
-- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 week ago)
-- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (2 weeks ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (3 weeks ago)
-- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (3 weeks ago)
-- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (4 weeks ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
+- [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (1 week ago)
+- [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (1 week ago)
+- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (2 weeks ago)
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (3 weeks ago)
+- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 month ago)
+- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (1 month ago)
+- [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 month ago)
 - [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 - [aliou/pi-ts-aperture](https://github.com/aliou/pi-ts-aperture) - Route Pi LLM providers through Tailscale Aperture (1 month ago)
 
