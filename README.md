@@ -46,9 +46,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
-- [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (1 week ago)
-- [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (1 week ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
+- [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (2 weeks ago)
+- [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (2 weeks ago)
 - [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (2 weeks ago)
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (3 weeks ago)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 month ago)
