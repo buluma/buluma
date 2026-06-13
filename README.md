@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: sync 18 upstream stability and security fixes](https://github.com/buluma/odysseus/pull/12) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [chore: sync 18 upstream stability and security fixes](https://github.com/pewdiepie-archdaemon/odysseus/pull/4126) on [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) (today)
 - [fix(search): batch FTS hit lookups into one query](https://github.com/buluma/odysseus/pull/11) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [docs: update homelab operations and openclaw bridge for Phase 4](https://github.com/buluma/odysseus/pull/10) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [feat: implement daily-briefing and harden openclaw bridge](https://github.com/buluma/odysseus/pull/9) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
