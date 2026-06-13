@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (2 weeks ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (3 weeks ago)
 - [buluma/repo-monitor-action](https://github.com/buluma/repo-monitor-action) -  (1 month ago)
-- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon. (1 month ago)
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (1 month ago)
-- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (1 month ago)
+- [buluma/ansible-role-bareos_sd](https://github.com/buluma/ansible-role-bareos_sd) - Install and configure [Bareos](https://www.bareos.com/) Storage Daemon. (2 months ago)
+- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (2 months ago)
+- [buluma/ansible-role-cron](https://github.com/buluma/ansible-role-cron) - Install cron and scedule jobs on your system. (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(search): batch FTS hit lookups into one query](https://github.com/buluma/odysseus/pull/11) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [docs: update homelab operations and openclaw bridge for Phase 4](https://github.com/buluma/odysseus/pull/10) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [feat: implement daily-briefing and harden openclaw bridge](https://github.com/buluma/odysseus/pull/9) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [feat: scaffold strict write operations for homelab](https://github.com/buluma/odysseus/pull/8) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [feat: add missing homelab infra read ops](https://github.com/buluma/odysseus/pull/7) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [feat: Homelab Operations (Phase 1 &amp; 2)](https://github.com/buluma/odysseus/pull/1) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [feat: Homelab Operations (Phase 1 &amp; 2)](https://github.com/pewdiepie-archdaemon/odysseus/pull/4075) on [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,21 +48,21 @@ Welcome to my little world.
 - [buluma/ansible-role-users](https://github.com/buluma/ansible-role-users) ([26.2.24](https://github.com/buluma/ansible-role-users/releases/tag/26.2.24), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [buluma/galaxy-action](https://github.com/buluma/galaxy-action) ([v2.3.26](https://github.com/buluma/galaxy-action/releases/tag/v2.3.26), 4 months ago) - Publish Ansible roles to Galaxy
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) ([v4.0.0](https://github.com/nth5693/gemini-kit/releases/tag/v4.0.0), 4 months ago) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security
-- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 4 months ago) - A container that is used for GitHub molecule actions
-- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 11 months ago) - Test Ansible roles using Molecule
+- [buluma/docker-github-action-molecule](https://github.com/buluma/docker-github-action-molecule) ([v26.1.9](https://github.com/buluma/docker-github-action-molecule/releases/tag/v26.1.9), 5 months ago) - A container that is used for GitHub molecule actions
+- [buluma/molecule-action](https://github.com/buluma/molecule-action) ([v25.6.14](https://github.com/buluma/molecule-action/releases/tag/v25.6.14), 1 year ago) - Test Ansible roles using Molecule
 
 #### ⭐ Recent Stars
 
-- [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (3 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 days ago)
+- [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (1 week ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 weeks ago)
 - [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (3 weeks ago)
 - [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (3 weeks ago)
-- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (3 weeks ago)
+- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 month ago)
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (1 month ago)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (1 month ago)
 - [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (1 month ago)
 - [SilvaTechB/silva-md-bot](https://github.com/SilvaTechB/silva-md-bot) - Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 month ago)
-- [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 
 
 
