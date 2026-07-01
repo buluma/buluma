@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (4 days ago)
-- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (4 days ago)
-- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (4 days ago)
-- [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) - Install BIND on your system. (4 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (today)
+- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (today)
+- [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) - Install BIND on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,24 +30,26 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/buluma/OpenWA/pull/1) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
+- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/rmyndharis/OpenWA/pull/558) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 1 week ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 1 week ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.1](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.1), 1 week ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.6.1](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.6.1), 1 week ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.6.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.6.1), 1 week ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.6.1](https://github.com/buluma/ansible-role-vector/releases/tag/v26.6.1), 1 week ago) - Install and configure Vector for debian systems.
-- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.6.1](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.6.1), 1 week ago) - Configure HashiCorp Vault on your system.
-- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([26.6.1](https://github.com/buluma/ansible-role-vault/releases/tag/26.6.1), 1 week ago) - Install, configure, initialize and unseal Hashicorp Vault.
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v26.6.1](https://github.com/buluma/ansible-role-varnish/releases/tag/v26.6.1), 1 week ago) - Installs the Varnish HTTP Cache
-- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([26.6.1](https://github.com/buluma/ansible-role-vagrant/releases/tag/26.6.1), 1 week ago) - Install vagrant on your system.
+- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 2 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 2 weeks ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.1](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.1), 2 weeks ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.6.1](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.6.1), 2 weeks ago) - Install and configure virtualbox on your system.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.6.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.6.1), 2 weeks ago) - Install VictoriaMetrics on your system.
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.6.1](https://github.com/buluma/ansible-role-vector/releases/tag/v26.6.1), 2 weeks ago) - Install and configure Vector for debian systems.
+- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.6.1](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.6.1), 2 weeks ago) - Configure HashiCorp Vault on your system.
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([26.6.1](https://github.com/buluma/ansible-role-vault/releases/tag/26.6.1), 2 weeks ago) - Install, configure, initialize and unseal Hashicorp Vault.
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) ([v26.6.1](https://github.com/buluma/ansible-role-varnish/releases/tag/v26.6.1), 2 weeks ago) - Installs the Varnish HTTP Cache
+- [buluma/ansible-role-vagrant](https://github.com/buluma/ansible-role-vagrant) ([26.6.1](https://github.com/buluma/ansible-role-vagrant/releases/tag/26.6.1), 2 weeks ago) - Install vagrant on your system.
 
 #### ⭐ Recent Stars
 
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 week ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
 - [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (3 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (1 month ago)
