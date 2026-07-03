@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
-- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (1 day ago)
-- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (1 day ago)
-- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (2 days ago)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (2 days ago)
+- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (2 days ago)
+- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,12 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/buluma/OpenWA/pull/1) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
-- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/rmyndharis/OpenWA/pull/558) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (2 days ago)
+- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/buluma/OpenWA/pull/1) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (3 days ago)
+- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/rmyndharis/OpenWA/pull/558) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.7.20](https://github.com/rmyndharis/OpenWA/releases/tag/v0.7.20), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 2 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.1](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.1), 2 weeks ago) - Install and configure xinetd on your system.
