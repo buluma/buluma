@@ -30,6 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(plugins): add hook priority convention and welcome-greeter plugin](https://github.com/buluma/OpenWA-plugins/pull/1) on [buluma/OpenWA-plugins](https://github.com/buluma/OpenWA-plugins) (today)
+- [feat(plugins): add hook priority sorting and display](https://github.com/buluma/OpenWA/pull/2) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [feat(plugins): add hook priority sorting and display](https://github.com/rmyndharis/OpenWA/pull/623) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (today)
 - [docs(security): note why CodeQL alert #479 was dismissed, not re-fixed](https://github.com/buluma/odysseus/pull/31) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [fix(security): fix-point iteration for &lt;style&gt;/&lt;script&gt; stripping](https://github.com/buluma/odysseus/pull/30) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [fix(security): resolve last 2 CodeQL findings surviving PR #28&#39;s rescan](https://github.com/buluma/odysseus/pull/29) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
@@ -37,9 +40,6 @@ Welcome to my little world.
 - [fix(security): close out remaining CodeQL backlog](https://github.com/buluma/odysseus/pull/27) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [fix(security): harden JS XSS/sanitization sinks flagged by CodeQL](https://github.com/buluma/odysseus/pull/26) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [fix(security): eliminate polynomial ReDoS in regex-based parsers](https://github.com/buluma/odysseus/pull/25) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [fix(security): close gallery endpoint hardening gaps](https://github.com/buluma/odysseus/pull/24) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [test(ci): skip standalone GPU compose drift checks](https://github.com/buluma/odysseus/pull/23) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [fix(docker): missing upload-limit env vars, CORS PATCH, dockerignore secrets, cookbook NameErrors](https://github.com/buluma/odysseus/pull/22) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
