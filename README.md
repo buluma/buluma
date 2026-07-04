@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (2 days ago)
-- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (2 days ago)
-- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (2 days ago)
-- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (2 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (3 days ago)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (3 days ago)
+- [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system. (3 days ago)
+- [buluma/ansible-role-checkmk_agent](https://github.com/buluma/ansible-role-checkmk_agent) - Install the checkmk agent and a selection of plugins. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,12 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/buluma/OpenWA/pull/1) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (3 days ago)
-- [feat(stats): add chat names to top chats and stats endpoints](https://github.com/rmyndharis/OpenWA/pull/558) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (3 days ago)
+- [docs(security): note why CodeQL alert #479 was dismissed, not re-fixed](https://github.com/buluma/odysseus/pull/31) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): fix-point iteration for &lt;style&gt;/&lt;script&gt; stripping](https://github.com/buluma/odysseus/pull/30) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): resolve last 2 CodeQL findings surviving PR #28&#39;s rescan](https://github.com/buluma/odysseus/pull/29) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): resolve residual CodeQL findings from post-merge rescan](https://github.com/buluma/odysseus/pull/28) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): close out remaining CodeQL backlog](https://github.com/buluma/odysseus/pull/27) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): harden JS XSS/sanitization sinks flagged by CodeQL](https://github.com/buluma/odysseus/pull/26) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): eliminate polynomial ReDoS in regex-based parsers](https://github.com/buluma/odysseus/pull/25) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(security): close gallery endpoint hardening gaps](https://github.com/buluma/odysseus/pull/24) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [test(ci): skip standalone GPU compose drift checks](https://github.com/buluma/odysseus/pull/23) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(docker): missing upload-limit env vars, CORS PATCH, dockerignore secrets, cookbook NameErrors](https://github.com/buluma/odysseus/pull/22) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.7), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 2 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.1](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.1), 2 weeks ago) - Install and configure xinetd on your system.
@@ -48,16 +56,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) -  (1 day ago)
+- [tailscale-dev/video-code-snippets](https://github.com/tailscale-dev/video-code-snippets) -  (1 day ago)
+- [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration. (1 day ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (1 day ago)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
-- [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (4 weeks ago)
+- [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (1 month ago)
 - [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (1 month ago)
-- [botnick/telegram-media-downloader](https://github.com/botnick/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 month ago)
-- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (1 month ago)
-- [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server  (2 months ago)
-- [fazer-ai/baileys-api](https://github.com/fazer-ai/baileys-api) - Baileys API for WhatsApp. (2 months ago)
 
 
 
