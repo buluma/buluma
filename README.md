@@ -56,6 +56,8 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (today)
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (today)
 - [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) -  (1 day ago)
 - [tailscale-dev/video-code-snippets](https://github.com/tailscale-dev/video-code-snippets) -  (1 day ago)
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration. (1 day ago)
@@ -64,8 +66,6 @@ Welcome to my little world.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
 - [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
-- [buluma/immich_manager](https://github.com/buluma/immich_manager) -  (1 month ago)
-- [buluma/immich-tiktok-remover](https://github.com/buluma/immich-tiktok-remover) -  (1 month ago)
 
 
 
