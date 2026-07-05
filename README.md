@@ -43,7 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.7), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.8](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.8), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 2 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.1](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.1), 2 weeks ago) - Install and configure xinetd on your system.
