@@ -43,7 +43,6 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.1.0](https://github.com/buluma/reddie/releases/tag/v1.1.0), today) - Desktop Application for Redmine Dashboard
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.16](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.16), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 3 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([26.6.2](https://github.com/buluma/ansible-role-atom/releases/tag/26.6.2), 3 weeks ago) - Install atom on your system.
@@ -53,6 +52,7 @@ Welcome to my little world.
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.6.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.6.1), 3 weeks ago) - Install VictoriaMetrics on your system.
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.6.1](https://github.com/buluma/ansible-role-vector/releases/tag/v26.6.1), 3 weeks ago) - Install and configure Vector for debian systems.
 - [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.6.1](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.6.1), 3 weeks ago) - Configure HashiCorp Vault on your system.
+- [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) ([26.6.1](https://github.com/buluma/ansible-role-vault/releases/tag/26.6.1), 3 weeks ago) - Install, configure, initialize and unseal Hashicorp Vault.
 
 #### ⭐ Recent Stars
 
