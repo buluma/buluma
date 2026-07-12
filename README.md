@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
-- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 day ago)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -43,7 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.14](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.14), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.16](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.16), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 3 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
 - [buluma/ansible-role-atom](https://github.com/buluma/ansible-role-atom) ([26.6.2](https://github.com/buluma/ansible-role-atom/releases/tag/26.6.2), 3 weeks ago) - Install atom on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.1](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.1), 3 weeks ago) - Install and configure zabbix_web on your system.
@@ -62,7 +62,7 @@ Welcome to my little world.
 - [tailscale-dev/video-code-snippets](https://github.com/tailscale-dev/video-code-snippets) -  (1 week ago)
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration. (1 week ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (1 week ago)
-- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (2 weeks ago)
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (3 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 month ago)
 - [buluma/Streamline-RainINT-POC](https://github.com/buluma/Streamline-RainINT-POC) - Streamline RAIN INT POC (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
