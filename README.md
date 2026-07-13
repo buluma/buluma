@@ -17,16 +17,16 @@ Welcome to my little world.
 - [buluma/reddie](https://github.com/buluma/reddie) - Desktop Application for Redmine Dashboard (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
-- [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (1 day ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (1 day ago)
+- [buluma/ansible-role-earlyoom](https://github.com/buluma/ansible-role-earlyoom) - Install and configure Early Out Of Memory Killer on your system. (1 day ago)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/docker-ubuntu2604-ansible](https://github.com/buluma/docker-ubuntu2604-ansible) - Ubuntu 26.04 LTS Docker container for Ansible playbook and role testing.
 - [buluma/docker-debian13-ansible](https://github.com/buluma/docker-debian13-ansible) - Debian 13 (Trixie) Docker container for Ansible playbook and role testing.
 - [buluma/docker-fedora44-ansible](https://github.com/buluma/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing.
 - [buluma/just-the-roles](https://github.com/buluma/just-the-roles)
-- [buluma/markscribe](https://github.com/buluma/markscribe)
 
 #### 🔨 My recent Pull Requests
 
@@ -43,6 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.0.1](https://github.com/buluma/Redmine-desktop/releases/tag/v2.0.1), today) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.8.17](https://github.com/rmyndharis/OpenWA/releases/tag/v0.8.17), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.3.0](https://github.com/buluma/reddie/releases/tag/v1.3.0), 1 day ago) - Desktop Application for Redmine Dashboard
 - [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) ([26.6.2](https://github.com/buluma/ansible-role-drush/releases/tag/26.6.2), 4 weeks ago) - Install Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
@@ -52,7 +53,6 @@ Welcome to my little world.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.6.1](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.6.1), 4 weeks ago) - Install and configure virtualbox on your system.
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.6.1](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.6.1), 4 weeks ago) - Install VictoriaMetrics on your system.
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.6.1](https://github.com/buluma/ansible-role-vector/releases/tag/v26.6.1), 4 weeks ago) - Install and configure Vector for debian systems.
-- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.6.1](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.6.1), 4 weeks ago) - Configure HashiCorp Vault on your system.
 
 #### ⭐ Recent Stars
 
