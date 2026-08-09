@@ -36,7 +36,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.14.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.14.6), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.15.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.15.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
