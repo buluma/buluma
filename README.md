@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (6 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (1 day ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 day ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,25 +30,26 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (today)
-- [Refactor CI workflow to use Node version matrix](https://github.com/buluma/reddie/pull/40) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [Update base image to Ubuntu 22.04 and modernize toolchain](https://github.com/buluma/docker-ansible/pull/3) on [buluma/docker-ansible](https://github.com/buluma/docker-ansible) (1 day ago)
+- [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (1 day ago)
+- [Refactor CI workflow to use Node version matrix](https://github.com/buluma/reddie/pull/40) on [buluma/reddie](https://github.com/buluma/reddie) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.14.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.14.6), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 day ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 1 week ago) - Make openssl certificates.
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 1 week ago) - Install and configure httpd on your system.
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 1 week ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 1 week ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 1 week ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.6.3), 1 week ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.6.3), 1 week ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.2), 1 week ago) - Install and configure xinetd on your system.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.14.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.14.6), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
+- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.2), 2 weeks ago) - Install and configure xinetd on your system.
 
 #### ⭐ Recent Stars
 
-- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (5 days ago)
+- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (6 days ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) -  (1 month ago)
