@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (2 days ago)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (2 days ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (2 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (2 days ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
@@ -30,12 +30,17 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(tests): stop scheduler-liveness fixtures leaking ScheduledTask across tests](https://github.com/buluma/odysseus/pull/39) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [fix(deps): pin mcp to &lt;2.0](https://github.com/buluma/odysseus/pull/38) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [chore: remove leftover artis3n references from README](https://github.com/buluma/ansible_galaxy_collection/pull/291) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
+- [fix(deps): revert babel-core/typescript to versions ts-jest peer-supports](https://github.com/buluma/ansible_galaxy_collection/pull/290) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
+- [fix(ci): merge SARIF runs in snyk_dockerfile.yml before upload](https://github.com/buluma/ansible_galaxy_collection/pull/289) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
 - [Update base image to Ubuntu 22.04 and modernize toolchain](https://github.com/buluma/docker-ansible/pull/3) on [buluma/docker-ansible](https://github.com/buluma/docker-ansible) (2 days ago)
 - [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (2 days ago)
-- [Refactor CI workflow to use Node version matrix](https://github.com/buluma/reddie/pull/40) on [buluma/reddie](https://github.com/buluma/reddie) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), today) - Deploy a Collection to Ansible Galaxy.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.15.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.15.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 3 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
@@ -45,7 +50,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.6.2](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.6.2), 2 weeks ago) - Install and configure xinetd on your system.
 
 #### ⭐ Recent Stars
 
