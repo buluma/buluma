@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (3 days ago)
-- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) - Install digitalocean agent on your system. (3 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (3 days ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
@@ -30,13 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(i18n): add Ukrainian (uk) locale](https://github.com/buluma/worldmonitor/pull/111) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [fix: restore corrupted \\b regex word-boundary escapes (3 files)](https://github.com/buluma/worldmonitor/pull/110) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [feat(feeds): wire the RSS source expansion into the live client panels](https://github.com/buluma/worldmonitor/pull/109) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [feat(china): PLA aviation identification from koala73 (first China-intel slice)](https://github.com/buluma/worldmonitor/pull/108) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [feat(feeds): curated RSS source expansion from koala73 (server digest pipeline)](https://github.com/buluma/worldmonitor/pull/107) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [feat(aviation): add keyless ADS-B redundancy from koala73 (adsb.lol &#43; gap-fill)](https://github.com/buluma/worldmonitor/pull/106) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [port: 4 self-contained reliability fixes from koala73/worldmonitor](https://github.com/buluma/worldmonitor/pull/105) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [test: fix remaining 2 forecast-trace-export calibration-gap fixtures](https://github.com/buluma/worldmonitor/pull/104) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [test: fix stale SIMULATION_STATE_VERSION assertion (4 -&gt; 5)](https://github.com/buluma/worldmonitor/pull/103) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 - [fix(tests): stop scheduler-liveness fixtures leaking ScheduledTask across tests](https://github.com/buluma/odysseus/pull/39) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [fix(deps): pin mcp to &lt;2.0](https://github.com/buluma/odysseus/pull/38) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [chore: remove leftover artis3n references from README](https://github.com/buluma/ansible_galaxy_collection/pull/291) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
-- [fix(deps): revert babel-core/typescript to versions ts-jest peer-supports](https://github.com/buluma/ansible_galaxy_collection/pull/290) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
-- [fix(ci): merge SARIF runs in snyk_dockerfile.yml before upload](https://github.com/buluma/ansible_galaxy_collection/pull/289) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
-- [Update base image to Ubuntu 22.04 and modernize toolchain](https://github.com/buluma/docker-ansible/pull/3) on [buluma/docker-ansible](https://github.com/buluma/docker-ansible) (3 days ago)
-- [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
