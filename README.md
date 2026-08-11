@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (2 days ago)
-- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) - Install digitalocean agent on your system. (2 days ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (3 days ago)
+- [buluma/ansible-role-digitalocean-agent](https://github.com/buluma/ansible-role-digitalocean-agent) - Install digitalocean agent on your system. (3 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,19 +30,19 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(tests): stop scheduler-liveness fixtures leaking ScheduledTask across tests](https://github.com/buluma/odysseus/pull/39) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
-- [fix(deps): pin mcp to &lt;2.0](https://github.com/buluma/odysseus/pull/38) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
-- [chore: remove leftover artis3n references from README](https://github.com/buluma/ansible_galaxy_collection/pull/291) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
-- [fix(deps): revert babel-core/typescript to versions ts-jest peer-supports](https://github.com/buluma/ansible_galaxy_collection/pull/290) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
-- [fix(ci): merge SARIF runs in snyk_dockerfile.yml before upload](https://github.com/buluma/ansible_galaxy_collection/pull/289) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (today)
-- [Update base image to Ubuntu 22.04 and modernize toolchain](https://github.com/buluma/docker-ansible/pull/3) on [buluma/docker-ansible](https://github.com/buluma/docker-ansible) (2 days ago)
-- [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (2 days ago)
+- [fix(tests): stop scheduler-liveness fixtures leaking ScheduledTask across tests](https://github.com/buluma/odysseus/pull/39) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [fix(deps): pin mcp to &lt;2.0](https://github.com/buluma/odysseus/pull/38) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [chore: remove leftover artis3n references from README](https://github.com/buluma/ansible_galaxy_collection/pull/291) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
+- [fix(deps): revert babel-core/typescript to versions ts-jest peer-supports](https://github.com/buluma/ansible_galaxy_collection/pull/290) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
+- [fix(ci): merge SARIF runs in snyk_dockerfile.yml before upload](https://github.com/buluma/ansible_galaxy_collection/pull/289) on [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) (1 day ago)
+- [Update base image to Ubuntu 22.04 and modernize toolchain](https://github.com/buluma/docker-ansible/pull/3) on [buluma/docker-ansible](https://github.com/buluma/docker-ansible) (3 days ago)
+- [ci: test node 20, 22, 24 in matrix](https://github.com/buluma/Redmine-desktop/pull/61) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), today) - Deploy a Collection to Ansible Galaxy.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.15.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.15.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 3 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 day ago) - Deploy a Collection to Ansible Galaxy.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.15.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.15.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 4 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
