@@ -37,9 +37,6 @@ Welcome to my little world.
 - [feat(feeds): curated RSS source expansion from koala73 (server digest pipeline)](https://github.com/buluma/worldmonitor/pull/107) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 - [feat(aviation): add keyless ADS-B redundancy from koala73 (adsb.lol &#43; gap-fill)](https://github.com/buluma/worldmonitor/pull/106) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 - [port: 4 self-contained reliability fixes from koala73/worldmonitor](https://github.com/buluma/worldmonitor/pull/105) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [test: fix remaining 2 forecast-trace-export calibration-gap fixtures](https://github.com/buluma/worldmonitor/pull/104) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [test: fix stale SIMULATION_STATE_VERSION assertion (4 -&gt; 5)](https://github.com/buluma/worldmonitor/pull/103) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [fix(tests): stop scheduler-liveness fixtures leaking ScheduledTask across tests](https://github.com/buluma/odysseus/pull/39) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
