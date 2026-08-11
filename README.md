@@ -15,7 +15,7 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (3 days ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (3 days ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
@@ -31,12 +31,6 @@ Welcome to my little world.
 #### 🔨 My recent Pull Requests
 
 - [feat(i18n): add Ukrainian (uk) locale](https://github.com/buluma/worldmonitor/pull/111) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [fix: restore corrupted \\b regex word-boundary escapes (3 files)](https://github.com/buluma/worldmonitor/pull/110) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [feat(feeds): wire the RSS source expansion into the live client panels](https://github.com/buluma/worldmonitor/pull/109) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [feat(china): PLA aviation identification from koala73 (first China-intel slice)](https://github.com/buluma/worldmonitor/pull/108) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [feat(feeds): curated RSS source expansion from koala73 (server digest pipeline)](https://github.com/buluma/worldmonitor/pull/107) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [feat(aviation): add keyless ADS-B redundancy from koala73 (adsb.lol &#43; gap-fill)](https://github.com/buluma/worldmonitor/pull/106) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
-- [port: 4 self-contained reliability fixes from koala73/worldmonitor](https://github.com/buluma/worldmonitor/pull/105) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 
 #### 🔭 Latest releases I've contributed to
 
