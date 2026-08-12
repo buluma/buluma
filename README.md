@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (3 days ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (4 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (4 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,13 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(i18n): add Ukrainian (uk) locale](https://github.com/buluma/worldmonitor/pull/111) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [feat(i18n): add Ukrainian (uk) locale](https://github.com/buluma/worldmonitor/pull/111) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.16.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.16.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 day ago) - Deploy a Collection to Ansible Galaxy.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 4 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.16.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.16.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 2 days ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 5 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
