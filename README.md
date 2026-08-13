@@ -17,8 +17,8 @@ Welcome to my little world.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
 - [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (5 days ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (5 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
