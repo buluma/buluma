@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [ci(release): move NPM_TOKEN bootstrap check out of if: condition](https://github.com/buluma/helmcode/pull/8) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [ci(release): decouple npm CLI publish from relay/Clerk infra gate](https://github.com/buluma/helmcode/pull/7) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix: address 11 scout-review findings across security, server, and client](https://github.com/buluma/helmcode/pull/6) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [Create pr-size.yml](https://github.com/buluma/helmcode/pull/5) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [chore(ci): remove retired workflows and thread transfer reporting](https://github.com/buluma/helmcode/pull/4) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
