@@ -16,17 +16,17 @@ Welcome to my little world.
 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (6 days ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (6 days ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (6 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/helmcode](https://github.com/buluma/helmcode)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/docker-ubuntu2604-ansible](https://github.com/buluma/docker-ubuntu2604-ansible) - Ubuntu 26.04 LTS Docker container for Ansible playbook and role testing.
 - [buluma/docker-debian13-ansible](https://github.com/buluma/docker-debian13-ansible) - Debian 13 (Trixie) Docker container for Ansible playbook and role testing.
 - [buluma/docker-fedora44-ansible](https://github.com/buluma/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing.
+- [buluma/just-the-roles](https://github.com/buluma/just-the-roles)
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,6 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.3](https://github.com/buluma/helmcode/releases/tag/v0.0.3), today) - 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 1 day ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 4 days ago) - Deploy a Collection to Ansible Galaxy.
@@ -44,6 +43,7 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix-proxy on your system.
 
 #### ⭐ Recent Stars
 
