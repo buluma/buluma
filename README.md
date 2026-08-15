@@ -43,9 +43,9 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.33](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.33), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.19.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.19.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.34](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.34), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 5 days ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
