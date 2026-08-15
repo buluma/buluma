@@ -22,7 +22,7 @@ Welcome to my little world.
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/helmcode](https://github.com/buluma/helmcode)
+- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/docker-ubuntu2604-ansible](https://github.com/buluma/docker-ubuntu2604-ansible) - Ubuntu 26.04 LTS Docker container for Ansible playbook and role testing.
 - [buluma/docker-debian13-ansible](https://github.com/buluma/docker-debian13-ansible) - Debian 13 (Trixie) Docker container for Ansible playbook and role testing.
@@ -30,19 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: smoke-test the published CLI across declared Node engine range](https://github.com/buluma/helmcode/pull/18) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [Fix Ubuntu EOL/ESM dates against Canonical&#39;s own page](https://github.com/buluma/docker-molecule-images/pull/29) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [ci(release): prune old nightly releases, keep newest 14](https://github.com/buluma/helmcode/pull/17) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [Correct EOL dates against endoflife.date, flag fedora42 deprecated](https://github.com/buluma/docker-molecule-images/pull/28) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [ci(release): drop push: tags: trigger to stop self-triggered duplicate runs](https://github.com/buluma/helmcode/pull/16) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [Mark ubuntu2504 deprecated, past EOL](https://github.com/buluma/docker-molecule-images/pull/27) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
 - [Sync README with actual repo state](https://github.com/buluma/docker-molecule-images/pull/26) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
 - [Add openEuler image](https://github.com/buluma/docker-molecule-images/pull/25) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
 - [fix(server): drop pnpm-only override syntax before npm publish](https://github.com/buluma/helmcode/pull/15) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): publish via npm CLI instead of pnpm to fix missing README](https://github.com/buluma/helmcode/pull/14) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix(server): reformat package.json keywords array](https://github.com/buluma/helmcode/pull/13) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [ci(release): fall back to GH_PAT for GitHub release creation](https://github.com/buluma/helmcode/pull/12) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [docs(server): add npm README, fill in package metadata](https://github.com/buluma/helmcode/pull/11) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [ci(release): auto-cut stable releases on a weekly schedule](https://github.com/buluma/helmcode/pull/10) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [docs: reflect that npm install now works](https://github.com/buluma/helmcode/pull/9) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.35](https://github.com/buluma/helmcode/releases/tag/v0.0.35), today) - 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.33](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.33), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 5 days ago) - Deploy a Collection to Ansible Galaxy.
