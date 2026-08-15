@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (6 days ago)
-- [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) - Install BIND on your system. (1 week ago)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,27 +30,28 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Sync README with actual repo state](https://github.com/buluma/docker-molecule-images/pull/26) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [Add openEuler image](https://github.com/buluma/docker-molecule-images/pull/25) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [fix(server): drop pnpm-only override syntax before npm publish](https://github.com/buluma/helmcode/pull/15) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [fix(server): publish via npm CLI instead of pnpm to fix missing README](https://github.com/buluma/helmcode/pull/14) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [fix(server): reformat package.json keywords array](https://github.com/buluma/helmcode/pull/13) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [ci(release): fall back to GH_PAT for GitHub release creation](https://github.com/buluma/helmcode/pull/12) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [docs(server): add npm README, fill in package metadata](https://github.com/buluma/helmcode/pull/11) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [ci(release): auto-cut stable releases on a weekly schedule](https://github.com/buluma/helmcode/pull/10) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [docs: reflect that npm install now works](https://github.com/buluma/helmcode/pull/9) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [ci(release): move NPM_TOKEN bootstrap check out of if: condition](https://github.com/buluma/helmcode/pull/8) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [ci(release): decouple npm CLI publish from relay/Clerk infra gate](https://github.com/buluma/helmcode/pull/7) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [fix: address 11 scout-review findings across security, server, and client](https://github.com/buluma/helmcode/pull/6) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Create pr-size.yml](https://github.com/buluma/helmcode/pull/5) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [chore(ci): remove retired workflows and thread transfer reporting](https://github.com/buluma/helmcode/pull/4) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [ci: drop node 20 from test matrix](https://github.com/buluma/Redmine-desktop/pull/63) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.34-nightly.20260814.22](https://github.com/buluma/helmcode/releases/tag/v0.0.34-nightly.20260814.22), 1 day ago) - 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.35](https://github.com/buluma/helmcode/releases/tag/v0.0.35), today) - 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 5 days ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) ([v2.25.3](https://github.com/buluma/telegram-media-downloader/releases/tag/v2.25.3), 2 weeks ago) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
 
 #### ⭐ Recent Stars
 
