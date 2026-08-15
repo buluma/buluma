@@ -16,20 +16,23 @@ Welcome to my little world.
 
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 - [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/docker-ubuntu2604-ansible](https://github.com/buluma/docker-ubuntu2604-ansible) - Ubuntu 26.04 LTS Docker container for Ansible playbook and role testing.
-- [buluma/docker-debian13-ansible](https://github.com/buluma/docker-debian13-ansible) - Debian 13 (Trixie) Docker container for Ansible playbook and role testing.
-- [buluma/docker-fedora44-ansible](https://github.com/buluma/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing.
 
 #### 🔨 My recent Pull Requests
 
+- [Update ci.yml](https://github.com/buluma/github-monitor/pull/7) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
+- [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (today)
+- [chore(deps): bump NestJS to 11.2.1](https://github.com/buluma/nest_test/pull/1) on [buluma/nest_test](https://github.com/buluma/nest_test) (today)
 - [ci: smoke-test the published CLI across declared Node engine range](https://github.com/buluma/helmcode/pull/18) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [Fix Ubuntu EOL/ESM dates against Canonical&#39;s own page](https://github.com/buluma/docker-molecule-images/pull/29) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
 - [ci(release): prune old nightly releases, keep newest 14](https://github.com/buluma/helmcode/pull/17) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
@@ -37,12 +40,10 @@ Welcome to my little world.
 - [ci(release): drop push: tags: trigger to stop self-triggered duplicate runs](https://github.com/buluma/helmcode/pull/16) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [Mark ubuntu2504 deprecated, past EOL](https://github.com/buluma/docker-molecule-images/pull/27) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
 - [Sync README with actual repo state](https://github.com/buluma/docker-molecule-images/pull/26) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
-- [Add openEuler image](https://github.com/buluma/docker-molecule-images/pull/25) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
-- [fix(server): drop pnpm-only override syntax before npm publish](https://github.com/buluma/helmcode/pull/15) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix(server): publish via npm CLI instead of pnpm to fix missing README](https://github.com/buluma/helmcode/pull/14) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), today) - 
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.19.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.19.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.34](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.34), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
@@ -52,7 +53,6 @@ Welcome to my little world.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
 
 #### ⭐ Recent Stars
 
