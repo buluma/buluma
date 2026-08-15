@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (6 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (6 days ago)
+- [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) - Install BIND on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,33 +30,35 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [ci(release): move NPM_TOKEN bootstrap check out of if: condition](https://github.com/buluma/helmcode/pull/8) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [ci(release): decouple npm CLI publish from relay/Clerk infra gate](https://github.com/buluma/helmcode/pull/7) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix: address 11 scout-review findings across security, server, and client](https://github.com/buluma/helmcode/pull/6) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [Create pr-size.yml](https://github.com/buluma/helmcode/pull/5) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [chore(ci): remove retired workflows and thread transfer reporting](https://github.com/buluma/helmcode/pull/4) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [ci: drop node 20 from test matrix](https://github.com/buluma/Redmine-desktop/pull/63) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (1 day ago)
+- [ci(release): auto-cut stable releases on a weekly schedule](https://github.com/buluma/helmcode/pull/10) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [docs: reflect that npm install now works](https://github.com/buluma/helmcode/pull/9) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [ci(release): move NPM_TOKEN bootstrap check out of if: condition](https://github.com/buluma/helmcode/pull/8) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
+- [ci(release): decouple npm CLI publish from relay/Clerk infra gate](https://github.com/buluma/helmcode/pull/7) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
+- [fix: address 11 scout-review findings across security, server, and client](https://github.com/buluma/helmcode/pull/6) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
+- [Create pr-size.yml](https://github.com/buluma/helmcode/pull/5) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
+- [chore(ci): remove retired workflows and thread transfer reporting](https://github.com/buluma/helmcode/pull/4) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
+- [ci: drop node 20 from test matrix](https://github.com/buluma/Redmine-desktop/pull/63) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.34-nightly.20260814.14](https://github.com/buluma/helmcode/releases/tag/v0.0.34-nightly.20260814.14), today) - 
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 1 day ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 4 days ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.34-nightly.20260814.22](https://github.com/buluma/helmcode/releases/tag/v0.0.34-nightly.20260814.22), 1 day ago) - 
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.18.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.18.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 5 days ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) ([v2.25.3](https://github.com/buluma/telegram-media-downloader/releases/tag/v2.25.3), 2 weeks ago) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 2 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 2 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 2 weeks ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.7.1](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.7.1), 2 weeks ago) - Install and configure zabbix_repository on your system.
 
 #### ⭐ Recent Stars
 
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 day ago)
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (2 days ago)
 - [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (1 week ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
-- [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) -  (1 month ago)
+- [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) - Frozen — terminal coding agent measured at 1.93× fewer tokens than Codex CLI. Still works; active development moved to JuliusBrussee/caveman (caveman wrap). (1 month ago)
 - [tailscale-dev/video-code-snippets](https://github.com/tailscale-dev/video-code-snippets) -  (1 month ago)
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration. (1 month ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere (1 month ago)
