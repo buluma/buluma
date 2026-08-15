@@ -18,7 +18,7 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
