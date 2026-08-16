@@ -18,7 +18,7 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [p](https://github.com/buluma/nest_test/pull/3) on [buluma/nest_test](https://github.com/buluma/nest_test) (today)
 - [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [fix(ui): render History view from hourly rollups instead of raw scans](https://github.com/buluma/github-monitor/pull/13) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [feat(db): bound cache/history growth and serve cached status on reload](https://github.com/buluma/github-monitor/pull/12) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [Update ci.yml](https://github.com/buluma/github-monitor/pull/7) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
 - [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
 - [chore(deps): bump NestJS to 11.2.1](https://github.com/buluma/nest_test/pull/1) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
-- [ci: smoke-test the published CLI across declared Node engine range](https://github.com/buluma/helmcode/pull/18) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
