@@ -16,8 +16,8 @@ Welcome to my little world.
 
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,6 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
+- [fix(ui): render History view from hourly rollups instead of raw scans](https://github.com/buluma/github-monitor/pull/13) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
+- [feat(db): bound cache/history growth and serve cached status on reload](https://github.com/buluma/github-monitor/pull/12) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [feat: implement SQLite persistence using node:sqlite](https://github.com/buluma/github-monitor/pull/11) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [feat: update styles and server logic](https://github.com/buluma/github-monitor/pull/10) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [Update MAINTAINERS.md](https://github.com/buluma/github-monitor/pull/9) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
@@ -37,9 +40,6 @@ Welcome to my little world.
 - [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
 - [chore(deps): bump NestJS to 11.2.1](https://github.com/buluma/nest_test/pull/1) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
 - [ci: smoke-test the published CLI across declared Node engine range](https://github.com/buluma/helmcode/pull/18) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Fix Ubuntu EOL/ESM dates against Canonical&#39;s own page](https://github.com/buluma/docker-molecule-images/pull/29) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (1 day ago)
-- [ci(release): prune old nightly releases, keep newest 14](https://github.com/buluma/helmcode/pull/17) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Correct EOL dates against endoflife.date, flag fedora42 deprecated](https://github.com/buluma/docker-molecule-images/pull/28) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
