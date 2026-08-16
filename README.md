@@ -16,9 +16,9 @@ Welcome to my little world.
 
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement SQLite persistence using node:sqlite](https://github.com/buluma/github-monitor/pull/11) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
+- [feat: update styles and server logic](https://github.com/buluma/github-monitor/pull/10) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [Update MAINTAINERS.md](https://github.com/buluma/github-monitor/pull/9) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
 - [Update ci.yml](https://github.com/buluma/github-monitor/pull/7) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
 - [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
@@ -38,13 +40,11 @@ Welcome to my little world.
 - [Fix Ubuntu EOL/ESM dates against Canonical&#39;s own page](https://github.com/buluma/docker-molecule-images/pull/29) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (1 day ago)
 - [ci(release): prune old nightly releases, keep newest 14](https://github.com/buluma/helmcode/pull/17) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 - [Correct EOL dates against endoflife.date, flag fedora42 deprecated](https://github.com/buluma/docker-molecule-images/pull/28) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (1 day ago)
-- [ci(release): drop push: tags: trigger to stop self-triggered duplicate runs](https://github.com/buluma/helmcode/pull/16) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Mark ubuntu2504 deprecated, past EOL](https://github.com/buluma/docker-molecule-images/pull/27) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.20.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.20.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 day ago) - 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.19.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.19.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.34](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.34), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 3 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 6 days ago) - Deploy a Collection to Ansible Galaxy.
