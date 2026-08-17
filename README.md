@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (2 days ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (3 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (4 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 - [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,24 +30,24 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [p](https://github.com/buluma/nest_test/pull/3) on [buluma/nest_test](https://github.com/buluma/nest_test) (today)
-- [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [fix(ui): render History view from hourly rollups instead of raw scans](https://github.com/buluma/github-monitor/pull/13) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [feat(db): bound cache/history growth and serve cached status on reload](https://github.com/buluma/github-monitor/pull/12) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [feat: implement SQLite persistence using node:sqlite](https://github.com/buluma/github-monitor/pull/11) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [feat: update styles and server logic](https://github.com/buluma/github-monitor/pull/10) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [Update MAINTAINERS.md](https://github.com/buluma/github-monitor/pull/9) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (today)
-- [Update ci.yml](https://github.com/buluma/github-monitor/pull/7) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
-- [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
-- [chore(deps): bump NestJS to 11.2.1](https://github.com/buluma/nest_test/pull/1) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
+- [Fix lint issues](https://github.com/buluma/nest_test/pull/3) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
+- [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [fix(ui): render History view from hourly rollups instead of raw scans](https://github.com/buluma/github-monitor/pull/13) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [feat(db): bound cache/history growth and serve cached status on reload](https://github.com/buluma/github-monitor/pull/12) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [feat: implement SQLite persistence using node:sqlite](https://github.com/buluma/github-monitor/pull/11) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [feat: update styles and server logic](https://github.com/buluma/github-monitor/pull/10) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [Update MAINTAINERS.md](https://github.com/buluma/github-monitor/pull/9) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
+- [Update ci.yml](https://github.com/buluma/github-monitor/pull/7) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (2 days ago)
+- [Upgrade Node.js setup action and version in workflows](https://github.com/buluma/nest_test/pull/2) on [buluma/nest_test](https://github.com/buluma/nest_test) (2 days ago)
+- [chore(deps): bump NestJS to 11.2.1](https://github.com/buluma/nest_test/pull/1) on [buluma/nest_test](https://github.com/buluma/nest_test) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.20.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.20.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 day ago) - 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.34](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.34), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 3 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 6 days ago) - Deploy a Collection to Ansible Galaxy.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.20.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.20.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 days ago) - 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36-nightly.20260815.34](https://github.com/buluma/helmcode/releases/tag/v0.0.36-nightly.20260815.34), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 week ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 3 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 3 weeks ago) - Install and configure httpd on your system.
@@ -56,9 +56,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (1 day ago)
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (3 days ago)
-- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (1 week ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (2 days ago)
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (4 days ago)
+- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (2 weeks ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) - Frozen — terminal coding agent measured at 1.93× fewer tokens than Codex CLI. Still works; active development moved to JuliusBrussee/caveman (caveman wrap). (1 month ago)
