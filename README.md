@@ -30,15 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: improve codebase quality and UX](https://github.com/buluma/gcc/pull/19) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [ci: only run Docker workflow on merge to master and version tags](https://github.com/buluma/gcc/pull/18) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [fix: query statusCheckRollup subfields and widen PR detail dialog](https://github.com/buluma/gcc/pull/15) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [feat: add PR details view in a pop-up dialog](https://github.com/buluma/gcc/pull/14) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Add workflow_dispatch trigger to CI workflow](https://github.com/buluma/gcc/pull/13) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [ci: add Docker build and push workflow](https://github.com/buluma/gcc/pull/12) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [feat: add PR merge capability](https://github.com/buluma/gcc/pull/11) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [test: add contract tests and fix TypeScript 6 compatibility](https://github.com/buluma/gcc/pull/10) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [brands](https://github.com/buluma/gcc/pull/9) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [Update ci.yml](https://github.com/buluma/gcc/pull/8) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [fix ci](https://github.com/buluma/gcc/pull/7) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [bump actions](https://github.com/buluma/gcc/pull/6) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [Revert &#34;Bump sharp and wrangler&#34;](https://github.com/buluma/gcc/pull/5) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 
 #### 🔭 Latest releases I've contributed to
 
