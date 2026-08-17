@@ -18,18 +18,20 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (3 days ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (4 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (1 week ago)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/online](https://github.com/buluma/online)
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
 - [buluma/nest_test](https://github.com/buluma/nest_test)
 - [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add PR merge capability](https://github.com/buluma/gcc/pull/11) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [test: add contract tests and fix TypeScript 6 compatibility](https://github.com/buluma/gcc/pull/10) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [brands](https://github.com/buluma/gcc/pull/9) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Update ci.yml](https://github.com/buluma/gcc/pull/8) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [fix ci](https://github.com/buluma/gcc/pull/7) on [buluma/gcc](https://github.com/buluma/gcc) (today)
@@ -37,13 +39,10 @@ Welcome to my little world.
 - [Revert &#34;Bump sharp and wrangler&#34;](https://github.com/buluma/gcc/pull/5) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Fix lint issues](https://github.com/buluma/nest_test/pull/3) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
 - [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
-- [fix(ui): render History view from hourly rollups instead of raw scans](https://github.com/buluma/github-monitor/pull/13) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
-- [feat(db): bound cache/history growth and serve cached status on reload](https://github.com/buluma/github-monitor/pull/12) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
-- [feat: implement SQLite persistence using node:sqlite](https://github.com/buluma/github-monitor/pull/11) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.36](https://github.com/buluma/helmcode/releases/tag/v0.0.36), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.37-nightly.20260817.50](https://github.com/buluma/helmcode/releases/tag/v0.0.37-nightly.20260817.50), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.20.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.20.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 days ago) - 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
