@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Add workflow_dispatch trigger to CI workflow](https://github.com/buluma/gcc/pull/13) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [ci: add Docker build and push workflow](https://github.com/buluma/gcc/pull/12) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [feat: add PR merge capability](https://github.com/buluma/gcc/pull/11) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [test: add contract tests and fix TypeScript 6 compatibility](https://github.com/buluma/gcc/pull/10) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [brands](https://github.com/buluma/gcc/pull/9) on [buluma/gcc](https://github.com/buluma/gcc) (today)
@@ -37,8 +39,6 @@ Welcome to my little world.
 - [fix ci](https://github.com/buluma/gcc/pull/7) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [bump actions](https://github.com/buluma/gcc/pull/6) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Revert &#34;Bump sharp and wrangler&#34;](https://github.com/buluma/gcc/pull/5) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [Fix lint issues](https://github.com/buluma/nest_test/pull/3) on [buluma/nest_test](https://github.com/buluma/nest_test) (1 day ago)
-- [fix(db): incremental vacuum instead of full VACUUM to avoid event-loop freeze](https://github.com/buluma/github-monitor/pull/14) on [buluma/github-monitor](https://github.com/buluma/github-monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
