@@ -43,8 +43,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.21.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.21.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.37-nightly.20260817.50](https://github.com/buluma/helmcode/releases/tag/v0.0.37-nightly.20260817.50), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.20.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.20.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 3 days ago) - 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.5](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.5), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 week ago) - Deploy a Collection to Ansible Galaxy.
