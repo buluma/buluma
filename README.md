@@ -15,18 +15,18 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration. (1 day ago)
+- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (1 day ago)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (1 day ago)
-- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (1 day ago)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/online](https://github.com/buluma/online)
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
 - [buluma/nest_test](https://github.com/buluma/nest_test)
 - [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs (Claude Code, Codex, Cursor, Grok Build, OpenCode) on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 
 #### 🔨 My recent Pull Requests
 
