@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(provider): add NVIDIA NIM and OpenRouter API-only provider backends](https://github.com/buluma/helmcode/pull/19) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat: persist dashboard cache to disk](https://github.com/buluma/gcc/pull/22) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
 - [fix: stale-cache fallback searches all session keys](https://github.com/buluma/gcc/pull/21) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
 - [feat: stale-cache fallback for GitHub API outages](https://github.com/buluma/gcc/pull/20) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
 - [fix: query statusCheckRollup subfields and widen PR detail dialog](https://github.com/buluma/gcc/pull/15) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
 - [feat: add PR details view in a pop-up dialog](https://github.com/buluma/gcc/pull/14) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
-- [Add workflow_dispatch trigger to CI workflow](https://github.com/buluma/gcc/pull/13) on [buluma/gcc](https://github.com/buluma/gcc) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
