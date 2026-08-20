@@ -43,7 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.38](https://github.com/buluma/helmcode/releases/tag/v0.0.38), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260820.81](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260820.81), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 day ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.22.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.22.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 5 days ago) - 
