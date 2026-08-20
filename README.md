@@ -16,9 +16,9 @@ Welcome to my little world.
 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 day ago)
-- [buluma/ansible-role-bareos_fd](https://github.com/buluma/ansible-role-bareos_fd) - Install and configure [Bareos](https://www.bareos.com/) File Daemon. (2 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (2 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (2 days ago)
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (2 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -39,7 +39,6 @@ Welcome to my little world.
 - [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 - [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 - [fix: query statusCheckRollup subfields and widen PR detail dialog](https://github.com/buluma/gcc/pull/15) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [feat: add PR details view in a pop-up dialog](https://github.com/buluma/gcc/pull/14) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
