@@ -38,7 +38,6 @@ Welcome to my little world.
 - [ci: only run Docker workflow on merge to master and version tags](https://github.com/buluma/gcc/pull/18) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 - [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 - [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [fix: query statusCheckRollup subfields and widen PR detail dialog](https://github.com/buluma/gcc/pull/15) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
