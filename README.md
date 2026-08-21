@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
-- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 day ago)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (2 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (2 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (2 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (3 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (3 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,23 +30,23 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(provider): add NVIDIA NIM and OpenRouter API-only provider backends](https://github.com/buluma/helmcode/pull/19) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [feat: persist dashboard cache to disk](https://github.com/buluma/gcc/pull/22) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [fix: stale-cache fallback searches all session keys](https://github.com/buluma/gcc/pull/21) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [feat: stale-cache fallback for GitHub API outages](https://github.com/buluma/gcc/pull/20) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [refactor: improve codebase quality and UX](https://github.com/buluma/gcc/pull/19) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [ci: only run Docker workflow on merge to master and version tags](https://github.com/buluma/gcc/pull/18) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
-- [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (3 days ago)
+- [feat(provider): add NVIDIA NIM and OpenRouter API-only provider backends](https://github.com/buluma/helmcode/pull/19) on [buluma/helmcode](https://github.com/buluma/helmcode) (2 days ago)
+- [feat: persist dashboard cache to disk](https://github.com/buluma/gcc/pull/22) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [fix: stale-cache fallback searches all session keys](https://github.com/buluma/gcc/pull/21) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [feat: stale-cache fallback for GitHub API outages](https://github.com/buluma/gcc/pull/20) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [refactor: improve codebase quality and UX](https://github.com/buluma/gcc/pull/19) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [ci: only run Docker workflow on merge to master and version tags](https://github.com/buluma/gcc/pull/18) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
+- [fix: force PR detail dialog width and add description scroll](https://github.com/buluma/gcc/pull/16) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260820.81](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260820.81), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 day ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 5 days ago) - 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260820.81](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260820.81), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 6 days ago) - 
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 week ago) - Deploy a Collection to Ansible Galaxy.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 3 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 3 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 3 weeks ago) - Install and configure zabbix_web on your system.
@@ -54,11 +54,11 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 day ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 day ago)
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (1 day ago)
-- [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (3 days ago)
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (5 days ago)
+- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (2 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 days ago)
+- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (2 days ago)
+- [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (4 days ago)
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more (6 days ago)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 week ago)
 - [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (2 weeks ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
