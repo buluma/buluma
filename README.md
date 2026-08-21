@@ -16,9 +16,9 @@ Welcome to my little world.
 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 days ago)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (3 days ago)
+- [buluma/ansible-role-azure_cli](https://github.com/buluma/ansible-role-azure_cli) - Install and configure azure_cli on your system. (3 days ago)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (3 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (3 days ago)
+- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,12 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: trigger Pages deploy after data fetch, bust status.json cache](https://github.com/buluma/online/pull/5) on [buluma/online](https://github.com/buluma/online) (today)
 - [Backport server, desktop, and CI fixes from buluma/t3code](https://github.com/buluma/helmcode/pull/20) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(provider): add NVIDIA NIM and OpenRouter API-only provider backends](https://github.com/buluma/helmcode/pull/19) on [buluma/helmcode](https://github.com/buluma/helmcode) (2 days ago)
 - [feat: persist dashboard cache to disk](https://github.com/buluma/gcc/pull/22) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 - [fix: stale-cache fallback searches all session keys](https://github.com/buluma/gcc/pull/21) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 - [feat: stale-cache fallback for GitHub API outages](https://github.com/buluma/gcc/pull/20) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
-- [refactor: improve codebase quality and UX](https://github.com/buluma/gcc/pull/19) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
