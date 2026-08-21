@@ -36,7 +36,6 @@ Welcome to my little world.
 - [feat: stale-cache fallback for GitHub API outages](https://github.com/buluma/gcc/pull/20) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 - [refactor: improve codebase quality and UX](https://github.com/buluma/gcc/pull/19) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 - [ci: only run Docker workflow on merge to master and version tags](https://github.com/buluma/gcc/pull/18) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
-- [fix: reduce PR detail dialog width to 70vw](https://github.com/buluma/gcc/pull/17) on [buluma/gcc](https://github.com/buluma/gcc) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
