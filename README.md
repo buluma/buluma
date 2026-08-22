@@ -17,8 +17,8 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (3 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (4 days ago)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (4 days ago)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (4 days ago)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
