@@ -30,12 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: read children off issue.children, not the getIssue wrapper root](https://github.com/buluma/redmine-dashboard/pull/46) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [feat: show status and assignee columns on subtickets table](https://github.com/buluma/redmine-dashboard/pull/45) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: refuse redmine ticket submission for unparseable email items](https://github.com/buluma/odysseus/pull/44) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [fix: refuse redmine ticket submission for unparseable email items](https://github.com/arcahyadi/odysseus/pull/12) on [arcahyadi/odysseus](https://github.com/arcahyadi/odysseus) (today)
 - [fix: reject email-parse placeholder subjects on external ticket ingest](https://github.com/buluma/redmine-dashboard/pull/44) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: trigger Pages deploy after data fetch, bust status.json cache](https://github.com/buluma/online/pull/5) on [buluma/online](https://github.com/buluma/online) (1 day ago)
 - [Backport server, desktop, and CI fixes from buluma/t3code](https://github.com/buluma/helmcode/pull/20) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [feat(provider): add NVIDIA NIM and OpenRouter API-only provider backends](https://github.com/buluma/helmcode/pull/19) on [buluma/helmcode](https://github.com/buluma/helmcode) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
