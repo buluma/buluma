@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (4 days ago)
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (5 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (5 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,18 +30,18 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: split test job per host](https://github.com/buluma/SL2/pull/49) on [buluma/SL2](https://github.com/buluma/SL2) (today)
+- [fix: wire circuit capacity-management fields into all dev sync paths](https://github.com/buluma/SL2/pull/48) on [buluma/SL2](https://github.com/buluma/SL2) (today)
+- [chore: sync live portal drift (dev, 2026-08-23)](https://github.com/buluma/SL2/pull/47) on [buluma/SL2](https://github.com/buluma/SL2) (today)
+- [fix: circuit termination sync errors logged as [object Object]](https://github.com/buluma/SL2/pull/46) on [buluma/SL2](https://github.com/buluma/SL2) (today)
+- [fix: NetBox Assistant wrong-type answers and formatter [object Object] bugs](https://github.com/buluma/SL2/pull/45) on [buluma/SL2](https://github.com/buluma/SL2) (today)
 - [style: prune dead dark-theme css and rework AppNav](https://github.com/buluma/redmine-dashboard/pull/54) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: lower glass card opacity](https://github.com/buluma/redmine-dashboard/pull/53) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [feat: liquid-glass dark-theme cards](https://github.com/buluma/redmine-dashboard/pull/52) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: rebalance constellation intensity](https://github.com/buluma/redmine-dashboard/pull/51) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: fade constellation background — ambient not clutter](https://github.com/buluma/redmine-dashboard/pull/50) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: increase constellation background intensity](https://github.com/buluma/redmine-dashboard/pull/49) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [feat: animated constellation background for dark theme](https://github.com/buluma/redmine-dashboard/pull/48) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: issue queue filter parity &#43; dep CVE pins](https://github.com/buluma/redmine-dashboard/pull/47) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.1), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260821.90](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260821.90), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
