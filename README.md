@@ -38,7 +38,6 @@ Welcome to my little world.
 - [fix: increase constellation background intensity](https://github.com/buluma/redmine-dashboard/pull/49) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [feat: animated constellation background for dark theme](https://github.com/buluma/redmine-dashboard/pull/48) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [fix: issue queue filter parity &#43; dep CVE pins](https://github.com/buluma/redmine-dashboard/pull/47) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: read children off issue.children, not the getIssue wrapper root](https://github.com/buluma/redmine-dashboard/pull/46) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
