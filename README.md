@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (4 days ago)
-- [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) - Install and Configure buildkit on your system. (5 days ago)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (5 days ago)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (5 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [style: prune dead dark-theme css and rework AppNav](https://github.com/buluma/redmine-dashboard/pull/54) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: lower glass card opacity](https://github.com/buluma/redmine-dashboard/pull/53) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [feat: liquid-glass dark-theme cards](https://github.com/buluma/redmine-dashboard/pull/52) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [fix: rebalance constellation intensity](https://github.com/buluma/redmine-dashboard/pull/51) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [fix: issue queue filter parity &#43; dep CVE pins](https://github.com/buluma/redmine-dashboard/pull/47) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [fix: read children off issue.children, not the getIssue wrapper root](https://github.com/buluma/redmine-dashboard/pull/46) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [feat: show status and assignee columns on subtickets table](https://github.com/buluma/redmine-dashboard/pull/45) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [fix: refuse redmine ticket submission for unparseable email items](https://github.com/buluma/odysseus/pull/44) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
