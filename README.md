@@ -17,8 +17,8 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (5 days ago)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (6 days ago)
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (6 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,12 +30,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [docs(release): fix stale tag-push trigger description](https://github.com/buluma/helmcode/pull/22) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [Tool-call failure observability: fix silent tone bug, add metric &#43; script](https://github.com/buluma/helmcode/pull/21) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix: sync completion signal, leader-lock renewal, correlation false-matches, wakatime tz/rate-limit bugs](https://github.com/buluma/redmine-dashboard/pull/56) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: refresh dashboard on sync.tick.completed instead of per-issue trickle](https://github.com/buluma/redmine-dashboard/pull/55) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.40-nightly.20260824.113](https://github.com/buluma/helmcode/releases/tag/v0.0.40-nightly.20260824.113), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.40](https://github.com/buluma/helmcode/releases/tag/v0.0.40), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
