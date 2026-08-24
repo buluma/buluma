@@ -14,7 +14,7 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (5 days ago)
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (6 days ago)
@@ -30,11 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: refresh dashboard on sync.tick.completed instead of per-issue trickle](https://github.com/buluma/redmine-dashboard/pull/55) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39](https://github.com/buluma/helmcode/releases/tag/v0.0.39), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260821.90](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260821.90), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 2 weeks ago) - Deploy a Collection to Ansible Galaxy.
