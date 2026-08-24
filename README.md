@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (today)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
-- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (4 days ago)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (5 days ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
+- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (5 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (6 days ago)
+- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,22 +30,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: split test job per host](https://github.com/buluma/SL2/pull/49) on [buluma/SL2](https://github.com/buluma/SL2) (today)
-- [fix: wire circuit capacity-management fields into all dev sync paths](https://github.com/buluma/SL2/pull/48) on [buluma/SL2](https://github.com/buluma/SL2) (today)
-- [chore: sync live portal drift (dev, 2026-08-23)](https://github.com/buluma/SL2/pull/47) on [buluma/SL2](https://github.com/buluma/SL2) (today)
-- [fix: circuit termination sync errors logged as [object Object]](https://github.com/buluma/SL2/pull/46) on [buluma/SL2](https://github.com/buluma/SL2) (today)
-- [fix: NetBox Assistant wrong-type answers and formatter [object Object] bugs](https://github.com/buluma/SL2/pull/45) on [buluma/SL2](https://github.com/buluma/SL2) (today)
-- [style: prune dead dark-theme css and rework AppNav](https://github.com/buluma/redmine-dashboard/pull/54) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix: lower glass card opacity](https://github.com/buluma/redmine-dashboard/pull/53) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [feat: liquid-glass dark-theme cards](https://github.com/buluma/redmine-dashboard/pull/52) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260821.90](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260821.90), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39-nightly.20260821.90](https://github.com/buluma/helmcode/releases/tag/v0.0.39-nightly.20260821.90), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 1 week ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 2 weeks ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 4 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 4 weeks ago) - Install and configure httpd on your system.
@@ -54,13 +46,13 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (4 days ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 days ago)
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (4 days ago)
-- [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (6 days ago)
+- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (5 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (5 days ago)
+- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (5 days ago)
+- [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (1 week ago)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in (1 week ago)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 week ago)
-- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (2 weeks ago)
+- [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (3 weeks ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) - Frozen — terminal coding agent measured at 1.93× fewer tokens than Codex CLI. Still works; active development moved to JuliusBrussee/caveman (caveman wrap). (1 month ago)
