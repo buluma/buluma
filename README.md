@@ -30,11 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: sync completion signal, leader-lock renewal, correlation false-matches, wakatime tz/rate-limit bugs](https://github.com/buluma/redmine-dashboard/pull/56) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: refresh dashboard on sync.tick.completed instead of per-issue trickle](https://github.com/buluma/redmine-dashboard/pull/55) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.39](https://github.com/buluma/helmcode/releases/tag/v0.0.39), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.40-nightly.20260824.113](https://github.com/buluma/helmcode/releases/tag/v0.0.40-nightly.20260824.113), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
