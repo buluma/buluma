@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (5 days ago)
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (6 days ago)
+- [buluma/ansible-role-bareos_fd](https://github.com/buluma/ansible-role-bareos_fd) - Install and configure [Bareos](https://www.bareos.com/) File Daemon. (6 days ago)
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
