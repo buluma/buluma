@@ -30,6 +30,11 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: migrate to bun as package manager](https://github.com/buluma/Redmine-desktop/pull/66) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (today)
+- [chore: migrate to bun as package manager](https://github.com/buluma/OpenWA/pull/3) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [chore: migrate to bun as package manager](https://github.com/rmyndharis/OpenWA/pull/1462) on [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) (today)
+- [chore: migrate to bun as package manager](https://github.com/buluma/gcc/pull/23) on [buluma/gcc](https://github.com/buluma/gcc) (today)
+- [chore: migrate to bun as package manager](https://github.com/buluma/disk-map/pull/17) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [docs(release): fix stale tag-push trigger description](https://github.com/buluma/helmcode/pull/22) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [Tool-call failure observability: fix silent tone bug, add metric &#43; script](https://github.com/buluma/helmcode/pull/21) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix: sync completion signal, leader-lock renewal, correlation false-matches, wakatime tz/rate-limit bugs](https://github.com/buluma/redmine-dashboard/pull/56) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
@@ -37,16 +42,16 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.40](https://github.com/buluma/helmcode/releases/tag/v0.0.40), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.41-nightly.20260824.117](https://github.com/buluma/helmcode/releases/tag/v0.0.41-nightly.20260824.117), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
+- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.1.0](https://github.com/buluma/disk-map/releases/tag/0.1.0), 1 week ago) - MacOS Disk Utility
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 2 weeks ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 4 weeks ago) - Make openssl certificates.
 - [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 4 weeks ago) - Install and configure httpd on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.6.2](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.6.2), 4 weeks ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.6.3](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.6.3), 4 weeks ago) - Install and configure zabbix_server on your system.
 
 #### ⭐ Recent Stars
 
