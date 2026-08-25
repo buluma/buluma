@@ -18,27 +18,28 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (6 days ago)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 week ago)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor)
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
 - [buluma/nest_test](https://github.com/buluma/nest_test)
-- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(desktop): drop Windows support, macOS-only Electron app](https://github.com/buluma/Code-Agent-Monitor/pull/3) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [docs: update install/build commands from npm to bun](https://github.com/buluma/Redmine-desktop/pull/67) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (today)
 - [chore: migrate package manager npm -&gt; bun](https://github.com/buluma/reddie/pull/48) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [chore: migrate npm to bun for package management](https://github.com/buluma/odysseus/pull/45) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [chore: migrate package management from npm to bun](https://github.com/buluma/redmine-dashboard/pull/57) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [chore: migrate to bun as package manager](https://github.com/buluma/Redmine-desktop/pull/66) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (1 day ago)
-- [chore: migrate to bun as package manager](https://github.com/buluma/OpenWA/pull/3) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.0.11](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.0.11), today) - 
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.41-nightly.20260824.117](https://github.com/buluma/helmcode/releases/tag/v0.0.41-nightly.20260824.117), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 6 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
@@ -48,7 +49,6 @@ Welcome to my little world.
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 2 weeks ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 1 month ago) - Make openssl certificates.
-- [buluma/ansible-role-httpd](https://github.com/buluma/ansible-role-httpd) ([26.7.2](https://github.com/buluma/ansible-role-httpd/releases/tag/26.7.2), 1 month ago) - Install and configure httpd on your system.
 
 #### ⭐ Recent Stars
 
