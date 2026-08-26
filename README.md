@@ -30,13 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: standardize naming to Code Agent Monitor](https://github.com/buluma/Code-Agent-Monitor/pull/10) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Replace author names with Michael Buluma](https://github.com/buluma/Code-Agent-Monitor/pull/9) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [chore(release): bump version to 2.0.12](https://github.com/buluma/Code-Agent-Monitor/pull/8) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [feat(desktop): drop Windows support, macOS-only Electron app](https://github.com/buluma/Code-Agent-Monitor/pull/3) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [docs: update install/build commands from npm to bun](https://github.com/buluma/Redmine-desktop/pull/67) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (1 day ago)
 - [chore: migrate package manager npm -&gt; bun](https://github.com/buluma/reddie/pull/48) on [buluma/reddie](https://github.com/buluma/reddie) (1 day ago)
 - [chore: migrate npm to bun for package management](https://github.com/buluma/odysseus/pull/45) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [chore: migrate package management from npm to bun](https://github.com/buluma/redmine-dashboard/pull/57) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
