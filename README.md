@@ -22,7 +22,7 @@ Welcome to my little world.
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor)
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
@@ -30,17 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [docs(install): fix WAL delete advice and stale vite proxy instructions](https://github.com/buluma/Code-Agent-Monitor/pull/19) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [docs: collapse duplicate documentation into single canonical sources](https://github.com/buluma/Code-Agent-Monitor/pull/18) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [fix(vscode-extension): replace deprecated vsce with @vscode/vsce](https://github.com/buluma/Code-Agent-Monitor/pull/17) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [Port upstream #311 &#43; #312: hook-only Codex sessions, unified status badges](https://github.com/buluma/Code-Agent-Monitor/pull/16) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [release: v3.3.0](https://github.com/buluma/Code-Agent-Monitor/pull/15) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [feat: command palette, terminal focus, and Linear ticket linking](https://github.com/buluma/Code-Agent-Monitor/pull/14) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [release: v3.2.0](https://github.com/buluma/Code-Agent-Monitor/pull/13) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat(helmcode): add config explorer and import provider support](https://github.com/buluma/Code-Agent-Monitor/pull/12) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat(provider): add Helm Code read-only session monitoring](https://github.com/buluma/Code-Agent-Monitor/pull/11) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [perf: scope pnpm native binaries to current platform for dev](https://github.com/buluma/helmcode/pull/25) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [Pin vulnerable transitive dependencies flagged by Dependabot](https://github.com/buluma/helmcode/pull/24) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Port desktop fixes and features from t3code](https://github.com/buluma/helmcode/pull/23) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v3.2.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v3.2.0), today) - 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.42](https://github.com/buluma/helmcode/releases/tag/v0.0.42), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v3.3.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v3.3.0), today) - Real-time monitoring platform for code agent activity.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.43-nightly.20260828.141](https://github.com/buluma/helmcode/releases/tag/v0.0.43-nightly.20260828.141), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 1 week ago) - 
@@ -52,6 +55,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (today)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 week ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 week ago)
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (1 week ago)
@@ -61,7 +65,6 @@ Welcome to my little world.
 - [lablup/all-smi](https://github.com/lablup/all-smi) - Command-line utility for monitoring GPU hardware. (3 weeks ago)
 - [buluma/openwiki](https://github.com/buluma/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 month ago)
-- [JuliusBrussee/caveman-code](https://github.com/JuliusBrussee/caveman-code) - Frozen — terminal coding agent measured at 1.93× fewer tokens than Codex CLI. Still works; active development moved to JuliusBrussee/caveman (caveman wrap). (1 month ago)
 
 
 
