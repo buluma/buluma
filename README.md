@@ -15,7 +15,7 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
-- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (1 day ago)
+- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (4 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 week ago)
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(server): use id field and identifier filter for Linear toolkit](https://github.com/buluma/helmcode/pull/27) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(server): add Linear MCP toolkit with API key management](https://github.com/buluma/helmcode/pull/26) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [docs(install): fix WAL delete advice and stale vite proxy instructions](https://github.com/buluma/Code-Agent-Monitor/pull/19) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [docs: collapse duplicate documentation into single canonical sources](https://github.com/buluma/Code-Agent-Monitor/pull/18) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [fix(vscode-extension): replace deprecated vsce with @vscode/vsce](https://github.com/buluma/Code-Agent-Monitor/pull/17) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
@@ -38,12 +40,11 @@ Welcome to my little world.
 - [feat: command palette, terminal focus, and Linear ticket linking](https://github.com/buluma/Code-Agent-Monitor/pull/14) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [release: v3.2.0](https://github.com/buluma/Code-Agent-Monitor/pull/13) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [feat(helmcode): add config explorer and import provider support](https://github.com/buluma/Code-Agent-Monitor/pull/12) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [feat(provider): add Helm Code read-only session monitoring](https://github.com/buluma/Code-Agent-Monitor/pull/11) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.44](https://github.com/buluma/helmcode/releases/tag/v0.0.44), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v3.3.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v3.3.0), 1 day ago) - Real-time monitoring platform for code agent activity.
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.43-nightly.20260828.141](https://github.com/buluma/helmcode/releases/tag/v0.0.43-nightly.20260828.141), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 weeks ago) - 
