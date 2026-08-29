@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(server): NVIDIA/OpenRouter chat requests sent as text/plain, rejected with 415](https://github.com/buluma/helmcode/pull/31) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [fix(server): NvidiaAdapter/OpenRouterAdapter turns dying silently](https://github.com/buluma/helmcode/pull/30) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): OpenRouterAdapter session.exited on turn failure &#43; adapter tests](https://github.com/buluma/helmcode/pull/29) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): stop Linear search from matching the whole team](https://github.com/buluma/helmcode/pull/28) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): use id field and identifier filter for Linear toolkit](https://github.com/buluma/helmcode/pull/27) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
@@ -38,12 +40,10 @@ Welcome to my little world.
 - [docs: collapse duplicate documentation into single canonical sources](https://github.com/buluma/Code-Agent-Monitor/pull/18) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [fix(vscode-extension): replace deprecated vsce with @vscode/vsce](https://github.com/buluma/Code-Agent-Monitor/pull/17) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [Port upstream #311 &#43; #312: hook-only Codex sessions, unified status badges](https://github.com/buluma/Code-Agent-Monitor/pull/16) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [release: v3.3.0](https://github.com/buluma/Code-Agent-Monitor/pull/15) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [feat: command palette, terminal focus, and Linear ticket linking](https://github.com/buluma/Code-Agent-Monitor/pull/14) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.46](https://github.com/buluma/helmcode/releases/tag/v0.0.46), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.48](https://github.com/buluma/helmcode/releases/tag/v0.0.48), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v3.3.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v3.3.0), 1 day ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
