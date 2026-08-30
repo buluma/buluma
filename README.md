@@ -30,20 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(server): gate NVIDIA/OpenRouter cost extraction on REPORTS_COST_USD](https://github.com/buluma/helmcode/pull/43) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(server): wire NVIDIA/OpenRouter token usage and cost into turn.completed](https://github.com/buluma/helmcode/pull/42) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(server): wire OpenCode token usage and cost into turn.completed](https://github.com/buluma/helmcode/pull/41) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [fix(server): raise NVIDIA/OpenRouter tool-call loop cap to 25 rounds](https://github.com/buluma/helmcode/pull/40) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(server): wire token usage into latest-turn details](https://github.com/buluma/helmcode/pull/39) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(server): wire turn stopReason/totalCostUsd into the read model](https://github.com/buluma/helmcode/pull/38) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [refactor(server): extract Nvidia/OpenRouter adapters into a shared factory](https://github.com/buluma/helmcode/pull/37) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): retry 429s, absolute workspace paths, and TCC-safe process kill for Nvidia/OpenRouter](https://github.com/buluma/helmcode/pull/36) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(server): give Nvidia/OpenRouter adapters write/exec parity with Claude/Codex](https://github.com/buluma/helmcode/pull/35) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(server): give Nvidia/OpenRouter chat adapters read-only workspace tools](https://github.com/buluma/helmcode/pull/34) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix(server): use GraphQL ID type for teamId in Linear status resolution](https://github.com/buluma/helmcode/pull/33) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix(server): make Nvidia/OpenRouter chat turns actually work](https://github.com/buluma/helmcode/pull/32) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
-- [fix(server): NVIDIA/OpenRouter chat requests sent as text/plain, rejected with 415](https://github.com/buluma/helmcode/pull/31) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [fix(server): NvidiaAdapter/OpenRouterAdapter turns dying silently](https://github.com/buluma/helmcode/pull/30) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [fix(server): OpenRouterAdapter session.exited on turn failure &#43; adapter tests](https://github.com/buluma/helmcode/pull/29) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.52](https://github.com/buluma/helmcode/releases/tag/v0.0.52), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.57](https://github.com/buluma/helmcode/releases/tag/v0.0.57), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v3.3.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v3.3.0), 2 days ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 6 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
