@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: add test coverage reporting, no gate (SHA-169)](https://github.com/buluma/Code-Agent-Monitor/pull/27) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [refactor(client): extract subcomponents from Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/26) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
@@ -39,12 +40,11 @@ Welcome to my little world.
 - [fix(splash): add Helm Code to onboarding surface picker](https://github.com/buluma/Code-Agent-Monitor/pull/22) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [release: bump version to 4.0.0 (breaking CCAM-&gt;CAM rename)](https://github.com/buluma/Code-Agent-Monitor/pull/21) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [refactor!: rename CCAM to CAM across all surfaces](https://github.com/buluma/Code-Agent-Monitor/pull/20) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [fix(server): gate NVIDIA/OpenRouter cost extraction on REPORTS_COST_USD](https://github.com/buluma/helmcode/pull/43) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.58-nightly.20260830.166](https://github.com/buluma/helmcode/releases/tag/v0.0.58-nightly.20260830.166), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.0), 1 day ago) - Real-time monitoring platform for code agent activity.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.58](https://github.com/buluma/helmcode/releases/tag/v0.0.58), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), today) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 weeks ago) - 
