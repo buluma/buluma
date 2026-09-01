@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(server): stop OpenCode child sessions during teardown](https://github.com/buluma/helmcode/pull/44) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/29) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/28) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
 - [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [feat: add ESLint 9 flat config, warn-only (SHA-168)](https://github.com/buluma/Code-Agent-Monitor/pull/25) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [feat(server): gradual JS type-checking on hooks.js &#43; sessions.js (SHA-166)](https://github.com/buluma/Code-Agent-Monitor/pull/24) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 - [refactor: extract background services from server/index.js (SHA-171)](https://github.com/buluma/Code-Agent-Monitor/pull/23) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [fix(splash): add Helm Code to onboarding surface picker](https://github.com/buluma/Code-Agent-Monitor/pull/22) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
