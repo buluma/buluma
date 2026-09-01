@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/29) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
+- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/28) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
 - [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [feat: add test coverage reporting, no gate (SHA-169)](https://github.com/buluma/Code-Agent-Monitor/pull/27) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
@@ -38,8 +40,6 @@ Welcome to my little world.
 - [feat(server): gradual JS type-checking on hooks.js &#43; sessions.js (SHA-166)](https://github.com/buluma/Code-Agent-Monitor/pull/24) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 - [refactor: extract background services from server/index.js (SHA-171)](https://github.com/buluma/Code-Agent-Monitor/pull/23) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 - [fix(splash): add Helm Code to onboarding surface picker](https://github.com/buluma/Code-Agent-Monitor/pull/22) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [release: bump version to 4.0.0 (breaking CCAM-&gt;CAM rename)](https://github.com/buluma/Code-Agent-Monitor/pull/21) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [refactor!: rename CCAM to CAM across all surfaces](https://github.com/buluma/Code-Agent-Monitor/pull/20) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
