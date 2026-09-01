@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (1 day ago)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (2 days ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (6 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (6 days ago)
+- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (2 days ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (3 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 week ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
 - [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,21 +30,21 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [feat: add test coverage reporting, no gate (SHA-169)](https://github.com/buluma/Code-Agent-Monitor/pull/27) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [refactor(client): extract subcomponents from Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/26) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [feat: add ESLint 9 flat config, warn-only (SHA-168)](https://github.com/buluma/Code-Agent-Monitor/pull/25) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [feat(server): gradual JS type-checking on hooks.js &#43; sessions.js (SHA-166)](https://github.com/buluma/Code-Agent-Monitor/pull/24) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [refactor: extract background services from server/index.js (SHA-171)](https://github.com/buluma/Code-Agent-Monitor/pull/23) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [fix(splash): add Helm Code to onboarding surface picker](https://github.com/buluma/Code-Agent-Monitor/pull/22) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [release: bump version to 4.0.0 (breaking CCAM-&gt;CAM rename)](https://github.com/buluma/Code-Agent-Monitor/pull/21) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [refactor!: rename CCAM to CAM across all surfaces](https://github.com/buluma/Code-Agent-Monitor/pull/20) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [feat: add test coverage reporting, no gate (SHA-169)](https://github.com/buluma/Code-Agent-Monitor/pull/27) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [refactor(client): extract subcomponents from Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/26) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [feat: add ESLint 9 flat config, warn-only (SHA-168)](https://github.com/buluma/Code-Agent-Monitor/pull/25) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
+- [feat(server): gradual JS type-checking on hooks.js &#43; sessions.js (SHA-166)](https://github.com/buluma/Code-Agent-Monitor/pull/24) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
+- [refactor: extract background services from server/index.js (SHA-171)](https://github.com/buluma/Code-Agent-Monitor/pull/23) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
+- [fix(splash): add Helm Code to onboarding surface picker](https://github.com/buluma/Code-Agent-Monitor/pull/22) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
+- [release: bump version to 4.0.0 (breaking CCAM-&gt;CAM rename)](https://github.com/buluma/Code-Agent-Monitor/pull/21) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
+- [refactor!: rename CCAM to CAM across all surfaces](https://github.com/buluma/Code-Agent-Monitor/pull/20) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.59-nightly.20260831.171](https://github.com/buluma/helmcode/releases/tag/v0.0.59-nightly.20260831.171), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), today) - Real-time monitoring platform for code agent activity.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.59-nightly.20260831.171](https://github.com/buluma/helmcode/releases/tag/v0.0.59-nightly.20260831.171), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), 1 day ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 weeks ago) - 
@@ -56,7 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (3 days ago)
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (4 days ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 week ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 week ago)
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (1 week ago)
