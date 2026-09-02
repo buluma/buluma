@@ -30,20 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;fix(server): time out hanging OpenCode CLI version probes&#34;](https://github.com/buluma/helmcode/pull/52) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [Test Revert](https://github.com/buluma/helmcode/pull/51) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [ci: throwaway probe for ProviderRegistry real-spawn hang](https://github.com/buluma/helmcode/pull/50) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(editor): swap Antigravity for Pulsar in open-in editor list](https://github.com/buluma/helmcode/pull/49) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [chore(ci): switch dependabot to bun ecosystem](https://github.com/buluma/Redmine-desktop/pull/69) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (today)
 - [fix(server): time out hanging OpenCode CLI version probes](https://github.com/buluma/helmcode/pull/48) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(server): stamp maxTokens into OpenCode&#39;s token-usage snapshot](https://github.com/buluma/helmcode/pull/47) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(web): whimsical rotating verb on the composer stop button](https://github.com/buluma/helmcode/pull/46) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [chore: port a batch of upstream t3code fixes and features](https://github.com/buluma/helmcode/pull/45) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): stop OpenCode child sessions during teardown](https://github.com/buluma/helmcode/pull/44) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/29) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/28) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
-- [release: bump version to 4.0.1](https://github.com/buluma/Code-Agent-Monitor/pull/29) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.62-nightly.20260902.182](https://github.com/buluma/helmcode/releases/tag/v0.0.62-nightly.20260902.182), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.62](https://github.com/buluma/helmcode/releases/tag/v0.0.62), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), 2 days ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
