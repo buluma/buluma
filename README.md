@@ -30,6 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(server): stamp maxTokens into OpenCode&#39;s token-usage snapshot](https://github.com/buluma/helmcode/pull/47) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [feat(web): whimsical rotating verb on the composer stop button](https://github.com/buluma/helmcode/pull/46) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [chore: port a batch of upstream t3code fixes and features](https://github.com/buluma/helmcode/pull/45) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(server): stop OpenCode child sessions during teardown](https://github.com/buluma/helmcode/pull/44) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/29) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/28) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
@@ -37,13 +40,10 @@ Welcome to my little world.
 - [refactor(client): finish decomposing Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/28) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 - [feat: add test coverage reporting, no gate (SHA-169)](https://github.com/buluma/Code-Agent-Monitor/pull/27) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
 - [refactor(client): extract subcomponents from Run.tsx &#43; CcConfig.tsx (SHA-167)](https://github.com/buluma/Code-Agent-Monitor/pull/26) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [feat: add ESLint 9 flat config, warn-only (SHA-168)](https://github.com/buluma/Code-Agent-Monitor/pull/25) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (2 days ago)
-- [feat(server): gradual JS type-checking on hooks.js &#43; sessions.js (SHA-166)](https://github.com/buluma/Code-Agent-Monitor/pull/24) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (3 days ago)
-- [refactor: extract background services from server/index.js (SHA-171)](https://github.com/buluma/Code-Agent-Monitor/pull/23) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.59-nightly.20260831.171](https://github.com/buluma/helmcode/releases/tag/v0.0.59-nightly.20260831.171), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.61](https://github.com/buluma/helmcode/releases/tag/v0.0.61), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), 2 days ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
