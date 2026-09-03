@@ -18,7 +18,7 @@ Welcome to my little world.
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (5 days ago)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 week ago)
+- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -43,7 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.63-nightly.20260902.186](https://github.com/buluma/helmcode/releases/tag/v0.0.63-nightly.20260902.186), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.64-nightly.20260903.189](https://github.com/buluma/helmcode/releases/tag/v0.0.64-nightly.20260903.189), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), 3 days ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
@@ -52,7 +52,7 @@ Welcome to my little world.
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.1.0](https://github.com/buluma/disk-map/releases/tag/0.1.0), 2 weeks ago) - MacOS Disk Utility
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 3 weeks ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 3 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) ([v2.25.3](https://github.com/buluma/telegram-media-downloader/releases/tag/v2.25.3), 1 month ago) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
+- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 1 month ago) - Make openssl certificates.
 
 #### ⭐ Recent Stars
 
