@@ -30,21 +30,19 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [release: bump version to 4.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/37) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [feat(desktop): add electron-updater auto-updater with manual download/install](https://github.com/buluma/Code-Agent-Monitor/pull/36) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [release: bump version to 4.0.2](https://github.com/buluma/Code-Agent-Monitor/pull/35) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [chore(ci): bump azure/setup-helm to v5.0.1, azure/setup-kubectl to v5.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/34) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [fix(deps): bump express to 5.2.1, resolve qs audit findings](https://github.com/buluma/Code-Agent-Monitor/pull/31) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat(web): add composer file attachments (upload queue, draft state, paperclip UI)](https://github.com/buluma/helmcode/pull/57) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [feat(server): add streaming upload infra and generic file attachments](https://github.com/buluma/helmcode/pull/55) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
 - [fix(web): stop double-subtracting composer inset in timeline end check](https://github.com/buluma/helmcode/pull/54) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [fix(desktop): exclude opposite-arch Darwin node-pty prebuild from mac packages](https://github.com/buluma/helmcode/pull/53) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Revert &#34;fix(server): time out hanging OpenCode CLI version probes&#34;](https://github.com/buluma/helmcode/pull/52) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [Test Revert](https://github.com/buluma/helmcode/pull/51) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [ci: throwaway probe for ProviderRegistry real-spawn hang](https://github.com/buluma/helmcode/pull/50) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [feat(editor): swap Antigravity for Pulsar in open-in editor list](https://github.com/buluma/helmcode/pull/49) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [chore(ci): switch dependabot to bun ecosystem](https://github.com/buluma/Redmine-desktop/pull/69) on [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) (1 day ago)
-- [fix(server): time out hanging OpenCode CLI version probes](https://github.com/buluma/helmcode/pull/48) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.1.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.1.0), today) - Real-time monitoring platform for code agent activity.
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.64-nightly.20260903.189](https://github.com/buluma/helmcode/releases/tag/v0.0.64-nightly.20260903.189), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.0.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.0.1), 3 days ago) - Real-time monitoring platform for code agent activity.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 weeks ago) - 
