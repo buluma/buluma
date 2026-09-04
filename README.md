@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(message): pin, unpin, star, and vote-on-poll message actions](https://github.com/buluma/OpenWA/pull/7) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [fix(dashboard): name unlabeled controls on Contacts, Privacy, Quick Replies](https://github.com/buluma/OpenWA/pull/6) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [fix(api): order same-second messages by arrival on SQLite](https://github.com/buluma/OpenWA/pull/5) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [fix(storage): port S3 credential warnings from upstream](https://github.com/buluma/OpenWA/pull/4) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [docs: unwrap paragraphs, fix stale/wrong claims across 11 docs](https://github.com/buluma/odysseus/pull/52) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
@@ -38,8 +40,6 @@ Welcome to my little world.
 - [feat: add Converge calendar bridge for SHA-172 timelog correlation](https://github.com/buluma/odysseus/pull/51) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [chore: add dependabot.yml for bun, docker, github-actions](https://github.com/buluma/redmine-dashboard/pull/58) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [release: bump version to 4.2.1](https://github.com/buluma/Code-Agent-Monitor/pull/41) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [fix: land CodeRabbit T3 correctness fixes on master](https://github.com/buluma/Code-Agent-Monitor/pull/40) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [feat: add T3 provider integration (read-only monitoring, Config Explorer, cost attribution)](https://github.com/buluma/Code-Agent-Monitor/pull/38) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 
 #### 🔭 Latest releases I've contributed to
 
