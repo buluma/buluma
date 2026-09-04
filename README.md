@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [release: bump version to 4.2.1](https://github.com/buluma/Code-Agent-Monitor/pull/41) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
+- [fix: land CodeRabbit T3 correctness fixes on master](https://github.com/buluma/Code-Agent-Monitor/pull/40) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: add T3 provider integration (read-only monitoring, Config Explorer, cost attribution)](https://github.com/buluma/Code-Agent-Monitor/pull/38) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: thread-level scheduled tasks (Automations)](https://github.com/buluma/helmcode/pull/58) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 - [release: bump version to 4.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/37) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
@@ -37,12 +39,11 @@ Welcome to my little world.
 - [release: bump version to 4.0.2](https://github.com/buluma/Code-Agent-Monitor/pull/35) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [chore(ci): bump azure/setup-helm to v5.0.1, azure/setup-kubectl to v5.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/34) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [fix(deps): bump express to 5.2.1, resolve qs audit findings](https://github.com/buluma/Code-Agent-Monitor/pull/31) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [feat(web): add composer file attachments (upload queue, draft state, paperclip UI)](https://github.com/buluma/helmcode/pull/57) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.64](https://github.com/buluma/helmcode/releases/tag/v0.0.64), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.1.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.1.0), 1 day ago) - Real-time monitoring platform for code agent activity.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.0), today) - Real-time monitoring platform for code agent activity.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 2 weeks ago) - 
