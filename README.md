@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (today)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (6 days ago)
-- [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,19 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [docs: unwrap paragraphs, fix stale/wrong claims across 11 docs](https://github.com/buluma/odysseus/pull/52) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [docs: rewrap and consolidate docs to reflect current architecture](https://github.com/buluma/redmine-dashboard/pull/61) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [feat: log Odysseus calendar meetings into recurring-ticket timelogs](https://github.com/buluma/redmine-dashboard/pull/60) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [feat: add Converge calendar bridge for SHA-172 timelog correlation](https://github.com/buluma/odysseus/pull/51) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [chore: add dependabot.yml for bun, docker, github-actions](https://github.com/buluma/redmine-dashboard/pull/58) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [release: bump version to 4.2.1](https://github.com/buluma/Code-Agent-Monitor/pull/41) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [fix: land CodeRabbit T3 correctness fixes on master](https://github.com/buluma/Code-Agent-Monitor/pull/40) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: add T3 provider integration (read-only monitoring, Config Explorer, cost attribution)](https://github.com/buluma/Code-Agent-Monitor/pull/38) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: thread-level scheduled tasks (Automations)](https://github.com/buluma/helmcode/pull/58) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
 - [release: bump version to 4.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/37) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [feat(desktop): add electron-updater auto-updater with manual download/install](https://github.com/buluma/Code-Agent-Monitor/pull/36) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [release: bump version to 4.0.2](https://github.com/buluma/Code-Agent-Monitor/pull/35) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [chore(ci): bump azure/setup-helm to v5.0.1, azure/setup-kubectl to v5.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/34) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
-- [fix(deps): bump express to 5.2.1, resolve qs audit findings](https://github.com/buluma/Code-Agent-Monitor/pull/31) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.0](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.0), today) - Real-time monitoring platform for code agent activity.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), today) - Real-time monitoring platform for code agent activity.
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
