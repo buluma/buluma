@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(api): order same-second messages by arrival on SQLite](https://github.com/buluma/OpenWA/pull/5) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [fix(storage): port S3 credential warnings from upstream](https://github.com/buluma/OpenWA/pull/4) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [docs: unwrap paragraphs, fix stale/wrong claims across 11 docs](https://github.com/buluma/odysseus/pull/52) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 - [docs: rewrap and consolidate docs to reflect current architecture](https://github.com/buluma/redmine-dashboard/pull/61) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [feat: log Odysseus calendar meetings into recurring-ticket timelogs](https://github.com/buluma/redmine-dashboard/pull/60) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
@@ -38,8 +40,6 @@ Welcome to my little world.
 - [release: bump version to 4.2.1](https://github.com/buluma/Code-Agent-Monitor/pull/41) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [fix: land CodeRabbit T3 correctness fixes on master](https://github.com/buluma/Code-Agent-Monitor/pull/40) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [feat: add T3 provider integration (read-only monitoring, Config Explorer, cost attribution)](https://github.com/buluma/Code-Agent-Monitor/pull/38) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [feat: thread-level scheduled tasks (Automations)](https://github.com/buluma/helmcode/pull/58) on [buluma/helmcode](https://github.com/buluma/helmcode) (1 day ago)
-- [release: bump version to 4.1.0](https://github.com/buluma/Code-Agent-Monitor/pull/37) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,6 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (1 day ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 day ago)
@@ -65,7 +66,6 @@ Welcome to my little world.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (2 weeks ago)
 - [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (2 weeks ago)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in (2 weeks ago)
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (3 weeks ago)
 
 
 
