@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (1 day ago)
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/helmcode](https://github.com/buluma/helmcode) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client. (1 day ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: modernize Dockerfile syntax and pin package versions](https://github.com/buluma/centos-tomcat/pull/6) on [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) (today)
+- [fix: update Tomcat to 10.1.59 and correct JDK env](https://github.com/buluma/centos-tomcat/pull/5) on [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) (today)
 - [fix(molecule): apply zone test data to actual instance, not dead host_vars](https://github.com/buluma/ansible-role-bind/pull/17) on [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) (today)
 - [feat(message): pin, unpin, star, and vote-on-poll message actions](https://github.com/buluma/OpenWA/pull/7) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 - [fix(dashboard): name unlabeled controls on Contacts, Privacy, Quick Replies](https://github.com/buluma/OpenWA/pull/6) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
@@ -38,11 +40,10 @@ Welcome to my little world.
 - [docs: unwrap paragraphs, fix stale/wrong claims across 11 docs](https://github.com/buluma/odysseus/pull/52) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [docs: rewrap and consolidate docs to reflect current architecture](https://github.com/buluma/redmine-dashboard/pull/61) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 - [feat: log Odysseus calendar meetings into recurring-ticket timelogs](https://github.com/buluma/redmine-dashboard/pull/60) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [feat: add Converge calendar bridge for SHA-172 timelog correlation](https://github.com/buluma/odysseus/pull/51) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [chore: add dependabot.yml for bun, docker, github-actions](https://github.com/buluma/redmine-dashboard/pull/58) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.59](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.59), today) - 
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.4](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.4), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), 1 day ago) - Real-time monitoring platform for code agent activity.
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
@@ -52,7 +53,6 @@ Welcome to my little world.
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.1.0](https://github.com/buluma/disk-map/releases/tag/0.1.0), 3 weeks ago) - MacOS Disk Utility
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 3 weeks ago) - Deploy a Collection to Ansible Galaxy.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 4 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/ansible-role-openssl](https://github.com/buluma/ansible-role-openssl) ([26.7.3](https://github.com/buluma/ansible-role-openssl/releases/tag/26.7.3), 1 month ago) - Make openssl certificates.
 
 #### ⭐ Recent Stars
 
