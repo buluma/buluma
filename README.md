@@ -43,9 +43,9 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.4](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.4), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), 1 day ago) - Real-time monitoring platform for code agent activity.
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.3), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 3 weeks ago) - 
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.6.1](https://github.com/buluma/reddie/releases/tag/v1.6.1), 3 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
