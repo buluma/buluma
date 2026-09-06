@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (today)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
 - [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,16 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web): add a 500 backfill preset and make it the default](https://github.com/buluma/telegram-media-downloader/pull/107) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix(downloader): close cross-group race for mirrored posts](https://github.com/buluma/telegram-media-downloader/pull/106) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 - [ci: remove dead changelog_draft job from release_drafter workflow](https://github.com/buluma/ansible-role-kubernetes/pull/21) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (today)
-- [chore: bump biome config schema to 2.5.11](https://github.com/buluma/telegram-media-downloader/pull/105) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [feat(web): show file size badge on video tiles](https://github.com/buluma/telegram-media-downloader/pull/104) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 - [chore: also remove skeleton from role index](https://github.com/buluma/buluma.github.io/pull/9) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [chore: remove untracked roles from role index](https://github.com/buluma/buluma.github.io/pull/8) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: rewrite relations.md for the docker-molecule-images consolidation](https://github.com/buluma/buluma.github.io/pull/7) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: repoint consolidated distro images at docker-molecule-images](https://github.com/buluma/buluma.github.io/pull/6) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: correct dependency wave order and add missing role tiers](https://github.com/buluma/buluma.github.io/pull/5) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: replace deprecated workflow-status badges in dependencies.md](https://github.com/buluma/buluma.github.io/pull/4) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 
 #### 🔭 Latest releases I've contributed to
 
