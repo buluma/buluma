@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
-- [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication. (today)
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
-- [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (today)
+- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,14 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix stale EOL/status labels in README](https://github.com/buluma/docker-molecule-images/pull/32) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
-- [drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-netdata/pull/27) on [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) (today)
-- [sync README, preserve /lib/modules mount in molecule.yml](https://github.com/buluma/ansible-role-kubernetes/pull/20) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (today)
-- [drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-thunderbird/pull/26) on [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) (today)
-- [drop Debian 11 from CI matrix (SHA-179)](https://github.com/buluma/ansible-role-roundcubemail/pull/16) on [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) (today)
-- [drop Debian 11 from CI matrix, add 12/13 (SHA-178)](https://github.com/buluma/ansible-role-postgresql_replication/pull/19) on [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) (today)
-- [feat!: migrate role from ownCloud classic to oCIS (Infinite Scale)](https://github.com/buluma/ansible-role-owncloud/pull/27) on [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) (1 day ago)
-- [feat!: bump default Crowd to 6.3.1, drop Debian 11 from CI](https://github.com/buluma/ansible-role-crowd/pull/18) on [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) (1 day ago)
+- [chore: remove untracked roles from role index](https://github.com/buluma/buluma.github.io/pull/8) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: rewrite relations.md for the docker-molecule-images consolidation](https://github.com/buluma/buluma.github.io/pull/7) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: repoint consolidated distro images at docker-molecule-images](https://github.com/buluma/buluma.github.io/pull/6) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: correct dependency wave order and add missing role tiers](https://github.com/buluma/buluma.github.io/pull/5) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: replace deprecated workflow-status badges in dependencies.md](https://github.com/buluma/buluma.github.io/pull/4) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
+- [fix: drop obsolete CMS GC flags from search javaOpts default](https://github.com/buluma/ansible-role-sonarqube/pull/13) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (today)
+- [ci: exclude EL10 from obsproject molecule matrix](https://github.com/buluma/ansible-role-obsproject/pull/31) on [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) (today)
+- [fix: add buluma.docker_ce as a role dependency](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/33) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (today)
+- [fix: default syslog_implementation to rsyslog](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source/pull/18) on [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) (today)
+- [fix: bump bitbucket 10.2.x pin to 10.2.6](https://github.com/buluma/ansible-role-bitbucket/pull/27) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
 
 #### 🔭 Latest releases I've contributed to
 
