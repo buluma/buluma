@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (today)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: also remove skeleton from role index](https://github.com/buluma/buluma.github.io/pull/9) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [chore: remove untracked roles from role index](https://github.com/buluma/buluma.github.io/pull/8) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: rewrite relations.md for the docker-molecule-images consolidation](https://github.com/buluma/buluma.github.io/pull/7) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: repoint consolidated distro images at docker-molecule-images](https://github.com/buluma/buluma.github.io/pull/6) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [ci: exclude EL10 from obsproject molecule matrix](https://github.com/buluma/ansible-role-obsproject/pull/31) on [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) (today)
 - [fix: add buluma.docker_ce as a role dependency](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/33) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (today)
 - [fix: default syslog_implementation to rsyslog](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source/pull/18) on [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) (today)
-- [fix: bump bitbucket 10.2.x pin to 10.2.6](https://github.com/buluma/ansible-role-bitbucket/pull/27) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
 
 #### 🔭 Latest releases I've contributed to
 
