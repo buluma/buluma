@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd. (today)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
-- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (today)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (today)
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
+- [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication. (today)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
+- [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,36 +30,34 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: migrate role from ownCloud classic to oCIS (Infinite Scale)](https://github.com/buluma/ansible-role-owncloud/pull/27) on [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) (today)
-- [feat!: bump default Crowd to 6.3.1, drop Debian 11 from CI](https://github.com/buluma/ansible-role-crowd/pull/18) on [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) (today)
-- [ci: drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-bamboo/pull/27) on [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) (today)
-- [ci: drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-kibana/pull/45) on [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) (today)
-- [Update Redis versions to current releases](https://github.com/buluma/redis/pull/3) on [buluma/redis](https://github.com/buluma/redis) (today)
-- [Update Redis versions to current releases](https://github.com/buluma/redis/pull/2) on [buluma/redis](https://github.com/buluma/redis) (today)
-- [fix: modernize Dockerfile syntax and pin package versions](https://github.com/buluma/centos-tomcat/pull/6) on [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) (today)
-- [fix: update Tomcat to 10.1.59 and correct JDK env](https://github.com/buluma/centos-tomcat/pull/5) on [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) (today)
-- [fix(molecule): apply zone test data to actual instance, not dead host_vars](https://github.com/buluma/ansible-role-bind/pull/17) on [buluma/ansible-role-bind](https://github.com/buluma/ansible-role-bind) (today)
-- [feat(message): pin, unpin, star, and vote-on-poll message actions](https://github.com/buluma/OpenWA/pull/7) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
+- [Fix stale EOL/status labels in README](https://github.com/buluma/docker-molecule-images/pull/32) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-netdata/pull/27) on [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) (today)
+- [sync README, preserve /lib/modules mount in molecule.yml](https://github.com/buluma/ansible-role-kubernetes/pull/20) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (today)
+- [drop Debian 11 from CI matrix](https://github.com/buluma/ansible-role-thunderbird/pull/26) on [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) (today)
+- [drop Debian 11 from CI matrix (SHA-179)](https://github.com/buluma/ansible-role-roundcubemail/pull/16) on [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) (today)
+- [drop Debian 11 from CI matrix, add 12/13 (SHA-178)](https://github.com/buluma/ansible-role-postgresql_replication/pull/19) on [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) (today)
+- [feat!: migrate role from ownCloud classic to oCIS (Infinite Scale)](https://github.com/buluma/ansible-role-owncloud/pull/27) on [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) (1 day ago)
+- [feat!: bump default Crowd to 6.3.1, drop Debian 11 from CI](https://github.com/buluma/ansible-role-crowd/pull/18) on [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.59](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.59), today) - 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.4](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.4), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), 1 day ago) - Real-time monitoring platform for code agent activity.
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) ([v26.7.0](https://github.com/buluma/ansible-role-owncloud/releases/tag/v26.7.0), 1 day ago) - Install and configure owncloud on your system.
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.59](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.59), 1 day ago) - 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.4](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.4), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), 2 days ago) - Real-time monitoring platform for code agent activity.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 3 weeks ago) - 
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.6.1](https://github.com/buluma/reddie/releases/tag/v1.6.1), 3 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.1.0](https://github.com/buluma/disk-map/releases/tag/0.1.0), 3 weeks ago) - MacOS Disk Utility
 - [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 3 weeks ago) - Deploy a Collection to Ansible Galaxy.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.4.5](https://github.com/buluma/pi-free/releases/tag/v2.4.5), 4 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 
 #### ⭐ Recent Stars
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 day ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (2 days ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 days ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (3 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 days ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (1 week ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (2 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 weeks ago)
