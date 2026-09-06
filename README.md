@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(web): add a 500 backfill preset and make it the default](https://github.com/buluma/telegram-media-downloader/pull/107) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [fix(downloader): close cross-group race for mirrored posts](https://github.com/buluma/telegram-media-downloader/pull/106) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [ci: remove dead changelog_draft job from release_drafter workflow](https://github.com/buluma/ansible-role-kubernetes/pull/21) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (today)
+- [chore: bump biome config schema to 2.5.11](https://github.com/buluma/telegram-media-downloader/pull/105) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [feat(web): show file size badge on video tiles](https://github.com/buluma/telegram-media-downloader/pull/104) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 - [chore: also remove skeleton from role index](https://github.com/buluma/buluma.github.io/pull/9) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [chore: remove untracked roles from role index](https://github.com/buluma/buluma.github.io/pull/8) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: rewrite relations.md for the docker-molecule-images consolidation](https://github.com/buluma/buluma.github.io/pull/7) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: repoint consolidated distro images at docker-molecule-images](https://github.com/buluma/buluma.github.io/pull/6) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [fix: correct dependency wave order and add missing role tiers](https://github.com/buluma/buluma.github.io/pull/5) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
-- [fix: replace deprecated workflow-status badges in dependencies.md](https://github.com/buluma/buluma.github.io/pull/4) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
-- [fix: drop obsolete CMS GC flags from search javaOpts default](https://github.com/buluma/ansible-role-sonarqube/pull/13) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (today)
-- [ci: exclude EL10 from obsproject molecule matrix](https://github.com/buluma/ansible-role-obsproject/pull/31) on [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) (today)
-- [fix: add buluma.docker_ce as a role dependency](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/33) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (today)
-- [fix: default syslog_implementation to rsyslog](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source/pull/18) on [buluma/ansible-role-netiq-sentinel-syslog-event-source](https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,6 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (today)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 days ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (3 days ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
@@ -65,7 +66,6 @@ Welcome to my little world.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 weeks ago)
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (2 weeks ago)
 - [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.  (2 weeks ago)
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in (3 weeks ago)
 
 
 
