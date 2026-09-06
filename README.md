@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (today)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (today)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
 - [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -43,16 +43,16 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) ([v26.7.0](https://github.com/buluma/ansible-role-owncloud/releases/tag/v26.7.0), 1 day ago) - Install and configure owncloud on your system.
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.59](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.59), 1 day ago) - 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.4](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.4), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v4.2.1](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v4.2.1), 2 days ago) - Real-time monitoring platform for code agent activity.
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65-nightly.20260904.195](https://github.com/buluma/helmcode/releases/tag/v0.0.65-nightly.20260904.195), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.6](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.6), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/nest_test](https://github.com/buluma/nest_test) ([v1.0.0](https://github.com/buluma/nest_test/releases/tag/v1.0.0), 3 weeks ago) - 
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.6.1](https://github.com/buluma/reddie/releases/tag/v1.6.1), 3 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.1.0](https://github.com/buluma/disk-map/releases/tag/0.1.0), 3 weeks ago) - MacOS Disk Utility
-- [buluma/ansible_galaxy_collection](https://github.com/buluma/ansible_galaxy_collection) ([v2.7.4](https://github.com/buluma/ansible_galaxy_collection/releases/tag/v2.7.4), 3 weeks ago) - Deploy a Collection to Ansible Galaxy.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), today) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), today) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), today) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.9.0), today) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), today) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), today) - Install and configure xinetd on your system.
+- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), today) - Install and configure virtualbox on your system.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), today) - Install VictoriaMetrics on your system.
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.9.0](https://github.com/buluma/ansible-role-vector/releases/tag/v26.9.0), today) - Install and configure Vector for debian systems.
+- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.9.0](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.9.0), today) - Configure HashiCorp Vault on your system.
 
 #### ⭐ Recent Stars
 
