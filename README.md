@@ -15,9 +15,9 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (today)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 day ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (1 day ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 day ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (1 day ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 day ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
