@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (today)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 day ago)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 day ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 day ago)
+- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 day ago)
 - [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (1 day ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 day ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,17 +30,10 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: remove dead changelog_draft job from release_drafter workflow](https://github.com/buluma/ansible-role-kubernetes/pull/21) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (1 day ago)
-- [chore: also remove skeleton from role index](https://github.com/buluma/buluma.github.io/pull/9) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
-- [chore: remove untracked roles from role index](https://github.com/buluma/buluma.github.io/pull/8) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
-- [fix: rewrite relations.md for the docker-molecule-images consolidation](https://github.com/buluma/buluma.github.io/pull/7) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
-- [fix: repoint consolidated distro images at docker-molecule-images](https://github.com/buluma/buluma.github.io/pull/6) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
-- [fix: correct dependency wave order and add missing role tiers](https://github.com/buluma/buluma.github.io/pull/5) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
-- [fix: replace deprecated workflow-status badges in dependencies.md](https://github.com/buluma/buluma.github.io/pull/4) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.65](https://github.com/buluma/helmcode/releases/tag/v0.0.65), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.66-nightly.20260907.214](https://github.com/buluma/helmcode/releases/tag/v0.0.66-nightly.20260907.214), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 1 day ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 1 day ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 1 day ago) - Install and configure zabbix_repository on your system.
