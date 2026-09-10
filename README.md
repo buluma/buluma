@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (3 days ago)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (4 days ago)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (4 days ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (4 days ago)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (4 days ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (4 days ago)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (4 days ago)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [test: mock canvas context in constellation background tests](https://github.com/buluma/redmine-dashboard/pull/63) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [docs: update setup and architecture for Bun and native Android](https://github.com/buluma/redmine-dashboard/pull/62) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
