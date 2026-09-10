@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (3 days ago)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (4 days ago)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (4 days ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (4 days ago)
+- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (4 days ago)
 - [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (4 days ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
