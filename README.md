@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (2 days ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (3 days ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (3 days ago)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (3 days ago)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (3 days ago)
+- [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (3 days ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (4 days ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (4 days ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (4 days ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,25 +33,25 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.66-nightly.20260907.214](https://github.com/buluma/helmcode/releases/tag/v0.0.66-nightly.20260907.214), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 days ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 3 days ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 3 days ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.9.0), 3 days ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 3 days ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 3 days ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 3 days ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 3 days ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.9.0](https://github.com/buluma/ansible-role-vector/releases/tag/v26.9.0), 3 days ago) - Install and configure Vector for debian systems.
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.66-nightly.20260907.214](https://github.com/buluma/helmcode/releases/tag/v0.0.66-nightly.20260907.214), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 4 days ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 4 days ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 4 days ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.9.0), 4 days ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 4 days ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 4 days ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 4 days ago) - Install and configure virtualbox on your system.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 4 days ago) - Install VictoriaMetrics on your system.
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.9.0](https://github.com/buluma/ansible-role-vector/releases/tag/v26.9.0), 4 days ago) - Install and configure Vector for debian systems.
 
 #### ⭐ Recent Stars
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (3 days ago)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (5 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (6 days ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (6 days ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (6 days ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (1 day ago)
+- [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (4 days ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (6 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 week ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 week ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (1 week ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (3 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
