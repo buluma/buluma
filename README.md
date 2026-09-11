@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (4 days ago)
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (5 days ago)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (5 days ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (5 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 days ago)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (5 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (5 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (5 days ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,7 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: support lazy-loaded provider uptime history](https://github.com/buluma/online/pull/6) on [buluma/online](https://github.com/buluma/online) (1 day ago)
+- [[codex] standardize Bun workflow and CI checks](https://github.com/buluma/telegram-media-downloader/pull/112) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
 
