@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (4 days ago)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (5 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (5 days ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (5 days ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (5 days ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (5 days ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (5 days ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,10 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] make normalized groups canonical](https://github.com/buluma/telegram-media-downloader/pull/118) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] refresh dependencies with Bun lockfile](https://github.com/buluma/telegram-media-downloader/pull/117) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] centralize group configuration defaults](https://github.com/buluma/telegram-media-downloader/pull/116) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] stabilize Vitest teardown listeners](https://github.com/buluma/telegram-media-downloader/pull/115) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 - [[codex] standardize Bun workflow and CI checks](https://github.com/buluma/telegram-media-downloader/pull/112) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
