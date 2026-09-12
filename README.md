@@ -46,6 +46,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (today)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 days ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (6 days ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 week ago)
@@ -55,7 +56,6 @@ Welcome to my little world.
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (2 weeks ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (3 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub. (3 weeks ago)
 
 
 
