@@ -15,7 +15,7 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (5 days ago)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (6 days ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (6 days ago)
 - [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (6 days ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (6 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
