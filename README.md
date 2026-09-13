@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (6 days ago)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 week ago)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (1 week ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 week ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 week ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] serialize saved view writes](https://github.com/buluma/redmine-dashboard/pull/82) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix: spent hours disappearing while editing an issue&#39;s metadata](https://github.com/buluma/redmine-dashboard/pull/81) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [chore(ci): collapse duplicated e2e jobs into a matrix, move audit to a script](https://github.com/buluma/redmine-dashboard/pull/80) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [refactor: dedupe MarkdownBlock, share Journal/TimeEntry types, dedupe timeline JSX](https://github.com/buluma/redmine-dashboard/pull/79) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix: missing SavedView migration, import race, unbounded views, reorder dedup](https://github.com/buluma/redmine-dashboard/pull/78) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix: double-counted spentHours, unreachable correction UI, monthly close rollover](https://github.com/buluma/redmine-dashboard/pull/77) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [[codex] extract issue metadata fields](https://github.com/buluma/redmine-dashboard/pull/76) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [[codex] extract issue image lightbox](https://github.com/buluma/redmine-dashboard/pull/75) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [[codex] extract issue overview cards](https://github.com/buluma/redmine-dashboard/pull/74) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [[codex] extract issue description](https://github.com/buluma/redmine-dashboard/pull/73) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
