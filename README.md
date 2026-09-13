@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: extract issue-detail page&#39;s data/mutation logic into hooks](https://github.com/buluma/redmine-dashboard/pull/84) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [docs: mark page.tsx GitHub links/relations/metadata extraction done](https://github.com/buluma/redmine-dashboard/pull/83) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [[codex] serialize saved view writes](https://github.com/buluma/redmine-dashboard/pull/82) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [fix: spent hours disappearing while editing an issue&#39;s metadata](https://github.com/buluma/redmine-dashboard/pull/81) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [chore(ci): collapse duplicated e2e jobs into a matrix, move audit to a script](https://github.com/buluma/redmine-dashboard/pull/80) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
@@ -38,8 +40,6 @@ Welcome to my little world.
 - [fix: double-counted spentHours, unreachable correction UI, monthly close rollover](https://github.com/buluma/redmine-dashboard/pull/77) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [[codex] extract issue metadata fields](https://github.com/buluma/redmine-dashboard/pull/76) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [[codex] extract issue image lightbox](https://github.com/buluma/redmine-dashboard/pull/75) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] extract issue overview cards](https://github.com/buluma/redmine-dashboard/pull/74) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] extract issue description](https://github.com/buluma/redmine-dashboard/pull/73) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 
 #### 🔭 Latest releases I've contributed to
 
