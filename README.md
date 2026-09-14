@@ -14,22 +14,32 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 week ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 week ago)
 - [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (1 week ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 week ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
-- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
+- [Update CLAUDE.md&#39;s frontend section for the tab-file split](https://github.com/buluma/rollcall/pull/160) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Extract Overview tab out of app.js into overview-tab.js](https://github.com/buluma/rollcall/pull/159) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Extract Library/Photos tab out of app.js into photos-tab.js](https://github.com/buluma/rollcall/pull/158) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [move duplicate scan logic into tab module](https://github.com/buluma/rollcall/pull/157) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [format project files with two-space indentation](https://github.com/buluma/rollcall/pull/156) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [extract Duplicates rendering into tab module](https://github.com/buluma/rollcall/pull/155) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [move Favorites card rendering into tab module](https://github.com/buluma/rollcall/pull/154) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [extract Favorites rendering and refresh logic](https://github.com/buluma/rollcall/pull/153) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [extract Favorites filtering helpers](https://github.com/buluma/rollcall/pull/152) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [extract navigation wiring](https://github.com/buluma/rollcall/pull/151) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
