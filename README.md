@@ -15,8 +15,8 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 week ago)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (1 week ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 week ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 week ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 week ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
@@ -30,9 +30,18 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Drop Windows from release CI](https://github.com/buluma/co1_comparison_tool/pull/16) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Release 0.3.0](https://github.com/buluma/co1_comparison_tool/pull/15) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Add shared CO JSON schema](https://github.com/buluma/co1_comparison_tool/pull/14) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Add frontend review component tests](https://github.com/buluma/co1_comparison_tool/pull/13) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Add Draw.io relation-map export](https://github.com/buluma/co1_comparison_tool/pull/12) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Add external diff workflow](https://github.com/buluma/co1_comparison_tool/pull/11) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Add selected CO filtering](https://github.com/buluma/co1_comparison_tool/pull/10) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Harden validation and CSP](https://github.com/buluma/co1_comparison_tool/pull/9) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 1 day ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_server on your system.
@@ -42,7 +51,6 @@ Welcome to my little world.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 1 week ago) - Install and configure xinetd on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 1 week ago) - Install and configure virtualbox on your system.
 - [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 1 week ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.9.0](https://github.com/buluma/ansible-role-vector/releases/tag/v26.9.0), 1 week ago) - Install and configure Vector for debian systems.
 
 #### ⭐ Recent Stars
 
