@@ -15,9 +15,9 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 week ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 week ago)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 week ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (1 week ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 week ago)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (1 week ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,14 +30,6 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Drop Windows from release CI](https://github.com/buluma/co1_comparison_tool/pull/16) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Release 0.3.0](https://github.com/buluma/co1_comparison_tool/pull/15) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Add shared CO JSON schema](https://github.com/buluma/co1_comparison_tool/pull/14) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Add frontend review component tests](https://github.com/buluma/co1_comparison_tool/pull/13) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Add Draw.io relation-map export](https://github.com/buluma/co1_comparison_tool/pull/12) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Add external diff workflow](https://github.com/buluma/co1_comparison_tool/pull/11) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Add selected CO filtering](https://github.com/buluma/co1_comparison_tool/pull/10) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Harden validation and CSP](https://github.com/buluma/co1_comparison_tool/pull/9) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
 
 #### 🔭 Latest releases I've contributed to
 
