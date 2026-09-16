@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 week ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 week ago)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 week ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 week ago)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (1 week ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 week ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,9 +30,6 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(dependabot): declare bun ecosystem instead of npm](https://github.com/buluma/telegram-media-downloader/pull/127) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: regenerate bun.lock to match main&#39;s package.json](https://github.com/buluma/telegram-media-downloader/pull/126) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [Revert &#34;chore(deps): bump googleapis from 178.1.1 to 180.0.0&#34;](https://github.com/buluma/telegram-media-downloader/pull/125) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 - [fix(docker): drop stale SECURITY.md from runtime image COPY](https://github.com/buluma/tgdl/pull/44) on [buluma/tgdl](https://github.com/buluma/tgdl) (today)
 
 #### 🔭 Latest releases I've contributed to
