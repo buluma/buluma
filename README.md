@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 week ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 week ago)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (1 week ago)
 - [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 week ago)
-- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (1 week ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,15 +30,6 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] optimize dashboard filter membership](https://github.com/buluma/redmine-dashboard/pull/98) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] add refresh error recovery](https://github.com/buluma/redmine-dashboard/pull/97) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] clarify queue async and empty states](https://github.com/buluma/redmine-dashboard/pull/96) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] persist saved view column layouts](https://github.com/buluma/redmine-dashboard/pull/95) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] improve desktop issue queue readability](https://github.com/buluma/redmine-dashboard/pull/94) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [[codex] add saved view dirty state](https://github.com/buluma/redmine-dashboard/pull/93) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [[codex] polish dashboard UI accessibility](https://github.com/buluma/redmine-dashboard/pull/92) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [[codex] Polish desktop bulk actions](https://github.com/buluma/redmine-dashboard/pull/91) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [[codex] Improve dashboard accessibility and interaction feedback](https://github.com/buluma/redmine-dashboard/pull/90) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
