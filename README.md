@@ -33,8 +33,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 4 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_repository on your system.
@@ -46,16 +46,16 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 days ago)
-- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (5 days ago)
+- [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (3 days ago)
+- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (6 days ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (1 week ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (1 week ago)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 week ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 weeks ago)
-- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (2 weeks ago)
-- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (4 weeks ago)
+- [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (3 weeks ago)
+- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 month ago)
 
 
 
