@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(security): backport invite-code/QR role gating &#43; multer DoS fix](https://github.com/buluma/OpenWA/pull/8) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 
 #### 🔭 Latest releases I've contributed to
 
