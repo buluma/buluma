@@ -14,32 +14,25 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 week ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (1 week ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 week ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [style: saved collections select](https://github.com/buluma/rollcall/pull/167) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [style: person layout select and review load-more spacing](https://github.com/buluma/rollcall/pull/166) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: exclude handle-keyed people from the unknown inbox](https://github.com/buluma/rollcall/pull/165) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add maintenance status UI](https://github.com/buluma/rollcall/pull/164) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] unify person quality review queue](https://github.com/buluma/rollcall/pull/163) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add person timelines and smart collections](https://github.com/buluma/rollcall/pull/162) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: add unknown people inbox](https://github.com/buluma/rollcall/pull/161) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Fix Linux Swift test command](https://github.com/buluma/CodexBar/pull/1) on [buluma/CodexBar](https://github.com/buluma/CodexBar) (today)
-- [ci: run push trigger on master only](https://github.com/buluma/docker-molecule-images/pull/36) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
-- [Harden the status data push and relax the outdated banner](https://github.com/buluma/online/pull/9) on [buluma/online](https://github.com/buluma/online) (today)
+- [feat(web): duration backfill and more gallery sort orders](https://github.com/buluma/telegram-media-downloader/pull/130) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [feat(web): add Longest first sort for downloads](https://github.com/buluma/telegram-media-downloader/pull/129) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [fix(downloader): abort downloads that stall with no bytes](https://github.com/buluma/telegram-media-downloader/pull/128) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
 
