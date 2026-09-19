@@ -30,12 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(security): backport invite-code/QR role gating &#43; multer DoS fix](https://github.com/buluma/OpenWA/pull/8) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [feat: automation rules, chat management, contact addressbook, dashboard UX gaps](https://github.com/buluma/OpenWA/pull/9) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
+- [fix(security): backport invite-code/QR role gating &#43; multer DoS fix](https://github.com/buluma/OpenWA/pull/8) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 4 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 5 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 1 week ago) - Install and configure zabbix_repository on your system.
@@ -47,8 +48,8 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (3 days ago)
-- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (6 days ago)
+- [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (4 days ago)
+- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (1 week ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (1 week ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (1 week ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 weeks ago)
