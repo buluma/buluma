@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
 - [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (1 week ago)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 week ago)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (1 week ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 week ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,6 +30,11 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Fix Linux Swift test command](https://github.com/buluma/CodexBar/pull/1) on [buluma/CodexBar](https://github.com/buluma/CodexBar) (today)
+- [ci: run push trigger on master only](https://github.com/buluma/docker-molecule-images/pull/36) on [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) (today)
+- [Harden the status data push and relax the outdated banner](https://github.com/buluma/online/pull/9) on [buluma/online](https://github.com/buluma/online) (today)
+- [Unify OpenAI title rules and generate the fallback seed](https://github.com/buluma/online/pull/8) on [buluma/online](https://github.com/buluma/online) (today)
+- [Make status pipeline resilient to upstream changes](https://github.com/buluma/online/pull/7) on [buluma/online](https://github.com/buluma/online) (today)
 - [feat: automation rules, chat management, contact addressbook, dashboard UX gaps](https://github.com/buluma/OpenWA/pull/9) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 - [fix(security): backport invite-code/QR role gating &#43; multer DoS fix](https://github.com/buluma/OpenWA/pull/8) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 
