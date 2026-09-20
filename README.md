@@ -15,31 +15,21 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (today)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
-- [buluma/ansible-role-demo](https://github.com/buluma/ansible-role-demo) -  (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 - [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/diffchecker](https://github.com/buluma/diffchecker)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix status bar source label and separator](https://github.com/buluma/diffchecker/pull/9) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [Pair replaced lines into modified lines with inline highlighting](https://github.com/buluma/diffchecker/pull/8) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [Add CI workflow and fix equal-line rendering in DiffView](https://github.com/buluma/diffchecker/pull/7) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [Add Compare button so diff isn&#39;t computed on paste](https://github.com/buluma/diffchecker/pull/6) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [[codex] Add packaged smoke testing and close documented gaps](https://github.com/buluma/co1_comparison_tool/pull/19) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Fix functional review issues](https://github.com/buluma/co1_comparison_tool/pull/18) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [[codex] Improve responsive layout](https://github.com/buluma/co1_comparison_tool/pull/17) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
-- [chore: add StatusData typedef and apply it to main.js](https://github.com/buluma/online/pull/12) on [buluma/online](https://github.com/buluma/online) (today)
-- [ci: enable strictNullChecks in the type check](https://github.com/buluma/online/pull/11) on [buluma/online](https://github.com/buluma/online) (today)
-- [ci: type-check JS with tsc checkJs](https://github.com/buluma/online/pull/10) on [buluma/online](https://github.com/buluma/online) (today)
 
 #### 🔭 Latest releases I've contributed to
 
