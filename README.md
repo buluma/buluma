@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (today)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,11 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] add latest media person sort](https://github.com/buluma/rollcall/pull/171) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] add browser smoke suite and align Bun toolchain](https://github.com/buluma/rollcall/pull/170) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] default person media to grid](https://github.com/buluma/rollcall/pull/169) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) ([v0.3.1](https://github.com/buluma/co1_comparison_tool/releases/tag/v0.3.1), today) - SL1 CO Comparison Tool, cross platform, macOS first
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 6 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_web on your system.
@@ -44,6 +45,7 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 2 weeks ago) - Install and configure xinetd on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 2 weeks ago) - Install and configure virtualbox on your system.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 2 weeks ago) - Install VictoriaMetrics on your system.
 
 #### ⭐ Recent Stars
 
