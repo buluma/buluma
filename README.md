@@ -14,25 +14,36 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (1 day ago)
-- [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) - Kubernetes for Linux. (1 week ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (2 weeks ago)
-- [buluma/ansible-role-java](https://github.com/buluma/ansible-role-java) - Install and configure java on your system. (2 weeks ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (2 weeks ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-demo](https://github.com/buluma/ansible-role-demo) -  (today)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/diffchecker](https://github.com/buluma/diffchecker)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
-- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
+- [Fix status bar source label and separator](https://github.com/buluma/diffchecker/pull/9) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
+- [Pair replaced lines into modified lines with inline highlighting](https://github.com/buluma/diffchecker/pull/8) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
+- [Add CI workflow and fix equal-line rendering in DiffView](https://github.com/buluma/diffchecker/pull/7) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
+- [Add Compare button so diff isn&#39;t computed on paste](https://github.com/buluma/diffchecker/pull/6) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
+- [[codex] Add packaged smoke testing and close documented gaps](https://github.com/buluma/co1_comparison_tool/pull/19) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Fix functional review issues](https://github.com/buluma/co1_comparison_tool/pull/18) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [[codex] Improve responsive layout](https://github.com/buluma/co1_comparison_tool/pull/17) on [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) (today)
+- [chore: add StatusData typedef and apply it to main.js](https://github.com/buluma/online/pull/12) on [buluma/online](https://github.com/buluma/online) (today)
+- [ci: enable strictNullChecks in the type check](https://github.com/buluma/online/pull/11) on [buluma/online](https://github.com/buluma/online) (today)
+- [ci: type-check JS with tsc checkJs](https://github.com/buluma/online/pull/10) on [buluma/online](https://github.com/buluma/online) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/co1_comparison_tool](https://github.com/buluma/co1_comparison_tool) ([v0.3.1](https://github.com/buluma/co1_comparison_tool/releases/tag/v0.3.1), today) - SL1 CO Comparison Tool, cross platform, macOS first
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.5](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.5), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.67-nightly.20260914.251](https://github.com/buluma/helmcode/releases/tag/v0.0.67-nightly.20260914.251), 6 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_web on your system.
@@ -42,7 +53,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 2 weeks ago) - Install and configure xinetd on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 2 weeks ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 2 weeks ago) - Install VictoriaMetrics on your system.
 
 #### ⭐ Recent Stars
 
