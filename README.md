@@ -14,28 +14,22 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (1 day ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 day ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
 - [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (1 day ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
+- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] pass browser auth settings to compose](https://github.com/buluma/rollcall/pull/177) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add browser auth sessions](https://github.com/buluma/rollcall/pull/176) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add legacy media vault adoption and views](https://github.com/buluma/rollcall/pull/175) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add safe vault retention pruning](https://github.com/buluma/rollcall/pull/174) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add private media vault foundation](https://github.com/buluma/rollcall/pull/173) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] add browser media uploads](https://github.com/buluma/rollcall/pull/172) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
