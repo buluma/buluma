@@ -16,8 +16,8 @@ Welcome to my little world.
 
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
 - [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (3 days ago)
-- [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (3 days ago)
-- [buluma/ansible-role-git](https://github.com/buluma/ansible-role-git) - Install Git on your system (3 days ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (3 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,15 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] test TikTok download transport parity](https://github.com/buluma/rollcall/pull/189) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] exercise TikTok download service in parity test](https://github.com/buluma/rollcall/pull/188) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] test TikTok download adapter contract](https://github.com/buluma/rollcall/pull/187) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] test TikTok browser fallback](https://github.com/buluma/rollcall/pull/186) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Compare TikTok route contracts with local fixtures](https://github.com/buluma/rollcall/pull/185) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Verify Bun route and data compatibility](https://github.com/buluma/rollcall/pull/184) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Start Bun runtime migration](https://github.com/buluma/rollcall/pull/183) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] keep media metadata visible](https://github.com/buluma/rollcall/pull/182) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] start hover previews muted](https://github.com/buluma/rollcall/pull/181) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] normalize favorite download errors](https://github.com/buluma/rollcall/pull/180) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] fix sidebar auth layout and review persistence](https://github.com/buluma/rollcall/pull/179) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] migrate durable state to SQLite](https://github.com/buluma/rollcall/pull/178) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] pass browser auth settings to compose](https://github.com/buluma/rollcall/pull/177) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] add browser auth sessions](https://github.com/buluma/rollcall/pull/176) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] add legacy media vault adoption and views](https://github.com/buluma/rollcall/pull/175) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] add safe vault retention pruning](https://github.com/buluma/rollcall/pull/174) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] add private media vault foundation](https://github.com/buluma/rollcall/pull/173) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
