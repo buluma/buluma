@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] test TikTok download transport parity](https://github.com/buluma/rollcall/pull/189) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] exercise TikTok download service in parity test](https://github.com/buluma/rollcall/pull/188) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] test TikTok download adapter contract](https://github.com/buluma/rollcall/pull/187) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] test TikTok browser fallback](https://github.com/buluma/rollcall/pull/186) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Compare TikTok route contracts with local fixtures](https://github.com/buluma/rollcall/pull/185) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Verify Bun route and data compatibility](https://github.com/buluma/rollcall/pull/184) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Start Bun runtime migration](https://github.com/buluma/rollcall/pull/183) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] keep media metadata visible](https://github.com/buluma/rollcall/pull/182) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] start hover previews muted](https://github.com/buluma/rollcall/pull/181) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] normalize favorite download errors](https://github.com/buluma/rollcall/pull/180) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Port fetch transport tests to Bun](https://github.com/buluma/rollcall/pull/206) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Port face sidecar client tests to Bun](https://github.com/buluma/rollcall/pull/205) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Run Bun contract suites in smoke tests](https://github.com/buluma/rollcall/pull/204) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add viewer UI suites to Bun smoke](https://github.com/buluma/rollcall/pull/203) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Run resplit CLI integration test under Bun](https://github.com/buluma/rollcall/pull/202) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add browser suites to Bun test smoke](https://github.com/buluma/rollcall/pull/201) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add person and maintenance tests to Bun smoke](https://github.com/buluma/rollcall/pull/200) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add library hierarchy tests to Bun smoke](https://github.com/buluma/rollcall/pull/199) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add person profile tests to Bun smoke](https://github.com/buluma/rollcall/pull/198) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Run Bun test compatibility smoke in CI](https://github.com/buluma/rollcall/pull/197) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
