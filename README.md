@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (3 days ago)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (3 days ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (3 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (4 days ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (4 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (4 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,21 +30,21 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] port thumbnailer tests to Bun](https://github.com/buluma/rollcall/pull/214) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] port media scanner tests to Bun](https://github.com/buluma/rollcall/pull/213) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Port resilient downloader tests to Bun](https://github.com/buluma/rollcall/pull/212) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Port TikTok client tests to Bun](https://github.com/buluma/rollcall/pull/211) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Replace Supertest route requests with native fetch](https://github.com/buluma/rollcall/pull/210) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Use native fetch for server tests](https://github.com/buluma/rollcall/pull/209) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Use native fetch for face route tests](https://github.com/buluma/rollcall/pull/208) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Use native fetch in TikTok download contract](https://github.com/buluma/rollcall/pull/207) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Port fetch transport tests to Bun](https://github.com/buluma/rollcall/pull/206) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Port face sidecar client tests to Bun](https://github.com/buluma/rollcall/pull/205) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] complete Bun Phase 4 test coverage](https://github.com/buluma/rollcall/pull/221) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] port TikTok route tests to Bun](https://github.com/buluma/rollcall/pull/220) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] port TikTok profile scraper tests to Bun](https://github.com/buluma/rollcall/pull/219) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] port TikTok download tests to Bun](https://github.com/buluma/rollcall/pull/218) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] port media metadata tests to Bun](https://github.com/buluma/rollcall/pull/217) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] port vault store tests to Bun](https://github.com/buluma/rollcall/pull/216) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] port dedup scanner tests to Bun](https://github.com/buluma/rollcall/pull/215) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] port thumbnailer tests to Bun](https://github.com/buluma/rollcall/pull/214) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] port media scanner tests to Bun](https://github.com/buluma/rollcall/pull/213) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [[codex] Port resilient downloader tests to Bun](https://github.com/buluma/rollcall/pull/212) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.6), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68-nightly.20260921.286](https://github.com/buluma/helmcode/releases/tag/v0.0.68-nightly.20260921.286), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.6), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68-nightly.20260921.286](https://github.com/buluma/helmcode/releases/tag/v0.0.68-nightly.20260921.286), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_repository on your system.
@@ -61,9 +61,9 @@ Welcome to my little world.
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (2 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (2 weeks ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (2 weeks ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (2 weeks ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 weeks ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (3 weeks ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (3 weeks ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 month ago)
 
