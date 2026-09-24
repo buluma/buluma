@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Refine dashboard stat cards](https://github.com/buluma/OpenWA/pull/13) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [[codex] Backport Baileys message and contact fixes](https://github.com/buluma/OpenWA/pull/12) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [[codex] Add failed messages translations](https://github.com/buluma/OpenWA/pull/11) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [[codex] Fix dashboard session overview styling](https://github.com/buluma/OpenWA/pull/10) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
