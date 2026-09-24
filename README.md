@@ -14,32 +14,22 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (4 days ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (4 days ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (4 days ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (4 days ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (4 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] complete Bun Phase 4 test coverage](https://github.com/buluma/rollcall/pull/221) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] port TikTok route tests to Bun](https://github.com/buluma/rollcall/pull/220) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] port TikTok profile scraper tests to Bun](https://github.com/buluma/rollcall/pull/219) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] port TikTok download tests to Bun](https://github.com/buluma/rollcall/pull/218) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] port media metadata tests to Bun](https://github.com/buluma/rollcall/pull/217) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] port vault store tests to Bun](https://github.com/buluma/rollcall/pull/216) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] port dedup scanner tests to Bun](https://github.com/buluma/rollcall/pull/215) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] port thumbnailer tests to Bun](https://github.com/buluma/rollcall/pull/214) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] port media scanner tests to Bun](https://github.com/buluma/rollcall/pull/213) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [[codex] Port resilient downloader tests to Bun](https://github.com/buluma/rollcall/pull/212) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
