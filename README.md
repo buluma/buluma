@@ -37,7 +37,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.6](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.6), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68-nightly.20260921.286](https://github.com/buluma/helmcode/releases/tag/v0.0.68-nightly.20260921.286), 4 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 2 weeks ago) - Install and configure zabbix_server on your system.
