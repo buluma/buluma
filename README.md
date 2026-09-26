@@ -14,26 +14,32 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (6 days ago)
-- [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (6 days ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (6 days ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (6 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
 - [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (6 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
-- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add a Date/Grid layout toggle to the Library tab](https://github.com/buluma/rollcall/pull/227) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: stamp createdAt on vault uploads for date grouping](https://github.com/buluma/rollcall/pull/226) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: Vault-to-handle merges survive TikTok sync rebuilds](https://github.com/buluma/rollcall/pull/225) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] Refine dashboard stat cards](https://github.com/buluma/OpenWA/pull/13) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
 - [[codex] Backport Baileys message and contact fixes](https://github.com/buluma/OpenWA/pull/12) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
 - [[codex] Add failed messages translations](https://github.com/buluma/OpenWA/pull/11) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
 - [[codex] Fix dashboard session overview styling](https://github.com/buluma/OpenWA/pull/10) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
+- [[codex] run full test suite under Bun](https://github.com/buluma/rollcall/pull/224) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
+- [[codex] port rebuild cleanup tests to Bun](https://github.com/buluma/rollcall/pull/223) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
+- [[codex] polish Bun migration readiness](https://github.com/buluma/rollcall/pull/222) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
