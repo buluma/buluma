@@ -14,32 +14,22 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (6 days ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (6 days ago)
+- [buluma/ansible-role-rundeck](https://github.com/buluma/ansible-role-rundeck) - Install and configure rundeck on your system. (6 days ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (6 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (6 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [Scope the vault lock overlay to its own tab, not the whole app](https://github.com/buluma/rollcall/pull/235) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [Render the Vault lock screen as a proper modal](https://github.com/buluma/rollcall/pull/234) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [Wire ROLLCALL_VAULT_PASSWORD_HASH through to the container](https://github.com/buluma/rollcall/pull/233) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [Add an independent password lock for the Vault tab](https://github.com/buluma/rollcall/pull/232) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: auto-import a TikTok post carried in ?url= on page load](https://github.com/buluma/rollcall/pull/231) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: remove the redundant/buggy Vaulted-Unvaulted pill row from Library](https://github.com/buluma/rollcall/pull/230) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: add a Photos/Videos filter to the Library tab](https://github.com/buluma/rollcall/pull/229) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: apply shared select styling to the Library&#39;s #media-view dropdown](https://github.com/buluma/rollcall/pull/228) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: add a Date/Grid layout toggle to the Library tab](https://github.com/buluma/rollcall/pull/227) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: stamp createdAt on vault uploads for date grouping](https://github.com/buluma/rollcall/pull/226) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
