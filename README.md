@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Scope the vault lock overlay to its own tab, not the whole app](https://github.com/buluma/rollcall/pull/235) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Render the Vault lock screen as a proper modal](https://github.com/buluma/rollcall/pull/234) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Wire ROLLCALL_VAULT_PASSWORD_HASH through to the container](https://github.com/buluma/rollcall/pull/233) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add an independent password lock for the Vault tab](https://github.com/buluma/rollcall/pull/232) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [feat: auto-import a TikTok post carried in ?url= on page load](https://github.com/buluma/rollcall/pull/231) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: remove the redundant/buggy Vaulted-Unvaulted pill row from Library](https://github.com/buluma/rollcall/pull/230) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [feat: add a Photos/Videos filter to the Library tab](https://github.com/buluma/rollcall/pull/229) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: apply shared select styling to the Library&#39;s #media-view dropdown](https://github.com/buluma/rollcall/pull/228) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [feat: add a Date/Grid layout toggle to the Library tab](https://github.com/buluma/rollcall/pull/227) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [fix: stamp createdAt on vault uploads for date grouping](https://github.com/buluma/rollcall/pull/226) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: Vault-to-handle merges survive TikTok sync rebuilds](https://github.com/buluma/rollcall/pull/225) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Refine dashboard stat cards](https://github.com/buluma/OpenWA/pull/13) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
-- [[codex] Backport Baileys message and contact fixes](https://github.com/buluma/OpenWA/pull/12) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
-- [[codex] Add failed messages translations](https://github.com/buluma/OpenWA/pull/11) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
-- [[codex] Fix dashboard session overview styling](https://github.com/buluma/OpenWA/pull/10) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (2 days ago)
-- [[codex] run full test suite under Bun](https://github.com/buluma/rollcall/pull/224) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] port rebuild cleanup tests to Bun](https://github.com/buluma/rollcall/pull/223) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
-- [[codex] polish Bun migration readiness](https://github.com/buluma/rollcall/pull/222) on [buluma/rollcall](https://github.com/buluma/rollcall) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
