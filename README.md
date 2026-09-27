@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (today)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (today)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (today)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
-- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] fix Redis image CI builds](https://github.com/buluma/redis/pull/4) on [buluma/redis](https://github.com/buluma/redis) (today)
+- [fix(molecule): restore syncserver CI across distros](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/35) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (today)
 - [[codex] Avoid RPM pip conflict installing Molecule](https://github.com/buluma/ansible-role-molecule/pull/37) on [buluma/ansible-role-molecule](https://github.com/buluma/ansible-role-molecule) (today)
 - [[codex] Fix SonarQube permissions race](https://github.com/buluma/ansible-role-sonarqube/pull/14) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (today)
 - [[codex] Match Bitbucket package repository versions](https://github.com/buluma/ansible-role-bitbucket/pull/29) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
