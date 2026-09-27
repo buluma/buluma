@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (today)
-- [buluma/ansible-role-aliases](https://github.com/buluma/ansible-role-aliases) - An ansible role for managing mail aliases. (today)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (today)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,9 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Avoid RPM pip conflict installing Molecule](https://github.com/buluma/ansible-role-molecule/pull/37) on [buluma/ansible-role-molecule](https://github.com/buluma/ansible-role-molecule) (today)
+- [[codex] Fix SonarQube permissions race](https://github.com/buluma/ansible-role-sonarqube/pull/14) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (today)
+- [[codex] Match Bitbucket package repository versions](https://github.com/buluma/ansible-role-bitbucket/pull/29) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), today) - Ansible Role for Atlassian Bitbucket Installation.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68-nightly.20260921.286](https://github.com/buluma/helmcode/releases/tag/v0.0.68-nightly.20260921.286), 6 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_web on your system.
@@ -42,7 +46,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 3 weeks ago) - Install and configure xinetd on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 3 weeks ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 3 weeks ago) - Install VictoriaMetrics on your system.
 
 #### ⭐ Recent Stars
 
