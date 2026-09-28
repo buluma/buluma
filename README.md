@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (1 day ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (1 day ago)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 day ago)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (1 day ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (1 day ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -38,9 +38,9 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68](https://github.com/buluma/helmcode/releases/tag/v0.0.68), today) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 1 day ago) - Ansible Role for Atlassian Bitbucket Installation.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.68-nightly.20260921.286](https://github.com/buluma/helmcode/releases/tag/v0.0.68-nightly.20260921.286), 1 week ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_repository on your system.
