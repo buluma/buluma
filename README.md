@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) - Install rclone on your system. (3 days ago)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (3 days ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (3 days ago)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (3 days ago)
 - [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (3 days ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Add smart albums and style new controls](https://github.com/buluma/rollcall/pull/249) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Persist quality review and add bulk actions](https://github.com/buluma/rollcall/pull/248) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Add new media inbox](https://github.com/buluma/rollcall/pull/247) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Record media import provenance and arrival times](https://github.com/buluma/rollcall/pull/246) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Make duplicate scans incremental and resumable](https://github.com/buluma/rollcall/pull/245) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Add Favorites-style date filters to People, Library, and Vault](https://github.com/buluma/rollcall/pull/244) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Expand sidebar browser coverage and restore history polling](https://github.com/buluma/rollcall/pull/243) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Add storage inspection and recovery tooling](https://github.com/buluma/rollcall/pull/242) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] Share standalone HTTP routes and transport policy](https://github.com/buluma/rollcall/pull/241) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] Use targeted reads and updates for index curation](https://github.com/buluma/rollcall/pull/240) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Share sidebar and auth logic and harden durable storage](https://github.com/buluma/rollcall/pull/239) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] expose sidebar queue counts publicly](https://github.com/buluma/rollcall/pull/238) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] show queue counts on person page](https://github.com/buluma/rollcall/pull/237) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] unify person page sidebar](https://github.com/buluma/rollcall/pull/236) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] fix Redis image CI builds](https://github.com/buluma/redis/pull/4) on [buluma/redis](https://github.com/buluma/redis) (3 days ago)
-- [fix(molecule): restore syncserver CI across distros](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/35) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (3 days ago)
-- [[codex] Avoid RPM pip conflict installing Molecule](https://github.com/buluma/ansible-role-molecule/pull/37) on [buluma/ansible-role-molecule](https://github.com/buluma/ansible-role-molecule) (3 days ago)
-- [[codex] Fix SonarQube permissions race](https://github.com/buluma/ansible-role-sonarqube/pull/14) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
