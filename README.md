@@ -14,27 +14,32 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (3 days ago)
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (3 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (3 days ago)
+- [buluma/ansible-role-rclone](https://github.com/buluma/ansible-role-rclone) - Install rclone on your system. (3 days ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (3 days ago)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (3 days ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
-- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Share standalone HTTP routes and transport policy](https://github.com/buluma/rollcall/pull/241) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Use targeted reads and updates for index curation](https://github.com/buluma/rollcall/pull/240) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Share sidebar and auth logic and harden durable storage](https://github.com/buluma/rollcall/pull/239) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] expose sidebar queue counts publicly](https://github.com/buluma/rollcall/pull/238) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] show queue counts on person page](https://github.com/buluma/rollcall/pull/237) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] unify person page sidebar](https://github.com/buluma/rollcall/pull/236) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] fix Redis image CI builds](https://github.com/buluma/redis/pull/4) on [buluma/redis](https://github.com/buluma/redis) (3 days ago)
 - [fix(molecule): restore syncserver CI across distros](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/35) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (3 days ago)
 - [[codex] Avoid RPM pip conflict installing Molecule](https://github.com/buluma/ansible-role-molecule/pull/37) on [buluma/ansible-role-molecule](https://github.com/buluma/ansible-role-molecule) (3 days ago)
 - [[codex] Fix SonarQube permissions race](https://github.com/buluma/ansible-role-sonarqube/pull/14) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (3 days ago)
-- [[codex] Match Bitbucket package repository versions](https://github.com/buluma/ansible-role-bitbucket/pull/29) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
