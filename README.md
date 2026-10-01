@@ -14,30 +14,28 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (4 days ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (4 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (4 days ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (4 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (4 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
+- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
-- [release: v2.28.0 — per-group max video size, dependency security fixes](https://github.com/buluma/telegram-media-downloader/pull/11) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [feat(downloader): per-group max video size with system fallback](https://github.com/buluma/telegram-media-downloader/pull/10) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix(deps): patch @grpc/grpc-js and qs advisories](https://github.com/buluma/telegram-media-downloader/pull/9) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [release: v2.27.1 — catch-up limit](https://github.com/buluma/telegram-media-downloader/pull/8) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [feat(history): add a dedicated catch-up limit for post-restart backfills](https://github.com/buluma/telegram-media-downloader/pull/7) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [release: v2.27.0 — gallery search, filter race fixes, dependency bumps](https://github.com/buluma/telegram-media-downloader/pull/6) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [feat(web): gallery search over names and captions with the active filters](https://github.com/buluma/telegram-media-downloader/pull/5) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix(web): stop stale gallery loads and search results leaking into the feed](https://github.com/buluma/telegram-media-downloader/pull/2) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] handle large PR size diffs](https://github.com/buluma/helmcode/pull/63) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [[codex] integrate upstream t3code into Helm Code](https://github.com/buluma/helmcode/pull/62) on [buluma/helmcode](https://github.com/buluma/helmcode) (today)
+- [chore(dependabot): hold pip updates to a 30-day cooldown](https://github.com/buluma/odysseus/pull/62) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [fix(compose): carry Heimdal deploy config onto main-v2](https://github.com/buluma/odysseus/pull/61) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [ci: run the check workflows on main-v2](https://github.com/buluma/odysseus/pull/59) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [Rebuild fork work on upstream/dev (post history rewrite)](https://github.com/buluma/odysseus/pull/57) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,6 +52,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (today)
 - [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 weeks ago)
 - [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (2 weeks ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
@@ -63,7 +62,6 @@ Welcome to my little world.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (1 month ago)
-- [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 month ago)
 
 
 
