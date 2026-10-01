@@ -14,15 +14,15 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (3 days ago)
-- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (3 days ago)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (3 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (4 days ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (4 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (4 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
@@ -30,22 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Add smart albums and style new controls](https://github.com/buluma/rollcall/pull/249) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Persist quality review and add bulk actions](https://github.com/buluma/rollcall/pull/248) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Add new media inbox](https://github.com/buluma/rollcall/pull/247) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Record media import provenance and arrival times](https://github.com/buluma/rollcall/pull/246) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Make duplicate scans incremental and resumable](https://github.com/buluma/rollcall/pull/245) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Add Favorites-style date filters to People, Library, and Vault](https://github.com/buluma/rollcall/pull/244) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Expand sidebar browser coverage and restore history polling](https://github.com/buluma/rollcall/pull/243) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Add storage inspection and recovery tooling](https://github.com/buluma/rollcall/pull/242) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Share standalone HTTP routes and transport policy](https://github.com/buluma/rollcall/pull/241) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [[codex] Use targeted reads and updates for index curation](https://github.com/buluma/rollcall/pull/240) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [release: v2.28.0 — per-group max video size, dependency security fixes](https://github.com/buluma/telegram-media-downloader/pull/11) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [feat(downloader): per-group max video size with system fallback](https://github.com/buluma/telegram-media-downloader/pull/10) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [fix(deps): patch @grpc/grpc-js and qs advisories](https://github.com/buluma/telegram-media-downloader/pull/9) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [release: v2.27.1 — catch-up limit](https://github.com/buluma/telegram-media-downloader/pull/8) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [feat(history): add a dedicated catch-up limit for post-restart backfills](https://github.com/buluma/telegram-media-downloader/pull/7) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [release: v2.27.0 — gallery search, filter race fixes, dependency bumps](https://github.com/buluma/telegram-media-downloader/pull/6) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [feat(web): gallery search over names and captions with the active filters](https://github.com/buluma/telegram-media-downloader/pull/5) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [fix(web): stop stale gallery loads and search results leaking into the feed](https://github.com/buluma/telegram-media-downloader/pull/2) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.69-nightly.20260928.318](https://github.com/buluma/helmcode/releases/tag/v0.0.69-nightly.20260928.318), 2 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 3 days ago) - Ansible Role for Atlassian Bitbucket Installation.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/helmcode](https://github.com/buluma/helmcode) ([v0.0.69-nightly.20260928.318](https://github.com/buluma/helmcode/releases/tag/v0.0.69-nightly.20260928.318), 3 days ago) - Server-only CLI for Helm Code — an agent harness control surface that drives coding-agent CLIs on your machine, controllable from a web, desktop, or mobile client.
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 4 days ago) - Ansible Role for Atlassian Bitbucket Installation.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 6 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_repository on your system.
@@ -61,9 +59,9 @@ Welcome to my little world.
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (3 weeks ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (3 weeks ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (3 weeks ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (4 weeks ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (1 month ago)
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding (1 month ago)
 
