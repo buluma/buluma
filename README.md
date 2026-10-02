@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (4 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (4 days ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (4 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 days ago)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (4 days ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (5 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (5 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (5 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 days ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,8 +33,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 4 days ago) - Ansible Role for Atlassian Bitbucket Installation.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 6 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 5 days ago) - Ansible Role for Atlassian Bitbucket Installation.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_repository on your system.
@@ -46,12 +46,12 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (today)
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (1 day ago)
 - [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 weeks ago)
 - [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (2 weeks ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (3 weeks ago)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (3 weeks ago)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (4 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (4 weeks ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
