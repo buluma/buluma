@@ -14,26 +14,32 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (5 days ago)
-- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (5 days ago)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (5 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 days ago)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (5 days ago)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
+- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (6 days ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (6 days ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (6 days ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 - [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 - [buluma/github-monitor](https://github.com/buluma/github-monitor) - Local dashboard for GitHub pull requests, CI, CD, deployments, and self-hosted runners
-- [buluma/nest_test](https://github.com/buluma/nest_test)
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Improve scans and cleanup, add macOS DMG CI](https://github.com/buluma/disk-map/pull/18) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [feat(web): one-row AI scanner cards, collapsible recent jobs](https://github.com/buluma/telegram-media-downloader/pull/29) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] Polish AI progress and responsive status controls](https://github.com/buluma/telegram-media-downloader/pull/28) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] Organize AI workspace by task](https://github.com/buluma/telegram-media-downloader/pull/27) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] Improve AI page navigation and clarity](https://github.com/buluma/telegram-media-downloader/pull/26) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
+- [[codex] Hide gallery search while scrolling](https://github.com/buluma/telegram-media-downloader/pull/25) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 5 days ago) - Ansible Role for Atlassian Bitbucket Installation.
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) ([v26.10.0](https://github.com/buluma/ansible-role-bitbucket/releases/tag/v26.10.0), 6 days ago) - Ansible Role for Atlassian Bitbucket Installation.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.23.7](https://github.com/rmyndharis/OpenWA/releases/tag/v0.23.7), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 3 weeks ago) - Install and configure zabbix_server on your system.
@@ -46,15 +52,15 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (1 day ago)
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (2 days ago)
 - [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 weeks ago)
-- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (2 weeks ago)
+- [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (3 weeks ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (3 weeks ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (4 weeks ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (4 weeks ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 month ago)
 - [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code &amp; Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, &amp; WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, &amp; an interactive web UI/MacOS/Windows native app. (1 month ago)
 
 
