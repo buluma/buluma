@@ -23,23 +23,15 @@ Welcome to my little world.
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/sotto](https://github.com/buluma/sotto) - Let your secrets be known
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
+- [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add word error rate scorer, dictation corpus, and wer check](https://github.com/buluma/sotto/pull/14) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [docs: record 60-minute results in the M1 report](https://github.com/buluma/sotto/pull/13) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [feat: add 60-minute live-path soak check](https://github.com/buluma/sotto/pull/12) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [[codex] Remove Windows support](https://github.com/buluma/claude-codex-handoff/pull/2) on [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff) (today)
 - [[codex] Prevent archive filename collisions](https://github.com/buluma/claude-codex-handoff/pull/1) on [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff) (today)
-- [docs: M1 validation report and speech-to-partial gate revision](https://github.com/buluma/sotto/pull/11) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [feat: capture-ready check, load readout, and percentile helper](https://github.com/buluma/sotto/pull/10) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [docs: add builder and reviewer role instructions](https://github.com/buluma/sotto/pull/9) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [feat: live-path latency check in the spike](https://github.com/buluma/sotto/pull/8) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [fix: end repeated sessions after say finishes and log diagnostics](https://github.com/buluma/sotto/pull/7) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 
 #### 🔭 Latest releases I've contributed to
 
