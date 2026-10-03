@@ -15,21 +15,24 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
-- [buluma/ansible-role-haproxy](https://github.com/buluma/ansible-role-haproxy) - Install and configure haproxy on your system. (6 days ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (6 days ago)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (6 days ago)
 - [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (6 days ago)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
-- [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Simplify person browsing with post stacks and expandable card details](https://github.com/buluma/rollcall/pull/257) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Sort person media by post date so the timeline is chronological](https://github.com/buluma/rollcall/pull/256) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [[codex] Simplify Rollcall navigation and browsing controls](https://github.com/buluma/rollcall/pull/255) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [[codex] Remove Windows support](https://github.com/buluma/claude-codex-handoff/pull/2) on [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff) (today)
 - [[codex] Prevent archive filename collisions](https://github.com/buluma/claude-codex-handoff/pull/1) on [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff) (today)
 
