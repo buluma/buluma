@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
-- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
+- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (today)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,14 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_web/pull/29) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_server/pull/32) on [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_repository/pull/37) on [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_proxy/pull/35) on [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_agent/pull/33) on [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.2](https://github.com/buluma/sotto/releases/tag/v0.1.2), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), today) - GitHub Command Center
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 1 day ago) - MacOS Disk Utility
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix_web on your system.
@@ -46,11 +48,11 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.9.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.9.0), 4 weeks ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.9.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.9.0), 4 weeks ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.9.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.9.0), 4 weeks ago) - Install VictoriaMetrics on your system.
 
 #### ⭐ Recent Stars
 
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (today)
+- [jskoiz/token-ledger](https://github.com/jskoiz/token-ledger) - A local-only terminal dashboard for Codex token usage (today)
 - [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source. (today)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 day ago)
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (3 days ago)
@@ -59,8 +61,6 @@ Welcome to my little world.
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (4 weeks ago)
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 month ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
 
 
 
