@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
 - [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
-- [buluma/ansible-role-code](https://github.com/buluma/ansible-role-code) - Install visual studio code on your system. (today)
-- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,15 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [bump actions and mac build](https://github.com/buluma/sotto/pull/6) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_web/pull/29) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_server/pull/32) on [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_repository/pull/37) on [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_proxy/pull/35) on [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.2](https://github.com/buluma/sotto/releases/tag/v0.1.2), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.4](https://github.com/buluma/sotto/releases/tag/v0.1.4), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), today) - GitHub Command Center
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 1 day ago) - MacOS Disk Utility
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
