@@ -14,19 +14,19 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
-- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (today)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (today)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (today)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 - [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
-- [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 
 #### 🔨 My recent Pull Requests
 
@@ -35,11 +35,6 @@ Welcome to my little world.
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_repository/pull/37) on [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_proxy/pull/35) on [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) (1 day ago)
 - [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_agent/pull/33) on [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-virtualbox/pull/23) on [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-xinetd/pull/31) on [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-vector/pull/37) on [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-victoriametrics/pull/26) on [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-vault_configuration/pull/7) on [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,6 +51,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source. (today)
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 day ago)
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (3 days ago)
 - [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 weeks ago)
@@ -65,7 +61,6 @@ Welcome to my little world.
 - [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 month ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 month ago)
 
 
 
