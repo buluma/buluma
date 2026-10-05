@@ -15,9 +15,9 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (1 day ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
+- [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) - Install and configure Datadog on your systems. (1 day ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 day ago)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (1 day ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -34,11 +34,10 @@ Welcome to my little world.
 - [Implemented fixes across 14 test files for all 96 warning sites](https://github.com/buluma/sotto/pull/7) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [bump actions and mac build](https://github.com/buluma/sotto/pull/6) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_web/pull/29) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.6](https://github.com/buluma/sotto/releases/tag/v0.1.6), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.7](https://github.com/buluma/sotto/releases/tag/v0.1.7), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), 1 day ago) - GitHub Command Center
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 2 days ago) - MacOS Disk Utility
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
