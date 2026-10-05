@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-htpasswd](https://github.com/buluma/ansible-role-htpasswd) - Installs htpasswd and allows easy configuration of htpasswd authentication (today)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
-- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (today)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (today)
-- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
+- [buluma/ansible-role-spamassassin](https://github.com/buluma/ansible-role-spamassassin) - Install and configure spamassassin on your system. (1 day ago)
+- [buluma/ansible-role-at](https://github.com/buluma/ansible-role-at) - Install and configure at on your system. (1 day ago)
+- [buluma/ansible-role-multi](https://github.com/buluma/ansible-role-multi) - Multiplatform test (1 day ago)
+- [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,18 +30,18 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [bump actions and mac build](https://github.com/buluma/sotto/pull/6) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_web/pull/29) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_server/pull/32) on [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) (1 day ago)
-- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_repository/pull/37) on [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) (1 day ago)
+- [Implemented fixes across 14 test files for all 96 warning sites](https://github.com/buluma/sotto/pull/7) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [bump actions and mac build](https://github.com/buluma/sotto/pull/6) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_web/pull/29) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (2 days ago)
+- [Enable native Dependabot auto-merge with required CI](https://github.com/buluma/ansible-role-zabbix_server/pull/32) on [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.4](https://github.com/buluma/sotto/releases/tag/v0.1.4), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), today) - GitHub Command Center
-- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 1 day ago) - MacOS Disk Utility
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.4](https://github.com/buluma/sotto/releases/tag/v0.1.4), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), 1 day ago) - GitHub Command Center
+- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 2 days ago) - MacOS Disk Utility
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.9.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.9.0), 4 weeks ago) - Install and configure zabbix_repository on your system.
@@ -51,11 +51,11 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (today)
-- [jskoiz/token-ledger](https://github.com/jskoiz/token-ledger) - A local-only terminal dashboard for Codex token usage (today)
-- [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source. (today)
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (1 day ago)
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (3 days ago)
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 day ago)
+- [jskoiz/token-ledger](https://github.com/jskoiz/token-ledger) - A local-only terminal dashboard for Codex token usage (1 day ago)
+- [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source. (1 day ago)
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. (2 days ago)
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (4 days ago)
 - [wslyvh/paperweight](https://github.com/wslyvh/paperweight) - Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data. Local-first and open source. (2 weeks ago)
 - [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (3 weeks ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
