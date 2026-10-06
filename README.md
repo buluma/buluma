@@ -30,6 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Fold dictation history into Library](https://github.com/buluma/sotto/pull/14) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [chore(stt): add debug-only Apple SpeechTranscriber file spike](https://github.com/buluma/sotto/pull/13) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [[codex] add Apple Speech locale inventory probe](https://github.com/buluma/sotto/pull/12) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [[codex] Close scoped Phase 1 baseline](https://github.com/buluma/sotto/pull/11) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [docs: record Phase 1 capture and recovery baseline](https://github.com/buluma/sotto/pull/10) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [Docs/reconcile personal fork](https://github.com/buluma/sotto/pull/9) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
@@ -53,6 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. (today)
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (2 days ago)
 - [jskoiz/token-ledger](https://github.com/jskoiz/token-ledger) - A local-only terminal dashboard for Codex token usage (2 days ago)
 - [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source. (2 days ago)
@@ -62,7 +66,6 @@ Welcome to my little world.
 - [buluma/Streamline-Vodacom-SA-Prod-Optimization](https://github.com/buluma/Streamline-Vodacom-SA-Prod-Optimization) - Optimization for Vodacom SA Battery (3 weeks ago)
 - [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (3 weeks ago)
 - [sanyok12345/teleproto](https://github.com/sanyok12345/teleproto) - Telegram MTProto API client library written in TypeScript (1 month ago)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (1 month ago)
 
 
 
