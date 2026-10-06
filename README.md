@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Prepare Sotto v0.1.8 release](https://github.com/buluma/sotto/pull/15) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [[codex] Fold dictation history into Library](https://github.com/buluma/sotto/pull/14) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [chore(stt): add debug-only Apple SpeechTranscriber file spike](https://github.com/buluma/sotto/pull/13) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [[codex] add Apple Speech locale inventory probe](https://github.com/buluma/sotto/pull/12) on [buluma/sotto](https://github.com/buluma/sotto) (today)
@@ -39,11 +40,10 @@ Welcome to my little world.
 - [[codex] Standardize page backgrounds](https://github.com/buluma/sotto/pull/8) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [Implemented fixes across 14 test files for all 96 warning sites](https://github.com/buluma/sotto/pull/7) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [bump actions and mac build](https://github.com/buluma/sotto/pull/6) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
-- [f57943e](https://github.com/buluma/sotto/pull/5) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.7](https://github.com/buluma/sotto/releases/tag/v0.1.7), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.9](https://github.com/buluma/sotto/releases/tag/v0.1.9), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/gcc](https://github.com/buluma/gcc) ([v0.3.0](https://github.com/buluma/gcc/releases/tag/v0.3.0), 2 days ago) - GitHub Command Center
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.2.0](https://github.com/buluma/disk-map/releases/tag/0.2.0), 3 days ago) - MacOS Disk Utility
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.24.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.24.0), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
