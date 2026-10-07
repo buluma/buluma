@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (2 days ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (3 days ago)
+- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (3 days ago)
 - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (3 days ago)
+- [buluma/ansible-role-bareos_dir](https://github.com/buluma/ansible-role-bareos_dir) - Install and configure [Bareos](https://www.bareos.com/) Director. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,16 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Harden webhook delivery and add Postgres schema CI](https://github.com/buluma/redmine-dashboard/pull/114) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] Give webhook events column more space](https://github.com/buluma/redmine-dashboard/pull/111) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [[codex] Collapse reports filters and improve chart readability](https://github.com/buluma/redmine-dashboard/pull/110) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix: copy patches into Docker build before bun install](https://github.com/buluma/redmine-dashboard/pull/109) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix: report caught error-level failures to Sentry](https://github.com/buluma/redmine-dashboard/pull/108) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix: resolve pending dependency CI failures](https://github.com/buluma/redmine-dashboard/pull/106) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [Reduce Swift concurrency build warnings](https://github.com/buluma/sotto/pull/19) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [[codex] Restore window chrome with bounded hosting layout](https://github.com/buluma/sotto/pull/18) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [[codex] Wait for release CI before allocating Mac runner](https://github.com/buluma/sotto/pull/17) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [[codex] Add stable and nightly release channels](https://github.com/buluma/sotto/pull/16) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
