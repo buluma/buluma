@@ -18,7 +18,7 @@ Welcome to my little world.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (today)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
 - [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (3 days ago)
-- [buluma/ansible-role-debug](https://github.com/buluma/ansible-role-debug) - Show variable per host. (4 days ago)
+- [buluma/ansible-role-dns](https://github.com/buluma/ansible-role-dns) - Install and configure dns on your system. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Test lazy OpenCV startup in CI](https://github.com/buluma/jarvis/pull/3) on [buluma/jarvis](https://github.com/buluma/jarvis) (today)
+- [[codex] Defer NLTK loading and cover startup in CI](https://github.com/buluma/jarvis/pull/2) on [buluma/jarvis](https://github.com/buluma/jarvis) (today)
+- [[codex] Modernize Python setup and add CI](https://github.com/buluma/jarvis/pull/1) on [buluma/jarvis](https://github.com/buluma/jarvis) (today)
+- [fix: deliver Codex hook events without waiting for stdin EOF](https://github.com/buluma/Code-Agent-Monitor/pull/69) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Release v2.2.9](https://github.com/buluma/Code-Agent-Monitor/pull/68) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Reduce tray polling and background ingestion work](https://github.com/buluma/Code-Agent-Monitor/pull/67) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Release v2.2.8](https://github.com/buluma/Code-Agent-Monitor/pull/66) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Pause hidden Dashboard and Analytics refreshes](https://github.com/buluma/Code-Agent-Monitor/pull/65) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [author updates](https://github.com/buluma/Code-Agent-Monitor/pull/64) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
 - [Release v2.2.7](https://github.com/buluma/Code-Agent-Monitor/pull/63) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [Open analytics activity at the latest dates](https://github.com/buluma/Code-Agent-Monitor/pull/62) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [[codex] Align fork with upstream stable v2.2.6](https://github.com/buluma/Code-Agent-Monitor/pull/54) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [[codex] Reduce dashboard background work and repeated queries](https://github.com/buluma/Code-Agent-Monitor/pull/53) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (today)
-- [ci: add Node.js 24 and 26 to test matrix](https://github.com/buluma/pi-manager/pull/19) on [buluma/pi-manager](https://github.com/buluma/pi-manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
