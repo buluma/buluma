@@ -22,11 +22,11 @@ Welcome to my little world.
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
+- [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
-- [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center
 
 #### 🔨 My recent Pull Requests
 
@@ -37,6 +37,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) ([v1.1.0](https://github.com/buluma/homelab-dashboard/releases/tag/v1.1.0), today) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), today) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 - [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), today) - 
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 day ago) - 
@@ -44,7 +45,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.10.9](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.10.9), 1 day ago) - Install and configure virtualbox on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 1 day ago) - Install and configure xinetd on your system.
 
