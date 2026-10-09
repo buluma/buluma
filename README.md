@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (today)
+- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (today)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (1 day ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (4 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [[codex] Support current PHP on EL, Debian and Ubuntu](https://github.com/buluma/ansible-role-lemp_stack/pull/9) on [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) (today)
+- [[codex] Fix Galaxy role index names](https://github.com/buluma/buluma.github.io/pull/11) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
 - [[codex] Use underscores for Galaxy role name](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/pull/22) on [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) (today)
 - [[codex] Use underscores for Galaxy role name](https://github.com/buluma/ansible-role-digitalocean_agent/pull/29) on [buluma/ansible-role-digitalocean_agent](https://github.com/buluma/ansible-role-digitalocean_agent) (today)
 - [[codex] automate Ansible role index sync](https://github.com/buluma/buluma.github.io/pull/10) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
@@ -38,21 +40,19 @@ Welcome to my little world.
 - [[codex] improve startup experience](https://github.com/buluma/jarvis/pull/4) on [buluma/jarvis](https://github.com/buluma/jarvis) (1 day ago)
 - [[codex] Test lazy OpenCV startup in CI](https://github.com/buluma/jarvis/pull/3) on [buluma/jarvis](https://github.com/buluma/jarvis) (1 day ago)
 - [[codex] Defer NLTK loading and cover startup in CI](https://github.com/buluma/jarvis/pull/2) on [buluma/jarvis](https://github.com/buluma/jarvis) (1 day ago)
-- [[codex] Modernize Python setup and add CI](https://github.com/buluma/jarvis/pull/1) on [buluma/jarvis](https://github.com/buluma/jarvis) (1 day ago)
-- [fix: deliver Codex hook events without waiting for stdin EOF](https://github.com/buluma/Code-Agent-Monitor/pull/69) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), today) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), today) - 
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 day ago) - 
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 1 day ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.10.9](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.10.9), 1 day ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.10.9](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.10.9), 1 day ago) - Install VictoriaMetrics on your system.
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.10.9](https://github.com/buluma/ansible-role-vector/releases/tag/v26.10.9), 1 day ago) - Install and configure Vector for debian systems.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 1 day ago) - Install and configure xinetd on your system.
 
 #### ⭐ Recent Stars
 
