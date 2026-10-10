@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (today)
-- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (today)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 day ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (1 day ago)
+- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 day ago)
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,36 +30,37 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Use Buluma elastic_repo role](https://github.com/buluma/ansible-role-kibana/pull/49) on [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) (today)
-- [[codex] Support current PHP on EL, Debian and Ubuntu](https://github.com/buluma/ansible-role-lemp_stack/pull/9) on [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) (today)
-- [[codex] Fix Galaxy role index names](https://github.com/buluma/buluma.github.io/pull/11) on [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) (today)
-- [[codex] Use underscores for Galaxy role name](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/pull/22) on [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) (today)
+- [[codex] Add per-container alert mutes](https://github.com/buluma/homelab-dashboard/pull/5) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
+- [Alert when a running container stops unexpectedly](https://github.com/buluma/homelab-dashboard/pull/4) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
+- [Share ssh connections between polls (ControlMaster)](https://github.com/buluma/homelab-dashboard/pull/3) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
+- [Document recommended SSH config for container actions](https://github.com/buluma/homelab-dashboard/pull/2) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (1 day ago)
+- [Add container logs, restart and stopped containers over SSH](https://github.com/buluma/homelab-dashboard/pull/1) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) ([v1.1.0](https://github.com/buluma/homelab-dashboard/releases/tag/v1.1.0), today) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
-- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), today) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
-- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), today) - 
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 day ago) - 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 1 day ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 1 day ago) - Install and configure xinetd on your system.
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) ([v1.2.1](https://github.com/buluma/homelab-dashboard/releases/tag/v1.2.1), today) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
+- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), 1 day ago) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), 1 day ago) - 
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 days ago) - 
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 2 days ago) - Install and configure xinetd on your system.
 
 #### ⭐ Recent Stars
 
-- [steipete/ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers (today)
-- [isair/jarvis](https://github.com/isair/jarvis) - A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot. (1 day ago)
-- [yicheng47/runner](https://github.com/yicheng47/runner) - Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal. (1 day ago)
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (1 day ago)
-- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (1 day ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (1 day ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
-- [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, &#43;25 more). Desktop, web, mobile, and cloud agents. (2 days ago)
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (3 days ago)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 day ago)
+- [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 day ago)
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 day ago)
+- [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1 day ago)
+- [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (1 day ago)
+- [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (1 day ago)
+- [buluma/vectorcraft](https://github.com/buluma/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (1 day ago)
+- [buluma/liquid-glass](https://github.com/buluma/liquid-glass) -  (1 day ago)
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring (1 day ago)
+- [steipete/ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers (1 day ago)
 
 
 
