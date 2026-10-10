@@ -16,8 +16,8 @@ Welcome to my little world.
 
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 day ago)
-- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 day ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (1 day ago)
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,7 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Refine frosted window toolbar and sidebar controls](https://github.com/buluma/sotto/pull/25) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [fix(docker): keep backup snapshots out of the image](https://github.com/buluma/odysseus/pull/68) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [feat(events): bulk select with Ack/Work/Done/Ignore actions](https://github.com/buluma/odysseus/pull/67) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [chore: merge upstream/dev into main-v2](https://github.com/buluma/odysseus/pull/65) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 
 #### 🔭 Latest releases I've contributed to
 
