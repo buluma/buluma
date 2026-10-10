@@ -14,40 +14,36 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 day ago)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 day ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (1 day ago)
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (1 day ago)
-- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
+- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Add per-container alert mutes](https://github.com/buluma/homelab-dashboard/pull/5) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
-- [Alert when a running container stops unexpectedly](https://github.com/buluma/homelab-dashboard/pull/4) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
-- [Share ssh connections between polls (ControlMaster)](https://github.com/buluma/homelab-dashboard/pull/3) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (today)
-- [Document recommended SSH config for container actions](https://github.com/buluma/homelab-dashboard/pull/2) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (1 day ago)
-- [Add container logs, restart and stopped containers over SSH](https://github.com/buluma/homelab-dashboard/pull/1) on [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) (1 day ago)
+- [Refine frosted window toolbar and sidebar controls](https://github.com/buluma/sotto/pull/25) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) ([v1.2.1](https://github.com/buluma/homelab-dashboard/releases/tag/v1.2.1), today) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261010.6c398f738b86](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261010.6c398f738b86), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), 1 day ago) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 - [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), 1 day ago) - 
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 days ago) - 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 2 days ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 2 days ago) - Install and configure zabbix_agent on your system.
 
 #### ⭐ Recent Stars
 
