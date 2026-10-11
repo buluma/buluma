@@ -17,7 +17,7 @@ Welcome to my little world.
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (2 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
-- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (2 days ago)
+- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 days ago)
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -43,8 +43,8 @@ Welcome to my little world.
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), 2 days ago) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 - [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), 2 days ago) - 
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 3 days ago) - 
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 3 days ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 3 days ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 3 days ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 3 days ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 3 days ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 3 days ago) - Install and configure xinetd on your system.
