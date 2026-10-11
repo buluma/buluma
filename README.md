@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (2 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
+- [buluma/ansible-role-moodle](https://github.com/buluma/ansible-role-moodle) - Install and configure moodle on your system. (2 days ago)
 - [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (2 days ago)
-- [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,13 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [fix: keep sidebar stable on Dictations by hosting search in the toolbar modifier](https://github.com/buluma/sotto/pull/28) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Stop rebuilding the idle mic preparation on route changes](https://github.com/buluma/sotto/pull/27) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Adopt the macOS 26 Liquid Glass toolbar and sidebar](https://github.com/buluma/sotto/pull/26) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix(docker): keep backup snapshots out of the image](https://github.com/buluma/odysseus/pull/68) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [feat(events): bulk select with Ack/Work/Done/Ignore actions](https://github.com/buluma/odysseus/pull/67) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [chore: merge upstream/dev into main-v2](https://github.com/buluma/odysseus/pull/65) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261010.6c398f738b86](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261010.6c398f738b86), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.0](https://github.com/buluma/sotto/releases/tag/v0.2.0), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/ansible-role-netiq_sentinel_syslog_event_source](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source) ([26.10.10](https://github.com/buluma/ansible-role-netiq_sentinel_syslog_event_source/releases/tag/26.10.10), 2 days ago) - Ansible role for setting up a linux host as an event source to NetIQ Sentinel.
 - [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) ([26.10.10](https://github.com/buluma/ansible-role-lemp_stack/releases/tag/26.10.10), 2 days ago) - 
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 3 days ago) - 
