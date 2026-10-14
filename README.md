@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-centos_base](https://github.com/buluma/ansible-role-centos_base) - Basic CentOS Configuration. (1 day ago)
+- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (today)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (today)
 - [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (1 day ago)
 - [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (1 day ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Replace app screenshots with fresh captures](https://github.com/buluma/sotto/pull/29) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (3 days ago)
 - [fix: keep sidebar stable on Dictations by hosting search in the toolbar modifier](https://github.com/buluma/sotto/pull/28) on [buluma/sotto](https://github.com/buluma/sotto) (3 days ago)
 - [Stop rebuilding the idle mic preparation on route changes](https://github.com/buluma/sotto/pull/27) on [buluma/sotto](https://github.com/buluma/sotto) (3 days ago)
@@ -39,7 +40,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.0](https://github.com/buluma/sotto/releases/tag/v0.2.0), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 6 days ago) - 
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 6 days ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 6 days ago) - Install and configure zabbix_web on your system.
@@ -52,6 +53,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (5 days ago)
@@ -61,7 +63,6 @@ Welcome to my little world.
 - [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (5 days ago)
 - [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (5 days ago)
 - [buluma/vectorcraft](https://github.com/buluma/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (5 days ago)
-- [buluma/liquid-glass](https://github.com/buluma/liquid-glass) -  (5 days ago)
 
 
 
