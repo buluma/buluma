@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (3 days ago)
+- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,13 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Read GR8R_TOKEN and other settings from a gitignored .env](https://github.com/buluma/task_manager/pull/6) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Split task descriptions into paragraphs and line breaks](https://github.com/buluma/task_manager/pull/5) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Node 18 test script, task project moves, optional API token](https://github.com/buluma/task_manager/pull/4) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add project and priority management to the API, CLI and Settings](https://github.com/buluma/task_manager/pull/3) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Show the underlying reason when the CLI cannot reach the server](https://github.com/buluma/task_manager/pull/2) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add task API, gr8r CLI and CI timeouts](https://github.com/buluma/task_manager/pull/1) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Merge upstream/dev (c74f4756) into main-v2](https://github.com/buluma/odysseus/pull/69) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
 - [Replace app screenshots with fresh captures](https://github.com/buluma/sotto/pull/29) on [buluma/sotto](https://github.com/buluma/sotto) (3 days ago)
 - [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (6 days ago)
-- [fix: keep sidebar stable on Dictations by hosting search in the toolbar modifier](https://github.com/buluma/sotto/pull/28) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
-- [Stop rebuilding the idle mic preparation on route changes](https://github.com/buluma/sotto/pull/27) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
-- [Adopt the macOS 26 Liquid Glass toolbar and sidebar](https://github.com/buluma/sotto/pull/26) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
-- [fix(docker): keep backup snapshots out of the image](https://github.com/buluma/odysseus/pull/68) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
