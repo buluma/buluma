@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (2 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (2 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,19 +30,19 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Merge upstream/dev (c74f4756) into main-v2](https://github.com/buluma/odysseus/pull/69) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
-- [Replace app screenshots with fresh captures](https://github.com/buluma/sotto/pull/29) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
-- [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (5 days ago)
-- [fix: keep sidebar stable on Dictations by hosting search in the toolbar modifier](https://github.com/buluma/sotto/pull/28) on [buluma/sotto](https://github.com/buluma/sotto) (5 days ago)
-- [Stop rebuilding the idle mic preparation on route changes](https://github.com/buluma/sotto/pull/27) on [buluma/sotto](https://github.com/buluma/sotto) (5 days ago)
-- [Adopt the macOS 26 Liquid Glass toolbar and sidebar](https://github.com/buluma/sotto/pull/26) on [buluma/sotto](https://github.com/buluma/sotto) (5 days ago)
-- [fix(docker): keep backup snapshots out of the image](https://github.com/buluma/odysseus/pull/68) on [buluma/odysseus](https://github.com/buluma/odysseus) (6 days ago)
+- [Merge upstream/dev (c74f4756) into main-v2](https://github.com/buluma/odysseus/pull/69) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
+- [Replace app screenshots with fresh captures](https://github.com/buluma/sotto/pull/29) on [buluma/sotto](https://github.com/buluma/sotto) (3 days ago)
+- [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (6 days ago)
+- [fix: keep sidebar stable on Dictations by hosting search in the toolbar modifier](https://github.com/buluma/sotto/pull/28) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
+- [Stop rebuilding the idle mic preparation on route changes](https://github.com/buluma/sotto/pull/27) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
+- [Adopt the macOS 26 Liquid Glass toolbar and sidebar](https://github.com/buluma/sotto/pull/26) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
+- [fix(docker): keep backup snapshots out of the image](https://github.com/buluma/odysseus/pull/68) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 day ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 2 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 week ago) - 
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_web on your system.
@@ -53,9 +53,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (2 days ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (3 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (4 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (4 days ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 week ago)
 - [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 week ago)
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
