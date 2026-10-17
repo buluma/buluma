@@ -15,33 +15,35 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (2 days ago)
 - [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (3 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules.
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
+- [Bring the README up to date](https://github.com/buluma/task_manager/pull/11) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add Nairobi to the time zone options and make it the default](https://github.com/buluma/task_manager/pull/10) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Remove a purged project&#39;s activity rows](https://github.com/buluma/task_manager/pull/9) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add Nairobi to the time zone options](https://github.com/gr8rstudio/gr8r-studio/pull/6) on [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) (today)
+- [Remove a purged project&#39;s activity rows](https://github.com/gr8rstudio/gr8r-studio/pull/5) on [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) (today)
+- [Style description content so code blocks and long lines stay inside the drawer](https://github.com/buluma/task_manager/pull/8) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Close the remaining API and CLI gaps](https://github.com/buluma/task_manager/pull/7) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Read GR8R_TOKEN and other settings from a gitignored .env](https://github.com/buluma/task_manager/pull/6) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Split task descriptions into paragraphs and line breaks](https://github.com/buluma/task_manager/pull/5) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Node 18 test script, task project moves, optional API token](https://github.com/buluma/task_manager/pull/4) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Add project and priority management to the API, CLI and Settings](https://github.com/buluma/task_manager/pull/3) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Show the underlying reason when the CLI cannot reach the server](https://github.com/buluma/task_manager/pull/2) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Add task API, gr8r CLI and CI timeouts](https://github.com/buluma/task_manager/pull/1) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Merge upstream/dev (c74f4756) into main-v2](https://github.com/buluma/odysseus/pull/69) on [buluma/odysseus](https://github.com/buluma/odysseus) (1 day ago)
-- [Replace app screenshots with fresh captures](https://github.com/buluma/sotto/pull/29) on [buluma/sotto](https://github.com/buluma/sotto) (3 days ago)
-- [feat: in-app terminal with optional root shell](https://github.com/buluma/disk-map/pull/21) on [buluma/disk-map](https://github.com/buluma/disk-map) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/homelab-dashboard](https://github.com/buluma/homelab-dashboard) ([v1.7.0](https://github.com/buluma/homelab-dashboard/releases/tag/v1.7.0), today) - Native Swift 6 macOS homelab dashboard with Liquid Glass and Prometheus monitoring
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 2 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
@@ -51,7 +53,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_server on your system.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.10.9](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.10.9), 1 week ago) - Install and configure virtualbox on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_agent on your system.
 
 #### ⭐ Recent Stars
 
