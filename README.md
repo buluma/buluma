@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules. (today)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Share comment changes between the app and the server](https://github.com/buluma/task_manager/pull/36) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Share subtask changes between the app and the server](https://github.com/buluma/task_manager/pull/35) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Add an app/server parity test and fix the drift it found](https://github.com/buluma/task_manager/pull/34) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Remove the dead skeleton code and the fields nothing uses](https://github.com/buluma/task_manager/pull/33) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Remove the workspace URL field](https://github.com/buluma/task_manager/pull/32) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
@@ -38,8 +40,6 @@ Welcome to my little world.
 - [Make member invites and project sharing say what they do](https://github.com/buluma/task_manager/pull/29) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Remove the file and attachment UI](https://github.com/buluma/task_manager/pull/28) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Remove the prototype menu, design-system page and offline simulation](https://github.com/buluma/task_manager/pull/27) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the actions that replace the workspace with demo data](https://github.com/buluma/task_manager/pull/26) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Scope the collapsed-sidebar rules to the sidebar](https://github.com/buluma/task_manager/pull/25) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
