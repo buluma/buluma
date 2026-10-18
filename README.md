@@ -14,24 +14,30 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 days ago)
-- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (4 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix stored XSS, keep edits after a sync conflict, harden the server](https://github.com/buluma/task_manager/pull/21) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [fix: bump Bitbucket 10.2 package to 10.2.8](https://github.com/buluma/ansible-role-bitbucket/pull/35) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
 - [fix(deps): override basic-ftp to ^6.2.3 for GHSA-c475-qrg2-pj4r](https://github.com/buluma/OpenWA/pull/15) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 - [Date live messages by send time, add a per-chat Media tab](https://github.com/buluma/OpenWA/pull/14) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [Trim the Inbox for a solo user and fold Notifications into it](https://github.com/buluma/task_manager/pull/20) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add a needs-you Inbox type](https://github.com/buluma/task_manager/pull/19) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Raise Inbox notifications for agent writes and over the API](https://github.com/buluma/task_manager/pull/18) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Attribute API writes to registered agents](https://github.com/buluma/task_manager/pull/17) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
