@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(deps): override basic-ftp to ^6.2.3 for GHSA-c475-qrg2-pj4r](https://github.com/buluma/OpenWA/pull/15) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [Date live messages by send time, add a per-chat Media tab](https://github.com/buluma/OpenWA/pull/14) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 
 #### 🔭 Latest releases I've contributed to
 
