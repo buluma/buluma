@@ -14,38 +14,28 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (today)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (3 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (4 days ago)
+- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
+- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
-- [Share comment changes between the app and the server](https://github.com/buluma/task_manager/pull/36) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Share subtask changes between the app and the server](https://github.com/buluma/task_manager/pull/35) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Add an app/server parity test and fix the drift it found](https://github.com/buluma/task_manager/pull/34) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the dead skeleton code and the fields nothing uses](https://github.com/buluma/task_manager/pull/33) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the workspace URL field](https://github.com/buluma/task_manager/pull/32) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the sign-in, sign-up and onboarding screens and Sign out](https://github.com/buluma/task_manager/pull/31) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the workspace switcher](https://github.com/buluma/task_manager/pull/30) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Make member invites and project sharing say what they do](https://github.com/buluma/task_manager/pull/29) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the file and attachment UI](https://github.com/buluma/task_manager/pull/28) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the prototype menu, design-system page and offline simulation](https://github.com/buluma/task_manager/pull/27) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 3 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 4 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 5 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 week ago) - 
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_web on your system.
@@ -56,9 +46,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (4 days ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (5 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (5 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 week ago)
 - [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 week ago)
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
