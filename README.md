@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (4 days ago)
-- [buluma/ansible-role-nsswitch](https://github.com/buluma/ansible-role-nsswitch) - Configure Name Server Switch on your systems. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,12 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Keep meeting detail in Meetings and make sidebar reselect go to top level](https://github.com/buluma/sotto/pull/32) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Report stuck processes when a bounded test command times out](https://github.com/buluma/sotto/pull/31) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Return to the Library list when Library is clicked again](https://github.com/buluma/sotto/pull/30) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.279c23fefdf3](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.279c23fefdf3), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261014.ad0ea703a1aa](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261014.ad0ea703a1aa), 5 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 week ago) - 
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_web on your system.
