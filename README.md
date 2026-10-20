@@ -14,15 +14,15 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (1 day ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (2 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (4 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - Gr8r Studio: a calm, structured project management workspace. Vite &#43; plain ES modules.
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
@@ -30,22 +30,21 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Stop duplicating a task from skipping a key number](https://github.com/buluma/task_manager/pull/53) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Lighten the settings lists and centre the settings column](https://github.com/buluma/task_manager/pull/52) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Keep meeting detail in Meetings and make sidebar reselect go to top level](https://github.com/buluma/sotto/pull/32) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Report stuck processes when a bounded test command times out](https://github.com/buluma/sotto/pull/31) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Return to the Library list when Library is clicked again](https://github.com/buluma/sotto/pull/30) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Have agents estimate the tasks they create](https://github.com/buluma/task_manager/pull/51) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Keep the view&#39;s sort on the board](https://github.com/buluma/task_manager/pull/50) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Manage labels from Settings, the API and the CLI](https://github.com/buluma/task_manager/pull/49) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Offer free-form labels in the label filter and picker](https://github.com/buluma/task_manager/pull/48) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Show labels that are not in the built-in list](https://github.com/buluma/task_manager/pull/47) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Stop duplicating a task from skipping a key number](https://github.com/buluma/task_manager/pull/53) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Lighten the settings lists and centre the settings column](https://github.com/buluma/task_manager/pull/52) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Keep meeting detail in Meetings and make sidebar reselect go to top level](https://github.com/buluma/sotto/pull/32) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Report stuck processes when a bounded test command times out](https://github.com/buluma/sotto/pull/31) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Return to the Library list when Library is clicked again](https://github.com/buluma/sotto/pull/30) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Have agents estimate the tasks they create](https://github.com/buluma/task_manager/pull/51) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Keep the view&#39;s sort on the board](https://github.com/buluma/task_manager/pull/50) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Manage labels from Settings, the API and the CLI](https://github.com/buluma/task_manager/pull/49) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Offer free-form labels in the label filter and picker](https://github.com/buluma/task_manager/pull/48) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.54e1fb68b203](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.54e1fb68b203), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 4 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.54e1fb68b203](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.54e1fb68b203), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 5 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 week ago) - 
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_web on your system.
@@ -56,9 +55,9 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (5 days ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (6 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 week ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 week ago)
 - [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 week ago)
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
