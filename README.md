@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (2 days ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (3 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (6 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (4 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,29 +30,29 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Strike through cancelled tasks, not done ones](https://github.com/buluma/task_manager/pull/71) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Start a new task today and make it due three days later](https://github.com/buluma/task_manager/pull/70) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Show a project&#39;s repo in its overview, and centre the avatar initials in Coming up](https://github.com/buluma/task_manager/pull/69) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Find PRs in each project&#39;s repo, link them, and move a task to Review when its PR opens](https://github.com/buluma/task_manager/pull/68) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Link a project to its GitHub repo](https://github.com/buluma/task_manager/pull/67) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Test the board and list drag and drop handlers](https://github.com/buluma/task_manager/pull/66) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Keep the board&#39;s other columns as drawn when a drag switches it to Manual](https://github.com/buluma/task_manager/pull/65) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Add gr8r comment edit and PATCH /api/tasks/KEY/comments/ID](https://github.com/buluma/task_manager/pull/64) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Colour the task drawer&#39;s PR button by the PR&#39;s state](https://github.com/buluma/task_manager/pull/63) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Check the backup log&#39;s last two lines, not just the last](https://github.com/buluma/task_manager/pull/62) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Mark cancelled tasks on the timeline (CRN-76)](https://github.com/buluma/task_manager/pull/78) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Back up pr-seen.json with the state (CRN-75)](https://github.com/buluma/task_manager/pull/77) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Keep the merge check&#39;s memory across restarts (CRN-74)](https://github.com/buluma/task_manager/pull/76) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Raise a GitHub outage in the Inbox only once it has lasted 15 minutes](https://github.com/buluma/task_manager/pull/75) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Make the PR finder&#39;s and the merge check&#39;s changes as a GitHub agent (CRN-73)](https://github.com/buluma/task_manager/pull/74) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Report GitHub failures instead of failing quietly (CRN-72)](https://github.com/buluma/task_manager/pull/73) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Leave backlog tasks undated (CRN-71)](https://github.com/buluma/task_manager/pull/72) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Strike through cancelled tasks, not done ones](https://github.com/buluma/task_manager/pull/71) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Start a new task today and make it due three days later](https://github.com/buluma/task_manager/pull/70) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [Show a project&#39;s repo in its overview, and centre the avatar initials in Coming up](https://github.com/buluma/task_manager/pull/69) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), today) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.54e1fb68b203](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.54e1fb68b203), 2 days ago) - There are many voice transcription/dictation apps, but this one is mine.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 6 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 6 days ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 week ago) - 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 1 week ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 1 week ago) - Install and configure xinetd on your system.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 day ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.54e1fb68b203](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.54e1fb68b203), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.10.9](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.10.9), 2 weeks ago) - Install and configure xinetd on your system.
 
 #### ⭐ Recent Stars
 
