@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (4 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Mark cancelled tasks on the timeline (CRN-76)](https://github.com/buluma/task_manager/pull/78) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Back up pr-seen.json with the state (CRN-75)](https://github.com/buluma/task_manager/pull/77) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Keep the merge check&#39;s memory across restarts (CRN-74)](https://github.com/buluma/task_manager/pull/76) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Raise a GitHub outage in the Inbox only once it has lasted 15 minutes](https://github.com/buluma/task_manager/pull/75) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Make the PR finder&#39;s and the merge check&#39;s changes as a GitHub agent (CRN-73)](https://github.com/buluma/task_manager/pull/74) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Report GitHub failures instead of failing quietly (CRN-72)](https://github.com/buluma/task_manager/pull/73) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Leave backlog tasks undated (CRN-71)](https://github.com/buluma/task_manager/pull/72) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
-- [Strike through cancelled tasks, not done ones](https://github.com/buluma/task_manager/pull/71) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
-- [Start a new task today and make it due three days later](https://github.com/buluma/task_manager/pull/70) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
-- [Show a project&#39;s repo in its overview, and centre the avatar initials in Coming up](https://github.com/buluma/task_manager/pull/69) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
+- [fix(src): make issue and timer flows race-safe](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix(timer): persist and safely recover active timers](https://github.com/buluma/reddie/pull/74) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix: validate and isolate Redmine connection switches](https://github.com/buluma/reddie/pull/73) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix: keep issue detail state consistent during async updates](https://github.com/buluma/reddie/pull/72) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix: prevent stale board refreshes](https://github.com/buluma/reddie/pull/71) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix(timer): prevent duplicate timer submissions](https://github.com/buluma/reddie/pull/70) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [chore: update pull request](https://github.com/buluma/reddie/pull/69) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [Refresh dates in tabs left open past midnight](https://github.com/buluma/task_manager/pull/86) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Validate and migrate workspace snapshots at the storage boundary](https://github.com/buluma/task_manager/pull/85) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Publish workspace revisions only after durable saves](https://github.com/buluma/task_manager/pull/84) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
