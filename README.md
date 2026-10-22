@@ -32,14 +32,6 @@ Welcome to my little world.
 
 - [Make Meetings setup buttons prominent and natural width (SOT-6)](https://github.com/buluma/sotto/pull/33) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [refactor: isolate board detail and timer orchestration](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix(timer): persist and safely recover active timers](https://github.com/buluma/reddie/pull/74) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix: validate and isolate Redmine connection switches](https://github.com/buluma/reddie/pull/73) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix: keep issue detail state consistent during async updates](https://github.com/buluma/reddie/pull/72) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix: prevent stale board refreshes](https://github.com/buluma/reddie/pull/71) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix(timer): prevent duplicate timer submissions](https://github.com/buluma/reddie/pull/70) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [fix: reject interrupted and malformed Redmine responses](https://github.com/buluma/reddie/pull/69) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [Refresh dates in tabs left open past midnight](https://github.com/buluma/task_manager/pull/86) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Validate and migrate workspace snapshots at the storage boundary](https://github.com/buluma/task_manager/pull/85) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
