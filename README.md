@@ -16,7 +16,7 @@ Welcome to my little world.
 
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (4 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
 
@@ -30,21 +30,21 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(src): make issue and timer flows race-safe](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [Make Meetings setup buttons prominent and natural width (SOT-6)](https://github.com/buluma/sotto/pull/33) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [refactor: isolate board detail and timer orchestration](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [fix(timer): persist and safely recover active timers](https://github.com/buluma/reddie/pull/74) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [fix: validate and isolate Redmine connection switches](https://github.com/buluma/reddie/pull/73) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [fix: keep issue detail state consistent during async updates](https://github.com/buluma/reddie/pull/72) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [fix: prevent stale board refreshes](https://github.com/buluma/reddie/pull/71) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [fix(timer): prevent duplicate timer submissions](https://github.com/buluma/reddie/pull/70) on [buluma/reddie](https://github.com/buluma/reddie) (today)
-- [chore: update pull request](https://github.com/buluma/reddie/pull/69) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [fix: reject interrupted and malformed Redmine responses](https://github.com/buluma/reddie/pull/69) on [buluma/reddie](https://github.com/buluma/reddie) (today)
 - [Refresh dates in tabs left open past midnight](https://github.com/buluma/task_manager/pull/86) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Validate and migrate workspace snapshots at the storage boundary](https://github.com/buluma/task_manager/pull/85) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Publish workspace revisions only after durable saves](https://github.com/buluma/task_manager/pull/84) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261022.69a6f14fc802](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261022.69a6f14fc802), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 day ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261019.54e1fb68b203](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261019.54e1fb68b203), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
