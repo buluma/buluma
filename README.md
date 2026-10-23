@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (4 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (5 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,13 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Make Meetings setup buttons prominent and natural width (SOT-6)](https://github.com/buluma/sotto/pull/33) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [refactor: isolate board detail and timer orchestration](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (today)
+- [Make Meetings setup buttons prominent and natural width (SOT-6)](https://github.com/buluma/sotto/pull/33) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [refactor: isolate board detail and timer orchestration](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261022.69a6f14fc802](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261022.69a6f14fc802), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 day ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261022.69a6f14fc802](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261022.69a6f14fc802), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 2 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
@@ -51,13 +51,13 @@ Welcome to my little world.
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 week ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
-- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 week ago)
-- [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 week ago)
-- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
-- [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1 week ago)
-- [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (1 week ago)
-- [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (1 week ago)
-- [buluma/vectorcraft](https://github.com/buluma/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (1 week ago)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (2 weeks ago)
+- [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (2 weeks ago)
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (2 weeks ago)
+- [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (2 weeks ago)
+- [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (2 weeks ago)
+- [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (2 weeks ago)
+- [buluma/vectorcraft](https://github.com/buluma/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (2 weeks ago)
 
 
 
