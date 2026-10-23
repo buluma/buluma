@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 - [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (5 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,8 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Make Meetings setup buttons prominent and natural width (SOT-6)](https://github.com/buluma/sotto/pull/33) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [refactor: isolate board detail and timer orchestration](https://github.com/buluma/reddie/pull/75) on [buluma/reddie](https://github.com/buluma/reddie) (1 day ago)
+- [fix: update 16personalities profile scraper](https://github.com/buluma/metrics/pull/67) on [buluma/metrics](https://github.com/buluma/metrics) (today)
+- [Fix/16personalities page](https://github.com/lowlighter/metrics/pull/1849) on [lowlighter/metrics](https://github.com/lowlighter/metrics) (today)
+- [chore(deps): hold @playwright/test below 1.64](https://github.com/buluma/odysseus/pull/75) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 
 #### 🔭 Latest releases I've contributed to
 
