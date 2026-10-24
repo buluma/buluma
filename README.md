@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (today)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
+- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (today)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) - Install and Configure buildkit on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,13 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [test(frontend): record acceptance and guard preference hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/139) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(browser): derive capabilities and cancel connectivity probes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/138) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(preferences): preserve saved values during hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/137) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(polling): scope responses and clean up background work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/136) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(frontend): cancel obsolete conditional fetches (CON-5)](https://github.com/buluma/redmine-dashboard/pull/135) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(issues): key loading state and ignore stale requests (CON-5)](https://github.com/buluma/redmine-dashboard/pull/134) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(search): discard stale results and cancel pending work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/133) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [fix(chat): preserve conversations across locale changes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/132) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [Preserve generated assets on the png branch](https://github.com/buluma/readme-scribe/pull/2) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
 - [Run contribution grid from master and publish to png](https://github.com/buluma/readme-scribe/pull/1) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
-- [Align member access screen with agents and GitHub](https://github.com/buluma/task_manager/pull/98) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Leave cancelled tasks off the timeline (GR8R-90)](https://github.com/buluma/task_manager/pull/97) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Print a task&#39;s start date in gr8r show (GR8R-89)](https://github.com/buluma/task_manager/pull/96) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Label the list&#39;s actions column](https://github.com/buluma/task_manager/pull/95) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Put Start date before Due date in the task drawer and New task dialog](https://github.com/buluma/task_manager/pull/94) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
