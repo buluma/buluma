@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
+- [buluma/ansible-role-buildkit](https://github.com/buluma/ansible-role-buildkit) - Install and Configure buildkit on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -53,6 +53,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 week ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
@@ -62,7 +63,6 @@ Welcome to my little world.
 - [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (2 weeks ago)
 - [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (2 weeks ago)
 - [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (2 weeks ago)
-- [buluma/vectorcraft](https://github.com/buluma/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (2 weeks ago)
 
 
 
