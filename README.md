@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (today)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) - Ansible Role for Atlassian Bitbucket Installation. (6 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,9 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Remove the no-mistakes gate](https://github.com/buluma/sotto/pull/37) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Require Input Monitoring in onboarding permissions](https://github.com/buluma/sotto/pull/36) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Surface Input Monitoring in Settings and recover hotkeys on grant](https://github.com/buluma/sotto/pull/35) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-crowd/pull/25) on [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) (today)
 - [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-jira/pull/43) on [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) (today)
 - [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-confluence/pull/31) on [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) (today)
@@ -37,13 +40,10 @@ Welcome to my little world.
 - [ANS-30: Update Tree-sitter to 0.27.1](https://github.com/buluma/ansible-role-nvim/pull/14) on [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) (today)
 - [ANS-29: Update victoriametrics to 1.154.1](https://github.com/buluma/ansible-role-victoriametrics/pull/31) on [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) (today)
 - [ANS-28: Update vector to 0.60.0](https://github.com/buluma/ansible-role-vector/pull/42) on [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) (today)
-- [ANS-27: Update vault to 2.2.1](https://github.com/buluma/ansible-role-vault/pull/41) on [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) (today)
-- [ANS-26: Update varnish to 9.1.0](https://github.com/buluma/ansible-role-varnish/pull/56) on [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) (today)
-- [ANS-25: Update tomcat to 10.1.61 (10.x)](https://github.com/buluma/ansible-role-tomcat/pull/43) on [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261022.69a6f14fc802](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261022.69a6f14fc802), 2 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.512fbc23dd39](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.512fbc23dd39), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 3 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
@@ -71,6 +71,3 @@ Welcome to my little world.
 
 ## Contribution graph
 <img alt="github-snake" src="https://github.com/buluma/readme-scribe/blob/png/github-contribution-grid-snake.svg" width="100%"/>
-
-## GitHub Activity
-<img alt="github-snake" src="https://github.com/buluma/readme-scribe/blob/contribution-grid/contributions.svg" width="100%"/>
