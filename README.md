@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
+- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (today)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,7 +26,7 @@ Welcome to my little world.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 
 #### 🔨 My recent Pull Requests
 
