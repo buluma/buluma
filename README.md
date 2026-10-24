@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Let agents own the tasks they create and join their projects](https://github.com/buluma/task_manager/pull/88) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Remove the no-mistakes gate](https://github.com/buluma/sotto/pull/37) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Require Input Monitoring in onboarding permissions](https://github.com/buluma/sotto/pull/36) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Surface Input Monitoring in Settings and recover hotkeys on grant](https://github.com/buluma/sotto/pull/35) on [buluma/sotto](https://github.com/buluma/sotto) (today)
@@ -39,7 +40,6 @@ Welcome to my little world.
 - [ANS-31: Update Drush launcher to 0.10.2](https://github.com/buluma/ansible-role-drush/pull/25) on [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) (today)
 - [ANS-30: Update Tree-sitter to 0.27.1](https://github.com/buluma/ansible-role-nvim/pull/14) on [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) (today)
 - [ANS-29: Update victoriametrics to 1.154.1](https://github.com/buluma/ansible-role-victoriametrics/pull/31) on [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) (today)
-- [ANS-28: Update vector to 0.60.0](https://github.com/buluma/ansible-role-vector/pull/42) on [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) (today)
 
 #### 🔭 Latest releases I've contributed to
 
