@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,20 +30,20 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Let agents own the tasks they create and join their projects](https://github.com/buluma/task_manager/pull/88) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Remove the no-mistakes gate](https://github.com/buluma/sotto/pull/37) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Require Input Monitoring in onboarding permissions](https://github.com/buluma/sotto/pull/36) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Surface Input Monitoring in Settings and recover hotkeys on grant](https://github.com/buluma/sotto/pull/35) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-crowd/pull/25) on [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) (today)
-- [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-jira/pull/43) on [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) (today)
-- [ANS-32: Update PostgreSQL JDBC to 42.7.14](https://github.com/buluma/ansible-role-confluence/pull/31) on [buluma/ansible-role-confluence](https://github.com/buluma/ansible-role-confluence) (today)
-- [ANS-31: Update Drush launcher to 0.10.2](https://github.com/buluma/ansible-role-drush/pull/25) on [buluma/ansible-role-drush](https://github.com/buluma/ansible-role-drush) (today)
-- [ANS-30: Update Tree-sitter to 0.27.1](https://github.com/buluma/ansible-role-nvim/pull/14) on [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) (today)
-- [ANS-29: Update victoriametrics to 1.154.1](https://github.com/buluma/ansible-role-victoriametrics/pull/31) on [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) (today)
+- [Align member access screen with agents and GitHub](https://github.com/buluma/task_manager/pull/98) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Leave cancelled tasks off the timeline (GR8R-90)](https://github.com/buluma/task_manager/pull/97) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Print a task&#39;s start date in gr8r show (GR8R-89)](https://github.com/buluma/task_manager/pull/96) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Label the list&#39;s actions column](https://github.com/buluma/task_manager/pull/95) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Put Start date before Due date in the task drawer and New task dialog](https://github.com/buluma/task_manager/pull/94) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Fill gaps in the gr8r skill: --assignee, milestones, GR8R project](https://github.com/buluma/task_manager/pull/93) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Add, edit and delete milestones from the app (GR8R-87)](https://github.com/buluma/task_manager/pull/92) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Roll unfinished tasks into the new cycle on the server (GR8R-88)](https://github.com/buluma/task_manager/pull/91) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Set a task&#39;s assignee from the CLI (CRN-85)](https://github.com/buluma/task_manager/pull/90) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [List favorited projects first (CRN-84)](https://github.com/buluma/task_manager/pull/89) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.539900cf3f24](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.539900cf3f24), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.9a34b8358af4](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.9a34b8358af4), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 3 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
