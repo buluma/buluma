@@ -70,4 +70,4 @@ Welcome to my little world.
 
 
 ## Contribution graph
-<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/contribution-grid/contributions.svg" width="100%"/>
+<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/png/contributions.svg" width="100%"/>
