@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (today)
-- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (today)
-- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,20 +26,17 @@ Welcome to my little world.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 
 #### 🔨 My recent Pull Requests
 
+- [Preserve generated assets on the png branch](https://github.com/buluma/readme-scribe/pull/2) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
+- [Run contribution grid from master and publish to png](https://github.com/buluma/readme-scribe/pull/1) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
 - [Align member access screen with agents and GitHub](https://github.com/buluma/task_manager/pull/98) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Leave cancelled tasks off the timeline (GR8R-90)](https://github.com/buluma/task_manager/pull/97) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Print a task&#39;s start date in gr8r show (GR8R-89)](https://github.com/buluma/task_manager/pull/96) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Label the list&#39;s actions column](https://github.com/buluma/task_manager/pull/95) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Put Start date before Due date in the task drawer and New task dialog](https://github.com/buluma/task_manager/pull/94) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Fill gaps in the gr8r skill: --assignee, milestones, GR8R project](https://github.com/buluma/task_manager/pull/93) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Add, edit and delete milestones from the app (GR8R-87)](https://github.com/buluma/task_manager/pull/92) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Roll unfinished tasks into the new cycle on the server (GR8R-88)](https://github.com/buluma/task_manager/pull/91) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [Set a task&#39;s assignee from the CLI (CRN-85)](https://github.com/buluma/task_manager/pull/90) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [List favorited projects first (CRN-84)](https://github.com/buluma/task_manager/pull/89) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -70,4 +67,4 @@ Welcome to my little world.
 
 
 ## Contribution graph
-<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/png/contributions.svg" width="100%"/>
+<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/contribution-grid/contributions.svg" width="100%"/>
