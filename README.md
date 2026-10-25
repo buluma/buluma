@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
 - [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd. (1 day ago)
-- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 day ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,13 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): support custom favorite names](https://github.com/buluma/disk-map/pull/28) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [fix(ui): disable scanning an active target](https://github.com/buluma/disk-map/pull/27) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [fix(hooks): CON-5 review follow-ups](https://github.com/buluma/redmine-dashboard/pull/140) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [chore(release): prepare Disk Map 0.4.0](https://github.com/buluma/disk-map/pull/26) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [fix(ui): keep explorer side by side in default window](https://github.com/buluma/disk-map/pull/25) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [ui: redesign storage explorer and cleanup workflow](https://github.com/buluma/disk-map/pull/24) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [[codex] Add custom Dock icon and prepare v1.0.5](https://github.com/buluma/diffchecker/pull/35) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
 - [Prepare Disk Map 0.3.0 release](https://github.com/buluma/disk-map/pull/23) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [Bump version to 1.0.4](https://github.com/buluma/diffchecker/pull/34) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [[codex] Move project tooling to Bun](https://github.com/buluma/diffchecker/pull/33) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -67,4 +69,4 @@ Welcome to my little world.
 
 
 ## Contribution graph
-<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/contribution-grid/contributions.svg" width="100%"/>
+<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/png/contributions.svg" width="100%"/>
