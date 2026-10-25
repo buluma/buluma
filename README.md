@@ -14,35 +14,31 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
-- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd. (1 day ago)
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (1 day ago)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (1 day ago)
+- [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
+- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/diffchecker](https://github.com/buluma/diffchecker)
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): support custom favorite names](https://github.com/buluma/disk-map/pull/28) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [fix(ui): disable scanning an active target](https://github.com/buluma/disk-map/pull/27) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [fix(hooks): CON-5 review follow-ups](https://github.com/buluma/redmine-dashboard/pull/140) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [chore(release): prepare Disk Map 0.4.0](https://github.com/buluma/disk-map/pull/26) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [fix(ui): keep explorer side by side in default window](https://github.com/buluma/disk-map/pull/25) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [ui: redesign storage explorer and cleanup workflow](https://github.com/buluma/disk-map/pull/24) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [[codex] Add custom Dock icon and prepare v1.0.5](https://github.com/buluma/diffchecker/pull/35) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
-- [Prepare Disk Map 0.3.0 release](https://github.com/buluma/disk-map/pull/23) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [Bump version to 1.0.4](https://github.com/buluma/diffchecker/pull/34) on [buluma/diffchecker](https://github.com/buluma/diffchecker) (today)
+- [feat: back up selected meetings to Google Drive (SOT-9)](https://github.com/buluma/sotto/pull/38) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [chore(release): prepare Disk Map 0.6.0](https://github.com/buluma/disk-map/pull/35) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [feat(cleanup): report outcomes and refresh affected scans](https://github.com/buluma/disk-map/pull/34) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [feat(scan): compare consecutive folder scans](https://github.com/buluma/disk-map/pull/33) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
+- [feat(ui): manage favorites and compare folder scans](https://github.com/buluma/disk-map/pull/32) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.4.0](https://github.com/buluma/disk-map/releases/tag/0.4.0), today) - MacOS Disk Utility
+- [buluma/disk-map](https://github.com/buluma/disk-map) ([0.6.0](https://github.com/buluma/disk-map/releases/tag/0.6.0), today) - MacOS Disk Utility
 - [buluma/diffchecker](https://github.com/buluma/diffchecker) ([v1.0.5](https://github.com/buluma/diffchecker/releases/tag/v1.0.5), today) - 
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.9a34b8358af4](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.9a34b8358af4), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 4 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
