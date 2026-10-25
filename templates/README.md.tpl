@@ -43,4 +43,4 @@ Welcome to my little world.
 <a href="https://metrics.lecoq.io/about/buluma" target="_blank"><img src="/github-metrics.svg" alt="Metrics" width="100%"></a> -->
 
 ## Contribution graph
-<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/contribution-grid/contributions.svg" width="100%"/>
+<img alt="github-contribution-graph" src="https://github.com/buluma/readme-scribe/blob/png/contributions.svg" width="100%"/>
