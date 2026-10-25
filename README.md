@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (1 day ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
 - [buluma/ansible-role-jira](https://github.com/buluma/ansible-role-jira) - Ansible Role for Atlassian Jira Installation. (1 day ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
-- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
-- [buluma/ansible-role-docker_compose](https://github.com/buluma/ansible-role-docker_compose) - Install docker_compose on your system. (1 day ago)
+- [buluma/ansible-role-anaconda](https://github.com/buluma/ansible-role-anaconda) - Install anaconda on your system. (1 day ago)
+- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,24 +30,24 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make Google Drive backup work with limited access](https://github.com/buluma/sotto/pull/40) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [debug: expose Google Drive backup API failure details](https://github.com/buluma/sotto/pull/39) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [feat: back up selected meetings to Google Drive (SOT-9)](https://github.com/buluma/sotto/pull/38) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [chore(release): prepare Disk Map 0.6.0](https://github.com/buluma/disk-map/pull/35) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 - [feat(cleanup): report outcomes and refresh affected scans](https://github.com/buluma/disk-map/pull/34) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [feat(scan): compare consecutive folder scans](https://github.com/buluma/disk-map/pull/33) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
-- [feat(ui): manage favorites and compare folder scans](https://github.com/buluma/disk-map/pull/32) on [buluma/disk-map](https://github.com/buluma/disk-map) (today)
 
 #### 🔭 Latest releases I've contributed to
 
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.6.0](https://github.com/buluma/disk-map/releases/tag/0.6.0), today) - MacOS Disk Utility
 - [buluma/diffchecker](https://github.com/buluma/diffchecker) ([v1.0.5](https://github.com/buluma/diffchecker/releases/tag/v1.0.5), today) - 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.9a34b8358af4](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.9a34b8358af4), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 4 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix-proxy on your system.
 
 #### ⭐ Recent Stars
 
