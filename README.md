@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-mediawiki](https://github.com/buluma/ansible-role-mediawiki) - Install and configure mediawiki on your system. (today)
-- [buluma/ansible-role-dsvpn](https://github.com/buluma/ansible-role-dsvpn) - Install and configure dsvpn on your system. (today)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) - Redmine Dashboard aka Converge (today)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (1 day ago)
+- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (1 day ago)
+- [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) - Installs the Varnish HTTP Cache (1 day ago)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,25 +26,25 @@ Welcome to my little world.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
 
 #### 🔨 My recent Pull Requests
 
-- [test(frontend): record acceptance and guard preference hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/139) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(browser): derive capabilities and cancel connectivity probes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/138) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(preferences): preserve saved values during hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/137) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(polling): scope responses and clean up background work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/136) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(frontend): cancel obsolete conditional fetches (CON-5)](https://github.com/buluma/redmine-dashboard/pull/135) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(issues): key loading state and ignore stale requests (CON-5)](https://github.com/buluma/redmine-dashboard/pull/134) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(search): discard stale results and cancel pending work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/133) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [fix(chat): preserve conversations across locale changes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/132) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [Preserve generated assets on the png branch](https://github.com/buluma/readme-scribe/pull/2) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
-- [Run contribution grid from master and publish to png](https://github.com/buluma/readme-scribe/pull/1) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (today)
+- [test(frontend): record acceptance and guard preference hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/139) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(browser): derive capabilities and cancel connectivity probes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/138) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(preferences): preserve saved values during hydration (CON-5)](https://github.com/buluma/redmine-dashboard/pull/137) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(polling): scope responses and clean up background work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/136) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(frontend): cancel obsolete conditional fetches (CON-5)](https://github.com/buluma/redmine-dashboard/pull/135) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(issues): key loading state and ignore stale requests (CON-5)](https://github.com/buluma/redmine-dashboard/pull/134) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(search): discard stale results and cancel pending work (CON-5)](https://github.com/buluma/redmine-dashboard/pull/133) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [fix(chat): preserve conversations across locale changes (CON-5)](https://github.com/buluma/redmine-dashboard/pull/132) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
+- [Preserve generated assets on the png branch](https://github.com/buluma/readme-scribe/pull/2) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (1 day ago)
+- [Run contribution grid from master and publish to png](https://github.com/buluma/readme-scribe/pull/1) on [buluma/readme-scribe](https://github.com/buluma/readme-scribe) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.9a34b8358af4](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.9a34b8358af4), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 3 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261024.9a34b8358af4](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261024.9a34b8358af4), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 4 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
@@ -56,7 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 week ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
