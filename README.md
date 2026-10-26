@@ -51,6 +51,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (today)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (2 days ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 week ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 week ago)
@@ -60,7 +61,6 @@ Welcome to my little world.
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (2 weeks ago)
 - [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (2 weeks ago)
 - [buluma/nasctrsc](https://github.com/buluma/nasctrsc) - Audio-to-BRD Generation Studio (2 weeks ago)
-- [buluma/diffchecker](https://github.com/buluma/diffchecker) -  (2 weeks ago)
 
 
 
