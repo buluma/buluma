@@ -14,32 +14,22 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (1 day ago)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (2 days ago)
-- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (3 days ago)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (3 days ago)
+- [buluma/ansible-role-mailhog](https://github.com/buluma/ansible-role-mailhog) - Ansible Role - MailHog for catching and viewing emails (3 days ago)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
+- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
-- [security: escape reaction markup](https://github.com/buluma/task_manager/pull/102) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [security: reject untrusted Host headers](https://github.com/buluma/task_manager/pull/101) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [ui: compact AI actions and hide active jobs](https://github.com/buluma/telegram-media-downloader/pull/74) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: retry background AI indexing (TGDL-18)](https://github.com/buluma/telegram-media-downloader/pull/73) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: show active AI scans on maintenance hub (TGDL-22)](https://github.com/buluma/telegram-media-downloader/pull/72) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: retry failed video face scans (TGDL-20)](https://github.com/buluma/telegram-media-downloader/pull/71) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: count video scan progress (TGDL-19)](https://github.com/buluma/telegram-media-downloader/pull/70) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix: retry failed OCR scans (TGDL-21)](https://github.com/buluma/telegram-media-downloader/pull/69) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [chore: align Rescue Mode docs and remove dead relay (TGDL-9)](https://github.com/buluma/telegram-media-downloader/pull/68) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
-- [fix(ci): restore release-drafter autolabeling (TGDL-13)](https://github.com/buluma/telegram-media-downloader/pull/67) on [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) (today)
 
 #### 🔭 Latest releases I've contributed to
 
