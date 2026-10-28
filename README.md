@@ -16,9 +16,9 @@ Welcome to my little world.
 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (today)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (2 days ago)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (4 days ago)
-- [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (4 days ago)
+- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: disable newsletter following](https://github.com/buluma/messageforge/pull/60) on [buluma/messageforge](https://github.com/buluma/messageforge) (today)
+- [chore(deps): remove unused dependencies](https://github.com/buluma/messageforge/pull/59) on [buluma/messageforge](https://github.com/buluma/messageforge) (today)
 - [SOT-17 Preserve confirmation on alternate Voice Control targets](https://github.com/buluma/sotto/pull/45) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [SOT-16 Check Voice Control consequence keywords in long labels](https://github.com/buluma/sotto/pull/44) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [SOT-13 Cancel pending meeting startup on stop](https://github.com/buluma/sotto/pull/43) on [buluma/sotto](https://github.com/buluma/sotto) (today)
