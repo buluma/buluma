@@ -14,10 +14,10 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (2 days ago)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (4 days ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (4 days ago)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (4 days ago)
 - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim) - Nvim Install and Setup (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -30,17 +30,19 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [SOT-17 Preserve confirmation on alternate Voice Control targets](https://github.com/buluma/sotto/pull/45) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [SOT-16 Check Voice Control consequence keywords in long labels](https://github.com/buluma/sotto/pull/44) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [SOT-13 Cancel pending meeting startup on stop](https://github.com/buluma/sotto/pull/43) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix: revalidate Voice Control keyboard fallback target](https://github.com/buluma/sotto/pull/42) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix: validate loopback endpoint hosts](https://github.com/buluma/sotto/pull/41) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261028.93e5ebcd3315](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261028.93e5ebcd3315), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.26.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.26.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261028.bd572e7febfb](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261028.bd572e7febfb), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 2 days ago) - Real-time monitoring platform for code agent activity.
 - [buluma/disk-map](https://github.com/buluma/disk-map) ([0.6.0](https://github.com/buluma/disk-map/releases/tag/0.6.0), 3 days ago) - MacOS Disk Utility
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.25.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.25.0), 1 week ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 week ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 2 weeks ago) - 
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 2 weeks ago) - Install and configure zabbix_web on your system.
