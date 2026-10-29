@@ -15,18 +15,18 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 - [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (1 day ago)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (3 days ago)
-- [buluma/ansible-role-consul_ca](https://github.com/buluma/ansible-role-consul_ca) - Configure Consul CA on your systems. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
@@ -36,6 +36,9 @@ Welcome to my little world.
 - [SOT-16 Check Voice Control consequence keywords in long labels](https://github.com/buluma/sotto/pull/44) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [SOT-13 Cancel pending meeting startup on stop](https://github.com/buluma/sotto/pull/43) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [fix: revalidate Voice Control keyboard fallback target](https://github.com/buluma/sotto/pull/42) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [fix: prioritize initial tab loading](https://github.com/buluma/rollcall/pull/281) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [fix: avoid repeated Vault People cover lookups](https://github.com/buluma/rollcall/pull/280) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [fix: batch Vault-locked People face loading](https://github.com/buluma/rollcall/pull/279) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
 - [fix: validate loopback endpoint hosts](https://github.com/buluma/sotto/pull/41) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
