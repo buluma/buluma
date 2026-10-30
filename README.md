@@ -30,12 +30,12 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [chore: update direct dependencies to latest](https://github.com/buluma/worldmonitor/pull/156) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
+- [chore: update compatible dependencies across packages](https://github.com/buluma/worldmonitor/pull/154) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 - [fix: handle Baileys media stream errors](https://github.com/buluma/OpenWA/pull/19) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 - [build: require Node.js 22.23.4](https://github.com/buluma/Code-Agent-Monitor/pull/84) on [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) (1 day ago)
 - [fix: require Node.js 22.23.4 or newer](https://github.com/buluma/OpenWA/pull/18) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
-- [fix: disable newsletter following](https://github.com/buluma/messageforge/pull/60) on [buluma/messageforge](https://github.com/buluma/messageforge) (2 days ago)
-- [chore(deps): remove unused dependencies](https://github.com/buluma/messageforge/pull/59) on [buluma/messageforge](https://github.com/buluma/messageforge) (2 days ago)
-- [SOT-17 Preserve confirmation on alternate Voice Control targets](https://github.com/buluma/sotto/pull/45) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
