@@ -14,9 +14,9 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (2 days ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
 - [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (3 days ago)
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (3 days ago)
 
@@ -30,6 +30,8 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (1 day ago)
 - [chore: update direct dependencies to latest](https://github.com/buluma/worldmonitor/pull/156) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (1 day ago)
 - [chore: update compatible dependencies across packages](https://github.com/buluma/worldmonitor/pull/154) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (1 day ago)
@@ -39,8 +41,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261031.6b8512c61341](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261031.6b8512c61341), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.27.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.27.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261028.bd572e7febfb](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261028.bd572e7febfb), 3 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 5 days ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
