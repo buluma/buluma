@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: set next release version to 0.2.3](https://github.com/buluma/sotto/pull/48) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (1 day ago)
@@ -41,7 +42,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.1.10-nightly.20261031.6b8512c61341](https://github.com/buluma/sotto/releases/tag/v0.1.10-nightly.20261031.6b8512c61341), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261031.65bea40b3fd1](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261031.65bea40b3fd1), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.27.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.27.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 5 days ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
