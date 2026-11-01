@@ -43,8 +43,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), today) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261031.65bea40b3fd1](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261031.65bea40b3fd1), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.27.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.27.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 6 days ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
