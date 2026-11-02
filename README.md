@@ -14,22 +14,23 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (4 days ago)
-- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (5 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
+- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (today)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (today)
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (today)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
-- [buluma/online](https://github.com/buluma/online) - Online is a live uptime comparison of Claude, OpenAI, and GitHub.
 
 #### 🔨 My recent Pull Requests
 
+- [Show evidence behind server identification](https://github.com/buluma/portmon/pull/1) on [buluma/portmon](https://github.com/buluma/portmon) (today)
 - [feat: add meeting activity reminders](https://github.com/buluma/sotto/pull/49) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/44) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
 - [upstream-port](https://github.com/buluma/pi-free/pull/42) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
@@ -38,7 +39,6 @@ Welcome to my little world.
 - [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
 - [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
 - [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (3 days ago)
-- [chore: update direct dependencies to latest](https://github.com/buluma/worldmonitor/pull/156) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -55,6 +55,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (today)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (6 days ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 week ago)
@@ -64,7 +65,6 @@ Welcome to my little world.
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (3 weeks ago)
 - [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (3 weeks ago)
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (3 weeks ago)
-- [buluma/gods-eye-view](https://github.com/buluma/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (3 weeks ago)
 
 
 
