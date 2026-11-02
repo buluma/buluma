@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (3 days ago)
-- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (4 days ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (4 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (4 days ago)
+- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (5 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,23 +30,22 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add meeting activity reminders](https://github.com/buluma/sotto/pull/49) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/44) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
-- [upstream-port](https://github.com/buluma/pi-free/pull/42) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/38) on [buluma/pi-free](https://github.com/buluma/pi-free) (today)
-- [chore: set next release version to 0.2.3](https://github.com/buluma/sotto/pull/48) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (2 days ago)
-- [chore: update direct dependencies to latest](https://github.com/buluma/worldmonitor/pull/156) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (2 days ago)
-- [chore: update compatible dependencies across packages](https://github.com/buluma/worldmonitor/pull/154) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (2 days ago)
+- [feat: add meeting activity reminders](https://github.com/buluma/sotto/pull/49) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/44) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
+- [upstream-port](https://github.com/buluma/pi-free/pull/42) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
+- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/38) on [buluma/pi-free](https://github.com/buluma/pi-free) (1 day ago)
+- [chore: set next release version to 0.2.3](https://github.com/buluma/sotto/pull/48) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
+- [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
+- [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (2 days ago)
+- [Fix MapLibre imports for typechecking](https://github.com/buluma/worldmonitor/pull/157) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (3 days ago)
+- [chore: update direct dependencies to latest](https://github.com/buluma/worldmonitor/pull/156) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), today) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.27.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.27.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 6 days ago) - Real-time monitoring platform for code agent activity.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.27.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.27.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 1 day ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 1 week ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 2 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 3 weeks ago) - 
@@ -56,8 +55,8 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (5 days ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (6 days ago)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (6 days ago)
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 week ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (2 weeks ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (2 weeks ago)
