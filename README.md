@@ -38,7 +38,6 @@ Welcome to my little world.
 - [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/38) on [buluma/pi-free](https://github.com/buluma/pi-free) (5 days ago)
 - [chore: set next release version to 0.2.3](https://github.com/buluma/sotto/pull/48) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
 - [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
-- [fix(meetings): account for leading echo reference](https://github.com/buluma/sotto/pull/46) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
