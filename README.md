@@ -42,7 +42,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.28.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.28.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 3 days ago) - Port Monitor for macOS
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 5 days ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 5 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
