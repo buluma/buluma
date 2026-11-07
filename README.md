@@ -30,16 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Virtualize large unwrapped diff results](https://github.com/buluma/diffchecker-rs/pull/15) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Render only visible editor overlay lines](https://github.com/buluma/diffchecker-rs/pull/14) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Add shared browser and Rust diff fixtures](https://github.com/buluma/diffchecker-rs/pull/13) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Qualify Rust diff input limits and markers](https://github.com/buluma/diffchecker-rs/pull/12) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Fix Rust commands in packaged desktop builds](https://github.com/buluma/diffchecker-rs/pull/11) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Record Rust port qualification status](https://github.com/buluma/diffchecker-rs/pull/10) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
 - [Fix Rust diff matching and ignore rule parity](https://github.com/buluma/diffchecker-rs/pull/9) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
 - [Port diff filtering and exports to Rust](https://github.com/buluma/diffchecker-rs/pull/8) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
 - [Use Rust syntax highlighting on desktop](https://github.com/buluma/diffchecker-rs/pull/7) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
 - [Compute measured change markers in Rust](https://github.com/buluma/diffchecker-rs/pull/6) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
-- [feat: Use Rust for language detection and merge building](https://github.com/buluma/diffchecker-rs/pull/5) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
-- [fix: remove Rust merge conflict markers](https://github.com/buluma/diffchecker-rs/pull/4) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
-- [feat: Port core algorithms to Rust (Phases 1-3)](https://github.com/buluma/diffchecker-rs/pull/3) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
-- [release: build self-signed DMGs on version tags](https://github.com/buluma/portmon/pull/2) on [buluma/portmon](https://github.com/buluma/portmon) (4 days ago)
-- [Show evidence behind server identification](https://github.com/buluma/portmon/pull/1) on [buluma/portmon](https://github.com/buluma/portmon) (5 days ago)
-- [feat: Port core algorithms to Rust (Phases 1-3)](https://github.com/buluma/diffchecker-rs/pull/2) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
