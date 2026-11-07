@@ -14,50 +14,52 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (1 day ago)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (3 days ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (4 days ago)
-- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (4 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
+- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite. (2 days ago)
+- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity. (4 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (5 days ago)
+- [buluma/messageforge](https://github.com/buluma/messageforge) - A Smart tool that enhances your WhatsApp experience by automating interactions and offering useful features like motivation, media downloads, and interactive polls. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs)
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) - Real-time monitoring platform for code agent activity.
 
 #### 🔨 My recent Pull Requests
 
-- [release: build self-signed DMGs on version tags](https://github.com/buluma/portmon/pull/2) on [buluma/portmon](https://github.com/buluma/portmon) (3 days ago)
-- [Show evidence behind server identification](https://github.com/buluma/portmon/pull/1) on [buluma/portmon](https://github.com/buluma/portmon) (4 days ago)
-- [feat: add meeting activity reminders](https://github.com/buluma/sotto/pull/49) on [buluma/sotto](https://github.com/buluma/sotto) (5 days ago)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/44) on [buluma/pi-free](https://github.com/buluma/pi-free) (5 days ago)
-- [upstream-port](https://github.com/buluma/pi-free/pull/42) on [buluma/pi-free](https://github.com/buluma/pi-free) (5 days ago)
-- [chore: update benchmark data from Artificial Analysis](https://github.com/buluma/pi-free/pull/38) on [buluma/pi-free](https://github.com/buluma/pi-free) (5 days ago)
-- [chore: set next release version to 0.2.3](https://github.com/buluma/sotto/pull/48) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
-- [fix(voice-control): require matching web origin (SOT-14)](https://github.com/buluma/sotto/pull/47) on [buluma/sotto](https://github.com/buluma/sotto) (6 days ago)
+- [Fix Rust diff matching and ignore rule parity](https://github.com/buluma/diffchecker-rs/pull/9) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Port diff filtering and exports to Rust](https://github.com/buluma/diffchecker-rs/pull/8) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Use Rust syntax highlighting on desktop](https://github.com/buluma/diffchecker-rs/pull/7) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Compute measured change markers in Rust](https://github.com/buluma/diffchecker-rs/pull/6) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
+- [feat: Use Rust for language detection and merge building](https://github.com/buluma/diffchecker-rs/pull/5) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
+- [fix: remove Rust merge conflict markers](https://github.com/buluma/diffchecker-rs/pull/4) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
+- [feat: Port core algorithms to Rust (Phases 1-3)](https://github.com/buluma/diffchecker-rs/pull/3) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
+- [release: build self-signed DMGs on version tags](https://github.com/buluma/portmon/pull/2) on [buluma/portmon](https://github.com/buluma/portmon) (4 days ago)
+- [Show evidence behind server identification](https://github.com/buluma/portmon/pull/1) on [buluma/portmon](https://github.com/buluma/portmon) (5 days ago)
+- [feat: Port core algorithms to Rust (Phases 1-3)](https://github.com/buluma/diffchecker-rs/pull/2) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 3 days ago) - Port Monitor for macOS
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 5 days ago) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 5 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 4 days ago) - Port Monitor for macOS
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 6 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 6 days ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 1 week ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 2 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 3 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 4 weeks ago) - 
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 4 weeks ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 4 weeks ago) - Install and configure zabbix_web on your system.
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 month ago) - 
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 month ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 month ago) - Install and configure zabbix_web on your system.
 
 #### ⭐ Recent Stars
 
-- [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (4 days ago)
+- [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (5 days ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (1 week ago)
+- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (2 weeks ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 weeks ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
