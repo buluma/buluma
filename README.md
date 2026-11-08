@@ -43,6 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.7](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.7), today) - 
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 5 days ago) - Port Monitor for macOS
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
@@ -51,7 +52,6 @@ Welcome to my little world.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 2 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 3 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 - [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 month ago) - 
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.10.9), 1 month ago) - Install and configure zabbix_repository on your system.
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 month ago) - Install and configure zabbix_web on your system.
 
 #### ⭐ Recent Stars
