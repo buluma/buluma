@@ -23,7 +23,7 @@ Welcome to my little world.
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
-- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs)
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
@@ -43,7 +43,7 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.7](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.7), today) - 
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), today) - A local text and code comparison tool.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 5 days ago) - Port Monitor for macOS
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
@@ -56,6 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (today)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (6 days ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
@@ -65,7 +66,6 @@ Welcome to my little world.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 month ago)
 - [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 month ago)
-- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 month ago)
 
 
 
