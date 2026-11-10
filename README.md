@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (today)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (today)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (today)
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (today)
+- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (today)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (today)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (today)
+- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -42,8 +42,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 2 days ago) - A local text and code comparison tool.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.29.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.29.1), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 1 week ago) - Port Monitor for macOS
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
