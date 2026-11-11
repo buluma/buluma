@@ -14,8 +14,8 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (1 day ago)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (1 day ago)
 - [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (1 day ago)
 - [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (1 day ago)
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (1 day ago)
