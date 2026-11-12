@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (2 days ago)
-- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (2 days ago)
 - [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (2 days ago)
+- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (2 days ago)
 - [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (2 days ago)
+- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -33,9 +33,6 @@ Welcome to my little world.
 - [docs: initialize OpenWiki documentation](https://github.com/buluma/diffchecker-rs/pull/20) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (2 days ago)
 - [Virtualize large unwrapped diff results](https://github.com/buluma/diffchecker-rs/pull/15) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
 - [Render only visible editor overlay lines](https://github.com/buluma/diffchecker-rs/pull/14) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
-- [Add shared browser and Rust diff fixtures](https://github.com/buluma/diffchecker-rs/pull/13) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
-- [Qualify Rust diff input limits and markers](https://github.com/buluma/diffchecker-rs/pull/12) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
-- [Fix Rust commands in packaged desktop builds](https://github.com/buluma/diffchecker-rs/pull/11) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
