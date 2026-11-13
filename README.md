@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
-- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (2 days ago)
-- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (2 days ago)
-- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (2 days ago)
-- [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) - Setup the [Bareos](https://www.bareos.com/) repositories. (2 days ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
+- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (3 days ago)
+- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (3 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (3 days ago)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,14 +30,11 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: initialize OpenWiki documentation](https://github.com/buluma/diffchecker-rs/pull/20) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (2 days ago)
-- [Virtualize large unwrapped diff results](https://github.com/buluma/diffchecker-rs/pull/15) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
-- [Render only visible editor overlay lines](https://github.com/buluma/diffchecker-rs/pull/14) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.0), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 4 days ago) - A local text and code comparison tool.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.0), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 5 days ago) - A local text and code comparison tool.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 1 week ago) - Port Monitor for macOS
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
@@ -49,12 +46,12 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (4 days ago)
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (5 days ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (1 week ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (2 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 weeks ago)
 - [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (2 weeks ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (4 weeks ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 month ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 month ago)
