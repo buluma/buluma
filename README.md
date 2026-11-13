@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
 - [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (3 days ago)
-- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (3 days ago)
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (3 days ago)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,9 +30,13 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(chat): trim extracted URLs in linear time](https://github.com/buluma/odysseus/pull/82) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
+- [Merge upstream/dev (3d01007b) into main-v2](https://github.com/buluma/odysseus/pull/81) on [buluma/odysseus](https://github.com/buluma/odysseus) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), today) - My collection of roles commonly used
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), today) - Install and configure Telegraf on your system.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.0), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 5 days ago) - A local text and code comparison tool.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.4](https://github.com/buluma/portmon/releases/tag/v0.3.4), 1 week ago) - Port Monitor for macOS
@@ -41,11 +45,10 @@ Welcome to my little world.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 2 weeks ago) - Real-time monitoring platform for code agent activity.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 3 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 4 weeks ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
-- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 month ago) - 
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.10.9](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.10.9), 1 month ago) - Install and configure zabbix_web on your system.
 
 #### ⭐ Recent Stars
 
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (today)
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (5 days ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (1 week ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (2 weeks ago)
@@ -55,7 +58,6 @@ Welcome to my little world.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (1 month ago)
-- [buluma/odysseus](https://github.com/buluma/odysseus) - Self-hosted AI workspace.  (1 month ago)
 
 
 
