@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (1 day ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (3 days ago)
-- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (4 days ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Improve album browsing and cover selection](https://github.com/buluma/rollcall/pull/284) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 - [Add direct Google Calendar connection](https://github.com/buluma/sotto/pull/50) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [fix: guard health cache and test service lifecycles](https://github.com/buluma/portmon/pull/5) on [buluma/portmon](https://github.com/buluma/portmon) (today)
 - [fix: report scan failures and track tunnels](https://github.com/buluma/portmon/pull/4) on [buluma/portmon](https://github.com/buluma/portmon) (today)
@@ -37,15 +38,15 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261114.06a4464cbe55](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261114.06a4464cbe55), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), today) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), today) - Port Monitor for macOS
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.1), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 1 day ago) - My collection of roles commonly used
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), 1 day ago) - Install and configure Telegraf on your system.
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 6 days ago) - A local text and code comparison tool.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261101.41106ee4d47b](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261101.41106ee4d47b), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 2 weeks ago) - Real-time monitoring platform for code agent activity.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.7.2](https://github.com/buluma/reddie/releases/tag/v1.7.2), 3 weeks ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 month ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 
 #### ⭐ Recent Stars
