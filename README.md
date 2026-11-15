@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (1 day ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
+- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (2 days ago)
+- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,33 +30,30 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Improve album browsing and cover selection](https://github.com/buluma/rollcall/pull/284) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [Add direct Google Calendar connection](https://github.com/buluma/sotto/pull/50) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [fix: guard health cache and test service lifecycles](https://github.com/buluma/portmon/pull/5) on [buluma/portmon](https://github.com/buluma/portmon) (today)
-- [fix: report scan failures and track tunnels](https://github.com/buluma/portmon/pull/4) on [buluma/portmon](https://github.com/buluma/portmon) (today)
-- [fix: improve process lifecycle handling](https://github.com/buluma/portmon/pull/3) on [buluma/portmon](https://github.com/buluma/portmon) (today)
+- [Handle unavailable Drive client in Calendar settings](https://github.com/buluma/sotto/pull/51) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Add direct Google Calendar connection](https://github.com/buluma/sotto/pull/50) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261114.06a4464cbe55](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261114.06a4464cbe55), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), today) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), today) - Port Monitor for macOS
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.1), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 1 day ago) - My collection of roles commonly used
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), 1 day ago) - Install and configure Telegraf on your system.
-- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 6 days ago) - A local text and code comparison tool.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 1 week ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261114.63df4aa92fcc](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261114.63df4aa92fcc), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 1 day ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
+- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 1 day ago) - Port Monitor for macOS
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 2 days ago) - My collection of roles commonly used
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), 2 days ago) - Install and configure Telegraf on your system.
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 1 week ago) - A local text and code comparison tool.
+- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 2 weeks ago) - Real-time monitoring platform for code agent activity.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 month ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
 
 #### ⭐ Recent Stars
 
-- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (today)
-- [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (today)
-- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (today)
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment (today)
-- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 day ago)
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (6 days ago)
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (1 day ago)
+- [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (1 day ago)
+- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (1 day ago)
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment (1 day ago)
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (2 days ago)
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (1 week ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (1 week ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (2 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 weeks ago)
