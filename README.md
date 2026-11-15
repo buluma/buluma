@@ -18,7 +18,7 @@ Welcome to my little world.
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (2 days ago)
-- [buluma/ansible-role-nfs](https://github.com/buluma/ansible-role-nfs) - Install NFS utilities on RedHat/CentOS or Debian/Ubuntu. (5 days ago)
+- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,15 +30,21 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Improve dashboard and navigation usability](https://github.com/buluma/mpesa-analyser/pull/4) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
+- [Add test and build CI](https://github.com/buluma/mpesa-analyser/pull/3) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
+- [Improve financial data reliability and safety](https://github.com/buluma/mpesa-analyser/pull/2) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
+- [Fix Google Calendar Keychain access recovery](https://github.com/buluma/sotto/pull/53) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [Fix Baileys message identity and receipt handling](https://github.com/buluma/OpenWA/pull/21) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [Fix Baileys status stanza handling](https://github.com/buluma/OpenWA/pull/20) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [Fix calendar toggle alignment and transcript find](https://github.com/buluma/sotto/pull/52) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 - [Handle unavailable Drive client in Calendar settings](https://github.com/buluma/sotto/pull/51) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
-- [Add direct Google Calendar connection](https://github.com/buluma/sotto/pull/50) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261114.63df4aa92fcc](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261114.63df4aa92fcc), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261115.0d06ad273a91](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261115.0d06ad273a91), today) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.2), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 1 day ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 1 day ago) - Port Monitor for macOS
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 2 days ago) - My collection of roles commonly used
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), 2 days ago) - Install and configure Telegraf on your system.
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 1 week ago) - A local text and code comparison tool.
