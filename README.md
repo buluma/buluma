@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (1 day ago)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (2 days ago)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (2 days ago)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,14 +30,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Improve dashboard and navigation usability](https://github.com/buluma/mpesa-analyser/pull/4) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
-- [Add test and build CI](https://github.com/buluma/mpesa-analyser/pull/3) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
-- [Improve financial data reliability and safety](https://github.com/buluma/mpesa-analyser/pull/2) on [buluma/mpesa-analyser](https://github.com/buluma/mpesa-analyser) (today)
-- [Fix Google Calendar Keychain access recovery](https://github.com/buluma/sotto/pull/53) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Fix Baileys message identity and receipt handling](https://github.com/buluma/OpenWA/pull/21) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
-- [Fix Baileys status stanza handling](https://github.com/buluma/OpenWA/pull/20) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
-- [Fix calendar toggle alignment and transcript find](https://github.com/buluma/sotto/pull/52) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [Handle unavailable Drive client in Calendar settings](https://github.com/buluma/sotto/pull/51) on [buluma/sotto](https://github.com/buluma/sotto) (1 day ago)
+- [Move image search to viewer toolbar](https://github.com/buluma/rollcall/pull/295) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Search library and unlocked Vault photos](https://github.com/buluma/rollcall/pull/294) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Migrate lint and formatting to Bun](https://github.com/buluma/rollcall/pull/293) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add reverse image search interface](https://github.com/buluma/rollcall/pull/292) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add reverse image search API](https://github.com/buluma/rollcall/pull/291) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Store authorized reverse image records](https://github.com/buluma/rollcall/pull/290) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Prepare authorized reverse image records](https://github.com/buluma/rollcall/pull/289) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Add reverse image search matching foundation](https://github.com/buluma/rollcall/pull/288) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
