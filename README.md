@@ -14,9 +14,9 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (2 days ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (3 days ago)
 - [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (6 days ago)
 
@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: migrate to upstream World Monitor](https://github.com/buluma/worldmonitor/pull/161) on [buluma/worldmonitor](https://github.com/buluma/worldmonitor) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,6 +47,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (today)
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (2 days ago)
 - [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (2 days ago)
 - [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (2 days ago)
@@ -55,7 +57,6 @@ Welcome to my little world.
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (2 weeks ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (2 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (3 weeks ago)
-- [buluma/telegram-media-downloader](https://github.com/buluma/telegram-media-downloader) - A high-performance Telegram Media Downloader CLI. Auto-download Photos/Videos from Channels, backup Chat History, and monitor Groups 24/7 with auto-resume support. (3 weeks ago)
 
 
 
