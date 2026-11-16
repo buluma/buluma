@@ -33,8 +33,8 @@ Welcome to my little world.
 
 #### 🔭 Latest releases I've contributed to
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.3), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261115.0d06ad273a91](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261115.0d06ad273a91), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.2](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.2), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 2 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 2 days ago) - Port Monitor for macOS
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 3 days ago) - My collection of roles commonly used
