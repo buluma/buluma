@@ -30,10 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: migrate person detail to SvelteKit](https://github.com/buluma/rollcall/pull/303) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: restore SvelteKit sidebar navigation](https://github.com/buluma/rollcall/pull/302) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [ui: migrate People view to SvelteKit](https://github.com/buluma/rollcall/pull/301) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: add separate SvelteKit web service](https://github.com/buluma/rollcall/pull/300) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Maintenance to SvelteKit](https://github.com/buluma/rollcall/pull/315) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Following to SvelteKit](https://github.com/buluma/rollcall/pull/314) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Restore Svelte sidebar controls](https://github.com/buluma/rollcall/pull/313) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: protect signed-out navigation and counts](https://github.com/buluma/rollcall/pull/312) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Slideshow to SvelteKit](https://github.com/buluma/rollcall/pull/311) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Duplicates to SvelteKit](https://github.com/buluma/rollcall/pull/310) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: align Review controls and active tabs](https://github.com/buluma/rollcall/pull/309) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Review to SvelteKit](https://github.com/buluma/rollcall/pull/308) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [ui: migrate Vault to SvelteKit](https://github.com/buluma/rollcall/pull/307) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
