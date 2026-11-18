@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
 - [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (3 days ago)
 - [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (4 days ago)
 - [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (5 days ago)
+- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,16 +30,6 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Review, Duplicates and sidebar parity polish in Svelte (RC-29)](https://github.com/buluma/rollcall/pull/329) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: Library tag links, upload status and Vault trash sizes in Svelte (RC-28)](https://github.com/buluma/rollcall/pull/328) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: People and person page parity polish in Svelte (RC-27)](https://github.com/buluma/rollcall/pull/327) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [chore: keep one source for the shared stylesheet, favicon and fonts (RC-26)](https://github.com/buluma/rollcall/pull/326) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [docs: record the SvelteKit proxy cutover (RC-31)](https://github.com/buluma/rollcall/pull/325) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: harden batch face rejection on the Svelte person page (RC-23)](https://github.com/buluma/rollcall/pull/324) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: searchable person merge with face preview in Svelte (RC-22)](https://github.com/buluma/rollcall/pull/323) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: restore People filters, scroll and order in Svelte (RC-20)](https://github.com/buluma/rollcall/pull/322) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: announce media changes after Svelte deletes and downloads (RC-19)](https://github.com/buluma/rollcall/pull/321) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: wire Library viewer reverse search and reveal links (RC-16, RC-17)](https://github.com/buluma/rollcall/pull/320) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -48,11 +38,11 @@ Welcome to my little world.
 - [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 4 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
 - [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 4 days ago) - Port Monitor for macOS
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 5 days ago) - My collection of roles commonly used
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) ([v26.11.0](https://github.com/buluma/ansible-role-telegraf/releases/tag/v26.11.0), 5 days ago) - Install and configure Telegraf on your system.
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 1 week ago) - A local text and code comparison tool.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 3 weeks ago) - Real-time monitoring platform for code agent activity.
 - [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 month ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/centos-tomcat](https://github.com/buluma/centos-tomcat) ([v10.1.60](https://github.com/buluma/centos-tomcat/releases/tag/v10.1.60), 1 month ago) - 
 
 #### ⭐ Recent Stars
 
