@@ -30,15 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: improve Vault navigation and profile controls](https://github.com/buluma/rollcall/pull/318) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [fix: close Svelte migration gaps](https://github.com/buluma/rollcall/pull/317) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [ui: restore shared navigation and improve error page](https://github.com/buluma/rollcall/pull/316) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [ui: migrate Maintenance to SvelteKit](https://github.com/buluma/rollcall/pull/315) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [ui: migrate Following to SvelteKit](https://github.com/buluma/rollcall/pull/314) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [Restore Svelte sidebar controls](https://github.com/buluma/rollcall/pull/313) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [fix: protect signed-out navigation and counts](https://github.com/buluma/rollcall/pull/312) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [ui: migrate Slideshow to SvelteKit](https://github.com/buluma/rollcall/pull/311) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
-- [ui: migrate Duplicates to SvelteKit](https://github.com/buluma/rollcall/pull/310) on [buluma/rollcall](https://github.com/buluma/rollcall) (1 day ago)
+- [fix: Review, Duplicates and sidebar parity polish in Svelte (RC-29)](https://github.com/buluma/rollcall/pull/329) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: Library tag links, upload status and Vault trash sizes in Svelte (RC-28)](https://github.com/buluma/rollcall/pull/328) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: People and person page parity polish in Svelte (RC-27)](https://github.com/buluma/rollcall/pull/327) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [chore: keep one source for the shared stylesheet, favicon and fonts (RC-26)](https://github.com/buluma/rollcall/pull/326) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [docs: record the SvelteKit proxy cutover (RC-31)](https://github.com/buluma/rollcall/pull/325) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: harden batch face rejection on the Svelte person page (RC-23)](https://github.com/buluma/rollcall/pull/324) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: searchable person merge with face preview in Svelte (RC-22)](https://github.com/buluma/rollcall/pull/323) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: restore People filters, scroll and order in Svelte (RC-20)](https://github.com/buluma/rollcall/pull/322) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: announce media changes after Svelte deletes and downloads (RC-19)](https://github.com/buluma/rollcall/pull/321) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [fix: wire Library viewer reverse search and reveal links (RC-16, RC-17)](https://github.com/buluma/rollcall/pull/320) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -55,6 +56,7 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (today)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (2 days ago)
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (4 days ago)
 - [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (4 days ago)
@@ -64,7 +66,6 @@ Welcome to my little world.
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (1 week ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (2 weeks ago)
 - [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (3 weeks ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (3 weeks ago)
 
 
 
