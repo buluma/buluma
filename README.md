@@ -30,6 +30,7 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Backport upstream: chats/read unread reset, dashboard cards, SSRF ranges, owner-only media, webhook audit](https://github.com/buluma/OpenWA/pull/22) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
 
 #### 🔭 Latest releases I've contributed to
 
