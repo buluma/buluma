@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) - Install and configure jenkins on your system. (2 days ago)
-- [buluma/worldmonitor](https://github.com/buluma/worldmonitor) -  (3 days ago)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (5 days ago)
-- [buluma/reddie](https://github.com/buluma/reddie) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app. (6 days ago)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (1 week ago)
+- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
+- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
+- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
+- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (today)
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,7 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Backport upstream: chats/read unread reset, dashboard cards, SSRF ranges, owner-only media, webhook audit](https://github.com/buluma/OpenWA/pull/22) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [ANS-39: Match the 0600 mode Bitbucket applies to bitbucket.properties](https://github.com/buluma/ansible-role-bitbucket/pull/39) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
+- [ANS-39: Use ansible_facts instead of injected fact variables](https://github.com/buluma/ansible-role-virtualbox/pull/27) on [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) (today)
+- [ANS-39: Use ansible_facts for the python version](https://github.com/buluma/ansible-role-python_pip/pull/53) on [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) (today)
+- [ANS-39: Use ansible_facts.services in the verify playbook](https://github.com/buluma/ansible-role-influxdb2/pull/59) on [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) (today)
+- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-npm/pull/32) on [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) (today)
+- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-jenkins/pull/65) on [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) (today)
+- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-beats/pull/36) on [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) (today)
+- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-bareos_repository/pull/15) on [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) (today)
+- [ANS-39: Migrate apt_repository to deb822_repository, set min_ansible_version to 2.19](https://github.com/buluma/ansible-role-varnish/pull/59) on [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) (today)
+- [ANS-39: Migrate apt_repository to deb822_repository, set min_ansible_version to 2.19](https://github.com/buluma/ansible-role-datadog/pull/37) on [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) (today)
 
 #### 🔭 Latest releases I've contributed to
 
