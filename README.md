@@ -16,30 +16,27 @@ Welcome to my little world.
 
 - [buluma/ansible-role-os_updates](https://github.com/buluma/ansible-role-os_updates) - Ansible role to install OS updates. (today)
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (today)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/ansible-role-demo](https://github.com/buluma/ansible-role-demo) -  (today)
-- [buluma/gcc](https://github.com/buluma/gcc) - GitHub Command Center (today)
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 
 #### 🔨 My recent Pull Requests
 
+- [fix(deps): override effect to ^3.22.5 for GHSA-7589-6fvf-x4pw](https://github.com/buluma/redmine-dashboard/pull/167) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
+- [feat(gr8r): push Redmine tickets newly assigned to me into gr8r (CON-15)](https://github.com/buluma/redmine-dashboard/pull/166) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [refactor: remove unused embeddings](https://github.com/buluma/redmine-dashboard/pull/165) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
 - [feat: add CLIProxyAPI provider](https://github.com/buluma/redmine-dashboard/pull/164) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (today)
-- [docs: the live server runs on heimdal (GR8R-111)](https://github.com/buluma/task_manager/pull/132) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [feat: show what a task is blocking (GR8R-114)](https://github.com/buluma/task_manager/pull/131) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [fix: refuse circular Blocked by dependencies (GR8R-113)](https://github.com/buluma/task_manager/pull/130) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [fix: offer other projects&#39; tasks in the Blocked by picker (GR8R-112)](https://github.com/buluma/task_manager/pull/129) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
 - [Refresh active repository commit details in bounded batches](https://github.com/buluma/gcc/pull/29) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Add operator-run hosted service diagnostics](https://github.com/buluma/gcc/pull/28) on [buluma/gcc](https://github.com/buluma/gcc) (today)
 - [Smoke-test the image built by the Docker workflow](https://github.com/buluma/gcc/pull/27) on [buluma/gcc](https://github.com/buluma/gcc) (today)
-- [Release 5.1.0](https://github.com/buluma/ansible-collection-roles/pull/9) on [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) (today)
 
 #### 🔭 Latest releases I've contributed to
 
