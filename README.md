@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-maven](https://github.com/buluma/ansible-role-maven) - Install and configure Apache Maven on your systems. (today)
-- [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) - Install pythons pip on your system. (today)
-- [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) - Install and configure Telegraf on your system. (today)
-- [buluma/ansible-role-ruby_gems](https://github.com/buluma/ansible-role-ruby_gems) - Ansible Role - Ruby Gems (today)
-- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) - Install and configure SonarQube. (today)
+- [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) - Install and configure netdata. (today)
+- [buluma/ansible-role-owncloud](https://github.com/buluma/ansible-role-owncloud) - Install and configure owncloud on your system. (1 day ago)
+- [buluma/ansible-role-fish](https://github.com/buluma/ansible-role-fish) - Install the Friendly Interactive Shell (fish). (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,24 +30,24 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [ANS-39: Match the 0600 mode Bitbucket applies to bitbucket.properties](https://github.com/buluma/ansible-role-bitbucket/pull/39) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
-- [ANS-39: Use ansible_facts instead of injected fact variables](https://github.com/buluma/ansible-role-virtualbox/pull/27) on [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) (today)
-- [ANS-39: Use ansible_facts for the python version](https://github.com/buluma/ansible-role-python_pip/pull/53) on [buluma/ansible-role-python_pip](https://github.com/buluma/ansible-role-python_pip) (today)
-- [ANS-39: Use ansible_facts.services in the verify playbook](https://github.com/buluma/ansible-role-influxdb2/pull/59) on [buluma/ansible-role-influxdb2](https://github.com/buluma/ansible-role-influxdb2) (today)
-- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-npm/pull/32) on [buluma/ansible-role-npm](https://github.com/buluma/ansible-role-npm) (today)
-- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-jenkins/pull/65) on [buluma/ansible-role-jenkins](https://github.com/buluma/ansible-role-jenkins) (today)
-- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-beats/pull/36) on [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) (today)
-- [ANS-39: Silence args[module] lint warning on templated types](https://github.com/buluma/ansible-role-bareos_repository/pull/15) on [buluma/ansible-role-bareos_repository](https://github.com/buluma/ansible-role-bareos_repository) (today)
-- [ANS-39: Migrate apt_repository to deb822_repository, set min_ansible_version to 2.19](https://github.com/buluma/ansible-role-varnish/pull/59) on [buluma/ansible-role-varnish](https://github.com/buluma/ansible-role-varnish) (today)
-- [ANS-39: Migrate apt_repository to deb822_repository, set min_ansible_version to 2.19](https://github.com/buluma/ansible-role-datadog/pull/37) on [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) (today)
+- [ANS-41: Stop shipping a default TLS key in vault_configuration](https://github.com/buluma/ansible-role-vault_configuration/pull/14) on [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) (1 day ago)
+- [ANS-57: Update vector to 0.62.0](https://github.com/buluma/ansible-role-vector/pull/45) on [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) (1 day ago)
+- [ANS-46: Update firefox to 160.0.1](https://github.com/buluma/ansible-role-firefox/pull/39) on [buluma/ansible-role-firefox](https://github.com/buluma/ansible-role-firefox) (1 day ago)
+- [ANS-56: Update sonarqube to 26.11.0.134175](https://github.com/buluma/ansible-role-sonarqube/pull/16) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (1 day ago)
+- [ANS-54: Update kubernetes to 1.37](https://github.com/buluma/ansible-role-kubernetes/pull/31) on [buluma/ansible-role-kubernetes](https://github.com/buluma/ansible-role-kubernetes) (1 day ago)
+- [ANS-50: Update tomcat to 9.0.124](https://github.com/buluma/ansible-role-tomcat/pull/46) on [buluma/ansible-role-tomcat](https://github.com/buluma/ansible-role-tomcat) (1 day ago)
+- [ANS-58: Update victoriametrics to 1.156.0](https://github.com/buluma/ansible-role-victoriametrics/pull/34) on [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) (1 day ago)
+- [ANS-49: Update solr to 9.11.0](https://github.com/buluma/ansible-role-solr/pull/69) on [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) (1 day ago)
+- [ANS-55: Update netdata to v2.13.0](https://github.com/buluma/ansible-role-netdata/pull/31) on [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) (1 day ago)
+- [ANS-52: Update gitea to 28.4.0](https://github.com/buluma/ansible-role-gitea/pull/27) on [buluma/ansible-role-gitea](https://github.com/buluma/ansible-role-gitea) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.3), 4 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261115.0d06ad273a91](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261115.0d06ad273a91), 5 days ago) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 6 days ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 6 days ago) - Port Monitor for macOS
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([3.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/3.0.0), 1 week ago) - My collection of roles commonly used
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([4.0.0](https://github.com/buluma/ansible-collection-roles/releases/tag/4.0.0), 1 day ago) - My collection of roles commonly used
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.30.3](https://github.com/rmyndharis/OpenWA/releases/tag/v0.30.3), 5 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261115.0d06ad273a91](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261115.0d06ad273a91), 6 days ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
+- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 1 week ago) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 1 week ago) - A local text and code comparison tool.
 - [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 2 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
 - [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 3 weeks ago) - Real-time monitoring platform for code agent activity.
@@ -56,12 +56,12 @@ Welcome to my little world.
 
 #### ⭐ Recent Stars
 
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (2 days ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (4 days ago)
-- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (6 days ago)
-- [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (6 days ago)
-- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (6 days ago)
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment (6 days ago)
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (3 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (1 week ago)
+- [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (1 week ago)
+- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (1 week ago)
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment (1 week ago)
 - [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (1 week ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (2 weeks ago)
