@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-crowd](https://github.com/buluma/ansible-role-crowd) - Install and configure Atlassian Crowd. (1 day ago)
-- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (1 day ago)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (1 day ago)
-- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
+- [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (today)
+- [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems. (today)
+- [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (today)
+- [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication. (today)
+- [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,29 +30,29 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(webhooks): send ticket.completed when a ticket is closed or resolved (CON-20)](https://github.com/buluma/redmine-dashboard/pull/173) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [chore: drop the last mobile leftovers](https://github.com/buluma/redmine-dashboard/pull/172) on [buluma/redmine-dashboard](https://github.com/buluma/redmine-dashboard) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-telegraf/pull/80) on [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-thunderbird/pull/35) on [buluma/ansible-role-thunderbird](https://github.com/buluma/ansible-role-thunderbird) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-roundcubemail/pull/25) on [buluma/ansible-role-roundcubemail](https://github.com/buluma/ansible-role-roundcubemail) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-postgresql_replication/pull/28) on [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-obsproject/pull/40) on [buluma/ansible-role-obsproject](https://github.com/buluma/ansible-role-obsproject) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-mozilla_syncserver/pull/43) on [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-kibana/pull/55) on [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) (1 day ago)
-- [ANS-70: Fix changelog workflow](https://github.com/buluma/ansible-role-bitbucket/pull/41) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (1 day ago)
+- [ANS-73: Use verified local RPM repository keys](https://github.com/buluma/ansible-role-openjdk/pull/48) on [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) (today)
+- [ANS-71: Reject unavailable Bitbucket repositories](https://github.com/buluma/ansible-role-bitbucket/pull/43) on [buluma/ansible-role-bitbucket](https://github.com/buluma/ansible-role-bitbucket) (today)
+- [ANS-79: Restore tested Netdata platforms](https://github.com/buluma/ansible-role-netdata/pull/35) on [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata) (today)
+- [ANS-71: Fix OpenJDK EL repository mappings](https://github.com/buluma/ansible-role-openjdk/pull/47) on [buluma/ansible-role-openjdk](https://github.com/buluma/ansible-role-openjdk) (today)
+- [ANS-76: Fix Telegraf SUSE repository mappings](https://github.com/buluma/ansible-role-telegraf/pull/81) on [buluma/ansible-role-telegraf](https://github.com/buluma/ansible-role-telegraf) (today)
+- [GR-16: Use ansible_facts bracket notation instead of top-level facts](https://github.com/buluma/ansible-role-lemp_stack/pull/16) on [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) (today)
+- [GR-16: Use ansible_facts bracket notation instead of top-level facts](https://github.com/buluma/ansible-role-sonarqube/pull/17) on [buluma/ansible-role-sonarqube](https://github.com/buluma/ansible-role-sonarqube) (today)
+- [GR-16: Use ansible_facts bracket notation instead of top-level facts](https://github.com/buluma/ansible-role-datadog/pull/41) on [buluma/ansible-role-datadog](https://github.com/buluma/ansible-role-datadog) (today)
+- [ANS-80: Test Ansible 2.19 compatibility](https://github.com/buluma/ansible-role-vault/pull/46) on [buluma/ansible-role-vault](https://github.com/buluma/ansible-role-vault) (today)
+- [ANS-80: Test Ansible 2.19 compatibility](https://github.com/buluma/ansible-role-go/pull/52) on [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.0](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.0), 1 day ago) - My collection of roles commonly used
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.31.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.31.0), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.11.0](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.11.0), 1 day ago) - Configure HashiCorp Vault on your system.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261115.0d06ad273a91](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261115.0d06ad273a91), 1 week ago) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/reddie](https://github.com/buluma/reddie) ([v1.8.1](https://github.com/buluma/reddie/releases/tag/v1.8.1), 1 week ago) - A desktop Kanban board for Redmine. No server, no backend — just Redmine plus this app.
-- [buluma/portmon](https://github.com/buluma/portmon) ([v0.3.5](https://github.com/buluma/portmon/releases/tag/v0.3.5), 1 week ago) - Port Monitor for macOS
-- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.8](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.8), 2 weeks ago) - A local text and code comparison tool.
-- [buluma/pi-free](https://github.com/buluma/pi-free) ([v2.8.6](https://github.com/buluma/pi-free/releases/tag/v2.8.6), 3 weeks ago) - Free AI model providers for Pi. Access free models from multiple providers in one install.
-- [buluma/Code-Agent-Monitor](https://github.com/buluma/Code-Agent-Monitor) ([v2.2.10](https://github.com/buluma/Code-Agent-Monitor/releases/tag/v2.2.10), 3 weeks ago) - Real-time monitoring platform for code agent activity.
-- [buluma/Redmine-desktop](https://github.com/buluma/Redmine-desktop) ([v2.4.8](https://github.com/buluma/Redmine-desktop/releases/tag/v2.4.8), 1 month ago) - A powerful, high-performance, and beautiful cross-platform Redmine client built with Electron, React, and Vite.
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), today) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.11.0), today) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.11.0), today) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), today) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), today) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.11.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.11.0), today) - Install and configure xinetd on your system.
+- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.11.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.11.0), today) - Install and configure virtualbox on your system.
+- [buluma/ansible-role-victoriametrics](https://github.com/buluma/ansible-role-victoriametrics) ([v26.11.0](https://github.com/buluma/ansible-role-victoriametrics/releases/tag/v26.11.0), today) - Install VictoriaMetrics on your system.
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) ([v26.11.0](https://github.com/buluma/ansible-role-vector/releases/tag/v26.11.0), today) - Install and configure Vector for debian systems.
+- [buluma/ansible-role-vault_configuration](https://github.com/buluma/ansible-role-vault_configuration) ([26.11.1](https://github.com/buluma/ansible-role-vault_configuration/releases/tag/26.11.1), today) - Configure HashiCorp Vault on your system.
 
 #### ⭐ Recent Stars
 
