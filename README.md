@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/docker-molecule-images](https://github.com/buluma/docker-molecule-images) - Docker Molecule Images for Testing Ansible Roles. (today)
 - [buluma/ansible-role-mozilla_syncserver](https://github.com/buluma/ansible-role-mozilla_syncserver) - Install and configure Mozilla Sync Server. (1 day ago)
-- [buluma/ansible-role-postgresql_replication](https://github.com/buluma/ansible-role-postgresql_replication) - Ansible role to deploy PostgreSQL replication. (1 day ago)
 - [buluma/ansible-role-kibana](https://github.com/buluma/ansible-role-kibana) - Ansible role to install Kibana for Linux. (1 day ago)
+- [buluma/ansible-role-bamboo](https://github.com/buluma/ansible-role-bamboo) - Ansible Role for Atlassian Bamboo Installation (1 day ago)
 - [buluma/ansible-role-lemp_stack](https://github.com/buluma/ansible-role-lemp_stack) -  (1 day ago)
-- [buluma/ansible-role-go](https://github.com/buluma/ansible-role-go) - An Ansible Role that installs Go (the language) on Linux. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,7 +30,14 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Release 5.1.1](https://github.com/buluma/ansible-collection-roles/pull/11) on [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) (1 day ago)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-nginx/pull/31) on [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-ntp/pull/45) on [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-docker/pull/55) on [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-apt_repository/pull/52) on [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) (today)
+- [End generated markdown with a single newline](https://github.com/buluma/ansible-generator/pull/22) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
+- [Remove unused leftovers](https://github.com/buluma/ansible-generator/pull/21) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
+- [Refresh repo docs and CI](https://github.com/buluma/ansible-generator/pull/20) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
+- [Pin tools in generated CI](https://github.com/buluma/ansible-generator/pull/19) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
 
 #### 🔭 Latest releases I've contributed to
 
