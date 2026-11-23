@@ -30,14 +30,16 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-nginx/pull/31) on [buluma/ansible-role-nginx](https://github.com/buluma/ansible-role-nginx) (today)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-ntp/pull/45) on [buluma/ansible-role-ntp](https://github.com/buluma/ansible-role-ntp) (today)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-docker/pull/55) on [buluma/ansible-role-docker](https://github.com/buluma/ansible-role-docker) (today)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-apt_repository/pull/52) on [buluma/ansible-role-apt_repository](https://github.com/buluma/ansible-role-apt_repository) (today)
-- [End generated markdown with a single newline](https://github.com/buluma/ansible-generator/pull/22) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
-- [Remove unused leftovers](https://github.com/buluma/ansible-generator/pull/21) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
-- [Refresh repo docs and CI](https://github.com/buluma/ansible-generator/pull/20) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
-- [Pin tools in generated CI](https://github.com/buluma/ansible-generator/pull/19) on [buluma/ansible-generator](https://github.com/buluma/ansible-generator) (today)
+- [Backport upstream v0.31.0 Baileys, dashboard and MCP fixes](https://github.com/buluma/OpenWA/pull/23) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-podman/pull/38) on [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-php_fpm/pull/38) on [buluma/ansible-role-php_fpm](https://github.com/buluma/ansible-role-php_fpm) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-php/pull/58) on [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-perforce/pull/39) on [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-bareos_console/pull/15) on [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-zabbix_web/pull/36) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-zabbix_server/pull/39) on [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-zabbix_repository/pull/47) on [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) (today)
+- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-zabbix_proxy/pull/42) on [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) (today)
 
 #### 🔭 Latest releases I've contributed to
 
