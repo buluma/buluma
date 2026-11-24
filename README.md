@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (today)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (today)
+- [buluma/ansible-role-adminer](https://github.com/buluma/ansible-role-adminer) - Install Adminer for Database management. (today)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (today)
 - [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems. (today)
-- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (today)
-- [buluma/ansible-role-bareos_webui](https://github.com/buluma/ansible-role-bareos_webui) - Install and configure [Bareos](https://www.bareos.com/) WebUI on your system. (today)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (today)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,17 +30,10 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
-- [Backport upstream v0.31.0 Baileys, dashboard and MCP fixes](https://github.com/buluma/OpenWA/pull/23) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-podman/pull/38) on [buluma/ansible-role-podman](https://github.com/buluma/ansible-role-podman) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-php_fpm/pull/38) on [buluma/ansible-role-php_fpm](https://github.com/buluma/ansible-role-php_fpm) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-php/pull/58) on [buluma/ansible-role-php](https://github.com/buluma/ansible-role-php) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-perforce/pull/39) on [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-bareos_console/pull/15) on [buluma/ansible-role-bareos_console](https://github.com/buluma/ansible-role-bareos_console) (1 day ago)
-- [Regenerate files with ansible-generator](https://github.com/buluma/ansible-role-zabbix_web/pull/36) on [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.0](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.0), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), today) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 2 days ago) - Install and configure postgres on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 2 days ago) - My collection of roles commonly used
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), 2 days ago) - Install and configure zabbix_web on your system.
