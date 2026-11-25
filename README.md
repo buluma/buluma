@@ -15,18 +15,18 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 day ago)
+- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
+- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (1 day ago)
 - [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 day ago)
-- [buluma/ansible-role-perforce](https://github.com/buluma/ansible-role-perforce) - Install and Configure Perforce on your systems. (1 day ago)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (1 day ago)
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (1 day ago)
+- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) - Deploys and configure Elastic beats. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [buluma/converge](https://github.com/buluma/converge) - Converge: unified ops dashboard connecting Redmine, Slack, AI and more
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
-- [buluma/claude-codex-handoff](https://github.com/buluma/claude-codex-handoff)
 
 #### 🔨 My recent Pull Requests
 
