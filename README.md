@@ -16,9 +16,9 @@ Welcome to my little world.
 
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (2 days ago)
-- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (2 days ago)
-- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (2 days ago)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
+- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
+- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,23 +26,24 @@ Welcome to my little world.
 - [buluma/daemonscope](https://github.com/buluma/daemonscope)
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
-- [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 
 #### 🔨 My recent Pull Requests
 
-- [Add automatic Google Drive meeting backups](https://github.com/buluma/sotto/pull/54) on [buluma/sotto](https://github.com/buluma/sotto) (today)
-- [build: keep local env files and data out of the Docker build context](https://github.com/buluma/converge/pull/21) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix: store each day&#39;s WakaTime projects as a JSON array](https://github.com/buluma/converge/pull/20) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [build: keep local env files and data out of the Docker build context](https://github.com/buluma/converge/pull/19) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [chore(deps-dev): bump jsdom to 31 and show the mobile More button in its test](https://github.com/buluma/converge/pull/18) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix(deps): bump web-push to 4 and use its named exports](https://github.com/buluma/converge/pull/17) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix(deps): pin @sentry/* to 11.12.0 so the Bun Docker image can load Sentry](https://github.com/buluma/converge/pull/16) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix: keep WakaTime project names containing &#34;, &#34; owned by their ticket](https://github.com/buluma/converge/pull/10) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix(streamline): drop a model&#39;s records when a later page fails](https://github.com/buluma/converge/pull/9) on [buluma/converge](https://github.com/buluma/converge) (today)
-- [fix: tighten job matching and bound launchd refreshes](https://github.com/buluma/daemonscope/pull/8) on [buluma/daemonscope](https://github.com/buluma/daemonscope) (1 day ago)
+- [fix: remove dead Vault-locked placeholders and type-check the whole web app (RC-55)](https://github.com/buluma/rollcall/pull/356) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [feat: isolate Codex runner execution (GR8R-119)](https://github.com/buluma/task_manager/pull/138) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [fix: type-check Library and batch-delete API contracts (RC-50)](https://github.com/buluma/rollcall/pull/355) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [perf: reuse parsed media metadata and Vault index between media-list requests (RC-54)](https://github.com/buluma/rollcall/pull/354) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [feat: persist and reconcile agent runner claims (GR8R-118)](https://github.com/buluma/task_manager/pull/137) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [feat: add agent runner eligibility (GR8R-117)](https://github.com/buluma/task_manager/pull/136) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [refactor: share the Vault-locked check between single and batch delete (RC-53)](https://github.com/buluma/rollcall/pull/353) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [test: run browser smoke scenarios individually (RC-51)](https://github.com/buluma/rollcall/pull/352) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [chore: benchmark Library pagination and scan phases (RC-48)](https://github.com/buluma/rollcall/pull/351) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [refactor: share media deletion rules (RC-49)](https://github.com/buluma/rollcall/pull/350) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261126.41afe8bebeaf](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261126.41afe8bebeaf), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 4 days ago) - Install and configure postgres on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 4 days ago) - My collection of roles commonly used
@@ -52,7 +53,6 @@ Welcome to my little world.
 - [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix-proxy on your system.
 - [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_agent on your system.
 - [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.11.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.11.0), 4 days ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.11.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.11.0), 4 days ago) - Install and configure virtualbox on your system.
 
 #### ⭐ Recent Stars
 
