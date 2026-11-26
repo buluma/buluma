@@ -14,39 +14,40 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (1 day ago)
-- [buluma/ansible-role-autofs](https://github.com/buluma/ansible-role-autofs) - Install and configure autofs on your system. (1 day ago)
-- [buluma/ansible-role-collectd](https://github.com/buluma/ansible-role-collectd) - Install and configure collectd on your system. (1 day ago)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (1 day ago)
-- [buluma/ansible-role-beats](https://github.com/buluma/ansible-role-beats) - Deploys and configure Elastic beats. (1 day ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 days ago)
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (2 days ago)
+- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (2 days ago)
+- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (2 days ago)
+- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [buluma/converge](https://github.com/buluma/converge) - Converge: unified ops dashboard connecting Redmine, Slack, AI and more
+- [buluma/daemonscope](https://github.com/buluma/daemonscope)
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
 - [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
-- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: tighten job matching and bound launchd refreshes](https://github.com/buluma/daemonscope/pull/8) on [buluma/daemonscope](https://github.com/buluma/daemonscope) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 1 day ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 3 days ago) - Install and configure postgres on your system.
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 3 days ago) - My collection of roles commonly used
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), 3 days ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.11.0), 3 days ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.11.0), 3 days ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), 3 days ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), 3 days ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.11.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.11.0), 3 days ago) - Install and configure xinetd on your system.
-- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.11.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.11.0), 3 days ago) - Install and configure virtualbox on your system.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 4 days ago) - Install and configure postgres on your system.
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 4 days ago) - My collection of roles commonly used
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_agent on your system.
+- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.11.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.11.0), 4 days ago) - Install and configure xinetd on your system.
+- [buluma/ansible-role-virtualbox](https://github.com/buluma/ansible-role-virtualbox) ([26.11.0](https://github.com/buluma/ansible-role-virtualbox/releases/tag/26.11.0), 4 days ago) - Install and configure virtualbox on your system.
 
 #### ⭐ Recent Stars
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (3 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (4 days ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (1 week ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 week ago)
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (1 week ago)
