@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (2 days ago)
+- [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (2 days ago)
 - [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (2 days ago)
-- [buluma/ansible-role-certbot](https://github.com/buluma/ansible-role-certbot) - Ansible Role - Certbot (for Let&#39;s Encrypt) (2 days ago)
-- [buluma/ansible-role-ca](https://github.com/buluma/ansible-role-ca) - Install and configure a certificate authority on your system. (2 days ago)
-- [buluma/ansible-role-locale](https://github.com/buluma/ansible-role-locale) - Configure locale on your system. (2 days ago)
+- [buluma/ansible-role-epel](https://github.com/buluma/ansible-role-epel) - Install epel on your system. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,6 +30,15 @@ Welcome to my little world.
 
 #### 🔨 My recent Pull Requests
 
+- [Add automatic Google Drive meeting backups](https://github.com/buluma/sotto/pull/54) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [build: keep local env files and data out of the Docker build context](https://github.com/buluma/converge/pull/21) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix: store each day&#39;s WakaTime projects as a JSON array](https://github.com/buluma/converge/pull/20) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [build: keep local env files and data out of the Docker build context](https://github.com/buluma/converge/pull/19) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [chore(deps-dev): bump jsdom to 31 and show the mobile More button in its test](https://github.com/buluma/converge/pull/18) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix(deps): bump web-push to 4 and use its named exports](https://github.com/buluma/converge/pull/17) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix(deps): pin @sentry/* to 11.12.0 so the Bun Docker image can load Sentry](https://github.com/buluma/converge/pull/16) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix: keep WakaTime project names containing &#34;, &#34; owned by their ticket](https://github.com/buluma/converge/pull/10) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix(streamline): drop a model&#39;s records when a later page fails](https://github.com/buluma/converge/pull/9) on [buluma/converge](https://github.com/buluma/converge) (today)
 - [fix: tighten job matching and bound launchd refreshes](https://github.com/buluma/daemonscope/pull/8) on [buluma/daemonscope](https://github.com/buluma/daemonscope) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
