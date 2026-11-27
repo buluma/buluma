@@ -15,10 +15,10 @@ Welcome to my little world.
 #### 👷 Check out what I'm currently working on
 
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
-- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (today)
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
-- [buluma/rollcall](https://github.com/buluma/rollcall) - Rollcall — face detection, embedding, and person-clustering library (today)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (2 days ago)
+- [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
+- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (3 days ago)
+- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (3 days ago)
+- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,44 +26,41 @@ Welcome to my little world.
 - [buluma/daemonscope](https://github.com/buluma/daemonscope)
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
+- [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: remove dead Vault-locked placeholders and type-check the whole web app (RC-55)](https://github.com/buluma/rollcall/pull/356) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: isolate Codex runner execution (GR8R-119)](https://github.com/buluma/task_manager/pull/138) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [fix: type-check Library and batch-delete API contracts (RC-50)](https://github.com/buluma/rollcall/pull/355) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [perf: reuse parsed media metadata and Vault index between media-list requests (RC-54)](https://github.com/buluma/rollcall/pull/354) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [feat: persist and reconcile agent runner claims (GR8R-118)](https://github.com/buluma/task_manager/pull/137) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [feat: add agent runner eligibility (GR8R-117)](https://github.com/buluma/task_manager/pull/136) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
-- [refactor: share the Vault-locked check between single and batch delete (RC-53)](https://github.com/buluma/rollcall/pull/353) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [test: run browser smoke scenarios individually (RC-51)](https://github.com/buluma/rollcall/pull/352) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [chore: benchmark Library pagination and scan phases (RC-48)](https://github.com/buluma/rollcall/pull/351) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
-- [refactor: share media deletion rules (RC-49)](https://github.com/buluma/rollcall/pull/350) on [buluma/rollcall](https://github.com/buluma/rollcall) (today)
+- [Validate imported and restored inputs in Rust](https://github.com/buluma/diffchecker-rs/pull/34) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Return Rust labels for history and recent files](https://github.com/buluma/diffchecker-rs/pull/33) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Use Rust marker results on desktop](https://github.com/buluma/diffchecker-rs/pull/32) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Use Rust for desktop language selection](https://github.com/buluma/diffchecker-rs/pull/31) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Render desktop syntax highlighting from Rust](https://github.com/buluma/diffchecker-rs/pull/30) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Use Rust filtering for desktop comparisons](https://github.com/buluma/diffchecker-rs/pull/29) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
+- [Resolve CodeQL workflow-permission and prototype XSS alerts](https://github.com/buluma/sotto/pull/56) on [buluma/sotto](https://github.com/buluma/sotto) (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261126.41afe8bebeaf](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261126.41afe8bebeaf), today) - There are many voice transcription/dictation apps, but this one is mine.
-- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 2 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-- [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 4 days ago) - Install and configure postgres on your system.
-- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 4 days ago) - My collection of roles commonly used
-- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_web on your system.
-- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_server on your system.
-- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_repository on your system.
-- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix-proxy on your system.
-- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), 4 days ago) - Install and configure zabbix_agent on your system.
-- [buluma/ansible-role-xinetd](https://github.com/buluma/ansible-role-xinetd) ([v26.11.0](https://github.com/buluma/ansible-role-xinetd/releases/tag/v26.11.0), 4 days ago) - Install and configure xinetd on your system.
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.9](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.9), today) - A local text and code comparison tool.
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261126.41afe8bebeaf](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261126.41afe8bebeaf), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 5 days ago) - Install and configure postgres on your system.
+- [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 5 days ago) - My collection of roles commonly used
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/26.11.0), 5 days ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/26.11.0), 5 days ago) - Install and configure zabbix_server on your system.
+- [buluma/ansible-role-zabbix_repository](https://github.com/buluma/ansible-role-zabbix_repository) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_repository/releases/tag/26.11.0), 5 days ago) - Install and configure zabbix_repository on your system.
+- [buluma/ansible-role-zabbix_proxy](https://github.com/buluma/ansible-role-zabbix_proxy) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_proxy/releases/tag/26.11.0), 5 days ago) - Install and configure zabbix-proxy on your system.
+- [buluma/ansible-role-zabbix_agent](https://github.com/buluma/ansible-role-zabbix_agent) ([26.11.0](https://github.com/buluma/ansible-role-zabbix_agent/releases/tag/26.11.0), 5 days ago) - Install and configure zabbix_agent on your system.
 
 #### ⭐ Recent Stars
 
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (4 days ago)
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search &amp; Drive with AI - Comprehensive Google Workspace MCP Server &amp; CLI Tool (5 days ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (1 week ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 week ago)
 - [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (1 week ago)
 - [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring. (1 week ago)
 - [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. (1 week ago)
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment (1 week ago)
-- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (1 week ago)
+- [buluma/SL2](https://github.com/buluma/SL2) - Streamline2 Projects (2 weeks ago)
 - [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (2 weeks ago)
 - [iannuttall/portman](https://github.com/iannuttall/portman) - Every port on your Mac, and what&#39;s actually using it. A macOS menu bar app that names your dev servers by project and framework. (3 weeks ago)
 
