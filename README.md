@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
+- [buluma/odin](https://github.com/buluma/odin) - Odin (today)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (today)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (today)
+- [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool. (today)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (1 day ago)
-- [buluma/ansible-role-solr](https://github.com/buluma/ansible-role-solr) - Install and configure Apache Solr for Linux (3 days ago)
-- [buluma/ansible-role-hashicorp](https://github.com/buluma/ansible-role-hashicorp) - Install HashiCorp products using packages. (3 days ago)
-- [buluma/ansible-role-aide](https://github.com/buluma/ansible-role-aide) - Install and configure aide on your system. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,22 +26,25 @@ Welcome to my little world.
 - [buluma/daemonscope](https://github.com/buluma/daemonscope)
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
-- [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
+- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
 
 #### 🔨 My recent Pull Requests
 
-- [Validate imported and restored inputs in Rust](https://github.com/buluma/diffchecker-rs/pull/34) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Return Rust labels for history and recent files](https://github.com/buluma/diffchecker-rs/pull/33) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Use Rust marker results on desktop](https://github.com/buluma/diffchecker-rs/pull/32) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Use Rust for desktop language selection](https://github.com/buluma/diffchecker-rs/pull/31) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Render desktop syntax highlighting from Rust](https://github.com/buluma/diffchecker-rs/pull/30) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Use Rust filtering for desktop comparisons](https://github.com/buluma/diffchecker-rs/pull/29) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
-- [Resolve CodeQL workflow-permission and prototype XSS alerts](https://github.com/buluma/sotto/pull/56) on [buluma/sotto](https://github.com/buluma/sotto) (today)
+- [feat: guide email setup and clarify check-ins](https://github.com/buluma/odin/pull/18) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [feat: use native Redmine sync in tickets and ops](https://github.com/buluma/odin/pull/17) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [feat: show daily work on the overview](https://github.com/buluma/odin/pull/16) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [Fork release v0.26.0 and update check against the fork&#39;s own releases](https://github.com/buluma/OpenWA/pull/25) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [feat: guide first model setup from chat](https://github.com/buluma/odin/pull/15) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [fix: make chat usable at phone widths](https://github.com/buluma/odin/pull/14) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [docs: rescope Odin for direct use](https://github.com/buluma/odin/pull/12) on [buluma/odin](https://github.com/buluma/odin) (today)
+- [Backport upstream v0.32.0: WAL, indexes, SSRF hardening, Baileys media/send fixes](https://github.com/buluma/OpenWA/pull/24) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (today)
+- [GR8R-125 repoName misreads a GitHub URL with a query string or fragment](https://github.com/buluma/task_manager/pull/144) on [buluma/task_manager](https://github.com/buluma/task_manager) (today)
+- [Resolve Rust clippy warnings and check formatting in CI](https://github.com/buluma/diffchecker-rs/pull/37) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261127.7cb349a08f84](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261127.7cb349a08f84), today) - There are many voice transcription/dictation apps, but this one is mine.
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) ([v1.0.9](https://github.com/buluma/diffchecker-rs/releases/tag/v1.0.9), today) - A local text and code comparison tool.
-- [buluma/sotto](https://github.com/buluma/sotto) ([v0.2.3-nightly.20261126.41afe8bebeaf](https://github.com/buluma/sotto/releases/tag/v0.2.3-nightly.20261126.41afe8bebeaf), 1 day ago) - There are many voice transcription/dictation apps, but this one is mine.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ([v0.32.1](https://github.com/rmyndharis/OpenWA/releases/tag/v0.32.1), 3 days ago) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [buluma/ansible-role-postgres](https://github.com/buluma/ansible-role-postgres) ([26.11.1](https://github.com/buluma/ansible-role-postgres/releases/tag/26.11.1), 5 days ago) - Install and configure postgres on your system.
 - [buluma/ansible-collection-roles](https://github.com/buluma/ansible-collection-roles) ([5.1.1](https://github.com/buluma/ansible-collection-roles/releases/tag/5.1.1), 5 days ago) - My collection of roles commonly used
