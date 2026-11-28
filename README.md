@@ -14,11 +14,11 @@ Welcome to my little world.
 
 #### 👷 Check out what I'm currently working on
 
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules. (1 day ago)
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool. (1 day ago)
 - [buluma/sotto](https://github.com/buluma/sotto) - There are many voice transcription/dictation apps, but this one is mine. (1 day ago)
 - [buluma/ansible-role-vector](https://github.com/buluma/ansible-role-vector) - Install and configure Vector for debian systems. (2 days ago)
-- [buluma/ansible-role-ad_auth](https://github.com/buluma/ansible-role-ad_auth) - Bind system to Active Directory. (4 days ago)
+- [buluma/ansible-role-ara_api](https://github.com/buluma/ansible-role-ara_api) - Install and configure ARA api on your system. (4 days ago)
+- [buluma/ansible-role-metricbeat](https://github.com/buluma/ansible-role-metricbeat) - Install and configure Metricbeat, manage Metricbeat modules. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -26,15 +26,15 @@ Welcome to my little world.
 - [buluma/daemonscope](https://github.com/buluma/daemonscope)
 - [buluma/portmon](https://github.com/buluma/portmon) - Port Monitor for macOS
 - [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) - A local text and code comparison tool.
-- [buluma/task_manager](https://github.com/buluma/task_manager) - A calm, structured project management workspace. Vite &#43; plain ES modules.
+- [buluma/liquid-glass](https://github.com/buluma/liquid-glass)
 
 #### 🔨 My recent Pull Requests
 
+- [test(ai): wait for AiButton clicks to finish before each test ends](https://github.com/buluma/converge/pull/34) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [chore(dependabot): hold typescript at 5.x until typescript-eslint supports 7](https://github.com/buluma/converge/pull/28) on [buluma/converge](https://github.com/buluma/converge) (today)
+- [fix(docker): make Docker images Postgres-only](https://github.com/buluma/converge/pull/22) on [buluma/converge](https://github.com/buluma/converge) (today)
 - [Fork release v0.26.0 and update check against the fork&#39;s own releases](https://github.com/buluma/OpenWA/pull/25) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
 - [Backport upstream v0.32.0: WAL, indexes, SSRF hardening, Baileys media/send fixes](https://github.com/buluma/OpenWA/pull/24) on [buluma/OpenWA](https://github.com/buluma/OpenWA) (1 day ago)
-- [GR8R-125 repoName misreads a GitHub URL with a query string or fragment](https://github.com/buluma/task_manager/pull/144) on [buluma/task_manager](https://github.com/buluma/task_manager) (1 day ago)
-- [Resolve Rust clippy warnings and check formatting in CI](https://github.com/buluma/diffchecker-rs/pull/37) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
-- [Map tsx, nginx and protobuf to their two-face syntaxes](https://github.com/buluma/diffchecker-rs/pull/36) on [buluma/diffchecker-rs](https://github.com/buluma/diffchecker-rs) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
